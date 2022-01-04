@@ -110,10 +110,21 @@ function GenerateRules() {
     case ${software_name} in
         adguardhome)
             domestic_dns=(
-                "https://doh.pub:443/dns-query"
+                "https://doh.pub/dns-query"
+                "https://doh.pub/dns-query"
+                "https://223.6.6.6/dns-query"
+                "https://223.5.5.5/dns-query"
+                "https://dns.alidns.com/dns-query"
+                "https://dns.pub/dns-query"
+                "tls://dns.pub"
             )
             foreign_dns=(
-                "https://doh.opendns.com:443/dns-query"
+                "https://doh.opendns.com/dns-query"
+                "https://doh.opendns.com/dns-query"
+                "https://dns.google/dns-query"
+                "https://dns11.quad9.net/dns-query"
+                "https://dns.nextdns.io/dns-query"
+                "https://doh.dns.sb/dns-query"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
