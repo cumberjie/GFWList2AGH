@@ -116,8 +116,10 @@ function GenerateRules() {
                 "https://dns.alidns.com/dns-query"
                 "https://dns.pub/dns-query"
                 "tls://dns.pub"
+                "tls://dns.alidns.com"
             )
             foreign_dns=(
+                "tls://1.0.0.1:853"
                 "https://doh.opendns.com/dns-query"
                 "https://dns.google/dns-query"
                 "https://dns11.quad9.net/dns-query"
