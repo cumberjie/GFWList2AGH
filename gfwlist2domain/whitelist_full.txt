@@ -908,7 +908,6 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1663,7 +1662,6 @@
 1368832400079045.cn-hangzhou.fc.aliyuncs.com
 136fc.com
 136hr.com
-1370575.b2b.liebiao.com
 13707.net
 13720.com
 1374.com
@@ -2891,7 +2889,6 @@
 2071816258pg.sina.cn
 2071816259pg.sina.cn
 2078244.sched.sma.tdnsv5.com
-2078827.b2b.liebiao.com
 2086607.sched.sma-dk.tdnsv5.com
 2088062.com
 2088063.com
@@ -3259,7 +3256,6 @@
 246546.com
 2465841.sched.skalego-dk.tdnsv5.com
 2478.com
-2478908.b2b.liebiao.com
 248.com
 2481e.com
 248xyx.com
@@ -14203,6 +14199,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -16231,6 +16228,7 @@ bb179.com
 bb2.ifeng.com
 bb263256578ff9085e7ffdc49055ccbc.dlied1.cdntips.net
 bb33e5221f3fce7cba5acb48ec056c24.dlied1.cdntips.net
+bb366.net
 bb3a2e980f27eac05c68e0e845792843.dlied1.cdntips.net
 bb4e3391a889765350211fde338baf58.rdt.cfogc.com
 bbanp.com
@@ -26668,7 +26666,6 @@ czkingdee.com
 czlxgc.net
 czmc.com
 cznewcom.com
-czodb.com
 czongyi.com
 czopen.com
 czpoly.com
@@ -28139,6 +28136,7 @@ ddmeishi.com
 ddmer.com
 ddmogo.com
 ddms.jd.com
+ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
 ddnddn.com
@@ -37367,6 +37365,7 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -41965,7 +41964,6 @@ hjagent.com
 hjapi.com
 hjbbs.com
 hjbxw.com
-hjc778.com
 hjchee.com
 hjcjifen.com
 hjclass.com
@@ -43138,6 +43136,7 @@ httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
 httpdns.ocloud.heytapmobi.com
+httpdns.push.heytapmobi.com
 httpdns.push.oppomobile.com
 httprunner.org
 https-play-g3proxy.lecloud.com
@@ -52543,7 +52542,6 @@ km.com
 km.lianjia.com
 km.support.apple.com
 km.xinray.net
-km1.muhoujiemi.com
 km169.net
 km18.net
 km1818.com
@@ -58196,6 +58194,7 @@ maroon91.com
 marry5.com
 marry80.com
 mars.ccc.cmbchina.com
+mars.jd.com
 mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marsfancy.com
@@ -60183,7 +60182,6 @@ mobile.youku.com
 mobile2.da.mgtv.com
 mobilead.kuwo.cn
 mobileanjian.com
-mobileap-bgp.ctrip.com.tel.rb.ctripgslb.com
 mobileap.ctrip.com
 mobilebasedata.kuwo.cn
 mobilebone.org
@@ -64341,6 +64339,7 @@ oraybox.com
 oraycn.com
 orayer.com
 orayimg.com
+orbit.jd.com
 orbit.nfcos.cn
 orbitmes.com
 orcadt.com
@@ -66835,7 +66834,6 @@ player.mgtv.com
 player.mgtv.com.wscdns.com
 player.tenglutg.com
 player.youku.com
-player888.cn
 playerhotfix.douyucdn.cn
 playfifa.com
 playhistory.bz.mgtv.com
