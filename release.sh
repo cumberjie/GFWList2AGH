@@ -120,11 +120,7 @@ function GenerateRules() {
             )
             foreign_dns=(
                 "tls://1.0.0.1:853"
-                "https://doh.opendns.com/dns-query"
-                "https://dns.google/dns-query"
-                "https://dns11.quad9.net/dns-query"
-                "https://dns.nextdns.io/dns-query"
-                "https://doh.dns.sb/dns-query"
+               
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
