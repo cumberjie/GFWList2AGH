@@ -120,9 +120,7 @@ function GenerateRules() {
             )
             foreign_dns=(
                 "https://cloudflare-dns.com/dns-query"
-                "https://doh.dns.sb/dns-query"
                 "https://dns.google/dns-query"
-                "https://doh.opendns.com/dns-query"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
