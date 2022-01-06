@@ -119,8 +119,10 @@ function GenerateRules() {
                 "tls://dns.alidns.com"
             )
             foreign_dns=(
+                "https://doh.dns.sb/dns-query"
                 "tls://1.0.0.1:853"
-               
+                "https://dns.nextdns.io/dns-query"
+
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
