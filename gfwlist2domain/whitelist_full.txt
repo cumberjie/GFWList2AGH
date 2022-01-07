@@ -1430,7 +1430,6 @@
 1213.me
 121314.com
 1214bdk.xyz
-1218609.shop.liebiao.com
 121ask.com
 121mu.com
 121xia.com
@@ -1534,7 +1533,6 @@
 1251413404.vod2.myqcloud.com
 1252747.b2b.liebiao.com
 12530.com
-1253495.shop.liebiao.com
 12540.org
 12580.com
 12580.net
@@ -13619,6 +13617,7 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
+api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -29182,7 +29181,6 @@ dimg02.c-ctrip.com
 dimg02.c-ctrip.com.wscdns.com
 dimg03.c-ctrip.com
 dimg03.c-ctrip.com.wscdns.com
-dimg04.c-ctrip.com
 dimg04.c-ctrip.com.a.bdydns.com
 dimg04.c-ctrip.com.wscdns.com
 dimg05.c-ctrip.com
@@ -45637,7 +45635,6 @@ ii.cc
 ii.gdt.qq.com
 ii010.com
 ii090.com
-ii3g.com
 ii4lp.tdum.alibaba.com
 ii74.com
 ii77.com
@@ -52142,7 +52139,6 @@ kenxr.com
 kenxv.com
 kepingtong.com
 kepler-cn.captcha.qcloud.com
-kepler.jd.com
 kepler.ptqy.gitv.tv
 kepuchina.org
 kepusky.com
@@ -52597,7 +52593,6 @@ knewbi.com
 knewhy.com
 knewone.com
 knewsmart.com
-knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knisterpeter.gallerycdn.azure.cn
 knja123.top
@@ -71039,7 +71034,6 @@ qxbx.com
 qxcdn.cc
 qxcu.com
 qxghost.com
-qxhspimg.com
 qxiu.com
 qxka.com
 qxkp.net
@@ -71496,6 +71490,7 @@ rdls.bigdata.samsung.com.cn
 rdnsdb.com
 rdplat.com
 rds-buy.aliyun.com
+rds.alipay.com
 rds.console.aliyun.com
 rdsdk.com
 rdstat.tanx.com
