@@ -1501,7 +1501,6 @@
 123buyu.com
 123buyu.net
 123cha.com
-123chaogu.com
 123cw.cn
 123du.cc
 123ems.com
@@ -2504,7 +2503,6 @@
 1956917.sched.skalego-dk.tdnsv5.com
 195855.com
 1965288.s1txipv6.cdntip.com
-1967066.shop.liebiao.com
 19687.com
 1978534.p23.tc.cdntip.com
 197946.com
@@ -10461,6 +10459,7 @@ aaspt.net
 aastartups.com
 aatccn.com
 aau6.xyz
+aau8.xyz
 aayis.com
 aaz1.xyz
 aazyz.com
@@ -18830,7 +18829,6 @@ budou.com
 buduanwang.vip
 buduobaobao.com
 bufan.com
-buff.163.com
 buffst.com
 bug-xl9-ssl.xunlei.com
 bug.im
@@ -24089,6 +24087,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.tencent.lb.metowolf.com
 cn.vc
@@ -24670,7 +24669,6 @@ cntingyun.com
 cntofu.com
 cntopgear.com
 cntoplead.com
-cntour2.com
 cntour365.com
 cntourwh.com
 cntrades.com
@@ -26434,7 +26432,6 @@ cxas.com
 cxbz958.com
 cxc233.com
 cxcc.me
-cxcxt.com
 cxcyds.com
 cxd-auto.com
 cxdcn9c.fjshxjs.cn
@@ -33721,7 +33718,6 @@ ewww.com.cn
 ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
-ex.m.jd.com
 ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
@@ -43619,7 +43615,6 @@ huifuyimin.com
 huigao-magnetics.com
 huigetv.com
 huigezi.org
-huigoushop.com
 huigun.top
 huihaicenter.com
 huihaicn.com
@@ -45963,7 +45958,6 @@ image100.360doc.com
 image11.m1905.cn
 image2.sina.com.cn
 image3.ccb.com
-image3.mall.icbc.com.cn
 image3.mall.icbc.com.cn.wscdns.com
 image5.mall.icbc.com.cn.wscdns.com
 image6.mall.icbc.com.cn
@@ -60813,7 +60807,6 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
@@ -67435,7 +67428,6 @@ prod-metro-admin.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 prod-rso.lol.qq.com
 prod-support.apple-support.akadns.net
 prod.api.xiaomi.cn
-prodev.m.jd.com
 prodev.m.jd.com.gslb.qianxun.com
 product.58che.com
 product.dangdang.com

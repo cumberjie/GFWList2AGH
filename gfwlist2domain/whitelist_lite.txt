@@ -1263,7 +1263,6 @@
 123buyu.com
 123buyu.net
 123cha.com
-123chaogu.com
 123cw.cn
 123du.cc
 123ems.com
@@ -8222,6 +8221,7 @@ aaspt.net
 aastartups.com
 aatccn.com
 aau6.xyz
+aau8.xyz
 aayis.com
 aaz1.xyz
 aazyz.com
@@ -17783,7 +17783,6 @@ cntingyun.com
 cntofu.com
 cntopgear.com
 cntoplead.com
-cntour2.com
 cntour365.com
 cntourwh.com
 cntrades.com
@@ -19005,7 +19004,6 @@ cxas.com
 cxbz958.com
 cxc233.com
 cxcc.me
-cxcxt.com
 cxcyds.com
 cxd-auto.com
 cxdq.com
@@ -31314,7 +31312,6 @@ huifuyimin.com
 huigao-magnetics.com
 huigetv.com
 huigezi.org
-huigoushop.com
 huigun.top
 huihaicenter.com
 huihaicn.com
