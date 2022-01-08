@@ -7006,6 +7006,7 @@ cat.com
 cat04.com
 cat05.com
 catbombmusic.com
+catbox.moe
 catcatforum.com
 catch22.net
 catchgod.com
@@ -18357,7 +18358,6 @@ miniso-bh.com
 miniso-np.com
 miniso-nz.com
 miniso.co
-miniso.com
 miniso.pk
 minisoindia.com
 minisojordan.com
