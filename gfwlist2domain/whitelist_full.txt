@@ -2812,6 +2812,7 @@
 2008red.com
 2008zjj.com
 2009.name
+200ax.com
 200call.com
 200ps.com
 200wan.com
@@ -10582,7 +10583,6 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
-abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abtionb.com
@@ -15296,6 +15296,7 @@ b.smartvideo.youku.com
 b.tvsou.com
 b.unjs.com
 b.vlion.cn
+b.xp0f4cj.cn
 b.youdao.com
 b.yzcdn.cn
 b.zol-img.com.cn
@@ -27680,6 +27681,7 @@ data.biancheng.net.w.kunlunno.com
 data.bilibili.com
 data.bilicdn2.com
 data.bilivideo.com
+data.cdeledu.com
 data.chinaz.com
 data.choujue.net
 data.eastmoney.com
@@ -28454,7 +28456,6 @@ dev.tg.youxi.com
 dev.umeng.com
 dev.wifi8.com
 dev.youmi.net
-dev53.baidupan.com
 dev798.com
 dev996.com
 devask.net
@@ -31341,7 +31342,6 @@ duwenz.com
 duwenzhang.com
 dux.xiaowenweb.com
 dux.xiaowenweb.com.cname2238.yjs-cdn.com
-duxcms.com
 duxiaoman.com
 duxiaomanfintech.com
 duxiaoshuo.com
@@ -35753,7 +35753,6 @@ fp.fraudmetrix.cn
 fp.hwwt8.com
 fp.iqiyipic.com
 fp.nanrenwo.net
-fp.ps.netease.com
 fp.tongdun.net
 fp.youzanyun.com
 fpb.docin.com
@@ -41471,7 +41470,6 @@ hereisdownload.com
 hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
-hermes.jd.com
 hermes.jd.com.gslb.qianxun.com
 hermesguanwang.com
 heroad-data.com
@@ -47843,7 +47841,6 @@ item-china.cn
 item-soa.jd.com
 item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
-item.jd.com
 item.jd.com.gslb.qianxun.com
 item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
@@ -52102,6 +52099,7 @@ kekexueba.com
 kekiss.com
 kekoku.com
 kelamayi.anjuke.com
+kele4.com
 kele8.com
 kelepi.com
 keleqiu.com
@@ -57314,6 +57312,7 @@ m.jdcdn.com
 m.jf.10010.com
 m.jiaochengzhijia.com
 m.jiedianqian.com
+m.jingxi.com
 m.jinti.com
 m.joyxv.com
 m.jr.jd.com
@@ -61922,7 +61921,6 @@ naxide.com
 nayao.com
 nayatec.com
 nayei.com
-nayishuo.com
 nb-medicalsystem.com
 nb-xn.com
 nb.anjuke.com
@@ -62441,6 +62439,7 @@ nexus.dell.com
 nf.jsq.red
 nf.m.taobao.com
 nf.m.taobao.com.gds.alibabadns.com
+nfa.jd.com
 nfa.jd.com.gslb.qianxun.com
 nfa5.com
 nfc315.com
@@ -66216,6 +66215,7 @@ photo.sina.com.cn
 photo.sspu.edu.cn
 photo.weibo.com
 photo.wondercv.com
+photo.yxslt.cn
 photo0086.com
 photo3050.com
 photoartiz.com
@@ -66834,6 +66834,7 @@ pl520.com
 plaidc.com
 plalzhang.com
 planckled.com
+planet.api.weibo.com
 planetmeican.com
 planoi.com
 plantextra.com
@@ -67380,7 +67381,6 @@ pr.x.hub.sandai.net
 prateekmahendrakar.gallerycdn.azure.cn
 prcedu.com
 prcee.org
-prd-lender.cdp.internal.unity3d.com
 pre-ad.alimama.com
 pre-adv.alimama.com
 pre-sence.com
@@ -68702,7 +68702,6 @@ qdaeon.com
 qdaiduo.com
 qdaily-test-1014796965.cn-northwest-1.elb.amazonaws.com.cn
 qdaily.com
-qdailyapp.com
 qdairlines.com
 qdall01.baidupcs.com
 qdbdsk.com
@@ -103067,6 +103066,7 @@ yxrczp.com
 yxsc33.com
 yxsea.com
 yxshgwjy.com
+yxslt.cn
 yxsos.com
 yxss.com
 yxsss.com
