@@ -1842,6 +1842,7 @@
 17tigan.com
 17track.net
 17tui.cc
+17tuozhai.com
 17tx.com
 17u.cn
 17u.com
@@ -2509,7 +2510,6 @@
 2345daohang.com
 2345download.com
 2345ff.com
-2345kankan.com
 2345licai.com
 2345mbrowser.com
 2345soso.com
@@ -6225,7 +6225,6 @@
 7068.cc
 70689.com
 706kj.com
-707377m.com
 7080edu.com
 7082.com
 708990.com
@@ -12939,7 +12938,6 @@ blockchainbrother.com
 blockchainlabs.org
 blockdao.net
 blockflow.net
-blockin.com
 blockmeta.com
 blockob.com
 blocksite.cc
@@ -13306,7 +13304,6 @@ boydwang.com
 boyicn.com
 boyingsj.com
 boyue.com
-boyunjian.com
 boyunso.com
 boyuonline.com
 bozhihua.com
@@ -17889,7 +17886,6 @@ cnzhiyuanhui.com
 cnzhqs.com
 cnzjol.com
 cnzlapp.com
-cnzmyn.com
 cnzsqh.com
 cnzsyz.com
 cnzweal.com
@@ -19350,7 +19346,6 @@ dachuw.net
 dadaabc.com
 dadaabcc.com
 dadabew.com
-dadabus.com
 dadagame.com
 dadagem.xyz
 dadaizi.com
@@ -21393,7 +21388,6 @@ doteck.com
 dotgate.com
 doticloud.com
 dotinapp.com
-dotomui.com
 dotui.cn
 dou.bz
 dou.li
@@ -24144,7 +24138,6 @@ fawen8.com
 fawulu.com
 faxdns.com
 faxdns.net
-faxeye.com
 faxingchina.com
 faxingcn.com
 faxingnet.com
@@ -24427,7 +24420,6 @@ fengimg.com
 fengj.com
 fengji.me
 fengji.net
-fengjiangqwe.xyz
 fengjing.com
 fengjinshuo.com
 fengjr.com
@@ -24971,6 +24963,7 @@ focus-eloan.com
 focus-fusion.com
 focus.cn
 focuschina.com
+focused.wang
 focussend.com
 fodang.org
 fodian.net
@@ -49400,7 +49393,6 @@ qmht.com
 qmht.mobi
 qmimg.cn
 qmitao.com
-qmood.com
 qmqm.net
 qmrobot.com
 qmsjmfb.com
@@ -49701,6 +49693,7 @@ qtlglb.com
 qtlglb.info
 qtlgslbcn.info
 qtluyuan.com
+qtmojo.cn
 qtmojo.com
 qtonghua.com
 qtpool.com
@@ -49879,6 +49872,7 @@ qukuaila.com
 qukuailiant.com
 qukuba.com
 qulishi.com
+quliushang.xyz
 qulv.com
 qumaishu.com
 qumaiyao.com
@@ -52986,6 +52980,7 @@ shopeesz.com
 shoperm.com
 shopifycdn.net
 shopin.net
+shopit.cn
 shopj.net
 shopjyh.com
 shoplineimg.co
@@ -54184,7 +54179,6 @@ snjairport.com
 snjbs.com
 snjjiu.com
 snjrsks.com
-snmi.cn
 snnd.co
 snobten.com
 snodehome.com
@@ -56706,7 +56700,6 @@ techenergize.com
 techflow520.com
 techgastronomy.com
 techgogogo.com
-techieliang.com
 techkedu.com
 techmiao.com
 technode.com
