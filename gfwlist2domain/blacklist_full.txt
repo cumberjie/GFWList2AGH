@@ -4432,6 +4432,7 @@ app.leg.wa.gov
 app.link
 app.simplenote.com
 app.smartmailcloud.com
+app.smartsheet.com
 app.staging.nuorder.com
 app.tutanota.com
 app.tv333.us
@@ -14574,7 +14575,6 @@ fun702.com
 fun712.com
 fun727.com
 fun737.com
-fun767.com
 fun780.com
 fun8011.com
 fun809.com
@@ -23136,6 +23136,7 @@ net-tv.tw
 net.au
 net.br
 net.co
+net.in
 net.my
 net.nz
 net.tr
@@ -28505,6 +28506,7 @@ smartmailcloud.com
 smartone.com
 smartoneholdings.com
 smartonerobotics.com
+smartsheet.com
 smartsignature.io
 smartsimcha.com
 smartsource.com
