@@ -16340,7 +16340,6 @@ keytransparency.foo
 keytransparency.org
 kf5656g.com
 kf8h.com
-kfc2002.com
 kfc2003.com
 kfc2006.com
 kfc2008.com
@@ -21626,7 +21625,6 @@ powerbeats2wireless.com
 powerbeatsbydrdre.com
 powerbeatsbydre.com
 powerbi.com
-powercx.com
 powerdns.org
 poweredbyintel.com
 powerofresolve.com
@@ -26119,6 +26117,7 @@ tu8964.com
 tub99.com
 tubaholic.com
 tube.com
+tube4world.com
 tube8.com
 tube8.es
 tube88.com
