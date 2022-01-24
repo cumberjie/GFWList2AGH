@@ -2646,6 +2646,7 @@
 1kx.me
 1kxun.com
 1ky.biz
+1l1.cc
 1lan.tv
 1lewen.com
 1look.tv
@@ -6479,7 +6480,6 @@
 5800.com
 5800c6e5d12760e9c5afdebd75c467c5.dlied1.cdntips.net
 580114.com
-580116.com
 580168.com
 580590.com
 58096510d67d9777479c93aac0885d26.dlied1.cdntips.net
@@ -7925,7 +7925,6 @@
 794579.com
 7958.net
 7964b.com
-7979la.com
 7979u.com
 797sun.com
 797xj.com
@@ -8107,7 +8106,6 @@
 7moor-fs1.com
 7moor-fs2.com
 7moor.com
-7mother.com
 7msj.com
 7mx.com
 7na7.com
@@ -10564,7 +10562,6 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
-abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abtionb.com
@@ -11058,7 +11055,6 @@ adcdn.com
 adcdn.hpplay.cn
 adcdn.tencentmusic.com
 adcdownload.apple.com
-adcdownload.apple.com.akadns.net
 adclick.g.doubleclick.net
 adclick.tencentmusic.com
 adclouds.cn
@@ -11483,7 +11479,6 @@ adxmi.com
 adxmq.com
 adxpand.com
 adxqd.com
-adxquare.com
 adxserver.ad.cmvideo.cn
 adxvip.com
 adyun.com
@@ -14232,7 +14227,6 @@ appkefu.189.cn
 appkefu.com
 appkg.com
 appldnld.apple.com
-appldnld.g.aaplimg.com
 apple-dns.cn
 apple-dns.net
 apple-www.le.com
@@ -14249,7 +14243,6 @@ applebl.com
 applecsb.crm.189.cn
 appledownload.qtlcdn.com
 applehunt.com
-appleid.cdn-apple.com
 applepay.teown.com
 apples.com
 appletuan.com
@@ -14299,7 +14292,6 @@ appresource.net
 appresource.xuexi.cn
 apprn.kfc.com.cn
 apprn.pizzahut.com.cn
-apps.apple.com
 apps.bdimg.com
 apps.bdimg.jomodns.com
 apps.bjmu.edu.cn
@@ -14774,7 +14766,6 @@ asv1.bsmakeup.com.cn
 aswetalk.net
 async.qun.qq.com
 asyzonline.com
-at-lib.com
 at-siac.com
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
@@ -14873,6 +14864,7 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
+au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -17901,7 +17893,6 @@ bjttsf.com
 bjtvnews.com
 bjtysd.net
 bjtyzh.org
-bjtzr.com
 bjunionstar.net
 bjuri.com
 bjuser.jpush.cn
@@ -18014,7 +18005,6 @@ blackdragon.com
 blackeep.com
 blackh4t.org
 blackhole-m.m.jd.com
-blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackholeskins.com
@@ -18627,7 +18617,6 @@ bs-adaptive.pull.yximgs.com
 bs-dolfin.net
 bs-origin.pull.yximgs.com
 bs.csshq.com.cn
-bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -20084,6 +20073,7 @@ cbw111.com
 cbxdxg.com
 cbxsw.com
 cby.me
+cbyckdf.cn
 cc-1.com
 cc-dt.com
 cc-glass.com
@@ -20425,6 +20415,7 @@ cd-zc.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
+cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -20897,12 +20888,10 @@ cdronghai.com
 cdrtvu.com
 cdruzhu.com
 cdryny.com
-cds-cdn.v.aaplimg.com
 cds.3.cn
 cds.3.cn.gslb.qianxun.com
 cds.51y5.net
 cds.apple.com
-cds.apple.com.akadns.net
 cds.apple.com.mwcname.com
 cdsassets.apple.com.mwcname.com
 cdsb.com
@@ -22531,7 +22520,6 @@ chinatpm.net
 chinatranslation.net
 chinatravel.net
 chinatraveldepot.com
-chinatraveldesigner.com
 chinatruck.org
 chinatrucks.com
 chinatsi.com
@@ -23256,7 +23244,6 @@ cjs-lwh.love
 cjs556348.spzs.com
 cjsc.com
 cjting.me
-cjty.net
 cjv2gt.cn
 cjveg.com
 cjwxqz.dianpusoft.cn
@@ -23317,25 +23304,20 @@ cl.ctags.cn
 cl.webterren.com
 cl0.webterren.com
 cl0438.com
-cl1-cdn.origin-apple.com.akadns.net
 cl1.apple.com
 cl2-cn.apple.com
 cl2-cn.apple.com.cdn20.com
 cl2.apple.com
-cl2.apple.com.edgekey.net.globalredir.akadns.net
 cl2.webterren.com
 cl2009.com
-cl3-cdn.origin-apple.com.akadns.net
 cl3.apple.com
 cl3.apple.com.mwcname.com
 cl3.webterren.com
 cl3000.com
-cl4-cdn.origin-apple.com.akadns.net
 cl4-cn.apple.com
 cl4-cn.apple.com.cdn20.com
 cl4.apple.com
 cl4.webterren.com
-cl5-cdn.origin-apple.com.akadns.net
 cl5.apple.com
 cl5.apple.com.mwcname.com
 cl5.webterren.com
@@ -23458,7 +23440,6 @@ client02.pdl.wow.battlenet.com.cn
 client05.pdl.wow.battlenet.com.cn
 client51.com
 clientflow.apple.com
-clientflow.apple.com.akadns.net
 clientflow.apple.com.cdn20.com
 clientgear.com
 clientlog.music.163.com
@@ -25171,7 +25152,6 @@ configserver.platform.hicloud.com
 configsvr.msf.3g.qq.com
 configsvr.openmsf.3g.qq.com
 configuration.apple.com
-configuration.apple.com.akadns.net
 configuration.apple.com.mwcloudcdn.com
 confinfo.map.qq.com
 confuciusinstitute.net
@@ -26301,7 +26281,6 @@ cube.meituan.com
 cube.meituan.net
 cube.weixinbridge.com
 cubead.com
-cubedat.com
 cubegarden.cn
 cubejoy.com
 cubie.cc
@@ -28059,7 +28038,6 @@ dcwj168.com
 dcxnews.com
 dczou.com
 dd-advisor.com
-dd-cdn.origin-apple.com.akadns.net
 dd-img.com
 dd-search.jd.com
 dd-search.jd.com.gslb.qianxun.com
@@ -35242,7 +35220,6 @@ fishing-sinkers.com
 fishingbar.net
 fishingjoy.com
 fishings.biz
-fishjava.com
 fishlee.net
 fishmobi.com
 fishtui.com
@@ -37759,7 +37736,6 @@ gjbaek.ren
 gjcdn.vip
 gjceshi9.com
 gjfax.com
-gjggad.com
 gjgov.com
 gjgwy.net
 gjgwy.org
@@ -38451,7 +38427,6 @@ gplqdb.com
 gpm.samsungqbe.cn
 gpnewtech.com
 gppapp.com
-gps.jd.com
 gps8.com
 gpslook.net
 gpsoo.net
@@ -38669,7 +38644,6 @@ gsp12-cn.ls.apple.com
 gsp13-cn.ls.apple.com
 gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net
-gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 gsp5-cn.ls.apple.com
 gsp85-cn-ssl.ls.apple.com
 gspaceteam.com
@@ -38686,7 +38660,6 @@ gspe19-cn-ssl.ls.apple.com
 gspe19-cn-ssl.ls.apple.com.download.ks-cdn.com
 gspe19-cn-ssl.ls.apple.com.mwcname.com
 gspe19-cn-ssl.ls.apple.com.w.alikunlun.com
-gspe19-cn.ls-apple.com.akadns.net
 gspe19-cn.ls.apple.com
 gspe21-ssl.ls.apple.com
 gspe21-ssl.ls.apple.com.mwcname.com
@@ -39007,7 +38980,6 @@ guibook.com
 guibuyu.org
 guid.tpns.sh.tencent.com
 guid.tpns.tencent.com
-guidaye.com
 guide-acs.m.taobao.com
 guide-acs4miniapp-inner.m.taobao.com
 guidechem.com
@@ -39214,7 +39186,6 @@ guwan.com
 guweimin.com
 guwenxs.com
 guwu121.com
-guxiaobei.com
 guxunw.com
 guyaheng.com
 guyouzhan.com
@@ -41531,7 +41502,6 @@ heyi.com
 heyi.shop
 heyinguanli.com
 heymore.com
-heyou365.com
 heyou51.com
 heyoutz.com
 heyplus.com
@@ -42054,6 +42024,7 @@ hk-vstart.com
 hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -45018,7 +44989,6 @@ ichuanyi.com
 ichunqiu.com
 ichunt.com
 ichushang.com
-ichww.com
 ichzh.com
 iciba.com
 icicicic.com
@@ -45042,7 +45012,6 @@ ickimg.com
 iclicash.com
 iclickstatic.com
 icloseli.cn
-icloud-cdn.icloud.com.akadns.net
 icloud.cdn-apple.com
 icloud.com
 icloudgslb.com
@@ -46022,8 +45991,6 @@ images.9k9k.com
 images.ad7.com
 images.ajknhsd.com
 images.apple.com
-images.apple.com.akadns.net
-images.apple.com.edgekey.net.globalredir.akadns.net
 images.benchmarkemail.com
 images.chinaz.com
 images.client.vip.xunlei.com
@@ -46976,12 +46943,9 @@ inidc.net
 inimc.com
 ininin.com
 init-china.itunes-apple.com.akadns.net
-init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com
 init-p01md.apple.com.mwcname.com
-init-p01st-lb.push-apple.com.akadns.net
 init-p01st.push.apple.com
-init-s01st-lb.push-apple.com.akadns.net
 init-s01st.push.apple.com
 init.ess.apple.com
 init.gc.apple.com.mwcname.com
@@ -47270,7 +47234,6 @@ iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
 iosapps.itunes.apple.com.m.alikunlun.net.qr.uuhimalayanqm.com
 iosapps.itunes.apple.com.m.alikunlun.net.v.vvpncdn.com
 iosapps.itunes.apple.com.w.alikunlun.com
-iosapps.itunes.g.aaplimg.com
 iosappx.com
 iosask.com
 iosfengwo.com
@@ -48004,7 +47967,6 @@ ituba.cc
 itugo.com
 ituibar.com
 ituite.com
-itunes-apple.com.akadns.net
 itunes.apple.com
 itunes.apple.com.mwcloudcdn.com
 itunesconnect.apple.com
@@ -56142,7 +56104,6 @@ logservice.hicloud.com
 logservice1.hicloud.com
 logstat.caixin.com
 logstat.t.sfht.com
-logtake.weidian.com
 logtbs.sparta.mig.tencent-cloud.net
 logu.hpplay.cn
 logupdate.avlyun.sec.miui.com
@@ -56490,7 +56451,6 @@ lqgrdj.com
 lqhigo.com
 lqhualang.com
 lqjob88.com
-lqjuwuwang.com
 lqmohun.com
 lqpsj.com
 lqqm.com
@@ -58260,7 +58220,6 @@ maroon91.com
 marry5.com
 marry80.com
 mars.ccc.cmbchina.com
-mars.jd.com
 mars.meituan.com
 marsfancy.com
 marstor.com
@@ -59110,8 +59069,6 @@ message.kuwo.cn
 message.meitu.com
 message.sonkwo.com
 messcenter.58.com
-mesu-cdn.apple.com.akadns.net
-mesu-china.apple.com.akadns.net
 mesu.apple.com
 mesu.apple.com.mwcname.com
 mesule.com
@@ -60634,7 +60591,6 @@ motionhubtuto.com
 motisky.com
 moto-one.com.hk
 moto8.com
-motou.com
 motrix.app
 mottoin.com
 motu.p4p.sina.com.cn
@@ -61887,7 +61843,6 @@ naobiao.com
 naoda.net
 naoffer.com
 naonaola.com
-naotan020.com
 naozhong.net
 napi.uc.cn
 napiantian.com
@@ -63574,7 +63529,6 @@ ocpc.xueersi.com
 ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
-ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
@@ -64490,7 +64444,6 @@ oscarma.com
 oscartutor.com
 oscarzhoud.com
 oscdn.apple.com
-oscdn.origin-apple.com.akadns.net
 oschina.com
 oschina.gitee.io
 oschina.io
@@ -65353,7 +65306,6 @@ paixin.com
 paiyiws.com
 paizhe.com
 paizi.com
-paizishop.com
 pajkb.com
 palace-international.com
 palanceli.com
@@ -65382,7 +65334,6 @@ panasonic.cn
 panbaidu.com
 pancake.apple.com
 pancake.apple.com.cdn20.com
-pancake.cdn-apple.com.akadns.net
 panchuang.net
 pancishe.com
 panda-home.com
@@ -65463,7 +65414,6 @@ pansj.cc
 pansoso.com
 pansoso.org
 pansou.com
-pantianxia.com
 pantrysbest.com
 pantum.com
 panweizeng.com
@@ -65782,7 +65732,6 @@ pc1.da.mgtv.com
 pc1.gtimg.com
 pc120.com
 pc120tv.com
-pc141.com
 pc18.net
 pc2.gtimg.com
 pc3.gtimg.com
@@ -66771,7 +66720,6 @@ pj.zu.anjuke.com
 pj00001.com
 pj155.com
 pj3456.com
-pj52.net
 pj550077.com
 pj98887.com
 pjapi.jd.com
@@ -67094,6 +67042,7 @@ polayoutu.com
 pole.6rooms.com
 polebrief.com
 policy-cde.le.com
+policy.jd.com
 policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv
@@ -67498,7 +67447,6 @@ prod-huawei-media.shiguangkey.com
 prod-metro-admin.oss-cn-shanghai.aliyuncs.com
 prod-metro-admin.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 prod-rso.lol.qq.com
-prod-support.apple-support.akadns.net
 prod.api.xiaomi.cn
 prodev.m.jd.com
 prodev.m.jd.com.gslb.qianxun.com
@@ -68104,7 +68052,6 @@ pv4b.com
 pvc-e7031f9b-6522-11e9-883f-fa163e9e2c22.obs.cn-north-1.myhuaweicloud.com
 pvc.zol.com.cn
 pvc123.com
-pvdata.ku6.com
 pvkj.com
 pvm.zol.com.cn
 pvmama.com
@@ -70245,6 +70192,7 @@ qs7dkolx9nv6nqywzvsvgakfjsgwa9jj.yundunwaf5.com
 qs7ly.com
 qs921.com
 qsacg.vip
+qsb.browser.miui.com
 qsbank.cc
 qsbbs.net
 qsbdc.com
@@ -71430,7 +71378,6 @@ ranking.m.jd.com
 ranknowcn.com
 ranling.com
 rannabio.com
-ranqibio.com
 rantu.com
 ranwen.la
 ranwen.tw
@@ -72557,7 +72504,6 @@ rrys.tv
 rrysapp.com
 rrzuji.com
 rrzxw.net
-rs.qinsashipin.com
 rs.sinajs.cn
 rs05.com
 rs1.huanqiucdn.cn
@@ -75071,7 +75017,6 @@ shanyishanmei.com
 shanyougame.com
 shanyuebrowser.com
 shanzhaiwang.net
-shanzhakanshu.com
 shanzhen.com
 shanzhen.me
 shanzhonglei.com
@@ -78801,7 +78746,6 @@ stockapp.finance.qq.com
 stocke.com.cn
 stockhn.com
 stockpage.10jqka.com.cn
-stocks-sparkline-lb.apple.com.akadns.net
 stocks-sparkline.apple.com
 stockstar.com
 stockweb.mail.qq.com
@@ -78833,7 +78777,6 @@ storagesemicon.com
 store-drcn.hispace.dbankcloud.cn
 store.apple.com
 store.apple.com.edgekey.net
-store.apple.com.edgekey.net.globalredir.akadns.net
 store.asus.com.cn
 store.dji.com
 store.hispace.hicloud.com
@@ -78847,7 +78790,6 @@ store.sdbao.com
 store.shuidichou.com
 store.st.dl.pinyuncloud.com
 store.steamchina.com
-store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
 store.sunlands.com
 store.sunlands.com.wswebcdn.com
@@ -79292,7 +79234,6 @@ supmil.net
 supoin.com
 supool.com
 suporpe.com
-support-china.apple-support.akadns.net
 support-cn.samsung.com
 support.apple.com
 support.dnspod.cn
@@ -79432,18 +79373,15 @@ swarma.org
 swatou.com
 swbbsc.com
 swc.weather.com.cn
-swcatalog-cdn.apple.com.akadns.net
 swcatalog.apple.com
 swcdn.apple.com
 swcdn.apple.com.akadns.net
 swcdn.apple.com.w.alikunlun.com
 swcdn.apple.com.w.alikunlun.com.n.num1dns.com
-swcdn.g.aaplimg.com
 swchina.org
 swcpinyin.sogoucdn.com
 swcpu.com
 swdist.apple.com
-swdist.apple.com.akadns.net
 sweet-data.com
 sweet.snsapp.qq.com
 sweetalkos.com
@@ -79490,7 +79428,6 @@ swotbbs.com
 swothouse.com
 swsbw.com
 swsc.com.cn
-swscan-cdn.apple.com.akadns.net
 swscan.apple.com
 swsm.net
 swsmu.com
@@ -80011,6 +79948,7 @@ szpiaoyi.com
 szpichappy.com
 szpmi.org
 szpowerpms.com
+szputy.com
 szpxe.com
 szqcz.com
 szqf.org
@@ -85137,10 +85075,8 @@ updateinfo.youdao.com
 updateplf.yy.com
 updates-http-china-lb.dl-apple.com.akadns.net
 updates-http.cdn-apple.com
-updates-http.cdn-apple.com.akadns.net
 updates-http.cdn-apple.com.download.ks-cdn.com
 updates-http.cdn-apple.com.w.alikunlun.com
-updates.cdn-apple.com
 updates.cdn-apple.com.mwcname.com
 updates.cdn-apple.com.w.kunlunca.com
 updates.cdn-apple.com.w.kunlunca.com.v.vvpncdn.com
@@ -86173,7 +86109,6 @@ vali.cp31.ott.cibntv.net.302.myalicdn.com
 vali.cp31.ott.cibntv.net.w.kunlunar.com
 valid.apple.com
 valid.apple.com.cdn20.com
-valid.origin-apple.com.akadns.net
 validform.club
 valinbl.com
 valinresources.com
@@ -86417,7 +86352,6 @@ verycdn.net
 verydns.net
 verydoc.net
 verydz.com
-veryen.org
 veryevent.com
 verygrass.com
 verygslb.com
@@ -87003,7 +86937,6 @@ vns454.com
 vns5720.com
 vnsdl.com
 vnsiubvgs.com
-vnsr6788.com
 vnvshen.com
 vnzmi.com
 voa365.com
@@ -90588,7 +90521,6 @@ wtdex.com
 wtdlq.com
 wtdms.com
 wting.info
-wtmbuy.com
 wtmgc.com
 wtmmn.com
 wtn5.com
@@ -91108,7 +91040,6 @@ www.appkg.com
 www.apple.com
 www.apple.com.cn
 www.apple.com.edgekey.net
-www.apple.com.edgekey.net.globalredir.akadns.net
 www.applk.cn
 www.appuu.cn
 www.aqsc.cn
@@ -93204,7 +93135,6 @@ xgt2014.com
 xgv5.com
 xgwx.net
 xgxedu.com
-xgxhy.com
 xgz.cc
 xgzx.org
 xh456.com
@@ -103257,7 +103187,6 @@ yykj.org
 yylady.cn
 yylending.com
 yylm.org
-yylmz.com
 yylya.com
 yymanhuawu.com
 yymchina.cc
@@ -104462,7 +104391,6 @@ zhenyouhuo.com
 zhenyouliao.com
 zhenyouweb.com
 zhenyuanxian1.baixing.com
-zhenyusl.com
 zhenzanzixun.com
 zhepic.com
 zhesui.com
