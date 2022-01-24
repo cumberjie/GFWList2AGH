@@ -120,7 +120,6 @@ function GenerateRules() {
             foreign_dns=(
                 "https://doh.dns.sb/dns-query"
                 "8.8.8.8"
-                "1.1.1.1"
                 "9.9.9.9"    
             )
             function GenerateRulesHeader() {
