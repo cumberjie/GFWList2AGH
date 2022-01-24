@@ -1562,6 +1562,7 @@
 166.net
 166161.com
 1666.com
+1668.net
 1669la.com
 166cai.com
 166ks.net
@@ -30077,6 +30078,7 @@ hl-brushes.com
 hl.cn
 hl95.com
 hlapi.com
+hlbeixiu.com
 hld-marathon.com
 hldbtv.com
 hldgp.com
@@ -41669,6 +41671,7 @@ mackentan.com
 mackext.com
 macno1.com
 macocn.com
+macosgame.com
 macoshome.com
 macpeers.com
 macrocheng.com
@@ -60655,6 +60658,7 @@ waima.com
 waimaiquan.vip
 waimao6.com
 waimaolangtz.com
+waimaoribao.com
 waiqin365.com
 waisir.com
 waitig.com

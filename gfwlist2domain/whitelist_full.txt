@@ -1998,6 +1998,7 @@
 166.net
 166161.com
 1666.com
+1668.net
 1669la.com
 166cai.com
 166ks.net
@@ -13651,7 +13652,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.gamebox.cocos.com
 api.gcloud.qq.com
 api.geetest.com
@@ -25734,6 +25734,7 @@ cr-status.iqiyi.com
 cr.3conline.com
 cr.console.aliyun.com
 cr.file.cloud.duba.net
+cr.m.liebao.cn
 cr.pcauto.com.cn
 cr.youhuiguan.com
 cr11gcsgd.com
@@ -39827,6 +39828,7 @@ h8jx.com
 h8r5us1.cachenode.cn
 h9imt8jv.sched.d0.tdnsv5.com
 ha.gsxt.gov.cn
+ha.wheel.duolebo.com
 ha97.com
 haawking.com
 habadog.com
@@ -42123,6 +42125,7 @@ hl7qnvel.v1d.szbdyd.com
 hl95.com
 hlapi.com
 hlbase.hellogslb.com
+hlbeixiu.com
 hlbike.hellogslb.com
 hld-marathon.com
 hldbtv.com
@@ -57290,7 +57293,6 @@ m.izuis.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
-m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jdcdn.com
 m.jf.10010.com
@@ -57637,6 +57639,7 @@ mackentan.com
 mackext.com
 macno1.com
 macocn.com
+macosgame.com
 macoshome.com
 macpeers.com
 macrocheng.com
@@ -58221,6 +58224,7 @@ maroon91.com
 marry5.com
 marry80.com
 mars.ccc.cmbchina.com
+mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marsfancy.com
 marstor.com
@@ -59831,7 +59835,6 @@ miui.hftaili.com
 miusi.co
 miutour.com
 miutrip.com
-miv.ububyiw6655.xyz
 mivideo.g.mi.com
 miwifi.com
 mix.adsame.com
@@ -60813,6 +60816,7 @@ msc.jd.com
 msc.jd.com.gslb.qianxun.com
 msc1434.com
 mscbsc.com
+msch.f.360.cn
 mschcdn.com
 msclick2.kuwo.cn
 mscto.com
@@ -87458,6 +87462,7 @@ waimai.vip.meituan.com
 waimaiquan.vip
 waimao6.com
 waimaolangtz.com
+waimaoribao.com
 waiqin365.com
 waisir.com
 waitig.com
