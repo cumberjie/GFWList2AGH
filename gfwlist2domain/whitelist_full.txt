@@ -900,6 +900,7 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2173,7 +2174,6 @@
 1787.ink
 178800.cc
 17888.com
-1789a.com
 178bird.com
 178bit.com
 178du.com
@@ -6630,7 +6630,6 @@
 598e28ab2d56060aef2201ec9607985a.safeframe.googlesyndication.com
 598g.com
 598rc.com
-598wan.com
 599.com
 5999.tv
 599ku.com
@@ -13472,7 +13471,6 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
-api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
@@ -13647,6 +13645,8 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
+api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
 api.geetest.com
@@ -14697,6 +14697,7 @@ asrmicro.com
 asrsingapore.com
 assbbs.com
 asset.newyx.net
+asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-global.viveport.com
@@ -19182,6 +19183,7 @@ c-uaa.if.iqiyi.com
 c-yl.com
 c.02kdid.com
 c.28rv.com
+c.3.cn
 c.3.cn.gslb.qianxun.com
 c.35kds.com
 c.51y5.net
@@ -20608,6 +20610,7 @@ cdn.aiclk.com.m.alikunlun.com
 cdn.aixifan.com
 cdn.aixifan.com.w.kunlunle.com
 cdn.ampproject.org
+cdn.angruo.com
 cdn.api.my.le.com
 cdn.app.liuxingyul.cn
 cdn.apple-mapkit.com
@@ -25462,6 +25465,7 @@ cpcw.com
 cpcwe.com
 cpdad.com
 cpdaily.com
+cpdyj.com
 cpecc.net
 cpeol.net
 cpgzh.com
@@ -29156,6 +29160,7 @@ dimg08.c-ctrip.com.wscdns.com
 dimg11.c-ctrip.com
 dimg11.c-ctrip.com.wsglb0.com
 dimpurr.com
+dimsmary.tech
 dimtown.com
 dinais.com
 dinamicx.alibabausercontent.com
@@ -29682,7 +29687,6 @@ dm.bytedance.com
 dm.bytedance.com.w.cdngslb.com
 dm.cnbanbao.com
 dm.cqdxun.cn
-dm.hxzdhn.com
 dm.ishuo.cn
 dm.jb51.net
 dm.jinshasi.cn
@@ -30968,6 +30972,7 @@ dtx8pskv.v1d.szbdyd.com
 dtx8yahc.v1d.szbdyd.com
 dtx8ylcd.v1d.szbdyd.com
 dtx8yp7r.v1d.szbdyd.com
+dtxdwl.cn
 dtxesknd.v1d.szbdyd.com
 dtxetgja.v1d.szbdyd.com
 dtxetqhl.v1d.szbdyd.com
@@ -32370,6 +32375,7 @@ ecomgxh.kuwo.cn
 ecomoter.com
 ecook.cn
 ecookinn.com
+ecool.site
 ecoplastech.com
 ecoprint.tech
 ecopublic.oss-cn-hangzhou.aliyuncs.com
@@ -36649,6 +36655,7 @@ game9g.com
 gameabc.com
 gameabc2.com
 gameact.qq.com
+gameanalytics.com
 gamebar.com
 gamebbm.com
 gamebean.com
@@ -37355,6 +37362,7 @@ getlema.com
 getlingxi.cn
 getlocalphone.qq.com
 getmarkman.com
+getpricetag.com
 getquicker.net
 getsurfboard.com
 getteamyi.com
@@ -37834,6 +37842,7 @@ global-ict.cn
 global-idc.net
 global-jf.com
 global-scsl.com
+global-trade-center.com
 global.quickconnect.to
 global.reg.ntes53.netease.com
 global.search.xiaomi.net
@@ -38632,7 +38641,6 @@ gsp11-cn.ls.apple.com
 gsp12-cn.ls.apple.com
 gsp13-cn.ls.apple.com
 gsp4-cn.ls.apple.com
-gsp4-cn.ls.apple.com.edgekey.net
 gsp5-cn.ls.apple.com
 gsp85-cn-ssl.ls.apple.com
 gspaceteam.com
@@ -42074,6 +42082,7 @@ hkpep.com
 hkproperty.com
 hkqbh.com
 hkrdbdry.v1d.szbdyd.com
+hkscxh.com
 hkskyloyd.com
 hkslg520.com
 hkstv.tv
@@ -43858,7 +43867,6 @@ huohuolife.com
 huoji.com
 huoju365.com
 huojua.com
-huojub.com
 huojuli.com
 huokebao.net
 huokesoft.com
@@ -44671,7 +44679,6 @@ i574ou0.cdnnodedns.cn
 i5i6.net
 i5mai.com
 i5zhen.com
-i6.weather.oppomobile.com
 i618.com.cn
 i62.lanzoug.com
 i6879.com
@@ -45946,6 +45953,7 @@ image3.ccb.com
 image3.mall.icbc.com.cn.wscdns.com
 image5.mall.icbc.com.cn.wscdns.com
 image6.mall.icbc.com.cn.wscdns.com
+image7.mall.icbc.com.cn
 image7.mall.icbc.com.cn.wscdns.com
 image8.mall.icbc.com.cn.wscdns.com
 image82.360doc.cn
@@ -46744,6 +46752,7 @@ imspm.com
 imsun.net
 imsxm.com
 imtmp.net
+imtoken.fans
 imtt.dd.qq.com
 imtt.play.aiseet.atianqi.com
 imtuan.com
@@ -49322,7 +49331,6 @@ jilingban.com
 jilingwy.org
 jilinpujiyiyuan.com
 jilinwula.com
-jiliw.com
 jiliyun.com
 jillbanging.com
 jilong-chem.com
@@ -50486,7 +50494,6 @@ js.gdyjs.com
 js.gomein.net.cn
 js.gsxt.gov.cn
 js.haisheteam.com
-js.haisheteam.com.w.kunluncan.com
 js.haoxyx.com
 js.hkslg520.com
 js.idgdmg.com.cn
@@ -52846,7 +52853,6 @@ ks-sh-b3-53.biliapi.net
 ks-sh-b3-55.biliapi.net
 ks-sh-live-comet-01.chat.bilibili.com
 ks-sh-live-comet-02.chat.bilibili.com
-ks-sh-live-p2p-01.chat.bilibili.com
 ks-sh-tracker-02.biliapi.net
 ks-spring.com
 ks-v6-plt.ugslb.com
@@ -57009,7 +57015,6 @@ lyhdream.com
 lyhero.com
 lyhuadu.com
 lyjiayi.com
-lyjinqiao.com
 lylddz2021.com
 lylog.1391.com
 lylryy.com
@@ -57133,7 +57138,6 @@ m.1688.com
 m.168ey.com
 m.1768.com
 m.1905.com
-m.360buyimg.com
 m.360buyimg.com.gslb.qianxun.com
 m.3dmgame.com
 m.51dongshi.com
@@ -62410,6 +62414,7 @@ nf.jsq.red
 nf.m.taobao.com
 nf.m.taobao.com.gds.alibabadns.com
 nfa.jd.com
+nfa.jd.com.gslb.qianxun.com
 nfa5.com
 nfc315.com
 nfcic.com
@@ -78761,7 +78766,6 @@ storage.wax.weibo.com
 storagesemicon.com
 store-drcn.hispace.dbankcloud.cn
 store.apple.com
-store.apple.com.edgekey.net
 store.asus.com.cn
 store.dji.com
 store.hispace.hicloud.com
@@ -82268,6 +82272,7 @@ tlcharity.com
 tlcs666.com
 tlfjw.com
 tlfw.net
+tlggzyjy.com
 tlgslb.com
 tlhpvvvw.v1d.szbdyd.com
 tlightsky.com
@@ -84358,6 +84363,7 @@ ubm.fangtoo.com
 ubmcmm.baidustatic.com
 ubmconlinereg.com
 ubmcvideo.baidustatic.com
+ubnt.com
 uboat100.com
 ubooo.com
 uboxol.com
@@ -86332,6 +86338,7 @@ vertical-play.iqiyi.com
 vertuonline.com
 ververica.com
 very9s.net
+veryapex.com
 verybeaut.com
 verycaca.com
 verycd.com
@@ -89869,6 +89876,7 @@ wn3331.com
 wn51.com
 wn789.com
 wnacg.xyz
+wnark.com
 wnbsq.com
 wndhw.com
 wndlkj.com
@@ -91024,7 +91032,6 @@ www.appgo.cn
 www.appkg.com
 www.apple.com
 www.apple.com.cn
-www.apple.com.edgekey.net
 www.applk.cn
 www.appuu.cn
 www.aqsc.cn
@@ -100294,6 +100301,7 @@ yeshitv.com
 yeshj.com
 yeshu.com
 yesidos.com
+yesiness.com
 yeskn.com
 yesky.com
 yeskyafp.allyes.com
