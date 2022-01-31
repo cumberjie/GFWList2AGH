@@ -900,7 +900,6 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -4706,7 +4705,6 @@
 3xjhuaeb.sched.sma.tdnsv5.com
 3xy1.dvv9dkv.site
 3y7h.com
-3yai2u.cn
 3yoqu.com
 3yx.com
 3z.cc
@@ -13601,7 +13599,6 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -13654,7 +13651,6 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -14574,6 +14570,7 @@ as2.binstream.live
 as35q8.cn
 as3f.com
 as5.com
+asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asaki.me
 asao.com
@@ -14849,6 +14846,7 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
+au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -17986,7 +17984,6 @@ blackdir.com
 blackdragon.com
 blackeep.com
 blackh4t.org
-blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
@@ -18659,7 +18656,6 @@ bstjiaoyu.com
 bstzcs.com
 bsurl.cc
 bsv.atm.youku.com
-bsx81.com
 bsyjrb.com
 bsyxx.com
 bszh.cn
@@ -20398,6 +20394,7 @@ cd-zc.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
+cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -31512,7 +31509,6 @@ dvz8vwor.v1d.szbdyd.com
 dvza6gyc.v1d.szbdyd.com
 dvza6qnz.v1d.szbdyd.com
 dvza6tt7.v1d.szbdyd.com
-dvzk66.cn
 dvzlb8hv.v1d.szbdyd.com
 dvzlbwmf.v1d.szbdyd.com
 dvzlfh6o.v1d.szbdyd.com
@@ -36053,7 +36049,6 @@ fun315.com
 fun371.com
 fun48.com
 fun501.com
-fun551.com
 fun603.com
 fun767.com
 fun7733.com
@@ -37344,7 +37339,6 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -42020,6 +42014,7 @@ hk-vstart.com
 hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -43127,6 +43122,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httpdns.push.oppomobile.com
 httprunner.org
@@ -55913,6 +55909,7 @@ log-lq.snssdk.com.w.cdngslb.com
 log-reyun-com-for-redirect-1246077432.cn-north-1.elb.amazonaws.com.cn
 log-sc.qutoutiao.net
 log-sdk.gifshow.com
+log-sdk.ksapisrv.com
 log-stats.weathercn.com
 log-upload.mihoyo.com
 log-yex.youdao.com
@@ -57214,7 +57211,6 @@ m.cnxmyb.cn
 m.cocounion.com
 m.cp12.ott.cibntv.net
 m.cqzspt888.cn
-m.ctrip.com
 m.cudaojia.com
 m.czvv.com
 m.da.mgtv.com
@@ -58810,7 +58806,6 @@ meiku123.com
 meilanfangdajuyuan.org
 meilecui.com
 meili-inc.com
-meili1123.com
 meilibaobao.com
 meilijia.com
 meiling.com
@@ -59733,7 +59728,6 @@ minunix.com
 minxindai.com
 minxing365.com
 minxue.net
-minyaartcrafts.cn
 minzu56.net
 miot-spec.org
 mip-ruiwen-com.sm-tc.cn
@@ -62393,7 +62387,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexiao.com
 nexmoe.com
 nexon.to
@@ -63425,7 +63418,6 @@ o.if.qidian.com
 o.phb123.com
 o1.jyjyj.cn
 o136.com
-o2.cdn.t5.work
 o2123.com
 o2ee.com
 o2mania.com
@@ -65673,7 +65665,6 @@ pb.hd.sohu.com
 pb.hd.sohu.com.cn
 pb.i.sogou.com
 pb.jd.com
-pb.sogou.com
 pb.sys.pp8.com
 pb1.pstatp.com
 pb10.sogou.com
@@ -72359,7 +72350,6 @@ roobo.com
 roodoo.net
 roof325.com
 roogames.com
-rookiego.com
 room365.com
 roomse.com
 roosur.com
@@ -73224,7 +73214,6 @@ s96.cnzz.com
 s98s2.com
 s9c6b193.irs03.com
 s9jk.com
-s9w.cc
 s9yun.com
 sa-api.sreminder.cn
 sa-ec.com
