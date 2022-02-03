@@ -900,6 +900,7 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1415,7 +1416,6 @@
 12120.net
 1213.me
 121314.com
-1214bdk.xyz
 121ask.com
 121mu.com
 121xia.com
@@ -2083,7 +2083,6 @@
 17.huanqiu.com
 170.com
 17025.org
-1703838.b2b.liebiao.com
 1708131.sched.ap.tdnsv5.com
 1708131.v9.sched.tdnsv2.com
 1708359d3207f3032a9888955ad309a3.dlied1.cdntips.net
@@ -3051,7 +3050,6 @@
 2280.com
 2281789.file.p23.tc.cdntip.com
 2281wa.ren
-2286532.shop.liebiao.com
 2288.org
 2295.com
 2298.com
@@ -12691,6 +12689,7 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
+all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -18594,7 +18593,6 @@ bs-adaptive.pull.yximgs.com
 bs-dolfin.net
 bs-origin.pull.yximgs.com
 bs.csshq.com.cn
-bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -20150,7 +20148,6 @@ ccfb707b077b94f38031072966a06631.safeframe.googlesyndication.com
 ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
-ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -20392,7 +20389,6 @@ cd-zc.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
-cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -20598,6 +20594,7 @@ cdn.app.liuxingyul.cn
 cdn.apple-mapkit.com
 cdn.ark.qq.com
 cdn.bdstatic.com
+cdn.bootcdn.net
 cdn.bootcss.com
 cdn.caiyunapp.com
 cdn.chillyroom.com
@@ -23715,7 +23712,6 @@ cm.cn.miaozhen.com
 cm.dmp.360.cn
 cm.dmp.sina.cn
 cm.e.qq.com
-cm.emarbox.com
 cm.fancyapi.com
 cm.fastapi.net
 cm.g.doubleclick.net
@@ -27971,7 +27967,6 @@ dc.letv.com
 dc.meitustat.com
 dc.sigmob.cn
 dc.so.le.com
-dc1.networkbench.com
 dcache.hub.sandai.net
 dcads.sina.com.cn
 dcarapi.com
@@ -28028,7 +28023,6 @@ dcxnews.com
 dczou.com
 dd-advisor.com
 dd-img.com
-dd-search.jd.com
 dd-search.jd.com.gslb.qianxun.com
 dd-static.jd.com
 dd.iask.cn
@@ -33907,6 +33901,7 @@ f.gm.mob.com
 f.goodq.top
 f.goodq.top.w.cdngslb.com
 f.hiphotos.bdimg.com
+f.hshczy.com
 f.mengtuiapp.com
 f.mengtuiapp.com.w.kunlunar.com
 f.seals.qq.com
@@ -37191,7 +37186,6 @@ gedou8.com
 gedoumi.com
 gedu.org
 geeboo.com
-geeboodata.com
 geebook.com
 geedai.com
 geedarkihr.cn
@@ -37342,6 +37336,7 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -42018,7 +42013,6 @@ hk-vstart.com
 hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -42592,7 +42586,6 @@ hongtastock.com
 hongtongad.com
 hongtu.net
 hongtuwang.com
-hongweipeng.com
 hongxiaolong.com
 hongxin18.com
 hongxinbao.com
@@ -42964,6 +42957,7 @@ hsgjj.com
 hsgjysj.com
 hsgsy.com
 hsh.zu.anjuke.com
+hshczy.com
 hshh.org
 hshotel.com
 hshs.com
@@ -45955,7 +45949,6 @@ image3.ccb.com
 image3.mall.icbc.com.cn.wscdns.com
 image5.mall.icbc.com.cn.wscdns.com
 image6.mall.icbc.com.cn.wscdns.com
-image7.mall.icbc.com.cn
 image7.mall.icbc.com.cn.wscdns.com
 image8.mall.icbc.com.cn.wscdns.com
 image82.360doc.cn
@@ -52872,7 +52865,6 @@ ksbdsk.jomodns.com
 kscac.com
 kscdn.yishihui.com
 kscdns.com
-kscmt.cn
 ksdkcks.com
 ksdlp.com
 ksdown.com
@@ -53439,7 +53431,6 @@ l.gm.mob.com
 l.huoshan.com
 l.huoshan.com.w.cdngslb.com
 l.huya.com
-l.kscmt.cn
 l.mamababu.cn
 l.news.qq.com
 l.qq.com
@@ -57210,6 +57201,7 @@ m.cnxmyb.cn
 m.cocounion.com
 m.cp12.ott.cibntv.net
 m.cqzspt888.cn
+m.ctrip.com
 m.cudaojia.com
 m.czvv.com
 m.da.mgtv.com
@@ -59926,7 +59918,6 @@ mlapp.cn
 mlb.did.ijinshan.com
 mlbuy.com
 mlearn.pingan.com.cn
-mlearn.pingan.com.cn.cdn20.com
 mlgame.wang
 mlgame.xin
 mlgj.com
@@ -61792,7 +61783,6 @@ nanjingkaishan.com
 nanjinglongyu.com
 nanjingtianqi114.com
 nanjingui.com
-nanjishidu.me
 nanjixiong.com
 nankaimba.org
 nanlebbs.com
@@ -64769,7 +64759,6 @@ p.alimama.com
 p.ananas.chaoxing.com
 p.appjiagu.com
 p.aty.sohu.com
-p.bangdu2.com
 p.biligame.com
 p.cdn.persaas.dell.com
 p.clkservice.youdao.com
@@ -67024,6 +67013,7 @@ pole.6rooms.com
 polebrief.com
 policy-cde.le.com
 policy.jd.com
+policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv
 polingba.com
@@ -75418,7 +75408,6 @@ shikee.com
 shiku.co
 shilawyer.com
 shileizcc.com
-shili.wanyx.com
 shilian.com
 shilian.net
 shilipai.net
@@ -77967,7 +77956,6 @@ ssl.trace.zhiziyun.com
 ssl.ts7.qq.com
 ssl.ts8.qq.com
 ssl.wlogin.qq.com
-ssl.woshishuish.top
 ssl.zy3dku.cn
 ssl4.my.800cdn.com
 sslaaa.com

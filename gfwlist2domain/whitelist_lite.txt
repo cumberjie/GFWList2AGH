@@ -1191,7 +1191,6 @@
 12120.net
 1213.me
 121314.com
-1214bdk.xyz
 121ask.com
 121mu.com
 121xia.com
@@ -26161,7 +26160,6 @@ gedou8.com
 gedoumi.com
 gedu.org
 geeboo.com
-geeboodata.com
 geebook.com
 geedai.com
 geedarkihr.cn
@@ -30474,7 +30472,6 @@ hongtastock.com
 hongtongad.com
 hongtu.net
 hongtuwang.com
-hongweipeng.com
 hongxiaolong.com
 hongxin18.com
 hongxinbao.com
@@ -30792,6 +30789,7 @@ hsfund.com
 hsgjj.com
 hsgjysj.com
 hsgsy.com
+hshczy.com
 hshh.org
 hshotel.com
 hshs.com
@@ -38217,7 +38215,6 @@ ksbao.cc
 ksbao.com
 kscac.com
 kscdns.com
-kscmt.cn
 ksdkcks.com
 ksdlp.com
 ksdown.com
@@ -44645,7 +44642,6 @@ nanjingkaishan.com
 nanjinglongyu.com
 nanjingtianqi114.com
 nanjingui.com
-nanjishidu.me
 nanjixiong.com
 nankaimba.org
 nanlebbs.com
