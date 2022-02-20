@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
+0.openwrt.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -899,6 +900,7 @@
 1.cjcp.cn
 1.click.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1776,7 +1778,6 @@
 15w.com
 15wz.com
 15xdd.com
-15xs.com
 15yan.com
 15yc.com
 15yl.com
@@ -2760,7 +2761,6 @@
 2.arpun.com
 2.cn.pool.ntp.org
 2.haoxue360.com
-2.nanrenwo.net
 2.pic.pc6.com
 2.up.qingdaonews.com
 2.zol-img.com.cn
@@ -15082,7 +15082,6 @@ awxd.cfm.qq.com
 ax-log.duizhuang.com
 ax.120ask.com
 ax.ifeng.com
-ax1x.com
 ax2nc4.ren
 ax329.cn
 ax3xq25m.v1d.szbdyd.com
@@ -16852,6 +16851,7 @@ bestb2b.com
 bestbaijiu.com
 bestbeibao.com
 bestcake.com
+bestcdn.vip
 bestcem.com
 bestdjb.com
 bestdo.com
@@ -18563,6 +18563,7 @@ brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-dolfin.net
 bs-origin.pull.yximgs.com
+bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -18874,7 +18875,6 @@ buylabel.com
 buysun.net
 buysweet.com
 buyu46.com
-buyu9979.com
 buzhi5.com
 buzhibushi.com
 buzzads.com
@@ -23908,7 +23908,6 @@ cn-hbcd2-cu-v-09.bilivideo.com
 cn-hbcd2-cu-v-10.bilivideo.com
 cn-hbcd2-cu-v-11.bilivideo.com
 cn-hbcd2-cu-v-13.bilivideo.com
-cn-hbcd2-cu-v-15.bilivideo.com
 cn-healthcare.com
 cn-http2.cootek.com
 cn-java.com
@@ -23994,7 +23993,6 @@ cn.lakdc.top
 cn.launcher.battlenet.com.cn
 cn.linkedin.com
 cn.made-in-china.com
-cn.mclean.50union.com
 cn.msi.com
 cn.mvconf.50union.com
 cn.net
@@ -24415,7 +24413,6 @@ cnmineqs.net
 cnmo.com
 cnmobile.net
 cnmods.org
-cnmoi.org
 cnmooc.org
 cnmsl.net
 cnmsn.net
@@ -25670,6 +25667,7 @@ crab.baidu.com
 crab.n.shifen.com
 crabchina.com
 crackersta.com
+craft.moe
 craftcontact.com
 crandom.com
 crash-reporting.yy.com
@@ -27898,7 +27896,6 @@ dbzgia.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
-dc.ads.linkedin.com
 dc.api.my7v.com
 dc.chillyroom.com
 dc.console.aliyun.com
@@ -36001,7 +35998,6 @@ fun803.com
 fun88113.com
 fun88369.com
 fun88721.com
-fun909.com
 funcdn.com
 funchat.cc
 functionads.com
@@ -36846,6 +36842,7 @@ gatewang.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
 gateway.cdeledu.com
+gateway.craft.moe
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn
@@ -40989,7 +40986,6 @@ hdj.baidu.com
 hdj.me
 hdjay.com
 hdjhsudhe.kuaizhan.com
-hdjr.org
 hdjwww.com
 hdkal67.cn
 hdl-broadcast.qiecdn.com
@@ -42001,7 +41997,6 @@ hkcna.hk
 hkcts.com
 hkctshotels.com
 hkctsmembers.com
-hkeig.com
 hkfc.hk
 hkfe.hk
 hkfljt.com
@@ -45510,7 +45505,6 @@ ihenji.com
 ihepa.com
 ihetou.com
 ihewro.com
-ihezm0o.cn
 ihggccampaign.com
 ihhii.xyz
 ihhubei.com
@@ -46378,7 +46372,6 @@ img10.360buyimg.com.gslb.qianxun.com
 img10.jdcdn.com
 img11-sched.jcloudimg.com
 img11.18183.com
-img11.360buyimg.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
 img14.360buyimg.com
@@ -53173,7 +53166,6 @@ kuqi.com
 kuqin.com
 kurogame.com
 kurokingdom.com
-kurongdai.com
 kurukurumi.com
 kusdk.com
 kushenchina.net
@@ -57238,6 +57230,7 @@ m.lousivency.com.cn
 m.lu.sogou.com
 m.lulitechnology.cn
 m.lusrg.cn
+m.mafengwo.cn
 m.maiduoer.com
 m.manhua39.com
 m.manhuama.net
@@ -59802,7 +59795,6 @@ mjyx.com
 mjzj.com
 mjzymh.com
 mk-yiliao.com
-mk.tianziyu.com
 mk2048.com
 mkadsearch.lizhifm.com
 mkaliez.com
@@ -64233,7 +64225,6 @@ opstool.com
 optaim.com
 optbbs.com
 opticsjournal.net
-opticsx.org
 optimix.asia
 optimix.cn
 optimized-ai.com
@@ -65468,7 +65459,6 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
-passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
@@ -72745,7 +72735,6 @@ s.doyo.cn
 s.e739.cn
 s.effie.co
 s.ekeide.com
-s.emarbox.com
 s.f.360.cn
 s.fastapi.net
 s.fyeds0.com
@@ -75954,7 +75943,6 @@ shunshunliuxue.com
 shuntu.cn
 shunvzhi.com
 shunwang.com
-shunyiqu.com
 shuo.douban.com
 shuo6.com
 shuo66.com
@@ -78111,7 +78099,6 @@ stat.img-space.com
 stat.it168.com
 stat.iteye.com
 stat.jc001.cn
-stat.juyoufan.net
 stat.le.com
 stat.letv.com
 stat.lianmeng.360.cn
@@ -78272,7 +78259,6 @@ static.dingtalk.com
 static.dingtalk.com.w.cdngslb.com
 static.dmall.com
 static.dmzj.com
-static.dmzj1.com
 static.dns.iqiyi.com
 static.doubleclick.net
 static.douxie.com
@@ -82548,7 +82534,6 @@ topcsic.com
 topdiaoyu.com
 topdodo.com
 tope365.com
-topecsc.com
 topeditsci.com
 topeet.com
 topeetboard.com
