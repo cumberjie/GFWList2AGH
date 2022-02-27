@@ -2749,7 +2749,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.centos.pool.ntp.org
+2.asia.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.pic.pc6.com
@@ -7975,7 +7975,6 @@
 7dff40fe78bd0de3db7b87ccbaa2b97b.safeframe.googlesyndication.com
 7dianw.com
 7didc.com
-7dmf7zl.cn
 7do.net
 7down.com
 7down.net
@@ -11126,10 +11125,8 @@ adnetpub.yaolan.com
 adnew.wifi8.com
 adnewnc.app.autohome.com.cn
 adnineplus.com
-adnmb.com
 adnmb1.com
 adnmb2.com
-adnmb3.com
 adnyg.com
 adobe55.com
 adobeae.com
@@ -11572,7 +11569,6 @@ agoralab.co
 agq6ue3.cachenode.cn
 agrant.cn
 agrantsem.com
-agri35.com
 agrittex.com
 agrochemshow.com
 agrodt.com
@@ -13590,6 +13586,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -14293,6 +14290,7 @@ apsgo.com
 apsgo.com.w.cdngslb.com
 apt.so
 aptchina.com
+aptchip.com
 aptenon.com
 apusic.com
 apxm.net
@@ -14793,6 +14791,7 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
+au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -15205,7 +15204,6 @@ b.tvsou.com
 b.unjs.com
 b.vlion.cn
 b.wxebgpj.cn
-b.xp0f4cj.cn
 b.youdao.com
 b.yzcdn.cn
 b.zol-img.com.cn
@@ -15493,6 +15491,7 @@ baidu-cn-north-00001.bj-a.bcebos.com
 baidu-int.com
 baidu-itm.com
 baidu-mgame.com
+baidu-mipdx.cn.miaozhen.com
 baidu-umoney.com
 baidu-wenxue.com
 baidu.cc
@@ -17296,7 +17295,6 @@ biocoop.cn
 biodiscover.com
 biodiscover.net
 biogo.net
-biohailijie.cn
 biohyalux.com
 bioktech.com
 biolab.xyz
@@ -18444,6 +18442,7 @@ bqg5.cc
 bqg8.cc
 bqg8.la
 bqgimgs1.cdn.bcebos.com
+bqgwu.com
 bqgyy.com
 bqiapp.com
 bqimg.com
@@ -18846,6 +18845,7 @@ buylabel.com
 buysun.net
 buysweet.com
 buyu46.com
+buyu876.com
 buzhi5.com
 buzhibushi.com
 buzzads.com
@@ -19994,7 +19994,6 @@ cc.jxzf123.top
 cc.m.jd.com
 cc.maotuying.com
 cc.map.qq.com
-cc.piao.jianzhigg.com
 cc.res.netease.com
 cc.xiaodapei.com
 cc.xwscg.com
@@ -23434,7 +23433,6 @@ cloudcache.tencent-cloud.com
 cloudcache.tencentcs.com
 cloudcc.com
 cloudcdn.dopa.com
-cloudcdn.dopa.com.cn
 cloudcdn.net
 cloudcdns.com
 cloudcdns.net
@@ -25314,6 +25312,7 @@ cowtransfer.com
 coyuk.com
 cozumpartisi.com
 cozyee.com
+cp-9044xpj.internet7.vip
 cp.003store.com
 cp.5jjx.net
 cp.7y7.com
@@ -25864,6 +25863,7 @@ csfounder.com
 csfqw.com
 csftyy.com
 csgm168.com
+csgokai.com
 csgpc.org
 csgwbn.com
 csharpkit.com
@@ -26265,7 +26265,6 @@ cvte.com
 cvtvcn.com
 cw.yyb.sched.dcloudstc.com
 cw100.com
-cw49z0.cn
 cwbaike.com
 cwbpsi.com
 cwc.sspu.edu.cn
@@ -27216,7 +27215,6 @@ dalian.anjuke.com
 dalian.baixing.com
 dalianair-china.com
 dalianiso.com
-dalianruosen.com
 daliapp.net
 daling.com
 dalinggong.com
@@ -27473,6 +27471,7 @@ daquan.com
 darczpw.com
 daren-auth.alicdn.com
 daren-auth.alicdn.com.danuoyi.tbcache.com
+darenceping.com
 darevip.com
 dariyu.com
 darkmi.com
@@ -31645,7 +31644,6 @@ dzllzg.com
 dzmdq.com
 dzmhospital.com
 dzng.com
-dzooo.cn
 dzoptics.com
 dzpk.com
 dzqu.com
@@ -32250,6 +32248,7 @@ ecombdimg.com
 ecombdstatic.com
 ecomcbjs.jomodns.com
 ecomgxh.kuwo.cn
+ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 ecomoter.com
 ecook.cn
 ecookinn.com
@@ -34287,6 +34286,7 @@ fastsoc.com
 fastsoso.cc
 fat999.com
 fatedier.com
+fateskins.com
 fatiao.pro
 fatjiong.com
 fatkun.com
@@ -41247,7 +41247,6 @@ henanjubao.com
 henanlvyi.com
 henanpige.com
 henansenli.com
-henanxiaochi.com
 henanyouth.com
 henbt.com
 hencin.com
@@ -41889,6 +41888,7 @@ hk.bdstatic.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk.uy
@@ -50167,7 +50167,6 @@ jp03.dns.meo-sub.xyz
 jp04.dns.meo-sub.site
 jp04.dns.meo-sub.xyz
 jp14.com
-jp88888887.cn
 jpaasne.e.shifen.com
 jpad.baidu.com
 jpanj.com
@@ -53293,7 +53292,6 @@ l.web.huya.com
 l.web.huya.com.w.kunluncan.com
 l.yidianzixun.com
 l.ykimg.com
-l07m8gu.cn
 l1.tcdnlive.com
 l1.xfinfr.com
 l2-toutiao-ipv6-ml.gslb.ksyuncdn.com
@@ -56969,6 +56967,7 @@ m.1688.com
 m.168ey.com
 m.1768.com
 m.1905.com
+m.360buyimg.com
 m.360buyimg.com.gslb.qianxun.com
 m.3dmgame.com
 m.51dongshi.com
@@ -60636,6 +60635,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net
@@ -60781,7 +60781,6 @@ mtdpgame.com
 mtdx.net
 mtedu.com
 mtestin.com
-mtf.wiki
 mtgchina.com
 mti.35kds.com
 mti100.com
@@ -61467,7 +61466,6 @@ n2.zuoyebang.cc
 n21.cc
 n21ce.com
 n2j97q2.cachenode.cn
-n2v.net
 n3.sinaimg.cn
 n3.zuoyebang.cc
 n3ko.co
@@ -62542,7 +62540,6 @@ njhaiwai.com
 njhengyou.com
 njhgame.com
 njhszoo.com
-njhuashidai.cn
 njhwsk.com
 njibhu.com
 njjn.com
@@ -65926,6 +65923,7 @@ pgdt.ugdtimg.com.sched.ssdv3-dk.tdnsv6.com
 pgdt.ugdtimg.com.sched.ssdv6.tdnsv6.com
 pgjcqm.com
 pgl-world.com
+pglstatp-toutiao-b.com
 pglstatp-toutiao.com
 pgnan.com
 pgsql.tech
@@ -71922,6 +71920,7 @@ ripic.xyz
 rippleos.com
 risc-v1.com
 riscv-mcu.com
+riscv.club
 risecd.net
 risecenter.com
 risechina.org
@@ -73750,7 +73749,6 @@ sdk.xyapi.game.qq.com
 sdk.zsdfm.com
 sdk1xyajs.data.kuiniuca.com
 sdk1xyajs.data.p2cdn.com
-sdkapi-smartop.jiguang.cn
 sdkapi.douyucdn.cn
 sdkapi1.bizport.cn
 sdkapi10.bizport.cn
@@ -75543,7 +75541,6 @@ shouyoucdn.com
 shouyoujz.com
 shouyoumen.com
 shouyouqianxian.com
-shouyouribao.com
 shouyoushenqi.com
 shouyoutan.com
 shouyoutv.com
@@ -93518,7 +93515,6 @@ xiaoyida.net
 xiaoying.co
 xiaoying.com
 xiaoying.tv
-xiaoyiquan.com
 xiaoyiwo.net
 xiaoyouxi100.com
 xiaoyouxiqun.com

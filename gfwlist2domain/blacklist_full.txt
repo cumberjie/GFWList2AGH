@@ -5591,7 +5591,6 @@ bbs.cdbook.org
 bbs.ecstart.com
 bbs.fallenark.com
 bbs.foryou1.cf
-bbs.gao96.com
 bbs.gudicn.com
 bbs.hanminzu.org
 bbs.hasi.wang
@@ -7576,7 +7575,6 @@ buyu870.com
 buyu872.com
 buyu873.com
 buyu875.com
-buyu876.com
 buyu877.com
 buyu878.com
 buyu8833.com
@@ -14878,7 +14876,6 @@ gannett-cdn.com
 gannett.com
 gannettdigital.com
 ganttproject.biz
-gao96.com
 gaoloumi.cc
 gaoming.net
 gaoyixue.com
@@ -16053,6 +16050,7 @@ gtricks.com
 gts-vpn.com
 gtv.org
 gtv1.org
+gtvmediagroupfairfund.com
 gtxxtv.com
 gu-chu-sum.org
 gu-web.net
@@ -23346,6 +23344,7 @@ news100.com.tw
 news1024.com
 news1130.com
 news24.com
+news3.rexcha.com
 newsamerica.com
 newsancai.com
 newsblur.com
@@ -23442,6 +23441,7 @@ nflxso.net
 nflxvideo.net
 nforce.com
 nfoxo.com
+nfscdict.com
 nfsworld.com
 ng.mil
 nga.mil
@@ -25645,7 +25645,6 @@ ponyking.com
 ponz.me
 poofreesky.gq
 poojaescorts.in
-pool.ntp.org
 poolwo.com
 poow.ga
 pop.com.br
@@ -26988,6 +26987,7 @@ revver.com
 reward.ggcarry888.com
 rewrite-anime.tv
 rex9559.com
+rexcha.com
 rexxx.com
 reyval.com.mx
 reyval.mx
@@ -39816,6 +39816,7 @@ yinling2.top
 yinwowo.com
 yippy.com
 yipub.com
+yiqiedoushiganggangkaishi.org
 yisay.substack.com
 yitabangs.com
 yitianshijie.net
