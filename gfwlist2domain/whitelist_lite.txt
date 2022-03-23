@@ -4490,6 +4490,7 @@
 51mrp.com
 51mta.com
 51mtw.com
+51mw.club
 51mypc.cn
 51nac.com
 51nazhun.pub
@@ -6070,6 +6071,7 @@
 6ght.com
 6hgame.com
 6hwan.com
+6ict.com
 6ih6.vip
 6jianshi.com
 6jworld.com
@@ -9185,6 +9187,7 @@ aleyoo.com
 alfeng.com
 alfheim.cc
 algorithmart.com
+ali-health.com
 ali213.com
 ali213.net
 ali37.net
@@ -13310,6 +13313,7 @@ btcwatch.com
 btdad.live
 btdog.com
 btdownload.net
+btdtech.net
 bte.ink
 btege.com
 btfan.com
@@ -13886,6 +13890,7 @@ caing.com
 cainiao-inc.com
 cainiao.com
 cainiaodoc.com
+cainiaojc.com
 cainiaojiaocheng.com
 cainiaolc.com
 cainiaoqidian.com
@@ -17770,6 +17775,7 @@ codeaha.com
 codebe.org
 codebus.net
 codebye.com
+codecomeon.com
 codedefault.com
 codedocs.net
 codedq.net
@@ -20283,6 +20289,7 @@ diandianzhe.com
 diandianzu.com
 diandong.com
 diandongche.biz
+diandongzhi.com
 dianfengcms.com
 dianfuji.com
 diangan.org
@@ -21363,7 +21370,6 @@ dprktimes.com
 dptech.com
 dptechnology.net
 dpwl.net
-dpxian.me
 dpxq.com
 dq123.com
 dq18.com
@@ -21397,6 +21403,7 @@ dragonballcn.com
 dragoncg.com
 dragonest.com
 dragonnewsru.com
+dragonparking.com
 dragonsea-china.com
 dragontrail.com
 dragonwell-jdk.io
@@ -23332,6 +23339,7 @@ evolife.cn
 evotrue.com
 evyy.net
 evzhidao.com
+evzimlox.cn
 ew9z.com
 ewaga.com
 ewang.com
@@ -26226,6 +26234,7 @@ ghatg.com
 ghboke.com
 ghgy.com
 ghgy.net
+ghjie.com
 ghlearning.com
 ghlqjxj.com
 ghmba.com
@@ -38698,6 +38707,7 @@ lanseshuba.com
 lanseyujie.com
 lansha.tv
 lanshanweb.com
+lanshenniao.com
 lanshiwan.cn
 lanshizi.com
 lanshou.net
@@ -42705,6 +42715,7 @@ mifengxiuchang.com
 mifengzhibo.com
 mifile.cn
 mifispark.com
+mifwl.com
 migame.vip
 mige.tv
 migelab.com
@@ -42991,6 +43002,7 @@ mixiong.tv
 mixrnb.com
 mixunds.com
 mixvvideo.com
+mixwing.com
 miy.cc
 miyabaobei.com
 miyabaobei.hk
@@ -43708,7 +43720,6 @@ mszxyh.com
 mt-bbs.com
 mt-spirit.com
 mt-wire.com
-mt30.com
 mtasia.net
 mtavip.com
 mtblj.com
@@ -45958,7 +45969,6 @@ onthink.com
 ontvb.com
 onyealink.com
 oo14.com
-oo5548q.top
 oobao.net
 oocct.com
 ooclab.com
@@ -48766,6 +48776,7 @@ qingwawa.com
 qingwk.com
 qingxiaoyun.com
 qingxuetang.com
+qingxun.com
 qingyougames.com
 qingyungou.com
 qingzhanshi.com
@@ -49595,6 +49606,7 @@ qusem.com
 qushimeiti.com
 qushiw.com
 qushixi.net
+qutaiwan.com
 qutanme.com
 qutaojiao.com
 qutaovip.com
@@ -49789,7 +49801,6 @@ qzjzb.com
 qzkey.com
 qzkyl.cn
 qzlo.com
-qzmixun.com
 qznews360.com
 qzobao.com
 qzone.cc
@@ -50276,6 +50287,7 @@ rgfc.net
 rgoo.com
 rgrcb.com
 rgslb.com
+rgt0hv5.cn
 rgyun.com
 rgznworld.com
 rh447.cn
@@ -52559,7 +52571,6 @@ shiyu.pro
 shiyue.com
 shiyuegame.com
 shiyunlaile.com
-shiyunwatch.com
 shizhuonet.com
 shjdc.com
 shjdceo.com
@@ -53097,6 +53108,7 @@ si-in.com
 si0769.com
 si9377.com
 siaedu.net
+sianx.com
 siaoao.com
 sias-sha.com
 sibfi.com
@@ -56102,7 +56114,6 @@ taou.com
 taowenxue.com
 taowola.com
 taoxiaolu.com
-taoxiaoxing.com
 taoxiaozhong.com
 taoxie.com
 taoxv.com
@@ -56519,6 +56530,7 @@ testerlife.com
 testict.com
 testin.cn
 testip.xyz
+testiu.com
 testjj.com
 testplus.cn
 testroad.org
@@ -56526,6 +56538,7 @@ testrust.com
 testtao.com
 testwo.com
 testxy.com
+testyk.com
 teuhui.com
 tex68.com
 texclo.net
@@ -56674,6 +56687,7 @@ thinkphp.pro
 thinkphpcode.com
 thinksns.com
 thinksrc.com
+thinvent.com
 thishealthsummit.com
 thisim.net
 thisisdongdongqiang.com
@@ -57714,6 +57728,7 @@ tranbanker.com
 tranbbs.com
 trans4e.com
 transcn.org
+transer-cn.com
 transformer-cn.com
 transfu.com
 transfun.net
@@ -58838,10 +58853,12 @@ uicool123.com
 uid75.com
 uidec.com
 uidev.tech
+uidev.xyz
 uidndas.cn
 uigreat.com
 uihacker.com
 uiiiuiii.com
+uil.ink
 uileader.com
 uilover.com
 uimaker.com
@@ -62764,6 +62781,7 @@ wshufa.com
 wsisp.com
 wsisp.net
 wsj186.com
+wsjx.net
 wslcode.com
 wslmf.com
 wsloan.com
@@ -63156,6 +63174,7 @@ wxiao.net
 wxiat.com
 wxjx123.com
 wxjyql.com
+wxkol.com
 wxlagame.com
 wxlongre.com
 wxmama.com
@@ -64719,6 +64738,8 @@ xingzuo8.com
 xingzuo8090.com
 xingzuoshu.com
 xingzuowu.com
+xinhanhd.com
+xinhanyx.com
 xinhaolian.com
 xinhaoqi.net
 xinhay.com
@@ -65053,6 +65074,7 @@ xixisys.com
 xixiwg.com
 xixiyishu.com
 xiyacs.com
+xiyang1.icu
 xiyijiang.com
 xiyin.life
 xiyiqq.com
@@ -68068,6 +68090,7 @@ yooyoo360.com
 yoozai.com
 yoozhe.com
 yoozii.com
+yoozoo.com
 yoozword.com
 yopai.com
 yoperp.com
