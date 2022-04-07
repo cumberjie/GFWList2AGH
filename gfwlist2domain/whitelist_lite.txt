@@ -75,6 +75,7 @@
 00tera.com
 00txt.com
 00wv.com
+00xvppy.cn
 01-123.com
 01-cf.com
 010123456.com
@@ -5162,7 +5163,6 @@
 5599.com
 55bbs.com
 55cc.cc
-55coin.com
 55dai.com
 55dian.com
 55doc.com
@@ -6288,7 +6288,6 @@
 76baobao.com
 76dongdong.com
 76e.org
-76jie.com
 76ju.com
 76wu.com
 76xh.com
@@ -12128,7 +12127,6 @@ binaryai.net
 binaryai.tech
 binbinyl.com
 bincailiuxue.com
-bincun.xyz
 binfen.tv
 binfenyingyu.com
 bing123.com
@@ -20588,7 +20586,6 @@ diyhi.com
 diyicai.com
 diyidan.com
 diyidan.net
-diyifangdai.com
 diyifanwen.com
 diyifanwen.net
 diyigaokao.com
@@ -26446,6 +26443,7 @@ gmilesquan.com
 gming.org
 gmiot.net
 gmjk.com
+gmkykj.com
 gmm01.com
 gmmch5.com
 gmmicro.com
@@ -28878,7 +28876,6 @@ hc39.com
 hc79.com
 hc9.com
 hcbbs.com
-hcbus.com
 hcbuy.com
 hcc11.com
 hccpcba.com
@@ -31485,7 +31482,6 @@ hxsd.tv
 hxsec.com
 hxshx.com
 hxsme.org
-hxssj.cn
 hxsxw.net
 hxt-semitech.com
 hxthjy.com
@@ -35283,6 +35279,7 @@ jirou.org
 jirry.me
 jisapower.com
 jisec.com
+jishengjc.com
 jishi3.com
 jishicn.com
 jishida.vip
@@ -35841,7 +35838,6 @@ jovetech.com
 jovfwgr.cn
 jowto.com
 joy9178.com
-joy95.com
 joyact.com
 joyami.com
 joyany.com
@@ -41400,6 +41396,7 @@ magentochina.org
 mageti.cn
 magewell.com
 magi.com
+magic-future.com
 magicboxgame.com
 magicdata.io
 magicleaders.com
@@ -48045,7 +48042,6 @@ qbxs5.com
 qbxz.com
 qc-dds.net
 qc-hr.com
-qc027.com
 qc178.com
 qc188.com
 qc56.org
@@ -48754,6 +48750,7 @@ qipamaijia.com
 qipeiren.com
 qipeisyj.com
 qipeng.com
+qipskd.cn
 qiqici.com
 qiqids.com
 qiqilm.com
@@ -49478,7 +49475,6 @@ qumingxing.com
 qumitech.com
 qun.hk
 quna.com
-qunachi.com
 qunaer.com
 qunaermai.com
 qunale888.com
@@ -50554,6 +50550,7 @@ rs05.com
 rs485.net
 rscala.com
 rscloudmart.com
+rsctljb.cn
 rsdgd.com
 rsdwg.com
 rsdyy.com
@@ -55469,7 +55466,6 @@ szmctc.com
 szmil.com
 szmrcd.com
 szmslaser.com
-szmt11.cn
 szmtzc.com
 szmuseum.com
 szmynet.com
@@ -58517,6 +58513,7 @@ u3dc.com
 u3dcn.com
 u3dol.com
 u3v3.com
+u4q2.cn
 u51.com
 u51.me
 u520.net
@@ -63179,6 +63176,7 @@ wz01.com
 wz120.cc
 wz132.com
 wz16.net
+wz382.cn
 wz5.com
 wzcheshi.com
 wzciming.com
