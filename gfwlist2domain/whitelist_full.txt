@@ -4211,7 +4211,6 @@
 36d98a0e7decb0d002d867d0a9020fff.dlied1.cdntips.net
 36dianping.com
 36dj.com
-36g.top
 36hjob.com
 36jr.com
 36kr.com
@@ -5413,7 +5412,6 @@
 51ias.com
 51ibm.com
 51idc.com
-51iec.com
 51ielts.com
 51ifind.com
 51ifonts.com
@@ -6705,6 +6703,7 @@
 5kcrm.net
 5kda.com
 5khouse.com
+5kmm.top
 5kupky.tdum.alibaba.com
 5lanren.com
 5lbw.com
@@ -13504,7 +13503,6 @@ api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -13584,7 +13582,6 @@ api.my.tv.sohu.com
 api.neixin.cn
 api.newad.ifeng.com
 api.nhsoft.cn
-api.node1.systest.ptqy.gitv.tv
 api.np.mobilem.360.cn
 api.oneniceapp.com
 api.oneyuan.nagezan.net
@@ -14090,6 +14087,7 @@ applinzi.com
 applk.cn
 applog.camera360.com
 applog.ddxq.mobi
+applog.matrix.netease.com
 applog.reader.qq.com
 applog.uc.cn
 applog.ucdns.uc.cn
@@ -14841,6 +14839,7 @@ autoshanghai.org
 autosmt.net
 autospaceplus.com
 autosup.com
+autoupdate.tantanapp.com
 autoupdate7.synology.cn
 autozw.com
 autumnleaf.ltd
@@ -16791,7 +16790,6 @@ betteredu.net
 betterzip.net
 betterzipcn.com
 betway118.com
-betway119.com
 betylife.com
 beva.com
 bevol.com
@@ -17830,7 +17828,6 @@ blackh4t.org
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
-blackhole.m.jd.com.gslb.qianxun.com
 blackmailedslave.com
 blackshark.com
 blackshow.me
@@ -18627,7 +18624,6 @@ budao.com
 budao24.com
 buddhajnana.org
 buddhalikedoge.com
-budejie.com
 budhano.com
 buding.tv
 budongnvren.com
@@ -19943,6 +19939,7 @@ ccbfund.com
 ccbfutures.com
 ccbiji.com
 ccbintl.com.hk
+ccbiotech.co
 ccbleasing.com
 ccbookfair.com
 ccbpension.com
@@ -24937,6 +24934,7 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
+connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -25196,7 +25194,6 @@ cp.5jjx.net
 cp.7y7.com
 cp.eastmoney.com
 cp.gs307.com
-cp.h5.coffeedak.cn
 cp.jfcdns.com
 cp.qbaobei.com
 cp.ra.icast.cn
@@ -26059,7 +26056,6 @@ cug2313.com
 cugbonline.cn
 cugstore.com
 cugxuan.cn
-cuhzsx.xyz
 cui.m.1688.com
 cuiapi.lenovo.com.cn
 cuiauth.lenovo.com.cn
@@ -27850,6 +27846,7 @@ ddmap.com
 ddmeishi.com
 ddmer.com
 ddmogo.com
+ddms.jd.com
 ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
@@ -29159,6 +29156,7 @@ djzhx.com
 djzr88.com
 dk21sebn.v1d.szbdyd.com
 dk21teaa.v1d.szbdyd.com
+dk2323dk.xyz
 dk23w9x5.v1d.szbdyd.com
 dk23wj5h.v1d.szbdyd.com
 dk93f2cb.v1d.szbdyd.com
@@ -29980,7 +29978,6 @@ douboshi.net
 doubozhibo.com
 douc.cc
 doucang.com
-doucheng123.com
 douco.com
 doudang.com
 doudehui.com
@@ -30478,6 +30475,7 @@ dss2.baidu.com
 dss2.bdstatic.com
 dss3.baidu.com
 dss3.bdstatic.com
+dssh.shop
 dssz.com
 dstfsbc.com
 dsti.net
@@ -31056,6 +31054,7 @@ duxw.xiaowenweb.com.cname2238.yjs-cdn.com
 duyandb.com
 duyao001.com
 duyidu.com
+duyidu.net
 duyixing.com
 duyixpy.top
 duzelong.com
@@ -32526,7 +32525,6 @@ eickaopei.com
 eicodesign.com
 eicp.net
 eid.jd.com
-eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn
 eidv2.jd.com
@@ -37066,7 +37064,6 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -45040,6 +45037,7 @@ ieltschn.com
 iemblog.com
 ienjoys.com
 ienjoys.mobi
+ienkdaccessible.cn
 ienkdaged.cn
 ierhou.com
 iermu.com
@@ -45808,6 +45806,7 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
+img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -49785,7 +49784,6 @@ jnyestar.com
 jnyngg.cn
 jnzcsyj.com
 jnzfwz.com
-jnzheming.com
 jnzhonglidjc.com
 jnzixun.com
 jnzycw.com
@@ -52209,6 +52207,7 @@ kmlcl.com
 kmlhh.com
 kmmama.com
 kmplayercn.com
+kmpxq.cn
 kmtarena.net
 kmuldoky.p23.tc.cdntip.com
 kmw.com
@@ -52230,6 +52229,7 @@ knewbi.com
 knewhy.com
 knewone.com
 knewsmart.com
+knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knisterpeter.gallerycdn.azure.cn
 knja123.top
@@ -53393,7 +53393,6 @@ lanshiwan.cn
 lanshizi.com
 lanshou.net
 lantaoyu.com
-lantata.com
 lantian-hotel.com
 lantian.tv
 lantinglou.com
@@ -60392,6 +60391,7 @@ ms.actingidekex.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
+ms.ienkdaccessible.cn
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com
@@ -60403,6 +60403,7 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
+msch.f.360.cn
 mschcdn.com
 msclick2.kuwo.cn
 mscto.com
@@ -63134,6 +63135,7 @@ ocsp.pki.goog
 ocsp.sectigochina.com
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
+ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp2.globalsign.com
 ocsp3.sheca.com
@@ -66481,6 +66483,7 @@ plum.metgs.com
 pluosi.com
 plures.net
 plus-static.jd.com
+plus.m.jd.com
 plus.m.jd.com.gslb.qianxun.com
 plus.wps.cn
 plusgantt.com
@@ -66603,6 +66606,7 @@ pokemmc.com
 pokemon-unitepgame.com
 pokemon.name
 pokermate.net
+pokeryun.site
 poketec.com
 pokooo.com
 polaris-vc.com
@@ -70759,6 +70763,7 @@ r.dmp.sina.com.cn
 r.img.cctvpic.com
 r.inews.qq.com
 r.l.youku.com
+r.m.duyidu.net
 r.mail.163.com
 r.photo.store.qq.com
 r.ppdai.com
@@ -70917,7 +70922,6 @@ rankhit.china.com
 ranking.m.jd.com
 ranknowcn.com
 ranling.com
-rannabio.com
 rantu.com
 ranwen.la
 ranwen.tw
@@ -72219,6 +72223,7 @@ runcmd.com
 runcome.com
 runde666.net
 rundejy.com
+rundenongye.com
 rundongex.com
 runexception.com
 runfox.com
@@ -73119,6 +73124,7 @@ sc.appvipshop.com
 sc.appvipshop.com.vipgslb.com
 sc.chinaz.com
 sc.csai.cn
+sc.dssh.shop
 sc.gg
 sc.gsxt.gov.cn
 sc.hnsyjaeger.site
@@ -79715,6 +79721,7 @@ t2.jzkapp.com
 t2.market.mi-img.com
 t2.qpic.cn
 t2.tiles.ditu.live.com
+t2.wshufa.com
 t2.xiaohongshu.com
 t20000.com
 t20img.yangkeduo.com
@@ -81265,7 +81272,6 @@ tianxuan.gtimg.cn
 tianya.cn
 tianya.com
 tianya.tv
-tianya200.com
 tianya999.com
 tianyablog.com
 tianyabook.com
@@ -87039,6 +87045,7 @@ wan95.com
 wanbang365.com
 wanbaoju.com
 wancai.com
+wancai.shop
 wancaibb.com
 wancaiinfo.com
 wancaomei.com
@@ -102449,6 +102456,7 @@ yupu.com
 yuqianshu.com
 yuqiaolong.com
 yuqinge.com
+yuquad.com
 yuquanhosp.com
 yuque.com
 yureen.com
@@ -103598,6 +103606,7 @@ zgycsc.com
 zgyeda.com
 zgyey.com
 zgygsy.com
+zgyhw.mobi
 zgyhys.org
 zgyingtong.com
 zgyinpin.com
