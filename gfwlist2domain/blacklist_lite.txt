@@ -14221,6 +14221,7 @@ howstrange.me
 howtoforge.com
 howtohackfacebook-account.com
 hoxx.com
+hoyo.link
 hoyolab.com
 hoyoverse.com
 hp-imagine.com
@@ -20472,6 +20473,7 @@ openmine.cl
 openobservatory.org
 opensea.io
 opensource.google
+opensource.guide
 opensourceinsight.dev
 opensourceinsights.dev
 openssl.org
@@ -29010,7 +29012,6 @@ xinaomen.org
 xinaomen2.com
 xinbao.de
 xinbao6.net
-xinbao6.top
 xinbet.net
 xindelu.com
 xing.com
