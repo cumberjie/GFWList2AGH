@@ -714,7 +714,6 @@
 0car0.com
 0cdn.cn
 0ci.top
-0ctrl.com
 0d.work
 0daily.com
 0dayhack.net
@@ -4342,7 +4341,6 @@
 51hostonline.com
 51hsw.com
 51huanhuan.com
-51huaxin.net
 51huaya.com
 51hunningtu.com
 51hvac.com
@@ -5608,6 +5606,7 @@
 5uu8.com
 5v13.com
 5v55.com
+5vst8h.cn
 5w.com
 5w123.com
 5w52.com
@@ -7420,7 +7419,6 @@
 941.so
 941jy.com
 941mg.com
-941ziyuan.cn
 942ss.com
 944.com
 94445.com
@@ -10655,7 +10653,6 @@ bacaoo.com
 bacaosh.com
 bacic5i5j.com
 backerbiotech.cn
-backzero.com
 bacocis.com
 badls.com
 badmintoncn.com
@@ -11436,7 +11433,6 @@ bdsye.com
 bdtic.com
 bdtjrcv.com
 bdtjs.org
-bdtkba.com
 bdtm.net
 bdurl.net
 bdwater.com
@@ -15378,7 +15374,6 @@ chijianfeng.com
 childjia.com
 childlib.org
 chillyroom.com
-chilouhua.com
 chilunyc.com
 chiluyingxiao.com
 chimatong.com
@@ -23686,7 +23681,6 @@ fansgu.com
 fanshicekong.com
 fanshuapp.com
 fanshui.net
-fanshuvideo.com
 fanshuxiaobao.com
 fanshuxiaozu.com
 fansiji.com
@@ -26724,7 +26718,6 @@ goulong.com
 goumee.com
 goumin.com
 gounahaozi.org
-goupskins.com
 goupuzi.com
 goushh.com
 gouso.com
@@ -39191,7 +39184,6 @@ lgpic.com
 lgstatic.com
 lgtianma.cn
 lguohe.com
-lgzikao.com
 lh-lx.com
 lh168.net
 lh310.com
@@ -41273,7 +41265,6 @@ magicwatchface.com
 magicwindow.cn
 magicwinmail.com
 magicyourlife101.com
-magiphone.cn
 magook.com
 magsci.org
 maguang.net
@@ -44214,7 +44205,6 @@ nasgetinfo.com
 nashwork.com
 nasimobi.com
 nasiosoft.com
-naslike.com
 nasyun.com
 nat123.com
 natamoo.com
@@ -60541,7 +60531,6 @@ wbiao.com
 wbimg.com
 wbini.com
 wbljjy.com
-wbmvohkn.cn
 wbo529.com
 wbolt.com
 wbpluto.com
