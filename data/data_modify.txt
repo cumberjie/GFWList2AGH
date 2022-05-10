@@ -63,6 +63,9 @@
 (@&!)share.acgnx.se
 (@&!)www.acgnx.se
 
+# AniDB
+(@&!)anidb.net
+
 # AniX.Moe
 (@&!)www.anix.moe
 
@@ -105,6 +108,15 @@
 (@%!)cn.bing.net
 (@%!)www.bing.com
 
+# Cloudflare
+(@&!)1dot1dot1dot1.cloudflare-dns.com
+(@&!)cloudflare-dns.com
+(@&!)dash.cloudflare.com
+(@&!)dns.cloudflare.com
+
+# Cloudflare Workers
+(@&!)workers.dev
+
 # DNSPod
 (@%!)dns.pub
 (@%!)doh.pub
@@ -115,6 +127,19 @@
 
 # 抖音 #10
 (@%!)douyincdn.com
+
+# fanart.tv
+(@&!)assets.fanart.tv
+(@&!)fanart.tv
+
+# FastGit
+(@&!)archive.fastgit.org
+(@&!)assets.fastgit.org
+(@&!)customer-stories-feed.fastgit.org
+(@&!)download.fastgit.org
+(@&!)fastgit.org
+(@&!)hub.fastgit.org
+(@&!)raw.fastgit.org
 
 # GitHub
 (@&!)github.com
@@ -133,8 +158,22 @@
 (@%!)cdn.jsdelivr.net
 (@&!)jsdelivr.net
 
+# Miro
+(@&!)miro.com
+
 # OpenDNS
+(@&!)dns.opendns.com
 (@&!)doh.opendns.com
+
+# ServiceNow
+(@&!)service-now.com
+
+# SmartSheet
+(@&!)app.smartsheet.com
+(@&!)smartsheet.com
+
+# UUP dump
+(@&!)uupdump.net
 
 # 钱美流量 #8
 (@%!)ssnm.xyz
