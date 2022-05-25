@@ -3767,7 +3767,6 @@
 333cn.com
 333job.com
 333ku.com
-333racing.com
 333y3.com
 334433.xyz
 3344u.com
@@ -9889,7 +9888,6 @@ a1714.com
 a1761.oadz.com
 a18219249939.51sole.com
 a1872.oadz.com
-a1a.me
 a1click.cpc.sogou.com
 a1d305c3185096d890661608f19a5bac.dlied1.cdntips.net
 a1efbdc48e54b90b5113cda347b754b8.dlied1.cdntips.net
@@ -12689,7 +12687,6 @@ analytics3.starschina.com
 analyticskey.com
 ananas.mooc1.mti100.com
 anandoor.com
-anank.ke
 ananzu.com
 anatuprak.com
 anav.com
@@ -15471,7 +15468,6 @@ baixiaosheng.net
 baixing.com
 baixing.net
 baixingcdn.com
-baixingfanli.com
 baixingjd.com
 baixingmall.com
 baixingzixun.com
@@ -20305,7 +20301,6 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -29393,7 +29388,6 @@ dns567.com
 dns6132.com
 dns6868.com
 dns800.com
-dns999999.com
 dnsapi.cn
 dnsapple.com
 dnsapple.net
@@ -47033,6 +47027,7 @@ isigu.com
 isilicontech.com
 isinosig.com
 isite.baidu.com
+isixiang.com
 isixue.com
 isjike.com
 iskcd.com
@@ -48200,7 +48195,6 @@ jhsjtxx.com
 jhssapp.com
 jht868.com
 jhtcgroup.com
-jhua168.com
 jhwaimai.com
 jhwl444.com
 jhwrsq.com
@@ -48975,7 +48969,6 @@ jinyunfood.com
 jinyunweb.com
 jinyuzd.cc
 jinzaochuankaile.mengniu99.com
-jinzhandaily.com
 jinzheled.com
 jinzhidagl.com
 jinzhou.anjuke.com
@@ -59764,6 +59757,7 @@ mopicer.com
 mopnativeadv.037201.com
 mopoint.com
 mopsky.com
+mopxz.com
 moqifei.com
 moqikaka.com
 moqilin.net
@@ -60216,6 +60210,7 @@ mtk.com.tw
 mtkan.net
 mtkdy.com
 mtketang.com
+mtkpacker.com
 mtksj.com
 mtktk.com
 mtl.xtpxw.com
@@ -64541,7 +64536,6 @@ panasonic.cn
 pancake.apple.com
 pancake.apple.com.cdn20.com
 panchuang.net
-pancishe.com
 panda-home.com
 panda.adsame.com
 panda.kdnet.net
@@ -79505,7 +79499,6 @@ taiyulink.com
 taizhou.anjuke.com
 taizibao.com
 tajdny.com
-tajubao.com
 tajyw.net
 takefoto.cn
 taksh.cn
@@ -81499,7 +81492,6 @@ tok9.com
 token-ad.com
 token-drcn.push.dbankcloud.com
 tokenglish.com
-tokeninsight.com
 tokenpocket.pro
 tokensky.net
 tokenview.com
@@ -87998,6 +87990,7 @@ west999.com
 westbund.com
 weste.net
 westengine.com
+westfutu.com
 westleadfund.com
 westonecloud.com
 westore.nhsoft.cn
@@ -88720,7 +88713,6 @@ withiocdn.com
 withmedia.net
 withpinbox.com
 withsccdn.com
-withsin.com
 withubit.org
 withzz.com
 witkey.com
@@ -94554,6 +94546,7 @@ xuqyfw.com
 xuriy.com
 xuro006.com
 xuruowei.com
+xusseo.com
 xuuz207525.atobo.com
 xuwqs.iqn.world
 xuxian.com
@@ -99719,6 +99712,7 @@ yifanghy.com
 yifanmedia.net
 yifansuo.com
 yifatong.com
+yifei.space
 yifeisoft.com
 yifeiyuan.me
 yifen.com
