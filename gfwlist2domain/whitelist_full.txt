@@ -26,7 +26,6 @@
 001pp.com
 001tech.com
 001town.com
-00290777.com
 002lzj.com
 0033.com
 0037wan.com
@@ -825,6 +824,7 @@
 0s8s.com
 0sm.com
 0t2h1i0.cachenode.cn
+0u0.ltd
 0ulfpx.cn
 0uu97x.cn
 0x0.biz
@@ -3872,6 +3872,7 @@
 35mei.com
 35nic.com
 35pic.com
+35pn.com
 35q.com
 35rc.com
 35zww.com
@@ -5795,7 +5796,6 @@
 52article.com
 52as.com
 52asus.com
-52asy.xyz
 52audio.com
 52ayw.com
 52bar.com
@@ -6506,6 +6506,7 @@
 5fa9309f2800453b0afa9b60.mdbook.cn
 5fe0b1ace526f79254d54d26f437523c.dlied1.cdntips.net
 5fen.com
+5fou.com
 5fun.com
 5fwan.com
 5fwuhk.tdum.alibaba.com
@@ -11504,7 +11505,6 @@ aibooks.cc
 aibosha.com
 aicai.com
 aicaicdn.com
-aicaike.com
 aicdn.com
 aicdn4.com
 aicdn5.com
@@ -17971,6 +17971,7 @@ boluocat.com
 boluogouwu.com
 boluomee.com
 boluomeet.com
+boluoyun.com
 boluoyunyu.com
 bom.ai
 bom2buy.com
@@ -29440,6 +29441,7 @@ dnswa.com
 dnswhk.com
 dnswind.net
 dnsx365.com
+dnsyy.net
 dnszh.com
 dnxp.net
 dnxtc.net
@@ -32736,7 +32738,6 @@ epinga.com
 epinv.com
 epjike.com
 epjob88.com
-epjyw.com
 epkey.com
 epkrt1bk.sched.s2-dk.tdnsv5.com
 eplove.com
@@ -37086,7 +37087,6 @@ gif5.net
 gifcool.com
 giffox.com
 gifhome.com
-gifms.com
 gifshow-vod-gd.b0.aicdn.com
 gifshow.b0.aicdn.com
 gifshow.com
@@ -40618,6 +40618,7 @@ heih.fang.anjuke.com
 heijiao.net
 heijiazi.com
 heijin.org
+heijingjihua.com
 heikexs.com
 heilanhome.com
 heilaot.com
@@ -42069,7 +42070,6 @@ hostelxian.com
 hostker.com
 hostkvm.com
 hostloc.com
-hostmsu.ru
 hostproph.com
 hostxen.com
 hostyun.com
@@ -42164,6 +42164,7 @@ howardwchen.com
 howbuy.com
 howelllighting.com
 howjoin.com
+hownav.com
 howsci.com
 howsoftworks.net
 howtoing.com
@@ -43386,7 +43387,6 @@ huzhongxin.com
 huzhou.baixing.com
 huzhoumuseum.com
 huzicaotang.com
-huzs.net
 huzu.com
 hv.code.tanwanyx.com
 hvac001.com
@@ -46018,6 +46018,7 @@ imgsrc.baidu.com
 imgsreview.dftoutiao.com
 imgstat.baidu.com
 imgstat.n.shifen.com
+imgtg.com
 imgtu.com
 imgu.cc
 imgurl.org
@@ -46834,7 +46835,6 @@ ipv6-aserver-heyi.m.taobao.com.gds.alibabadns.com
 ipv6-img.dns.iqiyi.com
 ipv6-mobilelivephoto.bs2dl.yy.com
 ipv6-static.dns.iqiyi.com
-ipv6.la
 ipv6.ustc.edu.cn
 ipv6chong.qq.com
 ipv6dns.com
@@ -49921,7 +49921,6 @@ jsche.net
 jschengta.com
 jschunxing.com
 jscj.com
-jsckjqr.com
 jsclearing.com
 jscm.a.etoote.com
 jscmjt.com
@@ -57243,6 +57242,7 @@ mangake.com
 mangege.com
 mangg.com
 mangg.net
+manggo.fun
 mangguo.com
 mangguo.org
 mangguo168.com
@@ -57352,6 +57352,7 @@ maotuying.com
 maowow.com
 maoxinhang.com
 maoxun.net
+maoyachen.com
 maoyan.com
 maoyan.vip.meituan.com
 maoyi.biz
@@ -57457,7 +57458,6 @@ marketing.alibaba.com
 marketing.etouch.cn
 marketing.waimai.meituan.com
 marketingapi.hellobike.com
-marketiva-platform.com
 marketreportchina.com
 markhoo.com
 markjour.com
@@ -59351,7 +59351,6 @@ mnbvtgv.com
 mndqlib.net
 mndsoft.com
 mng0303.com
-mng044.com
 mnihyc.com
 mnjj.group
 mnkan.com
@@ -70915,7 +70914,6 @@ remaijie.net
 remapcity.com
 remark.dance
 remax-bj.com
-remehealth.com
 rememtek.com
 remen88.com
 remimarsal.gallerycdn.azure.cn
@@ -71341,6 +71339,7 @@ rizhaociming.com
 rizhi.xyz
 rizhiyi.com
 rizhuji.com
+rizhuti.com
 rj-bai.com
 rj.m.taobao.com
 rj.ts.2345.com
@@ -71497,6 +71496,7 @@ rongjinsuo.com
 rongledz.com
 ronglianmeng.net
 rongmayisheng.com
+rongmei.net
 rongnav.com
 rongroad.com
 rongshiedu.com
@@ -80037,7 +80037,6 @@ tctask.com
 tctd.net
 tctip.com
 tctong.com
-tcxfpc-pcb.com
 tcxw.cc
 tcy365.com
 tcyl.pro
@@ -81030,7 +81029,6 @@ timy.ink
 tinderboxx.com
 tinfinite.com
 ting-tou.com
-ting30.com
 ting55.com
 tingall.com
 tingbook.com
@@ -84543,6 +84541,7 @@ uufund.com
 uugai.com
 uugame.com
 uugtv.com
+uuh5.com
 uuhall.com
 uuhimalayanqm.com
 uuhy.com
@@ -104295,6 +104294,7 @@ zhulogic.com
 zhulong.com
 zhulou.net
 zhulu86.com
+zhume.com
 zhumengwl.com
 zhumu.me
 zhuna.net
