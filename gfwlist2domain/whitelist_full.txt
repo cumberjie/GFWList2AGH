@@ -2606,7 +2606,6 @@
 1qfa.com
 1qianbao.com
 1qwe3r.com
-1qyl.com
 1r1g.com
 1r7nya677qygwfqfpq1f6uvcsg9b7avy.alicloudwaf.com
 1rtb.com
@@ -7843,6 +7842,7 @@
 7moor.com
 7msj.com
 7mx.com
+7mz3a.com
 7nepal.com
 7net.cc
 7oh.net
@@ -14311,6 +14311,7 @@ asiainfo-sec.com
 asiainfo.com
 asiainfodata.com
 asianewsphoto.com
+asianmetal.com
 asiarobot.net
 asifadeaway.com
 asilu.com
@@ -16590,6 +16591,7 @@ bestwehotel.com
 bestweshop.com
 bestzone.org
 bet007.com
+bet08365.com
 betaflare.com
 betahub.cn
 betahub.cn.w.kunluncan.com
@@ -19315,7 +19317,6 @@ caiyunyi.com
 caizhaowang.com
 caizhihr.com
 caj11.com
-caj5.com
 cajviewer.cnki.net
 cake400.com
 cake6.com
@@ -19817,7 +19818,6 @@ cciddesign.com
 ccidedu.com
 ccidexpo.com
 ccidgroup.com
-ccidjinglue.com
 ccidnet.com
 ccidreport.com
 ccidsmart.com
@@ -20090,7 +20090,6 @@ cdgxfz.com
 cdh3c.com
 cdhaiguang.com
 cdhfund.com
-cdhongfu.com
 cdhr.net
 cdhtnews.com
 cdiah.com
@@ -21499,7 +21498,6 @@ china-cold.com
 china-consulate.org
 china-csdz.com
 china-csm.org
-china-cw.com
 china-d.com
 china-def.com
 china-designer.com
@@ -22927,7 +22925,6 @@ clewx.com
 clf.red
 clfile.com
 clfx05g0.sched.s2.tdnsv5.com
-clgc88.com
 cli.im
 click-v.com
 click.abchina.com
@@ -29207,7 +29204,6 @@ dm4mm.com
 dm5.com
 dm50.ys137.com
 dm77.com
-dm789.com
 dm9.com
 dmacg.net
 dmacore.kejet.com
@@ -31114,7 +31110,6 @@ dycar.net
 dycars.com
 dycdn.com
 dycf.net
-dycmjkgl.com
 dydab.com
 dydata.io
 dydt.net
@@ -34006,6 +34001,7 @@ fcww19.com
 fcxjiuyuan.com
 fcxxh.org
 fcyhw.com
+fcyjj.com
 fcz360.com
 fczx.com
 fd-trust.com
@@ -40109,7 +40105,6 @@ hbhm.net
 hbhtcm.com
 hbhtxx.com
 hbhxbb.com
-hbhxqq.com
 hbhxrff.com
 hbhyc.cn
 hbhyychem.com
@@ -40963,7 +40958,6 @@ hg12333.com
 hg1946.vip
 hg5177.com
 hg5677.org
-hg58.pw
 hg6262.biz
 hg707.com
 hg7799.net
@@ -41577,6 +41571,7 @@ hmma.baidu.com
 hmma.e.shifen.com
 hmnjf.com
 hmnst.com
+hmoe.link
 hmpic.xyz
 hmplay.com
 hmrz.wo.cn
@@ -42004,7 +41999,6 @@ hoolee8.com
 hoolinks.com
 hoolo.tv
 hoop-archi.com
-hoop8.com
 hoopchina.com
 hoopchina.com.cn
 hoopugames.net
@@ -43534,7 +43528,6 @@ hxsec.com
 hxshx.com
 hxsme.org
 hxt-semitech.com
-hxthjy.com
 hxtk.com
 hxwglm.com
 hxxdsb.com
@@ -43546,6 +43539,7 @@ hxytea.com
 hxytw.com
 hxyxsj.com
 hxzdhn.com
+hxzgcj.com
 hxzq.cn
 hy-la.com
 hy-zr.com
@@ -47032,7 +47026,6 @@ isoyes.com
 isoying.com
 isoyu.com
 isp.cx
-ispeaken.com
 ispecial.xyz
 isport2008.com
 isps-api.pingan.com.cn
@@ -51293,7 +51286,6 @@ kede.com.hk
 kedi.cc
 kedou.com
 keede.com
-keen8.com
 keenonrobot.com
 keensky.com
 keenwon.com
@@ -51406,7 +51398,6 @@ kenwen.com
 kenxn.com
 kenxq.com
 kenxr.com
-kenxv.com
 kepingtong.com
 kepler-cn.captcha.qcloud.com
 kepler.ptqy.gitv.tv
@@ -51439,7 +51430,6 @@ kesum.com
 ketangpai.com
 ketingkeji.com
 ketuimage.com
-kevincc.xyz
 kevinems.com
 kevinhewu.com
 kevinjiang.info
@@ -53585,7 +53575,6 @@ lejianweike.com
 lejiaolexue.com
 lejj.com
 lejlb.com
-lejlc.com
 leju.com
 lejucaifu.com
 lejuliang.com
@@ -56270,7 +56259,6 @@ lygnews.com
 lygou.cc
 lygrffw.com
 lygsyyijia.com
-lyhanda.com
 lyhdream.com
 lyhero.com
 lyhuadu.com
@@ -58203,7 +58191,6 @@ menglechong.com
 menglegame.com
 menglei.info
 mengma.com
-mengma021.com
 mengmob.com
 mengniang.tv
 mengniu99.com
@@ -59225,6 +59212,7 @@ mm2uu.com
 mm3.365dmp.com
 mm4.365dmp.com
 mm52.com
+mm52.net
 mm8mm8.com
 mm957.com
 mma.admaster.com.cn
@@ -62942,7 +62930,6 @@ ok5188.net
 ok86.com
 ok8809.com
 ok9624.com
-ok9803.com
 oka-vip.com
 okad.com
 okaoyan.com
@@ -73459,6 +73446,7 @@ seezy.com
 sefonsoft.com
 sefyc.com
 segahome.com
+segapi.com
 segmentfault.com
 segmentfault.net
 segotep.com
@@ -74371,6 +74359,7 @@ shenpinwu.com
 shenqhy.com
 shenqibuy.com
 shenqiu.baixing.com
+shenqiwunet.com
 shenquol.com
 shenrennn.com
 shenrongda.com
@@ -83742,6 +83731,7 @@ uissm.com
 uiste.com
 uiu.cc
 uiwed.com
+ujia007.com
 ujian.cc
 ujifu.com
 ujinbi.com
@@ -102144,7 +102134,6 @@ ywtx.cc
 ywwm.net
 ywxue.com
 ywxzz.com
-ywy7.com
 ywyanxing.com
 ywzqzx.com
 yx-g.com
@@ -102235,7 +102224,6 @@ yxrb.net
 yxrczp.com
 yxsc33.com
 yxsea.com
-yxshgwjy.com
 yxslt.cn
 yxsos.com
 yxss.com
