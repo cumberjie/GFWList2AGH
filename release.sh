@@ -119,7 +119,7 @@ function GenerateRules() {
                 "tls://dns.alidns.com"
             )
             foreign_dns=(
-                "https://doh.dns.sb/dns-query"
+             #   "https://doh.dns.sb/dns-query"
                 "8.8.8.8"
                 "9.9.9.9"    
             )
