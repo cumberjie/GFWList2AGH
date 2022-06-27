@@ -121,7 +121,7 @@ function GenerateRules() {
             foreign_dns=(
              #   "https://doh.dns.sb/dns-query"
                 "8.8.8.8"
-                "9.9.9.9"    
+             #   "9.9.9.9"    
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
