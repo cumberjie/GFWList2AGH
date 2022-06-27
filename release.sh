@@ -17,15 +17,15 @@ function GetData() {
         "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf"
     )
     gfwlist_base64=(
-        "https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt"
-        "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
-        "https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt"
+      #  "https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt"
+      #  "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
+      #  "https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt"
     )
     gfwlist_domain=(
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt"
-        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt"
-        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
-        "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
+      #  "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt"
+       # "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
+       # "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
     gfwlist2agh_modify=(
         "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/source/data/data_modify.txt"
