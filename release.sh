@@ -119,12 +119,8 @@ function GenerateRules() {
                 "tls://dns.alidns.com"
             )
             foreign_dns=(
-                "https://doh.dns.sb/dns-query"
                 "https://hk-hkg.doh.sb/dns-query"
                 "https://doh.opendns.com/dns-query"
-                "https://1.0.0.1/dns-query"    
-                "https://dns-unfiltered.adguard.com/dns-query"
-                "tls://dns-unfiltered.adguard.com"   
                 "tls://dns.google"
                 "https://8.8.8.8/dns-query"
             )
