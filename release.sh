@@ -23,6 +23,7 @@ function GetData() {
     )
     gfwlist_domain=(
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt"
+        "https://raw.githubusercontent.com/cumberjie/MEzhgz/main/FL"
       #  "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt"
        # "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
        # "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
