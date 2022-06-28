@@ -116,10 +116,10 @@ function GenerateRules() {
                 "tls://dns.alidns.com"
             )
             foreign_dns=(
-             #   "https://hk-hkg.doh.sb/dns-query"
-             #   "https://doh.opendns.com/dns-query"
+                "https://hk-hkg.doh.sb/dns-query"
+                "https://doh.opendns.com/dns-query"
                 "tls://dns.google"
-             #   "https://8.8.8.8/dns-query"
+                "https://8.8.8.8/dns-query"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
