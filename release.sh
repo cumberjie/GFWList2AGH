@@ -111,16 +111,13 @@ function GenerateRules() {
         adguardhome)
             domestic_dns=(
                 "https://doh.pub/dns-query"
-                "https://223.6.6.6/dns-query"
-                "https://223.5.5.5/dns-query"
                 "https://dns.alidns.com/dns-query"
-                "https://dns.pub/dns-query"
                 "tls://dns.pub"
                 "tls://dns.alidns.com"
             )
             foreign_dns=(
-                "https://hk-hkg.doh.sb/dns-query"
-                "https://doh.opendns.com/dns-query"
+             #   "https://hk-hkg.doh.sb/dns-query"
+             #   "https://doh.opendns.com/dns-query"
                 "tls://dns.google"
                 "https://8.8.8.8/dns-query"
             )
