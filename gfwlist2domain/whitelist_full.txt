@@ -2672,7 +2672,6 @@
 1uke.com
 1uuc.com
 1uwpmz.tdum.alibaba.com
-1v1offcn.com
 1vp.me
 1w499yq9.sched.sma.tdnsv5.com
 1wandian.com
@@ -23405,7 +23404,6 @@ clouddiffuse.xyz
 clouddn.com
 clouddream.net
 cloudeagle.cn
-cloudflarea.com
 cloudfont.docer.wps.cn
 cloudfront.cn
 cloudgame-config.aliyun.com
@@ -29744,7 +29742,6 @@ dnsvhost.com
 dnswa.com
 dnswhk.com
 dnswind.net
-dnsx365.com
 dnsyy.net
 dnszh.com
 dnxp.net
@@ -70818,7 +70815,6 @@ qy-swallow.qiyukf.com
 qy.cn
 qy.net
 qy.qchannel03.cn
-qy01.com
 qy266.com
 qy32.vip
 qy435.com
@@ -76402,7 +76398,6 @@ sjxs.la
 sjybsc.com
 sjycbl.com
 sjymov.a.yximgs.com
-sjyst.net
 sjytech.com
 sjyx.com
 sjyyt.com
