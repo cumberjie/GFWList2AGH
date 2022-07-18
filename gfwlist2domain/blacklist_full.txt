@@ -148,6 +148,7 @@ abitno.linpie.com
 ablwang.com
 aboluowang.com
 about.google
+aboutamazon.com
 aboutgfw.com
 abs.edu
 ac.jiruan.net
@@ -203,6 +204,8 @@ airvpn.org
 aisex.com
 aiss.anws.gov.tw
 ait.org.tw
+aiv-cdn.net
+aiv-delivery.net
 aiweiwei.com
 aiweiweiblog.com
 ajsands.com
@@ -251,7 +254,9 @@ alwaysvpn.com
 am730.com.hk
 amazon.co.jp
 amazon.com
+amazon.jobs
 amazonaws.com
+amazonvideo.com
 ameblo.jp
 america.gov
 american.edu
@@ -408,6 +413,7 @@ athenaeizou.com
 atlanta168.com
 atlaspost.com
 atnext.com
+atv-ps.amazon.com
 auctions.yahoo.co.jp
 audionow.com
 auntology.fandom.com
@@ -433,6 +439,7 @@ avmo.pw
 avmoo.com
 avmoo.net
 avmoo.pw
+avodmp4s3ww-a.akamaihd.net
 avoision.com
 avyahoo.com
 axios.com
@@ -565,6 +572,7 @@ bic2011.org
 biedian.me
 big.one
 bigfools.com
+biggggg.com
 bigjapanesesex.com
 bigmoney.biz
 bignews.org
@@ -767,6 +775,7 @@ braumeister.org
 brave.com
 bravotube.net
 brazzers.com
+breached.to
 break.com
 breakgfw.com
 breaking911.com
@@ -803,6 +812,7 @@ bullogger.com
 bunbunhk.com
 busayari.com
 business-humanrights.org
+business.page
 businessinsider.com
 businesstoday.com.tw
 businessweek.com
@@ -823,6 +833,7 @@ bybit.com
 bynet.co.il
 bypasscensorship.org
 byrut.org
+byteoversea.com
 c-est-simple.com
 c-span.org
 c-spanvideo.org
@@ -1324,8 +1335,14 @@ d0z.net
 d100.net
 d1b183sg0nvnuh.cloudfront.net
 d1c37gjwa26taa.cloudfront.net
+d1v5ir2lpwr8os.cloudfront.net
+d1xfray82862hr.cloudfront.net
+d22qjgkvxw22r6.cloudfront.net
+d25xi40x97liuc.cloudfront.net
+d27xxe7juh1us6.cloudfront.net
 d2bay.com
 d2pass.com
+d3196yreox78o9.cloudfront.net
 d3c33hcgiwev3.cloudfront.net
 d3rhr7kgmtrq1v.cloudfront.net
 dabr.co.uk
@@ -1480,6 +1497,7 @@ dmcdn.net
 dmhy.org
 dmm.co.jp
 dmm.com
+dmqdd6hw24ucf.cloudfront.net
 dns-dns.com
 dns-stuff.com
 dns.cloudflare.com
@@ -1911,6 +1929,7 @@ fingerdaily.com
 finler.net
 firearmsworld.net
 firebaseio.com
+firefox.com
 fireofliberty.org
 firetweet.io
 firstfivefollowers.com
@@ -2555,6 +2574,7 @@ gvlib.com
 gvm.com.tw
 gvt0.com
 gvt1.com
+gvt2.com
 gvt3.com
 gwins.org
 gwtproject.org
@@ -2864,6 +2884,7 @@ iblogserv-f.net
 ibros.org
 ibtimes.com
 ibvpn.com
+ibytedtos.com
 icams.com
 ice.audionow.com
 icerocket.com
@@ -2986,6 +3007,7 @@ ipoock.com
 iportal.me
 ippotv.com
 ipredator.se
+ipstatp.com
 iptv.com.tw
 iptvbin.com
 ipvanish.com
@@ -3234,6 +3256,7 @@ kqes.net
 ksdl.org
 ksnews.com.tw
 kspcoin.com
+ktpx.amazon.com
 ktzhk.com
 kucoin.com
 kui.name
@@ -3494,6 +3517,7 @@ me.me
 me.uk
 me.youthwant.com.tw
 meansys.com
+media-amazon.com
 media.nu.nl
 media.org.hk
 mediachinese.com
@@ -3674,13 +3698,17 @@ mthruf.com
 mtw.tl
 mubi.com
 muchosucko.com
+mudvod.tv
 mullvad.net
 multiply.com
 multiproxy.org
 multiupload.com
 mummysgold.com
 murmur.tw
+muscdn.com
+music.youtube.com
 musicade.net
+musical.ly
 muslimvideo.com
 muzi.com
 muzi.net
@@ -3786,6 +3814,9 @@ naweeklytimes.com
 nbc.com
 nbcnews.com
 nbtvpn.com
+nbys.tv
+nbys1.tv
+nbyy.tv
 nccwatch.org.tw
 nch.com.tw
 nchrd.org
@@ -3834,6 +3865,7 @@ newhighlandvision.com
 newipnow.com
 newlandmagazine.com.au
 newnews.ca
+newpppp.com
 news.cnyes.com
 news.hk.msn.com
 news.msn.com.tw
@@ -4289,6 +4321,7 @@ plus28.com
 plusbb.com
 pmatehunter.com
 pmates.com
+po18.tw
 po2b.com
 pobieramy.top
 podbean.com
@@ -4382,6 +4415,7 @@ proxytunnel.net
 proyectoclubes.com
 prozz.net
 psblog.name
+pscdn.co
 pscp.tv
 pshvpn.com
 psiphon.ca
@@ -4415,6 +4449,7 @@ putihome.org
 putlocker.com
 putty.org
 puuko.com
+pv-cdn.net
 pwned.com
 pximg.net
 python.com
@@ -4535,6 +4570,7 @@ reflectivecode.com
 registry.google
 relaxbbs.com
 relay.com.tw
+relay.firefox.com
 releaseinternational.org
 religionnews.com
 religioustolerance.org
@@ -4664,6 +4700,7 @@ scache.vzw.com
 scache1.vzw.com
 scache2.vzw.com
 scasino.com
+scdn.co
 schema.org
 sciencemag.org
 sciencenets.com
@@ -4702,6 +4739,7 @@ sejie.com
 sellclassics.com
 sendsmtp.com
 sendspace.com
+sensortower.com
 seraph.me
 servehttp.com
 serveuser.com
@@ -4947,7 +4985,10 @@ spideroak.com
 spike.com
 sports.williamhill.com
 spotflux.com
+spoti.fi
 spotify.com
+spotifycdn.com
+spotifycdn.net
 spreadshirt.es
 spring4u.info
 springboardplatform.com
@@ -5354,7 +5395,10 @@ tibettimes.net
 tibetwrites.org
 ticket.com.tw
 tigervpn.com
+tik-tokapi.com
 tiktok.com
+tiktokcdn.com
+tiktokv.com
 tiltbrush.com
 timdir.com
 time.com
@@ -6085,6 +6129,7 @@ worldvpn.net
 wow-life.net
 wow.com
 wowgirls.com
+wowhead.com
 wowlegacy.ml
 wowporn.com
 wowrk.com
@@ -6328,11 +6373,13 @@ youtube.com
 youtubecn.com
 youtubeeducation.com
 youtubegaming.com
+youtubei.googleapis.com
 youtubekids.com
 youversion.com
 youwin.com
 youxu.info
 yt.be
+yt3.ggpht.com
 ytht.net
 ytimg.com
 ytn.co.kr

@@ -133,6 +133,7 @@ abebooks.com
 ablwang.com
 aboluowang.com
 about.google
+aboutamazon.com
 aboutgfw.com
 abs.edu
 accim.org
@@ -177,6 +178,8 @@ airconsole.com
 aircrack-ng.org
 airvpn.org
 aisex.com
+aiv-cdn.net
+aiv-delivery.net
 aiweiwei.com
 aiweiweiblog.com
 ajsands.com
@@ -221,7 +224,9 @@ alwaysdata.com
 alwaysdata.net
 alwaysvpn.com
 amazon.com
+amazon.jobs
 amazonaws.com
+amazonvideo.com
 ameblo.jp
 america.gov
 american.edu
@@ -471,6 +476,7 @@ bic2011.org
 biedian.me
 big.one
 bigfools.com
+biggggg.com
 bigjapanesesex.com
 bigmoney.biz
 bignews.org
@@ -619,6 +625,7 @@ braumeister.org
 brave.com
 bravotube.net
 brazzers.com
+breached.to
 break.com
 breakgfw.com
 breaking911.com
@@ -654,6 +661,7 @@ bullogger.com
 bunbunhk.com
 busayari.com
 business-humanrights.org
+business.page
 businessinsider.com
 businessweek.com
 busu.org
@@ -670,6 +678,7 @@ bx.tl
 bybit.com
 bypasscensorship.org
 byrut.org
+byteoversea.com
 c-est-simple.com
 c-span.org
 c-spanvideo.org
@@ -1602,6 +1611,7 @@ fingerdaily.com
 finler.net
 firearmsworld.net
 firebaseio.com
+firefox.com
 fireofliberty.org
 firetweet.io
 firstfivefollowers.com
@@ -2372,6 +2382,7 @@ iblogserv-f.net
 ibros.org
 ibtimes.com
 ibvpn.com
+ibytedtos.com
 icams.com
 icerocket.com
 icij.org
@@ -2481,6 +2492,7 @@ ipoock.com
 iportal.me
 ippotv.com
 ipredator.se
+ipstatp.com
 iptvbin.com
 ipvanish.com
 iredmail.org
@@ -2929,6 +2941,7 @@ md-t.org
 me.me
 me.uk
 meansys.com
+media-amazon.com
 mediachinese.com
 mediafire.com
 mediafreakcity.com
@@ -3091,13 +3104,16 @@ mthruf.com
 mtw.tl
 mubi.com
 muchosucko.com
+mudvod.tv
 mullvad.net
 multiply.com
 multiproxy.org
 multiupload.com
 mummysgold.com
 murmur.tw
+muscdn.com
 musicade.net
+musical.ly
 muslimvideo.com
 muzi.com
 muzi.net
@@ -3186,6 +3202,9 @@ naweeklytimes.com
 nbc.com
 nbcnews.com
 nbtvpn.com
+nbys.tv
+nbys1.tv
+nbyy.tv
 nchrd.org
 ncn.org
 ncol.com
@@ -3230,6 +3249,7 @@ newgrounds.com
 newhighlandvision.com
 newipnow.com
 newnews.ca
+newpppp.com
 newsancai.com
 newschinacomment.org
 newscn.org
@@ -3612,6 +3632,7 @@ plus28.com
 plusbb.com
 pmatehunter.com
 pmates.com
+po18.tw
 po2b.com
 pobieramy.top
 podbean.com
@@ -3702,6 +3723,7 @@ proxytunnel.net
 proyectoclubes.com
 prozz.net
 psblog.name
+pscdn.co
 pscp.tv
 pshvpn.com
 psiphon.ca
@@ -3730,6 +3752,7 @@ putihome.org
 putlocker.com
 putty.org
 puuko.com
+pv-cdn.net
 pwned.com
 pximg.net
 python.com
@@ -3943,6 +3966,7 @@ savevid.com
 say2.info
 sbme.me
 scasino.com
+scdn.co
 schema.org
 sciencemag.org
 sciencenets.com
@@ -3974,6 +3998,7 @@ sejie.com
 sellclassics.com
 sendsmtp.com
 sendspace.com
+sensortower.com
 seraph.me
 servehttp.com
 serveuser.com
@@ -4192,7 +4217,10 @@ spicevpn.com
 spideroak.com
 spike.com
 spotflux.com
+spoti.fi
 spotify.com
+spotifycdn.com
+spotifycdn.net
 spreadshirt.es
 spring4u.info
 springboardplatform.com
@@ -4544,7 +4572,10 @@ tibettelegraph.com
 tibettimes.net
 tibetwrites.org
 tigervpn.com
+tik-tokapi.com
 tiktok.com
+tiktokcdn.com
+tiktokv.com
 tiltbrush.com
 timdir.com
 time.com
@@ -5175,6 +5206,7 @@ worldvpn.net
 wow-life.net
 wow.com
 wowgirls.com
+wowhead.com
 wowlegacy.ml
 wowporn.com
 wowrk.com
