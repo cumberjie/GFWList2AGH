@@ -6948,7 +6948,6 @@
 651700.com
 6528.com
 6533.org
-654.com
 6540e46b.qc.x.bsgslb.cn
 6540e648.qc.x.bsgslb.cn
 654320.com
@@ -12469,6 +12468,7 @@ aliyunddos0003.com
 aliyunddos0005.com
 aliyunddos0006.com
 aliyunddos0010.com
+aliyunddos0017.com
 aliyunddos0018.com
 aliyunddos0019.com
 aliyunddos0020.com
@@ -23435,7 +23435,6 @@ cloudservice22.kingsoft-office-service.com
 cloudservice27.kingsoft-office-service.com
 cloudsgis.com
 cloudsohu.net
-cloudstack-china.org
 cloudtcp.net
 cloudtgpa.play.aiseet.atianqi.com
 cloudtim.msf.tencent-cloud.com
@@ -26435,6 +26434,7 @@ czfesco-mg.com
 czggsj.com
 czgjj.com
 czgjj.net
+czgmjsj.com
 czgongzuo.com
 czie.net
 czifi.org
@@ -30102,6 +30102,7 @@ douyinpic.com
 douyinstatic.com
 douyinvideo.net
 douyinvod.com
+douyinvod.xyz
 douyinxiaodian10.com
 douyou100.com
 douyu.com
@@ -31360,6 +31361,7 @@ dxm-baifubao.n.shifen.com
 dxm-bfb.n.shifen.com
 dxm-fscene.n.shifen.com
 dxmicash.n.shifen.com
+dxmjinr.com
 dxmpay.com
 dxmpay.p.xianfae.com
 dxmstatic.com
@@ -41837,6 +41839,7 @@ hkm168.com
 hkmh7tsa.v1d.szbdyd.com
 hkmhmtya.v1d.szbdyd.com
 hkmjd.com
+hknet-inc.com
 hkpanamie.com
 hkpdbmbc.v1d.szbdyd.com
 hkpep.com
@@ -43526,7 +43529,6 @@ hulai.com
 hulai.suning.com
 hulamao.com
 hulanap.com
-huliangongyu.com
 hulianmaibo.com
 hulinhong.com
 huliqun.com
@@ -46936,7 +46938,6 @@ internationalbrand.net
 internbird.com
 internet-dns.com
 internet7.vip
-internetcaff.com
 internetke.com
 internettrademark.com
 internetworld.cloud
@@ -47387,6 +47388,7 @@ isee.weishi.qq.com
 isee.weishi.qq.com.cloud.tc.qq.com
 isee.weishi.qq.com.sched.px-dk.tdnsv6.com
 iseedog.com
+iseekids.com
 iseepro.cbit.com.cn
 isenruan.com
 iseoku.com
@@ -56447,7 +56449,6 @@ luobo020.com
 luobo360.com
 luobocai.com
 luobotou.org
-luobowin10.com
 luobowin8.com
 luoboxia.com
 luochen.com
@@ -57944,7 +57945,6 @@ marmot-cloud.com
 maro6.com
 maroon91.com
 marry5.com
-marry80.com
 mars.ccc.cmbchina.com
 mars.meituan.com
 marsfancy.com
@@ -69032,6 +69032,7 @@ qiku.com
 qikuailianwang.com
 qikucdn.com
 qikula.com
+qikuzx.com
 qilang.net
 qilanxiaozhu.co
 qilanxiaozhu.net
@@ -69582,6 +69583,7 @@ qmsjmfb.com
 qmtj.net
 qmtk.com
 qmtv.com
+qmvj.xyz
 qmwtp.com
 qmz5.com
 qmzs.com
@@ -73355,7 +73357,6 @@ scclssj.com
 sccm.cc
 sccnn.com
 sccq.net
-sccsfxdq.com
 sccts.com
 sccwz.com
 scdbzzw.com
@@ -75138,6 +75139,7 @@ shijieshangzuihaodeyuyan.com
 shijiexia.com
 shijieyouxi.com
 shijieyunlian.com
+shijifeifan.com
 shijihr.com
 shijihulian.com
 shijiong.com
@@ -75851,6 +75853,7 @@ shvlee.com
 shwcsh.com
 shwdbjgs.com
 shwebi.cn
+shwebspace.com
 shweiwen.cn
 shweiya.com
 shwglm.com
@@ -77787,7 +77790,6 @@ sssvd.china.com
 sst-ic.com
 sst-sd.com
 sst.taptap.com
-ssuu.cc
 ssv.admaster.com.cn
 ssvob.com
 sswchina.com
@@ -79655,6 +79657,7 @@ szse.cn
 szseafoodexpo.com
 szshequ.org
 szshinp.com
+szshjkj.com
 szshort.pay.weixin.qq.com
 szshort.weixin.qq.com
 szshort6.weixin.qq.com
@@ -81661,6 +81664,7 @@ tingsec.link
 tingshen.court.gov.cn
 tingshubao.com
 tingshuge.com
+tingsonglaw.com
 tingtao.net
 tingxiangzu.com
 tingyulou.com
@@ -84579,7 +84583,6 @@ union2.50bang.org
 union400.com
 union555.com
 unionbig.com
-unionclouds.net
 unioncyber.net
 unioniddata.meituan.com
 unionimage.baidu.com
@@ -85119,6 +85122,7 @@ utoken.umeng.com
 utom.design
 utop.umengcloud.com
 utoper.com
+utopiafar.com
 utourworld.com
 utovr.com
 utp-dmp.ucweb.com
@@ -86397,6 +86401,7 @@ vipexam.org
 vipfengfei.com
 vipfengxiao.com
 vipfinal.com
+vipglobal.hk
 vipgs.net
 vipgslb.com
 viphdk.xyz
@@ -88218,6 +88223,7 @@ weikaowu.com
 weikasen.com
 weikd.com
 weike.fm
+weikeam.com
 weikebaba.net
 weikeimg.com
 weikejianghu.com
@@ -99487,6 +99493,7 @@ xzddx.com
 xzfclub.com
 xzfi.cc
 xzfile.com
+xzforu.com
 xzggjyzpw.com
 xzgjj.com
 xzh200c.shop
@@ -102797,7 +102804,6 @@ yushou.jd.com
 yushou.jd.com.gslb.qianxun.com
 yushu.baixing.com
 yushu5.com
-yushuha.com
 yushunews.com
 yusi.com
 yusi.tv
@@ -102939,6 +102945,7 @@ yx5198.com
 yx643.com
 yx7088.com
 yx74.com
+yx7507.com
 yx8811.com
 yx8u.com
 yxbao.com
@@ -103728,6 +103735,7 @@ zfyyhb.com
 zg-import.com
 zg-imsoft.com
 zg114w.com
+zg118.com
 zg163.net
 zg3721.com
 zg388.com
@@ -104162,6 +104170,7 @@ zhaopins.com
 zhaoqianwang.com
 zhaoqing.anjuke.com
 zhaoqt.net
+zhaosecha.com
 zhaoshang.net
 zhaoshang01.com
 zhaoshang100.com
@@ -104310,6 +104319,7 @@ zhensoushu.com
 zhentan.la
 zhentao.shop
 zhenwu.com
+zhenxiad.com
 zhenxian.fm
 zhenxinchicken.xyz
 zhenxingkuangchanpin.com
@@ -105797,6 +105807,7 @@ znyxb.com
 znznet.net
 zo-l.net
 zo66.com
+zoassetmanagement.com
 zocai.com
 zocodev.com
 zodiac.wang
