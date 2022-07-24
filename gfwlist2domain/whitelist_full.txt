@@ -1037,7 +1037,6 @@
 100tone.com
 100toutiao.com
 100try.com
-100txt.com
 100txy.com
 100ulife.com
 100wa.com
@@ -3114,7 +3113,6 @@
 23wx.cc
 23wx.io
 23wx.la
-23wxw.com
 23xs.cc
 23xs.tv
 23xsba.cc
@@ -3475,7 +3473,6 @@
 2shoujie.com
 2shu8.cc
 2sitebbs.com
-2smoto.com
 2smtc.com
 2sx.net
 2te.com
@@ -5184,7 +5181,6 @@
 51aistar.com
 51aiwan.com
 51anidea.com
-51ape.com
 51app.com
 51ask.org
 51asm.com
@@ -5333,7 +5329,6 @@
 51geeks.com
 51gfl.com
 51gfw.com
-51ggd.com
 51ggwu.com
 51gh.net
 51gif.com
@@ -6373,7 +6368,6 @@
 58gameup.com
 58ganji.com
 58gush.com
-58house.com
 58hzb.com
 58img.com
 58insure.com
@@ -7314,7 +7308,6 @@
 6xigema.com
 6xw.com
 6ye.com.cn
-6yit.com
 6yoo.com
 6yu6.com
 6yuexi.com
@@ -16385,7 +16378,6 @@ bdm.ye-su.cn
 bdmjs.xywy.com
 bdmm.xywy.com
 bdmov.a.yximgs.com
-bdmp4.com
 bdns-dy-vod.bytegslb.com
 bdp.cn
 bdpan.com
@@ -16498,7 +16490,6 @@ beemarket.tv
 beep365.com
 beeplay123.com
 beervm.club
-beervm.xyz
 beeshow.tv
 beestor.com
 beestore.tv
@@ -29989,7 +29980,6 @@ dotcpp.com
 doteck.com
 dotgate.com
 doticloud.com
-dotinapp.com
 dotserver.douyucdn.cn
 dotserver.douyucdn.cn.w.cdngslb.com
 dotty-china.com
@@ -30228,7 +30218,6 @@ downloaddispatch.itunes.apple.com
 downloaddispatch.itunes.apple.com.cdn20.com
 downloader.aldtop.com
 downloadjstest.tcdn.qq.com
-downloadla.pro
 downok.com
 downol.com
 downos.com
@@ -35169,7 +35158,6 @@ floor.jd.com
 floor.jd.com.gslb.qianxun.com
 floorb2b.com
 florentiavillage.com
-floverow.com
 flow.10010.com
 flow.dmall.com
 flow.qq.com
@@ -36923,7 +36911,6 @@ gdtapishow.tanwan.com.w.cdngslb.com
 gdtex.com
 gdtextbook.com
 gdtimg.com
-gdtnio.com
 gdtone.com
 gdtrafficad.com
 gdtravel.com
@@ -37790,7 +37777,6 @@ gocarjourney.com
 gocashback.com
 gocea.net
 goceshi.com
-gocheck.net
 gochego.com
 gocn.vip
 god51.com
@@ -47947,7 +47933,6 @@ ixueyi.com
 ixw.lcloc.com
 iy.com.cn
 iy51.com
-iyakuhin-mall.com
 iyangcong.com
 iyaou.com
 iyaxi.com
@@ -52360,7 +52345,6 @@ kofuf.com
 kofunion.net
 kohcloud.tgpa.qq.com
 koiclub.net
-koihime.net
 koikreative.com
 koinocn.com
 koippt.com
@@ -57770,7 +57754,6 @@ mantianfei.net
 mantusy.com
 manwuxian123.com
 manxiu-law.com
-manyjs.com
 manylaw.com
 manyoo.net
 manyou.com
@@ -60170,7 +60153,6 @@ mon.snssdk.com
 money.163.com
 money.finance.sina.com.cn
 money.qz828.com
-moneydai.com
 moneydata.hk
 moneygz.com
 moneyslow.com
@@ -64409,7 +64391,6 @@ outlink.chinaz.com
 outside.aliyun.gslb.aiclk.com
 ouvps.com
 ouxiangxiezhen.com
-ouxutong.com
 ouyabosi.com
 ouyada.com
 ouyaoxiazai.com
@@ -71113,7 +71094,6 @@ rate.taobao.com
 rate.tmall.com
 ratina.org
 rationmcu.com
-ratodo.com
 ratuo.com
 raven.xiaojukeji.com
 raw.sevencdn.com
@@ -75167,7 +75147,6 @@ shinycg.com
 shinyway.org
 shiove.com
 ship56.net
-shipengliang.com
 shipfinder.com
 shipgce.com
 shiphr.com
@@ -75781,7 +75760,6 @@ shuotoutiao.com
 shuowan.cc
 shuowan.com
 shuowan.net
-shuoxu.com
 shupaiyun.com
 shuqi.com
 shuqiapi.com
@@ -76274,8 +76252,6 @@ sixu.life
 sixuexiazai.com
 sixunited.com
 siyanhui.com
-siyu522.com
-siyu527.com
 siyuan.cc
 siyuanedu.com
 siyuanren.com
@@ -76535,7 +76511,6 @@ slicercn.com
 slide.news.sina.com.cn
 slide.sports.sina.com.cn
 slides.discovery.tom.com
-slieny.com
 slimtheme.com
 slink.gifshow.com
 slink8.com
@@ -76618,7 +76593,6 @@ smartad.10010.com
 smartad.10010.com.w.cdngslb.com
 smartag.console.aliyun.com
 smartapps.cn
-smartbiyun.com
 smartcityzhejiang.com
 smartcloudcon.com
 smartdeep.com
@@ -76884,7 +76858,6 @@ soagw.pw.xunlei.com
 soarwatch.com
 soba8.com
 sobaidupan.com
-sobanks.com
 sobar.baidu.com
 sobeian.com
 sobereva.com
@@ -79083,7 +79056,6 @@ swisswalls.com
 switch.pcfg.cache.wpscdn.cn
 switching.atm.punchbox.org
 swjack.com
-swjinsheng.com
 swjoy.com
 swjrzk.cn
 swkong.com
@@ -79709,7 +79681,6 @@ szymweb.com
 szyran.com
 szysmpay.com
 szyuda88.com
-szyunmiao.com
 szyxwkj.com
 szyy0373.com
 szyyda.com
@@ -80049,7 +80020,6 @@ taidao.net
 taidizh.com
 taidous.com
 taidu.com
-taidupa.com
 taifutj.com
 taig.com
 taigaoxiao.com
@@ -80396,7 +80366,6 @@ taotu8.net
 taou.cn
 taou.com
 taowola.com
-taowopu.com
 taoxiaolu.com
 taoxiaozhong.com
 taoxie.com
@@ -93392,7 +93361,6 @@ xiaomayi.co
 xiaomayi88.com
 xiaomei.cc
 xiaomeiti.com
-xiaomeme.com
 xiaomeng1235.com
 xiaomengquan.cn
 xiaomi-dtv.m.cn.miaozhen.com
@@ -100344,7 +100312,6 @@ yhjzg.cn
 yhkgas.com
 yhkingdee.com
 yhkt.online
-yhlbbs.com
 yhm11.com
 yhouse.com
 yhq368.com
