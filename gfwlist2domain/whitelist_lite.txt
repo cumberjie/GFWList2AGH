@@ -1040,7 +1040,6 @@
 114dns.com
 114dns.net
 114god.com
-114huoche.com
 114hzw.com
 114ic.com
 114ic.net
@@ -13505,6 +13504,7 @@ bvgv.com
 bvimg.com
 bvseo.com
 bw1006.com
+bw3.site
 bw30yun.com
 bw40.net
 bw8848.com
@@ -32872,6 +32872,7 @@ ikonke.com
 ikoo8.com
 ikozn.com
 iksea.com
+iku.cool
 iku8.com
 ikuai8-wifi.com
 ikuai8.com
@@ -45529,6 +45530,7 @@ nssd.org
 nsshare.com
 nsstream.com
 nstooll.com
+nsvdwypg.cyou
 nsw88.com
 nsw99.com
 nswyun.com
@@ -50573,6 +50575,7 @@ ritarpower.com
 ritering.com
 rivergame.net
 rixin.cc
+rixin.info
 rixingkj.com
 riyuanma.com
 riyuexing.org
@@ -52574,7 +52577,6 @@ sheui.com
 sheup.net
 shevdc.org
 shexiannet.com
-shexun.net
 sheyehealth.com
 sheyi8.com
 sheying001.net
@@ -71454,7 +71456,6 @@ zhsyb.cc
 zhtelecom.com
 zhtmid.com
 zhty.club
-zhtzvip.com
 zhu.cm
 zhu.vn
 zhu360.com

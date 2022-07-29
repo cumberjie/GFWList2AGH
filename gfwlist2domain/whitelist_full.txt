@@ -1245,7 +1245,6 @@
 114dns.com
 114dns.net
 114god.com
-114huoche.com
 114hzw.com
 114ic.com
 114ic.net
@@ -75033,7 +75032,6 @@ sheup.net
 shevdc.org
 shexiang123.51sole.com
 shexiannet.com
-shexun.net
 sheyehealth.com
 sheyi8.com
 sheying001.net
@@ -104869,7 +104867,6 @@ zhsyb.cc
 zhtelecom.com
 zhtmid.com
 zhty.club
-zhtzvip.com
 zhu.cm
 zhu.vn
 zhu360.com
