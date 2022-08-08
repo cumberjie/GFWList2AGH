@@ -1340,7 +1340,6 @@
 120.net
 12011.org
 120185.com
-120444.com
 1206397.sched.s1k.tdnsv5.com
 1206397.sched.v1.tdnsv5.com
 120ask.com
@@ -6950,7 +6949,6 @@
 65mhxy.com
 65singapore.com
 65wan.com
-65xs.net
 65zjp.cn
 6600.org
 66083797.com
@@ -7852,6 +7850,7 @@
 7ebzw9v.cn
 7ec3eccc800b79f10e5ed1eaa42ed13e.safeframe.googlesyndication.com
 7ecedb0b2b44f50e18f0fc746e60c59d.safeframe.googlesyndication.com
+7ed.net
 7edown.com
 7ee3ebae9ad5e27c842057b4a872eae1.dlied1.cdntips.net
 7f3mi7.tdum.alibaba.com
@@ -7867,6 +7866,7 @@
 7gz.com
 7hcn.com
 7help.net
+7het3grhg.xyz
 7ho.com
 7hon.com
 7huang.org
@@ -18138,6 +18138,7 @@ bom.ai
 bom2buy.com
 bomanair.com
 bomin-china.com
+bomman.com
 bon-top.com
 bon-wine.com
 bondlady.com
@@ -18640,6 +18641,7 @@ build-decor.com
 buildface.com
 buildhr.com
 buildjob.net
+buildwaterexpo.com
 buimg.com
 bujiangjiu123.com
 bujie.com
@@ -28314,7 +28316,6 @@ dfscdn.dfcfw.com
 dfseafood.com
 dfshurufa.com
 dfshw.com
-dfsjr.com
 dfsrcw.com
 dfss-club.com
 dfss7cn1.v1d.szbdyd.com
@@ -30498,6 +30499,7 @@ dswzxh.com
 dsx3t18e.v1d.szbdyd.com
 dsxdn.com
 dsxxjy.sspu.edu.cn
+dsxys.com
 dsyjz0755.com
 dsz5.weijinzhuanbb.com
 dsznajder.gallerycdn.azure.cn
@@ -34975,6 +34977,7 @@ fish3000.com
 fishapi.com
 fishcn.com
 fisherac.com
+fishfay.com
 fishing-sinkers.com
 fishingbar.net
 fishingjoy.com
@@ -40849,6 +40852,7 @@ hearthstone.nosdn.127.net
 heartide.com
 heartinsti.com
 heartshow.cn
+heavenlywind.cc
 heb.anjuke.com
 hebangdianzi.com
 hebaodai.com
@@ -43987,6 +43991,7 @@ hyrankhit.meldingcloud.com
 hyrz.qq.com
 hysdknb.com
 hysec.com
+hysemi-ic.com
 hysou.com
 hysteeltube.com
 hyt368.com
@@ -47423,6 +47428,7 @@ issconline.com
 issedu365.com
 issjj.com
 issuecdn.baidupcs.com
+ist-zl.com
 istarshine.com
 isthnew.com
 istpei.com
@@ -56210,6 +56216,7 @@ lsmf.sspu.edu.cn
 lsnetlib.com
 lsoos.com
 lspjy.com
+lsplayer.com
 lsqifu.com
 lsqpay.com
 lsrbs.net
@@ -56567,7 +56574,6 @@ lvzheng.com
 lvzi.store
 lw0591.com
 lw208.com
-lw23.com
 lw54.com
 lw88.site
 lwcj.com
@@ -58449,6 +58455,7 @@ meijiu.com
 meijuba.com
 meijucenter.com
 meijufans.com
+meijukan.com
 meijuniao.com
 meijuniao.net
 meijuq.com
@@ -66142,7 +66149,6 @@ pigqq.com
 pigvideo.cn
 pigvideo.com.cn
 pigx.vip
-pigxv.com
 pigyun.com
 pigzz.com
 pihitech.com
@@ -71016,7 +71022,6 @@ rantu.com
 ranwen.tw
 ranwena.com
 ranwena.net
-ranwenxs.com
 ranwenzw.com
 ranyi.net
 ranzhi.net
@@ -72407,6 +72412,7 @@ rxgl.net
 rxhui.com
 rxian.com
 rxjhbaby.com
+rxjiasu.com
 rxjt.co
 rxjy.com
 rxshc.com
@@ -74370,6 +74376,7 @@ sh-holiday.com
 sh-huifeng.com
 sh-hywin.com
 sh-investment.net
+sh-kechen.com
 sh-kr.net
 sh-pod1-smp-device-asset.apple.com.mwcname.com
 sh-pod2-smp-device-asset.apple.com
@@ -104125,7 +104132,6 @@ zhdba.com
 zhdchb.com
 zhdclink.com
 zhdgps.com
-zhdzsw.com
 zhe.com
 zhe28.com
 zhe4000.com
@@ -104489,7 +104495,6 @@ zhixiaorenurl.com
 zhixin-semi.com
 zhixingapp.com
 zhixingbus.com
-zhixinlu.com
 zhixiu.net
 zhixuan.com
 zhixue.com
@@ -104604,7 +104609,6 @@ zhongguoditu.com
 zhongguofeng.com
 zhongguohao123.com
 zhongguohuo.com
-zhongguojianmenguan.com
 zhongguojie.org
 zhongguojie.wang
 zhongguojinrongtouziwang.com
@@ -105137,7 +105141,6 @@ zikeys.com
 zikoo.com
 ziku123.com
 zikui-design.com
-zikuinfo.com
 zilanwl.com
 zilhua.com
 zilian8.com
