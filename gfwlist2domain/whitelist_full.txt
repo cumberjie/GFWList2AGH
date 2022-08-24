@@ -290,7 +290,6 @@
 029k.com
 029lintong.com
 029mxhs.cn
-029rencai.com
 029shw.com
 029weichen.com
 029wsw.com
@@ -3162,7 +3161,6 @@
 255899.p23.tc.cdntip.com
 256621849725484df96496db3ae4a6b7.dlied1.cdntips.net
 256app.com
-256game.com
 25752.com
 258.com
 258288.com
@@ -6907,7 +6905,6 @@
 64ma.com
 64mv.com
 64pay.com
-64w.cc
 64yz623e.s2txipv6.cdntip.com
 651700.com
 6528.com
@@ -7253,7 +7250,6 @@
 6puppy.xyz
 6qjl2kwl.sched.s2-dk.tdnsv5.com
 6ql3nk.tdum.alibaba.com
-6r9.net
 6renyou.com
 6rooms.com
 6s4qki.com
@@ -7731,7 +7727,6 @@
 798edu.com
 798ydh.com
 799.net
-799281.com
 7999.com
 7999.tv
 799job.com
@@ -11383,6 +11378,7 @@ ag888.com
 agalwood.net
 agamepower.com
 agcloudcs.com
+agconnect.link
 agd.p.360.cn
 agd2.p.360.cn
 agdist-api.cloud.huawei.com
@@ -24786,7 +24782,6 @@ comicv.com
 comicyu.com
 comiis.com
 comingchina.com
-comingspace.com
 comlan.com
 comlbs.com
 comm.app.autohome.com.cn
@@ -27927,7 +27922,6 @@ ddzuqin.com
 de-moe.org
 de.as.cp61.ott.cibntv.net
 de.as.pptv.com
-de.net
 de.uwenku.com
 de0.cc
 de123.net
@@ -28114,7 +28108,6 @@ dengtadaka.com
 dengxiaolong.com
 dengxiaopingnet.com
 dengyong.cc
-denic.de
 denic.net
 denocn.org
 dentistshow.com
@@ -29383,7 +29376,6 @@ dljrw.com
 dljs.net
 dll01.com
 dllake.com
-dllcm.com
 dllhook.com
 dllku.com
 dllzj.com
@@ -31035,7 +31027,6 @@ dushu369.com
 dushudaren.com
 dushuge.net
 dushuzhe.com
-dushuzhong.com
 dushw.com
 dustess.com
 dustit.me
@@ -34247,7 +34238,6 @@ fc12319.com
 fc1696f1980b0129bbcc3704678aef95.dlied1.cdntips.net
 fc1tn.baidu.com
 fc2.red
-fc2live.pw
 fc2tn.baidu.com
 fc3tn.baidu.com
 fc4tn.baidu.com
@@ -35051,7 +35041,6 @@ fjsfa.org
 fjsfy.com
 fjshxjs.cn
 fjsj.com
-fjsjs.com
 fjsnhd.org
 fjspi.songle.link
 fjstfc.com
@@ -35714,7 +35703,6 @@ ftp.pconline.com.cn
 ftp.pet
 ftp6399077.host205.sanfengyun.cn
 ftqq.com
-ftrsit.com
 fts.jd.com.gslb.qianxun.com
 ftsafe.com
 ftsfund.com
@@ -36704,7 +36692,6 @@ gbiac.net
 gbicdn.com
 gbicom.com
 gblhgk.com
-gblj365.com
 gblvuim.cn
 gbofd.com
 gboooo.com
@@ -37123,7 +37110,6 @@ getteamyi.com
 getui.com
 getui.net
 getui.vip
-getuikit.net
 getulab.com
 getvidi.co
 gewai-cnc.com
@@ -42748,7 +42734,6 @@ hstechsz.com
 hstong.com
 hsutimes.com
 hsw.cn
-hsw2013.com
 hsweb.me
 hswkzy.com
 hsxiang.com
@@ -43139,6 +43124,7 @@ huaweicloud-dns.com
 huaweicloud-dns.net
 huaweicloud-dns.org
 huaweicloud.com
+huaweicloudapis.com
 huaweicloudwaf.com
 huaweidevice.com
 huaweidun.com
@@ -43603,7 +43589,6 @@ huohuo.com
 huohuolife.com
 huoji.com
 huoju365.com
-huojua.com
 huojuli.com
 huokebao.net
 huokesoft.com
@@ -52298,7 +52283,6 @@ knja123.top
 knotesapp.com
 know88.com
 knowgive.com
-knowhow-china.com
 knowingclouds.com
 knowingcloudvip.com
 knowingyun.com
@@ -53118,7 +53102,6 @@ kz.admaster.com.cn
 kz8yx.com
 kza.cc
 kzj365.com
-kzlgd.com
 kzore.com
 kzt.cc
 kztpms.com
@@ -53307,7 +53290,6 @@ lakala.com
 lakdc.top
 lakecn.com
 lakwdian.com
-lalala.lol
 lalaxit.cn
 lalaxqt.cn
 laliga.pptv.com
@@ -54555,7 +54537,6 @@ libtop.com
 libvideo.com
 lic-bcbc.com
 licai.com
-licai.work
 licai18.com
 licaie.com
 licaifan.com
@@ -65868,7 +65849,6 @@ photoshare-drcn.cloud.dbankcloud.cn
 photoshare-drcn.hicloud.com
 phototj.photo.store.qq.com
 photovideo.photo.qq.com
-photoyunnan.com
 photozoomchina.com
 phouses.com
 php-master.com
@@ -66856,6 +66836,7 @@ poweizu.com
 power-bd.com
 power-sensor.com
 power.baidu.com
+powerapp.io
 powerbibbs.com
 powercdn.com
 powerde.com
@@ -69641,7 +69622,6 @@ qqaku.com
 qqan.com
 qqapk.com
 qqba.com
-qqbaobao.com
 qqbiaoqing.com
 qqbiaoqing8.com
 qqbibile.com
@@ -70330,7 +70310,6 @@ qukanvideo.com
 quklive.com
 qukuai.com
 qukuaila.com
-qukuailiant.com
 qukuba.com
 qulishi.com
 quliushang.xyz
@@ -72157,7 +72136,6 @@ rrzu.com
 rrzuji.com
 rrzxw.net
 rs.sinajs.cn
-rs05.com
 rs1.huanqiucdn.cn
 rs1.qq.com
 rs2.huanqiucdn.cn
@@ -73137,7 +73115,6 @@ sanyamotor.com
 sanyanblockchain.com
 sanyastar.com
 sanyatour.com
-sanye.cx
 sanyexin.com
 sanygroup.com
 sanyhi.com
@@ -74558,7 +74535,6 @@ shanghaining.com
 shanghaipower.com
 shanghairanking.com
 shanghairc.com
-shanghairemax.com
 shanghairolexmasters.com
 shanghaishuangyanpi.com
 shanghaitianqi114.com
@@ -76490,7 +76466,6 @@ slinuxer.com
 sljkj.com
 sljypt.com
 slkeq.com
-slkj.org
 sllai.com
 sllssrq.com
 slmbio.com
@@ -79365,7 +79340,6 @@ sz.ke.com
 sz.lianjia.com
 sz.mp.weixin.qq.com
 sz.tencent.com
-sz0760.com
 sz0dad.com
 sz121.com
 sz189.com
@@ -80445,7 +80419,6 @@ tbaocdn.com
 tbcache.com
 tbcdn.cn
 tbdazhe.com
-tbdiy.com
 tbdz2307650.atobo.com
 tbh5.com
 tbhcc.com
@@ -81546,7 +81519,6 @@ timeread.net
 timesaward.dftoutiao.com
 timesdf-hn.com
 timeserver.cnzz.net
-timeshy.com
 timetw.com
 timev.com
 timewit.cn
@@ -102989,7 +102961,6 @@ yycqc.com
 yycro.com
 yydbzz.com
 yydcs.com
-yydfwl.com
 yydidai.com
 yydl.duowan.com
 yyds.co
@@ -106592,7 +106563,6 @@ zzdz666.com
 zzect.com
 zzenglish.net
 zzetao.com
-zzfcj.com
 zzfcw.com
 zzfly.net
 zzfriend.com
