@@ -923,7 +923,6 @@ cmule.com
 cmule.org
 cmx.im
 cn-proxy.com
-cn.com
 cn6.eu
 cnd.org
 cnet.com
