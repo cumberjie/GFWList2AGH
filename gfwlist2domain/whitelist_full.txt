@@ -249,7 +249,6 @@
 027down.com
 027eat.com
 027fcyy.com
-027hcss.com
 027hhl.com
 027hpedu.com
 027hpit.com
@@ -17172,7 +17171,6 @@ biotecan.com
 bip.pconline.com.cn
 bipush.com
 bipvcn.com
-biqiga.com
 biqige.cc
 biqigewx.com
 biqiudu.com
@@ -28125,7 +28123,6 @@ deskguanjia.com
 deskier.com
 desktopcal.com
 desktopqa.com
-desktx.com
 deskwc.com
 desky.xyz
 despiertocfilms.com
@@ -30179,7 +30176,6 @@ downloaddispatch.itunes.apple.com.cdn20.com
 downloader.aldtop.com
 downloadjstest.tcdn.qq.com
 downok.com
-downol.com
 downos.com
 downpack.baidu.com
 downpack.bdstatic.com
@@ -30413,7 +30409,6 @@ dshmfsmcpsx957.shop.258.com
 dshrc.com
 dskb.co
 dskystudio.com
-dslp168.com
 dsmyiyuan.com
 dsmzyy.com
 dsmzyy120.com
@@ -34323,7 +34318,6 @@ fe2a4b7e0bd6b451ae7918d8d1bbbebc.dl.txcdns.com
 fe2x.cc
 fe520.com
 fearlazy.com
-feaye.com
 febug.com
 fec0zjma.p23.tc.cdntip.com
 fec0zjma.sched.sma.tdnsv5.com
@@ -37192,7 +37186,6 @@ gfs6.gomein.net.cn
 gfs7.gomein.net.cn
 gfs8.gomein.net.cn
 gfs9.gomein.net.cn
-gfsi-food.com
 gftuan.com
 gfun.me
 gfund.com
@@ -39918,8 +39911,6 @@ hanmaker.com
 hanmeilin.com
 hanmi520.com
 hannor.com
-hanqiweb.com
-hanqiweb.net
 hanshijiaoye.com
 hanshow.com
 hanshuliang.com
@@ -50880,7 +50871,6 @@ jwshy.com
 jwview.com
 jwwey.com
 jwx365.com
-jwxlschool.com
 jwyun.net
 jwyy.sspu.edu.cn
 jwz.3conline.com
@@ -52957,7 +52947,6 @@ kutj.com
 kutongji.com
 kutoo8.com
 kutsg.com
-kutu66.com
 kutuan.com
 kuuad.com
 kuuhuu.com
@@ -53963,7 +53952,6 @@ lega.store
 legal-theory.org
 legao.tc.qq.com
 legend-go.com
-legendh5.com
 legendsec.com
 legendtkl.com
 legitimate.wang
@@ -61953,7 +61941,6 @@ newdu.com
 newduba.cn
 newdun.com
 newdun.net
-newdur.com
 newegg.com.cn
 newer2001.com
 newfavor.net
@@ -77304,7 +77291,6 @@ soyoung.com
 soyouso.com
 soyunion.com
 soyunpan.cdn.bcebos.com
-soyunpan.com
 sozdata.com
 sozhen.com
 sp.17house.com
@@ -78502,7 +78488,6 @@ streffy.com
 strip.alicdn.com
 strip.taobaocdn.com
 strong-study.com
-strongcms.net
 strongled.com
 sts.api.io.mi.com
 stsdk.vivo.com.cn
@@ -83926,7 +83911,6 @@ tzidt.com
 tzjovzs.cn
 tzjxl.com
 tzjybeidou.58.com
-tzkameng.com
 tzlib.net
 tzm66.com
 tzoo-img.com
@@ -102052,7 +102036,6 @@ yqp6.com
 yqphh.com
 yqptzx.com
 yqsbz.com
-yqsns.com
 yqtc.com
 yqtxt.com
 yqtxzm.com
@@ -104444,7 +104427,6 @@ zhiaimusic.com
 zhiannet.com
 zhiaxue.com
 zhib.net
-zhibao2car.com
 zhibiao8.com
 zhibimo.com
 zhibo.chaoxing.com
