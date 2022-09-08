@@ -2744,6 +2744,7 @@
 2021fafafa11.com
 2021zuixingg.com
 2022cdnpl.com
+2022pola.com
 2024781.sched.sma.tdnsv5.com
 20261eb6032a8616cd57416fb0a337dc.v.smtcdns.net
 2028471.v1mixipv6.baishan-cloud.com
@@ -7920,6 +7921,7 @@
 7tou.com
 7tt3333.com
 7usa.net
+7v46.icu
 7v6.net
 7vdke8.tdum.alibaba.com
 7vj1m8.tdum.alibaba.com
@@ -63468,6 +63470,7 @@ okbike.net
 okbmf.com
 okbuy.com
 okcard.com
+okcdnns.com
 okchang.com
 okchexian.com
 okdai.com
@@ -77212,7 +77215,6 @@ sosoq.org
 sosorank.com
 sososteel.com
 sosotec.com
-sosotirp.com
 sosowan.com
 sosowenwen.com
 sosoxian.com
