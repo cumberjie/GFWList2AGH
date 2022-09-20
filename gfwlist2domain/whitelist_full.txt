@@ -21629,6 +21629,7 @@ chi.fang.anjuke.com
 chi2ko.com
 chi588.com
 chiang.fun
+chianuos.com
 chibaole.com
 chichou.me
 chichuang.com
@@ -23324,6 +23325,7 @@ clouddn.com
 clouddream.net
 cloudeagle.cn
 cloudfont.docer.wps.cn
+cloudfront-cn.net
 cloudfront.cn
 cloudgame-config.aliyun.com
 cloudgap.net
@@ -24229,6 +24231,7 @@ cnluqiao.com
 cnm.xlcktv.com
 cnmanhua.com
 cnmattson.com
+cnmb.win
 cnmcom.com
 cnmdy.com
 cnmeishu.com
@@ -25098,7 +25101,6 @@ corpautohome.com
 corpease.net
 corpize.com
 corpring.com
-corpus4u.org
 correctxt.baidu.com
 cos-show.com
 cos4reviewpic-1253177085.picca.myqcloud.com
@@ -42061,6 +42063,7 @@ hnkeji999.com
 hnkljnxh.com
 hnklnf.com
 hnks.com
+hnksgf.com
 hnksln.com
 hnktgame.com
 hnkuaifawu.com
@@ -45808,6 +45811,7 @@ imaijia.com
 imaitu.com
 imalljoy.com
 imandarin.net
+imangodoc.com
 imanhuaw.com
 imanhuaw.net
 imaojiang.com
@@ -49557,6 +49561,7 @@ jixianku.com
 jixie100.net
 jixie5.com
 jixiewz.com
+jixiexinxi5.com
 jixuanw.com
 jixunjsq.com
 jixunlyq.com
@@ -50709,6 +50714,7 @@ junews.net
 juneyao.com
 juneyaoair.com
 juneyaoairlines.com
+junezx.com
 junfull.com
 jungebb.com
 junhe.com
@@ -62896,7 +62902,6 @@ nspt.bdstatic.com
 nsrfww.com
 nsrjlb.com
 nss.im
-nssd.org
 nsshare.com
 nsstream.com
 nstooll.com
@@ -71598,6 +71603,7 @@ repianimg.com
 replay-api.sdbao.com
 replays.net
 replaysouth-1253298185.file.myqcloud.com
+replicated.cc
 reply.autohome.com.cn
 reply.lomark.cn
 report-stats.ad.jiguang.cn
@@ -71916,7 +71922,6 @@ ritering.com
 ritwickdey.gallerycdn.azure.cn
 river.zhidao.baidu.com
 rivergame.net
-rixin.cc
 rixin.info
 rixingkj.com
 riyuanma.com
@@ -75650,7 +75655,6 @@ shuadanfu.com
 shuai.love
 shuai.win
 shuaibo.wang
-shuaigay6.com
 shuaigeshe.com
 shuaihuajun.com
 shuaiming.com
@@ -76371,6 +76375,7 @@ sjfpro.com
 sjfs.xyz
 sjfx.com
 sjfzxm.com
+sjgh94.com
 sjgnskf.com
 sjh.baidu.com
 sjhcip.com
@@ -77528,6 +77533,7 @@ springtour.com
 springwater.vip
 spro.so.com
 sprzny.com
+spsb114.com
 spswc.com
 spsy.org
 sptcc.com
@@ -79274,7 +79280,6 @@ sxsjgy.com
 sxslnews.com
 sxsoft.com
 sxsolid.com
-sxsruida.com
 sxsslz.net
 sxszw.net
 sxtc.wang
@@ -87714,7 +87719,6 @@ wanzhongcar.com
 wanzhouhr.com
 wanzhoumo.com
 wanzhuang.com
-wanzhuanhulian.com
 wanzhuanlea.com
 wanzhuanmobile.com
 wanzhucdn.com
