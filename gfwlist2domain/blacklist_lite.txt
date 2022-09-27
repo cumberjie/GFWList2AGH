@@ -2576,6 +2576,7 @@ jfqu37.xyz
 jgoodies.com
 jiangweiping.com
 jiaoyou8.com
+jichangtj.com
 jiehua.cz
 jiepang.com
 jigglegifs.com
@@ -3373,6 +3374,7 @@ nytlog.com
 nytstyle.com
 nzchinese.com
 oanda.com
+oann.com
 oauth.net
 observechina.net
 obutu.com
@@ -4921,6 +4923,7 @@ venchina.com
 venetianmacao.com
 ventureswell.com
 veoh.com
+vercel.app
 verizon.net
 vermonttibet.org
 versavpn.com
