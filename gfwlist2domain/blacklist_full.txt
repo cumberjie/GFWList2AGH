@@ -1211,6 +1211,7 @@ com.eg
 com.et
 com.fj
 com.gh
+com.gi
 com.google
 com.gt
 com.jm
