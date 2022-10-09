@@ -2627,6 +2627,7 @@
 1tuikem.com
 1u8stziw.sched.sma.tdnsv5.com
 1uandun.com
+1ucrs.com
 1uke.com
 1uuc.com
 1uwpmz.tdum.alibaba.com
@@ -6544,7 +6545,6 @@
 5h9ljq.tdum.alibaba.com
 5ha.net
 5hanjutv.com
-5hao21.com
 5hb.org
 5hrc.com
 5hte21mz.com
@@ -11922,7 +11922,6 @@ aixyy.com
 aixyz.com
 aixzu.com
 aiyaapp.com
-aiyadu.com
 aiyangedu.com
 aiyanqing.com
 aiyaopai.com
@@ -13167,7 +13166,6 @@ aosoo.com
 aososs.oss-cn-beijing.aliyuncs.com
 aoswtc.com
 aotian.com
-aotocn.com
 aotrip.net
 aotuzuche.com
 aowei.com
@@ -14035,6 +14033,7 @@ applebl.com
 applecsb.crm.189.cn
 appledownload.qtlcdn.com
 applehunt.com
+appleid.cdn-apple.com
 applemei.com
 applepay.teown.com
 appletuan.com
@@ -15905,7 +15904,6 @@ baozou.com
 baozoudawang.com
 baozoudi.com
 baozoumanhua.com
-baozouribao.com
 baozy.com
 baping.com
 baqima.com
@@ -16352,6 +16350,7 @@ bdm.ye-su.cn
 bdmjs.xywy.com
 bdmm.xywy.com
 bdmov.a.yximgs.com
+bdn.dev
 bdns-dy-vod.bytegslb.com
 bdp.cn
 bdpan.com
@@ -18115,6 +18114,7 @@ boleihg.com
 bolejiang.com
 bolelink.com
 bolexiaozhao.com
+boling04.com
 boll.me
 bolo.me
 bolopp.com
@@ -20761,6 +20761,7 @@ cds.51y5.net
 cds.apple.com
 cds.apple.com.akadns.net
 cds.apple.com.mwcname.com
+cdsassets.apple.com
 cdsassets.apple.com.mwcname.com
 cdsb.com
 cdsb.mobi
@@ -23164,7 +23165,6 @@ cl1.apple.com
 cl2-cn.apple.com
 cl2-cn.apple.com.cdn20.com
 cl2.apple.com
-cl2.apple.com.edgekey.net.globalredir.akadns.net
 cl2.webterren.com
 cl2009.com
 cl3-cdn.origin-apple.com.akadns.net
@@ -24586,7 +24586,6 @@ cnv168.com
 cnvcs.com
 cnvf.com
 cnvps.com
-cnvr-expo.com
 cnwa.com
 cnwage.com
 cnwaking.com
@@ -25259,6 +25258,7 @@ coreesports.net
 coreldrawchina.com
 corner.houyi.baofeng.net
 coro.benbaisteel.com
+corp.goog
 corp.google.com
 corp.googleapis.com
 corp.meitu.com
@@ -26017,6 +26017,7 @@ cssxt.com
 cssyq.com
 cssyzxx.com
 cstat.apple.com
+cstat.cdn-apple.com
 cstatic.msxf.com
 cstaticdun.126.net
 cstccloud.org
@@ -32260,7 +32261,6 @@ ecns.cn
 ecnudec.com
 eco.taobao.com
 ecoalchina.com
-ecochuse.com
 ecocn.org
 ecollision.shareinstall.com.cn
 ecom.snssdk.com
@@ -33426,7 +33426,6 @@ eteste.com
 eteun.cn
 etf.group
 etf88.com
-eth6.org
 ethainan.com
 ethan.pub
 etheadphones.com
@@ -35297,6 +35296,7 @@ flnetiot.com
 floatingislandapps.com
 flomoapp.com
 flooc.com
+floonet.goog
 floor.jd.com
 floor.jd.com.gslb.qianxun.com
 floorb2b.com
@@ -38193,12 +38193,14 @@ googlebridge.com
 googlecloudtools.gallerycdn.azure.cn
 googlecnapps.cn
 googleflights-cn.net
+googleflights.net
 googlefonts.net
 googlefonts.wp-china-yes.net
 googlenav.com
 googleoptimize-cn.com
 googleoptimize.com
 googleplex.com
+googlers.com
 googlesyndication-cn.com
 googlesyndication.com
 googletagmanager-cn.com
@@ -38599,8 +38601,6 @@ gsp0.baidu.com
 gsp1.baidu.com
 gsp10-ssl-cn.ls-apple.com.akadns.net
 gsp10-ssl-cn.ls.apple.com
-gsp11-cn.ls.apple.com
-gsp12-cn.ls.apple.com
 gsp13-cn.ls.apple.com
 gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net
@@ -46732,7 +46732,6 @@ immivip.com
 immomo.com
 immomogame.com
 immusician.com
-immusoul.com
 immwall.com
 imnerd.org
 imnight.com
@@ -46927,7 +46926,6 @@ inewland.com
 inewoffice.com
 inews.gtimg.com
 inews.gtimg.com.sched.px-dk.tdnsv6.com
-inewya.com
 inezha.com
 inf-prdapi.wesure.cn
 inf.ldmnq.com
@@ -47405,6 +47403,7 @@ ipassport.ele.me
 ipay.so
 ipcc.com
 ipcchain.org
+ipcdn.apple.com
 ipcfun.com
 ipchaxun.com
 ipchaxun.net
@@ -66281,7 +66280,6 @@ pharmcube.com
 pharos.appetizer.io
 phaser-china.com
 phb123.com
-phdwu.com
 phedu.net
 phezzan.com
 phfund.com.cn
@@ -67831,6 +67829,7 @@ public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com
+publicassets.cdn-apple.com
 publicassets.cdn-apple.v.aaplimg.com
 publiccms.com
 publish-pic-cpu.baidu.com
@@ -68238,6 +68237,7 @@ pxapi.gslb.yundasys.com
 pxapi.yundasys.com
 pxb7.com
 pxbuy.com
+pxcc.com
 pxcn168.com
 pxdsm.com
 pxemba.com
@@ -68603,6 +68603,7 @@ qapm.qq.com
 qappcenterv6.3g.qq.com
 qaqgame.com
 qast.com
+qatp1.net
 qaxanyu.com
 qaxcloudwaf.com
 qaxwzws.com
@@ -68780,6 +68781,7 @@ qcoco.com
 qconbeijing.com
 qconshanghai.com
 qcplay.com
+qcpp1.net
 qcq3.com
 qcql.com
 qcr.cc
@@ -70104,6 +70106,7 @@ qpc3lhaq.v1d.szbdyd.com
 qpc6893j.v1d.szbdyd.com
 qpc6e2ow.v1d.szbdyd.com
 qpdiy.com
+qpdp1.net
 qpgame.com
 qpic.cn
 qpic.y.qq.com
@@ -75292,7 +75295,6 @@ sharetrace.com
 sharevdi.com
 sharewaf.com
 sharewithu.com
-sharing-water.com
 shark-tracer.netease.com
 shark.dianping.com
 shark.douyucdn.cn
@@ -77246,6 +77248,7 @@ smohan.net
 smokeliq.com
 smoothgroup.cc
 smovie168.com
+smp-device-content.apple.com
 smpeizi.com
 smpimg-1258344701.file.myqcloud.com
 smppw.com
@@ -79526,7 +79529,6 @@ suxieban.com
 suxiege.com
 suxing.me
 suxuewang.com
-suy.me
 suyanw.com
 suyuening.com
 suyuexs.cdn.bcebos.com
@@ -83103,7 +83105,6 @@ toutiaohao.net
 toutiaoimg.cn
 toutiaoimg.com
 toutiaoimg.net
-toutiaojc.com
 toutiaolite.com
 toutiaolite1.com
 toutiaonanren.com
@@ -85414,6 +85415,7 @@ updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates-http.cdn-apple.com.download.ks-cdn.com
 updates-http.cdn-apple.com.w.alikunlun.com
+updates.cdn-apple.com
 updates.cdn-apple.com.mwcname.com
 updates.cdn-apple.com.w.kunlunca.com
 updates.cdn-apple.com.w.kunlunca.com.v.vvpncdn.com
@@ -85787,7 +85789,6 @@ uu1.com
 uu1314.com
 uu178.com
 uu38.com
-uu41.com
 uu456.com
 uu55.tv
 uu66.com
@@ -95394,6 +95395,7 @@ xn--7hv285el2dtof.com
 xn--9kq745jwng.ink
 xn--9kq745jwng.work
 xn--9kr7l.com
+xn--9trs65b.com
 xn--ddua45lfy1c.ink
 xn--dkr447bejn.com
 xn--dkr447bejn.net
@@ -95402,6 +95404,7 @@ xn--fiqz7g67bsydx1ed00d.com
 xn--fjqz50cv5q3so.ltd
 xn--fjqz50cv5q3so.online
 xn--flw351e.com
+xn--ggle-55da.com
 xn--glr604k.com
 xn--it-1r3f.com
 xn--mtsr39cnql.video
@@ -95497,6 +95500,7 @@ xoyo.com
 xoyobox.com
 xoyocdn.com
 xoyq.net
+xp.apple.com
 xp.qpic.cn
 xp.qpic.cn.sched.px-dk.tdnsv6.com
 xp.qpic.cn.tc.qq.com
@@ -101997,7 +102001,6 @@ ymtjfxly.com
 ymtmt.com
 ymtrack.com
 ymvkt.com
-ymwl234.com
 ymxinxi.com
 ymxxs.com
 ymyun.com
@@ -103631,7 +103634,6 @@ ywsoftware.com
 ywtbsupappz.sh.gov.cn
 ywtbsupappz.sh.gov.cn.w.kunlunca.com
 ywtd.xyz
-ywtlfishing.com
 ywtrzm.com
 ywtuchuang1.com
 ywtx.cc

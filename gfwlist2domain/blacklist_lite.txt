@@ -868,7 +868,6 @@ chromeenterprise.google
 chromeexperiments.com
 chromercise.com
 chromestatus.com
-chromium.org
 chuang-yen.org
 chubold.com
 chubun.com
@@ -5138,7 +5137,6 @@ whoer.net
 whotalking.com
 whylover.com
 whyx.org
-widevine.com
 wikaba.com
 wikia.com
 wikileaks-forum.com
@@ -5290,7 +5288,6 @@ xn--4gq171p.com
 xn--9pr62r24a.com
 xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
-xn--ngstr-lra8j.com
 xn--oiq.cc
 xnxx.com
 xpdo.net
@@ -5387,7 +5384,6 @@ youtu.be
 youtube-nocookie.com
 youtube.com
 youtubecn.com
-youtubeeducation.com
 youtubegaming.com
 youtubekids.com
 youversion.com
@@ -5395,7 +5391,6 @@ youwin.com
 youxu.info
 yt.be
 ytht.net
-ytimg.com
 yuanming.net
 yuanzhengtang.org
 yulghun.com
