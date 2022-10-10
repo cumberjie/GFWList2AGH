@@ -823,7 +823,6 @@
 0ulfpx.cn
 0uu97x.cn
 0x0.biz
-0x0.ooo
 0x100.club
 0x3.me
 0x5.me
@@ -8104,6 +8103,7 @@
 81toutiao.com
 81tt.net
 81xy.com
+81xz.com
 81yy.cc
 81zw.com
 81zw.us
@@ -9150,7 +9150,6 @@
 9495.com
 949678.com
 949766.com
-9499.net
 94994.com
 949949.com
 9499y.com
@@ -22678,7 +22677,6 @@ chtwm.com
 chuaiguo.com
 chuairan.com
 chuaizhe.com
-chuanbofanyi.com
 chuanbojia.com
 chuanboyi.com
 chuandaizc.com
@@ -31474,6 +31472,7 @@ dxecs.com
 dxf5.com
 dxf6.com
 dxias.com
+dxiazaicc.com
 dxjs.com
 dxlfile.com
 dxlmdd.com
@@ -49085,6 +49084,7 @@ jianjian.tv
 jianjiaobuluo.com
 jianjie8.com
 jiankang.com
+jiankang.org
 jiankanghebei.com
 jiankangju.com
 jianke.cc
@@ -49404,6 +49404,7 @@ jiliguara.xyz
 jilihuadu.com
 jilingban.com
 jilingwy.org
+jilinoffcn.com
 jilinpujiyiyuan.com
 jilinwula.com
 jiliyun.com
@@ -50931,6 +50932,7 @@ jucelin.com
 jucheng01.net
 juchuangbio.com
 judouapp.com
+juduo.cc
 juduoping.com
 jue.so
 jue1.com
@@ -58435,6 +58437,7 @@ maxuscloud.com
 maxvinch.com
 maxwealthfund.com
 maxwi.com
+maxws.com
 maxxipoint.com
 may.ltd
 maya-r.com
@@ -66057,6 +66060,7 @@ pdns.nudt.edu.cn
 pdosgk.com
 pdown.org
 pdown.stat.360safe.com
+pdowncc.com
 pdrcfw.com
 pdreading.com
 pdryx.com
@@ -75435,6 +75439,7 @@ shenghuowo.com
 shenghuozhe.net
 shengjing360.com
 shengjoy.com
+shengjunshi.com
 shengli.com
 shengming.net
 shengniuuz.com
@@ -77249,7 +77254,6 @@ smokeliq.com
 smoothgroup.cc
 smovie168.com
 smp-device-content.apple.com
-smpeizi.com
 smpimg-1258344701.file.myqcloud.com
 smppw.com
 smr.snssdk.com
@@ -77417,7 +77421,6 @@ soa.vip.xunlei.com
 soagw.live.xunlei.com
 soagw.pw.xunlei.com
 soarwatch.com
-soba8.com
 sobaidupan.com
 sobar.baidu.com
 sobeian.com
@@ -83561,7 +83564,6 @@ tsingtoo.com
 tsis.jpush.cn
 tskscn.com
 tskscn.org
-tslapinshang.com
 tsljzs.com
 tslongtai.com
 tslsmart.com
@@ -95737,6 +95739,7 @@ xtyx918.com
 xtyxdq.com
 xtyzljs.cn
 xtzhao.com
+xtzjcz.com
 xu1s.com
 xu7b.com
 xuanad.com
@@ -95797,7 +95800,6 @@ xue.youdao.com
 xue.zbyw.cn
 xue126.com
 xue163.net
-xue3dmax.com
 xue51.com
 xue63.com
 xueanquan.com
@@ -96063,6 +96065,7 @@ xweb.vip
 xwei.tv
 xwhb.com
 xwhodesign.com
+xwie.com
 xwjqr.com
 xwjr.com
 xwjy.org
@@ -105920,6 +105923,7 @@ zidootv.com
 ziewje.com
 zifandiaosu.com
 zifeiwuya.com
+zifumao.com
 zige365.com
 zigecha.com
 zigeer.com
@@ -106362,6 +106366,7 @@ zkx.cc
 zkxblog.com
 zkxlkj.net
 zkxww.com
+zkyai.com
 zkydib.com
 zkyouxi.com
 zkyxls.com
