@@ -5128,7 +5128,6 @@
 519332da.rtc.youme.im
 519397.com
 51969.com
-51985.net
 5199.cc
 5199.com
 5199658.com
@@ -12875,6 +12874,7 @@ anicoga.com
 anijue.com
 animalchina.com
 animationcritics.com
+animetamashi.com
 animetaste.net
 anitama.net
 anitoys.com
@@ -14869,7 +14869,6 @@ avrvi.com
 avrw.com
 avtb388.com
 avtechcn.com
-avtt0033.com
 avtt830.com
 avu8qy84.sched.sma-dk.tdnsv5.com
 avvr.club
@@ -15399,6 +15398,7 @@ baiducontent.com
 baidudaquan.com
 baidufe.com
 baidufree.com
+baidui.vip
 baidullyouku.xyz
 baidulook.com
 baidunongmin.com
@@ -17074,9 +17074,13 @@ bilibili.cc
 bilibili.cn
 bilibili.co
 bilibili.com
+bilibili.net
+bilibili.tv
+bilibiligame.co
 bilibiligame.net
 bilibilihelper.com
 bilibilijj.com
+bilibilipay.com
 bilibilipcdn.xktmmosauzq.bilivideo.yfcdn.cn
 bilibiliyoo.com
 bilicdn1.com
@@ -17085,6 +17089,7 @@ bilicdn3.com
 bilicdn4.com
 bilicdn5.com
 bilifuli.com
+biligame.co
 biligame.com
 biligame.net
 biligo.com
@@ -17095,6 +17100,7 @@ bilingling.com
 bilive.com
 bilivideo.cn
 bilivideo.com
+bilivideo.net
 biliyu.com
 bill-jc.com
 bill.agent.56.com
@@ -17611,7 +17617,6 @@ bjqyjjlb.com
 bjrc.com
 bjrcb.com
 bjrdhx.com
-bjrel.com
 bjretech.com
 bjreview.com
 bjrhxp.com
@@ -21322,7 +21327,6 @@ channelray.com
 channeltrack.yy.com
 channingsun.bid
 chanpay.com
-chanpin.biz
 chanpin100.com
 chanpinban.com
 chanpindashi.com
@@ -22476,7 +22480,6 @@ chinazov.com
 chinazwds.com
 chinazwds.org
 chinazxt.com
-chinazyjr.com
 chinca.org
 chindiaforum.com
 chine-info.com
@@ -41031,6 +41034,7 @@ hdsdyyy.com
 hdsky.net
 hdslb.com
 hdslb.net
+hdslb.org
 hdsx36hb.com
 hdsx39hb.com
 hdt.adx.admaster.com.cn
@@ -45917,7 +45921,6 @@ im5i.com
 im64.jpush.cn
 im87.net
 im9.com
-imac.hk
 imaccn.com
 imaegoo.com
 image-ad.sm.cn
@@ -77358,6 +77361,7 @@ snowyimall.com
 snpimg.gtimg.com
 snprv.hnhgmh.mobi
 snprv.mhqx.store
+snps.tech
 snrat.com
 snren.com
 snrtv.com
@@ -87966,6 +87970,7 @@ wang1314.net
 wang502.com
 wanga.me
 wangamela.com
+wangan.com
 wanganedu.com
 wangbixi.com
 wangcaigu.com
@@ -89888,7 +89893,6 @@ win7999.com
 win7china.com
 win7en.com
 win7qijian.com
-win7qjb.com
 win7sky.com
 win7w.com
 win7xzb.com
@@ -102087,6 +102091,7 @@ ynztzh.com
 ynzxpx.com
 ynzy-tobacco.com
 yo4399.com
+yo9.com
 yoagoa.com
 yobangbang.com
 yobbom.com
@@ -102703,7 +102708,6 @@ yqmh.com
 yqp3.com
 yqp6.com
 yqphh.com
-yqptzx.com
 yqsbz.com
 yqtc.com
 yqtxt.com
