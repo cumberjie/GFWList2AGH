@@ -894,6 +894,7 @@
 101weiqi.com
 1020m.com
 1024.com
+1024.cool
 1024.ink
 1024dmg.com
 1024g.com
@@ -9137,6 +9138,7 @@ alibaba.com
 alibaba.net
 alibabacapital.com
 alibabachengdun.com
+alibabachengdun.net
 alibabacloud.com
 alibabacorp.com
 alibabadns.com
@@ -20126,7 +20128,6 @@ dellemc-solution.com
 delunyk.com
 demage.com
 demaxiya.com
-demgs.com
 demix.cc
 demixc.com
 demizhe.com
@@ -22049,7 +22050,6 @@ dytg390.xyz
 dytg391.xyz
 dytol.com
 dytt.net
-dytt2019.net
 dytt789.com
 dytt7899.com
 dytt8.com
@@ -25656,7 +25656,6 @@ ga0.me
 ga001.com
 ga25.com
 gaapqcloud.com
-gabiplay.com
 gabuleu.com
 gac-capital.com
 gac-nio.com
@@ -29276,6 +29275,7 @@ hduofen.com
 hdurl.me
 hduzplus.xyz
 hdwbsaas.com
+hdwebpyqa.com
 hdwebpyqe.com
 hdyouxi.com
 hdypw.com
@@ -31850,7 +31850,6 @@ hxshx.com
 hxsme.org
 hxtk.com
 hxwglm.com
-hxxdsb.com
 hxxkw.org
 hxxl6.com
 hxyjw.com
@@ -36714,6 +36713,7 @@ jufidc.com
 jufoinfo.com
 jufu17.com
 jugao.com
+jugezi.com
 juhangye.com
 juhaof.com
 juhaokan.org
@@ -38762,6 +38762,7 @@ kwaishop.com
 kwaixiaodian.com
 kwaiying.com
 kwaizt.com
+kweaake.cyou
 kwenku.com
 kwimgs.com
 kwin.wang
@@ -41727,6 +41728,7 @@ lywenlv.com
 lywf.me
 lywww.com
 lywxww.com
+lyxyjg.com
 lyxyxx.com
 lyy99.com
 lyyapp.com
@@ -49038,6 +49040,7 @@ qianmingyun.com
 qianmo.info
 qianmoqi.com
 qianmu.org
+qianng.com
 qiannian.biz
 qianniu.com
 qianp.com
@@ -54490,7 +54493,6 @@ snh48.com
 snhrm.com
 sniec.net
 snieri.com
-snifast.com
 sniglet.online
 snimay.com
 snjairport.com
@@ -58565,6 +58567,7 @@ trucklc.com
 trueart.com
 truebuty.com
 truechat365.com
+truedian.com
 trueeyu.com
 trueland.net
 trueme.net
@@ -61010,6 +61013,7 @@ vxuey.com
 vycool.com
 vyin.com
 vyjhr.cn
+vynior.com
 vysj.com
 vyuan8.com
 vyun.com
@@ -65075,7 +65079,6 @@ xiaomashijia.com
 xiaomastack.com
 xiaomav.com
 xiaomaxitong.com
-xiaomayi.co
 xiaomayi88.com
 xiaomei.cc
 xiaomeiti.com
@@ -65914,7 +65917,6 @@ xiuno.com
 xiupin.com
 xiuren.com
 xiurenb.com
-xiurenji.net
 xiushao.com
 xiusheji.com
 xiusheji.net
