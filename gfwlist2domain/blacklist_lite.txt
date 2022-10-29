@@ -136,6 +136,7 @@ about.google
 aboutamazon.com
 aboutgfw.com
 abs.edu
+acast.com
 accim.org
 accountkit.com
 aceros-de-hispania.com
@@ -1608,6 +1609,7 @@ fireofliberty.org
 firetweet.io
 firstfivefollowers.com
 firstpost.com
+firstrade.com
 fizzik.com
 flagsonline.it
 flecheinthepeche.fr
