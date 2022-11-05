@@ -5030,6 +5030,7 @@
 51.ruyo.net
 5100.net
 510560.com
+510xds.com
 510you.com
 511.la
 511023.com
@@ -6837,6 +6838,7 @@
 632news.com
 633146.shop.258.com
 635298598.sched.s2.tdnsv5.com
+636935.com
 637d9615738f20bd73b3f44e635c8e34.safeframe.googlesyndication.com
 638.com
 63803.b2b.jinanfa.cn
@@ -9457,7 +9459,6 @@
 999dns.net
 999e52f9957edc7cfccfc0359f8a7cc8.dlied1.cdntips.net
 999inandon.com
-999kan.com
 999sjw.com
 999tea.com
 999wx.com
@@ -14554,6 +14555,7 @@ astropulsion.com
 astyle-src.alicdn.com
 astyle.alicdn.com
 astyle.alicdn.com.danuoyi.alicdn.com
+asurada.zone
 asus.com.cn
 asus.youdemai.com
 asussmart.com
@@ -16888,6 +16890,7 @@ bi.ptqy.gitv.tv
 bi.yeshen.com
 biacgn.com
 bian-min.com
+bianbao.net
 biancheng.net
 bianchengquan.com
 biancui.com
@@ -21631,7 +21634,6 @@ chenpeng.info
 chenplus.com
 chenpot.com
 chenruixuan.com
-chenrunjinshu.com
 chenshengyu.cn
 chenshipin.com
 chensonglin.net
@@ -28409,6 +28411,7 @@ dexunyun.com
 deyang5.com
 deyatech.com
 deyayk.com
+deyeehome.com
 deyi.com
 deyi.net
 deyijijin.org
@@ -35738,6 +35741,7 @@ freekeyan.com
 freelycode.com
 freelynet.com
 freemancn.com
+freemdict.com
 freemindworld.com
 freemoban.com
 freemudgame.com
@@ -36636,7 +36640,6 @@ gameflv.6000.liveplay.myqcloud.com
 gamefm.com
 gamefv.com
 gamehome.tv
-gamehui.com
 gamehz.cn
 gamein.daoju.qq.com
 gameinfoc.biligame.net
@@ -40930,6 +40933,7 @@ hcicloud.com
 hcjsk120.com
 hcl100.com
 hcmiraefund.com
+hcnamecdns.com
 hcndv.bili.cc.adclouds.cn
 hcocoa.com
 hcpzdm.com
@@ -48214,6 +48218,7 @@ iwordnet.com
 iworm.net
 iwpai.com
 iwshang.com
+iwshuma.com
 iwucha.com
 iwucoz.cn
 iww.me
@@ -51544,6 +51549,7 @@ jzsgl.coc.gov.cn
 jzsgzmhjyxgs.com
 jzshequ.com
 jzsjyksy.com
+jzsousuo.com
 jzsxinyudianqi.com
 jzsyishu.com
 jzt-api.jd.com
@@ -57962,7 +57968,6 @@ mailshanguo.com
 maimaimaiw.com
 maimemo.com
 maimemostatus.com
-maimengjun.com
 maimiaotech.com
 maimn.com
 maimowang.com
@@ -58853,6 +58858,7 @@ meethall.com
 meeting-75420.picgzc.qpic.cn
 meeting.qq.com
 meeting.tencent.com
+meeting666.com
 meetingmeet.com
 meetingq.com
 meetlawyer.com
@@ -61536,7 +61542,6 @@ mycoss.net
 mycoss.org
 mycraft.cc
 mycreate.net
-mycrtb.com
 mydadao.com
 mydancecn.online
 mydao.net
@@ -66860,7 +66865,6 @@ pinshiwen.com
 pinshu.com
 pinsilianzu1.com
 pinsilianzu3.com
-pintour.com
 pintu360.com
 pintuan.com
 pintuer.com
@@ -70232,7 +70236,6 @@ qq387.com
 qq4g.cn
 qq5.com
 qq52o.me
-qq545.com
 qq5818.com
 qq61.com
 qq717.com
@@ -82082,7 +82085,6 @@ tianqi.sogou.com
 tianqi1212.com
 tianqi123.com
 tianqi321.com
-tianqi4.com
 tianqi518.com
 tianqiaojuyuan.com
 tianqiaoyishuzhongxin.org
@@ -83252,6 +83254,7 @@ tpc.googlesyndication.com
 tpcdnde88de.com
 tpck.mxingkong.com.cn
 tpengyun.com
+tpg2i1p7.com
 tpkey.com
 tplife.com
 tplm123.com
@@ -84203,6 +84206,7 @@ tvmcloud.com
 tvmgr.pandora.xiaomi.com
 tvmining.com
 tvn.cc
+tvnwang.com
 tvoao.com
 tvos.com
 tvos.skysrt.com
@@ -85065,6 +85069,7 @@ uhomes.com
 uhouzz.com
 uhtao.com
 uhuitong.com
+uhzcdn.com
 ui.ptlogin2.qq.com
 ui001.com
 ui100day.com
@@ -102046,6 +102051,7 @@ yluu.com
 ylwl.cc
 ylwpx8.com
 ylws.net
+ylwt33.com
 ylwyw.com
 ylxbxgtg.com
 ylxdtww.com
@@ -104803,7 +104809,6 @@ zgylqy.com
 zgyongxin.com
 zgys.net
 zgyssyxh.com
-zgystsd.com
 zgyxsw.org
 zgyygl.com
 zgzb.com
@@ -105667,6 +105672,7 @@ zhongyao1.com
 zhongyaoyi.com
 zhongye.net
 zhongyegongkao.com
+zhongyejy.com
 zhongyemba.com
 zhongyi.gmw.cn
 zhongyiiot.com
