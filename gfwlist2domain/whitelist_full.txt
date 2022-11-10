@@ -4285,6 +4285,7 @@
 39health.com
 39jks.com
 39jz.com
+39kan.com
 39kf.com
 39kfw.com
 39meitu.com
@@ -9424,6 +9425,7 @@
 99665.at
 9966w.com
 996a.com
+996dns.com
 9973.com
 997788.com
 998.com
@@ -9561,7 +9563,6 @@
 9coc.com
 9conn.net
 9cp.cn
-9cts.com
 9cwx.com
 9d19.com
 9d4d.com
@@ -11742,6 +11743,7 @@ aimoge.com
 aimsen.com
 aimu-app.com
 aimu-online.oss-cn-hangzhou.aliyuncs.com
+ainapian.com
 ainiapp.com
 ainirobot.com
 ainiseo.com
@@ -18495,6 +18497,7 @@ btb8.com
 btba.cc
 btbat.com
 btbctex.com
+btbdys.com
 btbt.tv
 btc114.com
 btc116.com
@@ -18774,6 +18777,7 @@ bwpx.com
 bwsoft.net
 bwtiyu.com
 bwton.com
+bwv8.com
 bwxsj.com
 bx01.optimix.cn
 bx1k.com
@@ -20176,7 +20180,6 @@ cctv18.com
 cctv1zhibo.com
 cctv4g.com
 cctv886.com
-cctvcaizhi.com
 cctvcdn.net
 cctvcj.com
 cctvcnch5ca.v.wscdns.com
@@ -24071,6 +24074,7 @@ cnamehttps.licdn.com.mwcname.com
 cnanzhi.com
 cnaomeng.com
 cnappinstall.googleadapis.com
+cnappsoft.xyz
 cnautofinance.com
 cnautonews.com
 cnbabylon.com
@@ -30578,6 +30582,7 @@ ds5f.com
 dsa-mfp.fengshows.cn
 dsa.iigs9.com
 dsapi.jdy33.cn
+dsb.ink
 dsblog.net
 dscbs.com
 dscloud.ltd
@@ -31535,6 +31540,7 @@ dy.163.com
 dy008.com
 dy1-vip-ssl.xunlei.com
 dy1905.net
+dy2018.com
 dy2018.net
 dyactive2-vip-ssl.xunlei.com
 dybeta.com
@@ -35805,6 +35811,7 @@ fscinda.com
 fsclzs.com
 fsdhub.com
 fsdn.tech
+fsdnp.cyou
 fsecity.com
 fsesa.com
 fsfund.com
@@ -36788,6 +36795,8 @@ gaomon.net
 gaopaiwood.com
 gaopeng.com
 gaoqing.baixing.com
+gaoqing.fm
+gaoqing.la
 gaoqingdianshi.com
 gaoqingpai.com
 gaoqiwenda.com
@@ -37589,6 +37598,7 @@ gigabyte.cn
 gigabyte.com
 gigaget.com
 giggslr1bc3hi3.wscloudcdn.com
+giho.com
 giikin.com
 giiso.com
 gildata.com
@@ -40303,7 +40313,6 @@ haofajz.com
 haofan005.com
 haofanben.com
 haofang.net
-haofang365.com
 haofang5.com
 haofangkankan.com
 haofangyuan.net
@@ -41487,6 +41496,7 @@ hezhoubbs.com
 hezi.com
 hezibook.com
 hezibuluo.com
+hezijia.com
 hezuo.baixing.com
 hezxs.com
 hf-dhj.com
@@ -43744,6 +43754,7 @@ huizhouf.com
 huiziyuan.net
 huizone.com
 huizuche.com
+huizucloud.com
 huizuoyuezi.com
 huizustore.com
 hujia.org
@@ -50204,6 +50215,7 @@ jnduck.com
 jndwyy.com
 jndxwl.com
 jnesc.com
+jnexpert.com
 jngapkf.cn
 jnhouse.com
 jnjbrother.com
@@ -55324,7 +55336,6 @@ linjiedg.com
 linjin.net
 linjunet.com
 linjunlong.com
-linjuyihao.com
 link-jdsx01.netease.im
 link.00oo00.com
 link.17173.com
@@ -60275,7 +60286,6 @@ mmyfilm.com
 mmzh.com
 mn-soft.com
 mn.aty.sohu.com
-mn21.com
 mnancheng.com
 mnbvtgv.com
 mndqlib.net
@@ -67535,6 +67545,7 @@ ppx520.com
 ppxclub.com
 ppxs.net
 ppxwo.com
+ppxzy.co
 ppym.xyz
 ppys.net
 ppzhan.com
@@ -70952,6 +70963,7 @@ qumitech.com
 qun.hk
 qun.qq.com
 qun100.com
+qun7.com
 quna.com
 qunaer.com
 qunaermai.com
@@ -80264,7 +80276,6 @@ szputy.com
 szpxe.com
 szqcz.com
 szqf.org
-szqgzx.com
 szqhbs.cn
 szqianbaidun.com
 szqinxindz.com
@@ -81563,7 +81574,6 @@ tender-bucket.oss-cn-beijing.aliyuncs.com.gds.alibabadns.com
 tendis.net
 tendyron.com
 tenganxinxi.com
-tengattack.com
 tengbai-it.com
 tengbo.cc
 tengchu.com
@@ -84556,6 +84566,7 @@ tzcul.com
 tzdjzu.com
 tzfdc.com
 tzfeize.xyz
+tzfile.com
 tzfuke.com
 tzgcjie.com
 tzhealth.com
@@ -84879,7 +84890,6 @@ ucsec.ucweb.com
 ucsec1.ucweb.com
 ucss.ninja
 uctrac.com
-uctxt.com
 ucun.tech
 ucuuc.com
 ucvgg.com
@@ -87710,6 +87720,7 @@ vvdeal.com
 vvdoit.com
 vvebo.vip
 vvfeng.com
+vvfht.fun
 vvgroup.com
 vvhan.com
 vvic.com
@@ -103335,6 +103346,7 @@ yunbusiness.ccb.com
 yuncai5.com
 yuncaijing.com
 yuncdn.bid
+yuncdn123.com
 yuncdn263.com
 yuncdndun.com
 yunceng.com
@@ -103687,6 +103699,7 @@ yuyin.tv
 yuyiya.com
 yuyu.com
 yuyue111.com
+yuyue27.com
 yuyueshop.com
 yuyuhunter.com
 yuyuntech.com
@@ -104608,7 +104621,6 @@ zgc-dsa.org
 zgcahpw.com
 zgcbank.com
 zgcbb.com
-zgcbzs.com
 zgcdcs.com
 zgcdiy.com
 zgchawang.com
@@ -105421,6 +105433,7 @@ zhishizhan.net
 zhishuedu.com
 zhishutang.com
 zhisiyun.com
+zhisongip.com
 zhitongcaijing.com
 zhitoudsp.com
 zhitouxing.com
@@ -106242,7 +106255,6 @@ zj2460.com
 zj31.net
 zj32.com
 zj339.com
-zj93zp.com
 zj96596.com
 zjabank.com
 zjaf.net
@@ -106601,6 +106613,7 @@ zmsq.com
 zmt.itc.cn
 zmt.itc.cn.wsglb0.com
 zmt.me
+zmtc.com
 zmtiantang.com
 zmtpc.com
 zmtquan.com
