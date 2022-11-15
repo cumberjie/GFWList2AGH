@@ -799,6 +799,7 @@ btaia.com
 btc98.com
 btcbank.bank
 btctrade.im
+btdig.com
 btdigg.org
 btku.me
 btku.org
@@ -806,7 +807,6 @@ btspread.com
 btsynckeys.com
 budaedu.org
 buddhanet.com.tw
-buddhistchannel.tv
 buffered.com
 bullguard.com
 bullog.org
@@ -4112,6 +4112,7 @@ openid.net
 openleaks.org
 opensea.io
 opensource.google
+openstreetmap.org
 opentech.fund
 openvpn.net
 openvpn.org
