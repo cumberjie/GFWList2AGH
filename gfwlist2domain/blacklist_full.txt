@@ -2678,6 +2678,7 @@ himemix.net
 hinet.net
 hitbtc.com
 hitomi.la
+hiwifi.com
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
 hizbuttahrir.org
@@ -5769,6 +5770,7 @@ usma.edu
 usmc.mil
 usmgtcg.ning.com
 usno.navy.mil
+usocctn.com
 uspto.gov
 ustibetcommittee.org
 ustream.tv
