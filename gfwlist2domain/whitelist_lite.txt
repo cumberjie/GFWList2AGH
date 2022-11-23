@@ -12,7 +12,6 @@
 000e.com
 001.com
 001133.app
-0012482.com
 001cndc.com
 001daima.com
 001en.com
@@ -5353,7 +5352,6 @@
 59hi.com
 59hs.com
 59iedu.com
-59na.com
 59pk.net
 59store.com
 59w.net
@@ -5923,6 +5921,7 @@
 69cy.net
 69hr.com
 69jianzhi.com
+69mok.com
 69ps.com
 69shu.org
 69ul.com
@@ -6509,7 +6508,6 @@
 800lj.com
 800mei.net
 800pharm.com
-800t.net
 800tu.com
 800ux.com
 800vod.com
@@ -7167,7 +7165,6 @@
 91huoke.com
 91ios.com
 91ivr.com
-91jbz.com
 91jf.com
 91jiabohui.com
 91jiafang.com
@@ -10017,7 +10014,6 @@ appying.com
 appykt.com
 appzhonghua.com
 appzhu.com
-apqianzhuo.com
 apsgo.com
 apt.so
 aptchina.com
@@ -12533,7 +12529,6 @@ bjmljs.com
 bjmslp.com
 bjmti.com
 bjmxcy.cn
-bjmyw.com
 bjnaxl.com
 bjnsr.com
 bjp321.com
@@ -18618,7 +18613,6 @@ csdeshang.com
 csdh.com
 csdian.net
 csdiy.wiki
-csdjy.com
 csdn.com
 csdn.net
 csdn123.net
@@ -25732,6 +25726,7 @@ gameitop.com
 gameiy.com
 gamejym.com
 gamekee.com
+gamekuaishou.com
 gameley.com
 gameloop.com
 gameloveman.com
@@ -30854,7 +30849,6 @@ hsigus.com
 hsiii.com
 hsjk.com
 hsjkaoyan.com
-hsjss.com
 hslj.net
 hsmc.com
 hsmdb.com
@@ -37802,6 +37796,7 @@ kewail.com
 kexianggroup.com
 kexin001.com
 kexing100.com
+kexingchem.com
 kexinguoji.com
 kexinhaoma.org
 kexinshe.com
@@ -38274,7 +38269,6 @@ koopei.com
 koorun.com
 kooshui.com
 kooteam.com
-koouoo.com
 koovin.com
 koovoo.com
 koowo.com
@@ -38364,7 +38358,6 @@ krshadow.com
 krszf.com
 krwz.com
 krxo588peycx.com
-krzer.com
 krzzjn.com
 ks-cdn.com
 ks-cdn1.com
@@ -40938,7 +40931,6 @@ loldytt.com
 loldytt.org
 loldytt.tv
 lolgo.net
-loli.cd
 loli.cloud
 loli.ee
 loli.my
@@ -45665,7 +45657,6 @@ njxsmfyh.com
 njxsmz.com
 njxyh66.cn
 njxzwh.com
-njyayishipin.net
 njycwy.com
 njyingtaoya.com
 njyongji.com
@@ -50404,6 +50395,7 @@ qygzbxpt.com
 qyham.com
 qyi.io
 qyiliao.com
+qyjks.com
 qyjnxh.com
 qyjpzx.com
 qyjzleh.cn
@@ -50571,7 +50563,6 @@ rashost.com
 raspigeek.com
 rastargame.com
 rata-catering.com
-ratina.org
 rationmcu.com
 ratuo.com
 ray-joy.com
@@ -53211,7 +53202,6 @@ shinianonline.com
 shiningmidas.com
 shinnytech.com
 shinsoukun.com
-shinybbs.info
 shinycg.com
 shinyway.org
 shiove.com
@@ -56370,7 +56360,6 @@ sztaijier.com
 sztalent.org
 sztara.com
 sztkc.com
-sztmt.com
 sztopbrand.com
 sztspi.com
 sztxcpa.com
@@ -58743,7 +58732,6 @@ tt1386.com
 tt1h.com
 tt286.com
 tt3edd.com
-tt56w.com
 tt65.org
 tt96596.com
 tt98.com
@@ -59295,7 +59283,6 @@ ty-tyre.com
 ty2y.com
 ty3w.net
 ty8866.com
-tya.company
 tyalxx.com
 tybai.com
 tyc100.com
@@ -60310,7 +60297,6 @@ v6lvs.com
 v6ok.com
 v78q.com
 v86.org
-v8d8.com
 v977.com
 v9b5n91.com
 va-etong.com
@@ -64568,6 +64554,7 @@ xdgalaxy.com
 xdh0808.com
 xdhbs.com
 xdhcn.com
+xdiarys.com
 xdj-sz.com
 xdja.com
 xdjc.org
@@ -64939,7 +64926,6 @@ xianlife.com
 xianms.com
 xiannanyou.com
 xianniuzu.com
-xiannvtu.com
 xianpp.com
 xianruan.com
 xianshiqiba.com
@@ -68815,7 +68801,6 @@ yluu.com
 ylwl.cc
 ylwpx8.com
 ylws.net
-ylwt33.com
 ylwyw.com
 ylxbxgtg.com
 ylxdtww.com
@@ -73794,7 +73779,6 @@ zyzkb.net
 zyzw.com
 zyzxgy.com
 zyzxs.com
-zz-news.com
 zz-qq.com
 zz-zigzag.com
 zz06.net
