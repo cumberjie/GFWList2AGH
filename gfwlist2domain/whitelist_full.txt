@@ -3335,7 +3335,6 @@
 2df.me
 2dfire.com
 2dfire.info
-2di.cc
 2dianying.net
 2dld7r.tdum.alibaba.com
 2dph.com
@@ -15197,7 +15196,6 @@ b6cc80df.qc.x.bsgslb.cn
 b6cc9d1e.qc.x.bsgslb.cn
 b6ss.com
 b77de06ad19d20260e12d5da4fe07805.dl.txcdns.com
-b780.com
 b78119a6.qc.x.bsgslb.cn
 b7811a3d.qc.x.bsgslb.cn
 b7912c86.qc.x.bsgslb.cn
@@ -17704,6 +17702,7 @@ bjygfd.com
 bjyhwy.com
 bjyingyun.com
 bjyixiaojian.com
+bjyouth.net
 bjyqsj.com
 bjythd.com
 bjyunyu.com
@@ -31563,7 +31562,6 @@ dyj.cc
 dyjqd.com
 dykj.site
 dylc.com
-dylxhm.com
 dyly.com
 dyn.ithome.com
 dyn.wps.cn
@@ -34395,7 +34393,6 @@ fc0633.com
 fc12319.com
 fc1696f1980b0129bbcc3704678aef95.dlied1.cdntips.net
 fc1tn.baidu.com
-fc2.red
 fc2tn.baidu.com
 fc3tn.baidu.com
 fc4tn.baidu.com
@@ -50188,7 +50185,6 @@ jmbbs.com
 jmd-china.com
 jmdedu.com
 jmeii.com
-jmfans.com
 jmgle.com
 jmgo.com
 jmhai.com
@@ -51525,6 +51521,7 @@ jzdhyl.com
 jzdianlan.cn
 jzedu24.com
 jzerp.com
+jzfz.net
 jzgcjsysjzz.com
 jzgcjszz.com
 jzgwind.com
@@ -59026,7 +59023,6 @@ meitianhui.com
 meitibijia.com
 meitironghe.org
 meitu.com
-meitu.store
 meituan.com
 meituan.net
 meituan.yoga
@@ -66892,7 +66888,6 @@ pis.alicdn.com.gds.alibabadns.com
 piscesys.com
 pisx.com
 pitk.birdgesdk.com
-piworker.com
 pixclub.net
 pixelauth.com
 pixhey.com
@@ -66958,7 +66953,6 @@ pkg.zhimg.com
 pkg1.zhimg.com
 pkgautoupdate7.synology.cn
 pkginstaller-drcn.hispace.hicloud.com
-pkgklk.com
 pki-goog.l.google.com
 pkkjxs.cn
 pkm360.com
@@ -68786,7 +68780,6 @@ qbxs5.com
 qbxz.com
 qc-dds.net
 qc-hr.com
-qc-meta.com
 qc178.com
 qc188.com
 qc6.com
@@ -78152,6 +78145,7 @@ sql110.com
 sqlsec.com
 sqngvd.com
 sqqmall.com
+sqqnh.org
 sqrc.net
 sqreader.com
 sqrt9.com
@@ -79375,6 +79369,8 @@ sumeme.com
 sumgotea.com
 sumiaowang.com
 suming.in
+sumkoo.com
+sumkoo.net
 sumly.net
 summall.com
 summer.kfc.com.cn
@@ -86754,6 +86750,7 @@ vediotalk.com
 veedrin.com
 veelink.com
 veeqi.com
+veeqi.net
 veer.com
 veervr.tv
 veesing.com
@@ -89327,6 +89324,7 @@ wenlvnews.com
 wenmeng.com
 wenmi.com
 wenming.cn
+wenmingban.com
 wenneart.com
 wenpie.com
 wenrouge.com
@@ -100339,7 +100337,6 @@ xzpoll.com
 xzq.greenxf.net
 xzqysx.com
 xzr.kim
-xzrj.cc
 xzrm.com
 xzsec.com
 xzsnw.com
@@ -107357,7 +107354,6 @@ zxip.com
 zxjctz.com
 zxjg66.com
 zxjsq.net
-zxlearning.com
 zxlib.com
 zxlmx.com
 zxmall.com

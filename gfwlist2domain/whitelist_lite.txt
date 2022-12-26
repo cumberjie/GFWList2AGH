@@ -2638,7 +2638,6 @@
 2df.me
 2dfire.com
 2dfire.info
-2di.cc
 2dianying.net
 2dph.com
 2du.net
@@ -10640,7 +10639,6 @@ b612.me
 b612kaji.com
 b631.com
 b6ss.com
-b780.com
 b7l.cc
 b8yx.com
 b9127.com
@@ -12647,6 +12645,7 @@ bjygfd.com
 bjyhwy.com
 bjyingyun.com
 bjyixiaojian.com
+bjyouth.net
 bjyqsj.com
 bjythd.com
 bjyunyu.com
@@ -22024,7 +22023,6 @@ dyj.cc
 dyjqd.com
 dykj.site
 dylc.com
-dylxhm.com
 dyly.com
 dynamic-ip.xyz
 dyonr.com
@@ -24120,7 +24118,6 @@ fbxslw.com
 fc0531.com
 fc0633.com
 fc12319.com
-fc2.red
 fc571.com
 fc811.com
 fcachinagsdp.com
@@ -36168,7 +36165,6 @@ jmbbs.com
 jmd-china.com
 jmdedu.com
 jmeii.com
-jmfans.com
 jmgle.com
 jmgo.com
 jmhai.com
@@ -37226,6 +37222,7 @@ jzdhyl.com
 jzdianlan.cn
 jzedu24.com
 jzerp.com
+jzfz.net
 jzgcjsysjzz.com
 jzgcjszz.com
 jzgwind.com
@@ -42805,7 +42802,6 @@ meitianhui.com
 meitibijia.com
 meitironghe.org
 meitu.com
-meitu.store
 meituan.com
 meituan.net
 meituan.yoga
@@ -47909,7 +47905,6 @@ pipsemi.com
 piqs.com
 piscesys.com
 pisx.com
-piworker.com
 pixclub.net
 pixelauth.com
 pixhey.com
@@ -47958,7 +47953,6 @@ pkbkok.com
 pkcode.cn
 pkdyplayer.com
 pkfj.xyz
-pkgklk.com
 pkkjxs.cn
 pkm360.com
 pkmmo.com
@@ -48733,7 +48727,6 @@ qbxs5.com
 qbxz.com
 qc-dds.net
 qc-hr.com
-qc-meta.com
 qc178.com
 qc188.com
 qc6.com
@@ -55144,6 +55137,7 @@ sql110.com
 sqlsec.com
 sqngvd.com
 sqqmall.com
+sqqnh.org
 sqrc.net
 sqreader.com
 sqrt9.com
@@ -55620,6 +55614,8 @@ sumeme.com
 sumgotea.com
 sumiaowang.com
 suming.in
+sumkoo.com
+sumkoo.net
 sumly.net
 summall.com
 summerlight.name
@@ -60476,6 +60472,7 @@ vediotalk.com
 veedrin.com
 veelink.com
 veeqi.com
+veeqi.net
 veer.com
 veervr.tv
 veesing.com
@@ -62315,6 +62312,7 @@ wenlvnews.com
 wenmeng.com
 wenmi.com
 wenming.cn
+wenmingban.com
 wenneart.com
 wenpie.com
 wenrouge.com
@@ -67296,7 +67294,6 @@ xzper.com
 xzpoll.com
 xzqysx.com
 xzr.kim
-xzrj.cc
 xzrm.com
 xzsec.com
 xzsnw.com
@@ -73685,7 +73682,6 @@ zxip.com
 zxjctz.com
 zxjg66.com
 zxjsq.net
-zxlearning.com
 zxlib.com
 zxlmx.com
 zxmall.com
