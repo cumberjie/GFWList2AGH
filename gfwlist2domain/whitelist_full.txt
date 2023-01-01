@@ -4614,7 +4614,6 @@
 40fenzhong.com
 40manhua.com
 40mdd.com
-40ya.com
 41188.com
 411au.com
 4124.com
@@ -19215,7 +19214,6 @@ c6c.com
 c6ca4009107c1d684126e2728af4bd9e.dlied1.cdntips.net
 c6ee0bddffea0692292bfaaa6da53255.safeframe.googlesyndication.com
 c6n708.ren
-c73160.com
 c75uw72.com
 c77b343cc84f479d81c88760.mdbook.cn
 c77c.com
@@ -36407,7 +36405,6 @@ g1f5.com
 g1kb9u.xyz
 g1max.mediav.com
 g1xd.mediav.com
-g1yx.com
 g2.ctc.cctvcdn.net.lxdns.com
 g2.gstatic.com
 g2.hub5pn.sandai.net
@@ -58504,7 +58501,6 @@ maxpda.com
 maxreader.la
 maxreader.net
 maxscend.com
-maxstv.com
 maxsys.adsame.com
 maxthon.cn
 maxthon.com
@@ -59586,7 +59582,6 @@ midust.com
 midway.run
 midwayjs.org
 midy.me
-midymidy.com
 mie99.net
 miecod.com
 miejw.com
@@ -68707,7 +68702,6 @@ qbaobei.com
 qbaoting.com
 qbaroj.cn
 qbb6.com
-qbdcc.com
 qbdgame.com
 qbdsp.html5.qq.com
 qbeenslee.com
@@ -74668,7 +74662,6 @@ seeyouhealth.com
 seeyouyima.com
 seezy.com
 sefonsoft.com
-sefyc.com
 segahome.com
 segapi.com
 segmentfault.com
@@ -84269,7 +84262,6 @@ twd2.me
 twd2.net
 twdm.net
 tweakcube.com
-twfeq.com
 twguozao.com
 twh5.com
 twinkleunion.com
@@ -107653,7 +107645,6 @@ zzsteel.com
 zzstep.com
 zzt9.com
 zztline.com
-zztongyun.com
 zztoutiao.net
 zztxkj.com
 zztyscl.com
