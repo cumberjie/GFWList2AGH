@@ -133,6 +133,7 @@ abebooks.com
 ablwang.com
 aboluowang.com
 about.google
+about.me
 aboutamazon.com
 aboutgfw.com
 abs.edu
@@ -660,6 +661,7 @@ buffered.com
 bullguard.com
 bullog.org
 bullogger.com
+bumingbai.net
 bunbunhk.com
 busayari.com
 business-humanrights.org
@@ -815,6 +817,7 @@ chinadialogue.net
 chinadigitaltimes.net
 chinaelections.org
 chinaeweekly.com
+chinafile.com
 chinafreepress.org
 chinagate.com
 chinageeks.org
@@ -1255,6 +1258,7 @@ dotsub.com
 dotvpn.com
 doub.io
 doubibackup.com
+doublethinklab.org
 doubmirror.cf
 dougscripts.com
 douhokanko.net
@@ -2191,6 +2195,7 @@ heyzo.com
 hgseav.com
 hhdcb3office.org
 hhthesakyatrizin.org
+hiccears.com
 hidden-advent.org
 hide.me
 hidein.net
@@ -2289,6 +2294,7 @@ horrorporn.com
 hostloc.com
 hotair.com
 hotav.tv
+hotcoin.com
 hotels.cn
 hotgoo.com
 hotpornshow.com
@@ -2340,6 +2346,7 @@ huiyi.in
 hulkshare.com
 hulu.com
 huluim.com
+humanrightspressawards.org
 hung-ya.com
 hungerstrikeforaids.org
 huobi.co
@@ -2709,6 +2716,7 @@ koornk.com
 koranmandarin.com
 korenan2.com
 kqes.net
+kraken.com
 ksdl.org
 kspcoin.com
 ktzhk.com
@@ -3066,6 +3074,7 @@ moneyhome.biz
 monitorchina.org
 monitorware.com
 monlamit.org
+monocloud.me
 monster.com
 moodyz.com
 moon.fm
@@ -3247,6 +3256,7 @@ newchen.com
 newgrounds.com
 newhighlandvision.com
 newipnow.com
+newmitbbs.com
 newnews.ca
 newpppp.com
 newsancai.com
@@ -3542,6 +3552,7 @@ pastebin.com
 pastie.org
 pathtosharepoint.com
 patreon.com
+pawoo.net
 paxful.com
 pbs.org
 pbwiki.com
@@ -3953,6 +3964,7 @@ sakuralive.com
 sakya.org
 samair.ru
 sambhota.org
+sankakucomplex.com
 sankei.com
 sans.edu
 sapikachu.net
@@ -5093,6 +5105,7 @@ webjb.org
 weblagu.com
 webmproject.org
 webpack.de
+webpkgcache.com
 webrtc.org
 webrush.net
 webs-tv.net

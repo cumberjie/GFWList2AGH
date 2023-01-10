@@ -148,6 +148,7 @@ abitno.linpie.com
 ablwang.com
 aboluowang.com
 about.google
+about.me
 aboutamazon.com
 aboutgfw.com
 abs.edu
@@ -487,7 +488,6 @@ bastillepost.com
 bayvoice.net
 baywords.com
 bb-chat.tv
-bb.ttv.com.tw
 bbc.co.uk
 bbc.com
 bbc.in
@@ -812,6 +812,7 @@ buffered.com
 bullguard.com
 bullog.org
 bullogger.com
+bumingbai.net
 bunbunhk.com
 busayari.com
 business-humanrights.org
@@ -1002,6 +1003,7 @@ chinadialogue.net
 chinadigitaltimes.net
 chinaelections.org
 chinaeweekly.com
+chinafile.com
 chinafreepress.org
 chinagate.com
 chinageeks.org
@@ -1534,6 +1536,7 @@ dotsub.com
 dotvpn.com
 doub.io
 doubibackup.com
+doublethinklab.org
 doubmirror.cf
 dougscripts.com
 douhokanko.net
@@ -2655,6 +2658,7 @@ hgseav.com
 hhdcb3office.org
 hhthesakyatrizin.org
 hi-on.org.tw
+hiccears.com
 hidden-advent.org
 hide.me
 hidein.net
@@ -2756,6 +2760,7 @@ hmvdigital.ca
 hmvdigital.com
 hnjhj.com
 hnntube.com
+hojemacau.com.mo
 hola.com
 hola.org
 holymountaincn.com
@@ -2783,6 +2788,7 @@ horrorporn.com
 hostloc.com
 hotair.com
 hotav.tv
+hotcoin.com
 hotels.cn
 hotfrog.com.tw
 hotgoo.com
@@ -2841,6 +2847,7 @@ huiyi.in
 hulkshare.com
 hulu.com
 huluim.com
+humanrightspressawards.org
 hung-ya.com
 hungerstrikeforaids.org
 huobi.co
@@ -3256,6 +3263,7 @@ koornk.com
 koranmandarin.com
 korenan2.com
 kqes.net
+kraken.com
 ksdl.org
 ksnews.com.tw
 kspcoin.com
@@ -3664,6 +3672,7 @@ moneyhome.biz
 monitorchina.org
 monitorware.com
 monlamit.org
+monocloud.me
 monster.com
 moodyz.com
 moon.fm
@@ -3867,6 +3876,7 @@ newgrounds.com
 newhighlandvision.com
 newipnow.com
 newlandmagazine.com.au
+newmitbbs.com
 newnews.ca
 newpppp.com
 news.cnyes.com
@@ -4218,6 +4228,7 @@ pastebin.com
 pastie.org
 pathtosharepoint.com
 patreon.com
+pawoo.net
 paxful.com
 pbs.org
 pbwiki.com
@@ -4686,6 +4697,7 @@ sakya.org
 salvation.org.hk
 samair.ru
 sambhota.org
+sankakucomplex.com
 sankei.com
 sanmin.com.tw
 sans.edu
@@ -5515,6 +5527,7 @@ tsu.org.tw
 tsunagarumon.com
 tt1069.com
 tttan.com
+ttv.com.tw
 ttvnw.net
 tu8964.com
 tubaholic.com
@@ -6004,6 +6017,7 @@ webjb.org
 weblagu.com
 webmproject.org
 webpack.de
+webpkgcache.com
 webrtc.org
 webrush.net
 webs-tv.net
