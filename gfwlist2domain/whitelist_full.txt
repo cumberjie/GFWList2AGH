@@ -5130,6 +5130,7 @@
 51autogo.com
 51autoimg.com
 51awifi.com
+51azure.cloud
 51babybuy.com
 51baigong.com
 51banban.com
@@ -6950,6 +6951,7 @@
 6688.com
 66889.net
 668895.com
+6688dns.com
 6688pay.com
 668app.com
 668cc668.com
@@ -12330,6 +12332,7 @@ alipay.cn
 alipay.com
 alipay.hk
 alipay.net
+alipayauto.com
 alipaycs.com
 alipaydev.com
 alipaydns.com
@@ -22720,6 +22723,7 @@ chuanglian.net
 chuanglinggame.com
 chuangluo.com
 chuangread.com
+chuangseo.com
 chuangshifurui.com
 chuangshizhenghe.com
 chuangtoo.com
@@ -28252,6 +28256,7 @@ dell027.com
 dellcnappgw.chinaeast2.cloudapp.chinacloudapi.cn
 dellcnappgw.chinanorth2.cloudapp.chinacloudapi.cn
 dellemc-solution.com
+delphijiaocheng.com
 delta.taobao.com
 delunyk.com
 demage.com
@@ -35933,6 +35938,7 @@ fubaofei.com
 fuchaoqun.com
 fuckingdata.com
 fucnm.com
+fucol.club
 fudaiapp.com
 fudanglp.com
 fudanmed.com
@@ -50276,6 +50282,7 @@ jn.lianjia.com
 jn001.com
 jn123456.com
 jn1535.com
+jn6beq.xyz
 jnbbbyy.com
 jnbnzk.com
 jncarw.com
@@ -56782,6 +56789,7 @@ lt-tree.com
 lt-uv.com
 lt122.com
 lt2011.com
+lt301.sbs
 lt3c.com
 lt6668.com
 ltaaa.com
@@ -66110,6 +66118,7 @@ pctu.net
 pctutu.com
 pctutu.net
 pctvx.com
+pcuois.com
 pcvideoaliyun.titan.mgtv.com
 pcvideotestws.titan.mgtv.com
 pcvideotxott.titan.mgtv.com
@@ -66129,6 +66138,7 @@ pcweb3.api.mgtv.com
 pcwenti.com
 pcwgu.com
 pcwl.com
+pcwolke.com
 pcxzo.pluto.sogou.com
 pcyangguangban.com
 pd-sts.com
@@ -67256,6 +67266,7 @@ pns.ximalaya.com
 pnwww.com
 pnxs.com
 pnzpw.com
+po.co
 po.funshion.com
 po88.cc
 pobaby.net
@@ -80118,6 +80129,7 @@ syuan.net
 syue.com
 sywg.com
 sywgy.com
+sywtqc.com
 syx86.cn
 syxb.com
 syxj.net
@@ -81283,6 +81295,7 @@ tbsrecovery.imtt.qq.com
 tbt.cc
 tburl.in
 tburl.net
+tbuser.com
 tbw-fuzhuang.com
 tbw-hufu.com
 tbw-xie.com
@@ -83203,6 +83216,7 @@ torovo.com
 toruk.gds.tanx.com
 toruk.tanx.com
 toscode.gitee.com
+tosenscredit.com
 toshiba-gtbs.com
 toshiba-semicon-storage.com
 toshiba-thpc.com
@@ -96195,6 +96209,7 @@ xunwangba.com
 xunwei.org
 xunwei.tm
 xunxi.com
+xunxiang.site
 xunxu.com
 xunyangzaixian.com
 xunyi.net
@@ -102037,6 +102052,7 @@ ykad-data.youku.com
 ykad-gateway.youku.com
 ykauto.cn
 ykccn.com
+ykchicheng.com
 ykclass.com
 ykdgd.com
 ykdmsy.com
@@ -104541,6 +104557,7 @@ zdfans7.com
 zdfx.net
 zdh168.com
 zdhaitao.com
+zdhaitao.net
 zdhnayr.com
 zdic.net
 zditect.com
@@ -106147,6 +106164,7 @@ zidan.chat
 zidanduanxin.com
 zidanduanxin.net
 zidian8.com
+zidianwang.com
 zidoo.tv
 zidootv.com
 ziewje.com
@@ -106616,6 +106634,7 @@ zlcftquotesprod.chinatai.com
 zlcfttradeprod.chinatai.com
 zlck.com
 zlcool.com
+zle.com
 zlfedu.com
 zlfind.com
 zlfund.cn

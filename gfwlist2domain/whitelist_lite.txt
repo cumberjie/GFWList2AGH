@@ -5784,6 +5784,7 @@
 6688.com
 66889.net
 668895.com
+6688dns.com
 6688pay.com
 668app.com
 668cc668.com
@@ -9216,6 +9217,7 @@ alipay.cn
 alipay.com
 alipay.hk
 alipay.net
+alipayauto.com
 alipaycs.com
 alipaydev.com
 alipaydns.com
@@ -16480,6 +16482,7 @@ chuanglian.net
 chuanglinggame.com
 chuangluo.com
 chuangread.com
+chuangseo.com
 chuangshifurui.com
 chuangshizhenghe.com
 chuangtoo.com
@@ -20148,6 +20151,7 @@ dell-brand.com
 dell.com
 dell027.com
 dellemc-solution.com
+delphijiaocheng.com
 delunyk.com
 demage.com
 demaxiya.com
@@ -36251,6 +36255,7 @@ jn-bank.com
 jn001.com
 jn123456.com
 jn1535.com
+jn6beq.xyz
 jnbbbyy.com
 jnbnzk.com
 jncarw.com
@@ -41387,6 +41392,7 @@ lt-tree.com
 lt-uv.com
 lt122.com
 lt2011.com
+lt301.sbs
 lt3c.com
 lt6668.com
 ltaaa.com
@@ -47429,11 +47435,13 @@ pctu.net
 pctutu.com
 pctutu.net
 pctvx.com
+pcuois.com
 pcviva.com
 pcw365.com
 pcwenti.com
 pcwgu.com
 pcwl.com
+pcwolke.com
 pcyangguangban.com
 pd-sts.com
 pd120.com
@@ -48158,6 +48166,7 @@ pnp8.com
 pnwww.com
 pnxs.com
 pnzpw.com
+po.co
 po88.cc
 pobaby.net
 pobasoft.com
@@ -56236,6 +56245,7 @@ syuan.net
 syue.com
 sywg.com
 sywgy.com
+sywtqc.com
 syxb.com
 syxj.net
 syxlgame.com
@@ -57053,6 +57063,7 @@ tbsite.net
 tbt.cc
 tburl.in
 tburl.net
+tbuser.com
 tbw-fuzhuang.com
 tbw-hufu.com
 tbw-xie.com
@@ -58476,6 +58487,7 @@ topwinfo.com
 topys.com
 topzj.com
 torovo.com
+tosenscredit.com
 toshiba-gtbs.com
 toshiba-semicon-storage.com
 toshiba-thpc.com
@@ -68864,6 +68876,7 @@ yk08.com
 yk211.com
 ykauto.cn
 ykccn.com
+ykchicheng.com
 ykclass.com
 ykdgd.com
 ykdmsy.com
@@ -71095,6 +71108,7 @@ zdfans7.com
 zdfx.net
 zdh168.com
 zdhaitao.com
+zdhaitao.net
 zdhnayr.com
 zdic.net
 zditect.com
@@ -72607,6 +72621,7 @@ zidan.chat
 zidanduanxin.com
 zidanduanxin.net
 zidian8.com
+zidianwang.com
 zidoo.tv
 zidootv.com
 ziewje.com
@@ -73046,6 +73061,7 @@ zlbaba.com
 zlca.org
 zlck.com
 zlcool.com
+zle.com
 zlfedu.com
 zlfind.com
 zlfund.cn
