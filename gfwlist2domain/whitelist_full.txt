@@ -8009,7 +8009,6 @@
 80kongjian.com
 80kuku.com
 80l29a.tdum.alibaba.com
-80ml.com
 80nb.com
 80note.com
 80o5s5d7f434za98.aliyunddos1026.com
@@ -14860,7 +14859,6 @@ avc.qcloud.com
 avdll.com
 avemaria.fun
 aves.art
-avexchina.com
 avgh5.com
 avhome.net
 avhot.cc
@@ -31202,7 +31200,6 @@ duote.com
 duotegame.com
 duoti181.shop
 duotoupiao.com
-duotuwang.com
 duouoo.com
 duowan.com
 duowanns.com
@@ -40806,7 +40803,6 @@ hbqyxy.com
 hbr.console.aliyun.com
 hbrbmedia.com
 hbrc.com
-hbrcgd.com
 hbrchina.org
 hbrchinese.org
 hbrd.net
@@ -73919,7 +73915,6 @@ sayloving.com
 saywash.com
 sb-y6.onlinegamegoonline.com
 sb.firefox.com.cn
-sbaliyun.com
 sbanfu.com
 sbanzu.com
 sbc-mcc.com
@@ -75990,7 +75985,6 @@ shmiaosai.com
 shminorshort.weixin.qq.com
 shmljm.com
 shmmsns.qpic.cn
-shmnyy.com
 shmog.org
 shmulan.com
 shmusic.org
@@ -82215,7 +82209,6 @@ tiantianquce.com
 tiantianqutao.com
 tiantianring.com
 tiantiansoft.com
-tiantiantiao.com
 tiantianxuexi.com
 tiantk.com
 tiantonglaw.com
@@ -87062,7 +87055,6 @@ vhot2hls.tc.qq.com
 vhotwsh.video.qq.com
 vhotwsh.video.qq.com.lxdns.com
 vhpxa.top
-vhteam.com
 vhunantv.admaster.com.cn
 vhuya-static.huya.com
 vi-v6.sparta.mig.tencent-cloud.net
@@ -103011,7 +103003,6 @@ ysgtg.com
 ysgushi.com
 yshp.net
 yshsports.com
-yshyqxx.com
 ysicing.me
 ysicing.net
 ysidcz.com
@@ -105012,7 +105003,6 @@ zhanghongliang.com
 zhanghuanglong.com
 zhangjiajie.baixing.com
 zhangjianlong.xyz
-zhangjiaoshou.net
 zhangjiexiong.com
 zhangjinkun.com
 zhangjuan.love
@@ -107283,7 +107273,6 @@ zun.gd
 zun315.com
 zun9.com
 zunmi.cn
-zunshei.com
 zunxiangjiazheng07712444061.com
 zunxiangqiming.com
 zunxun.com
