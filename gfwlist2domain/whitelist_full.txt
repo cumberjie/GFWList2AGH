@@ -3077,7 +3077,6 @@
 24geban.com
 24haowan.com
 24hmb.com
-24jz.com
 24k99.com
 24ker.com
 24kplus.com
@@ -6495,6 +6494,7 @@
 5h36wu4y.sched.sma.tdnsv5.com
 5h9ljq.tdum.alibaba.com
 5ha.net
+5haoxue.net
 5hrc.com
 5hte21mz.com
 5i-training.net
@@ -8033,6 +8033,7 @@
 8169.com
 817.dopa.com
 817398.com
+8175835ccc.com
 81761.com
 817711.com
 818.com
@@ -11733,6 +11734,7 @@ aimapp.net
 aimatech.com
 aimatrix.ai
 aimeas.com
+aimei39.com
 aimeideni.com
 aimeike.tv
 aimeit.com
@@ -17377,7 +17379,6 @@ bizcn.com
 bizcommon.alicdn.com
 bizcommon.alicdn.com.danuoyi.alicdn.com
 bizconfstreaming.com
-bizgame.com
 bizhao178.com
 bizhi360.com
 bizhi88.com
@@ -20692,6 +20693,7 @@ cdnjm.cn
 cdnjs.gtimg.com
 cdnjs.mopair-erm.net
 cdnjs.z-face.cn
+cdnjson.com
 cdnjsp.wang
 cdnjtzy.com
 cdnle.com
@@ -22795,6 +22797,7 @@ chunhui12.com
 chunjingtech.com
 chunjiws.com
 chunmi.com
+chunmiaosh.com
 chunqiuwang.com
 chunquff.com
 chunsen.gallerycdn.azure.cn
@@ -29707,7 +29710,6 @@ dmtracking.1688.com
 dmtrck.com
 dmv2crd8.v1d.szbdyd.com
 dmym.aixyy.com
-dmyy.cc
 dmyz.org
 dmyzw.com
 dmzfa.com
@@ -32288,6 +32290,7 @@ ecom.snssdk.com
 ecombdapi.com
 ecombdimg.com
 ecombdstatic.com
+ecombdvod.com
 ecomcbjs.jomodns.com
 ecomgxh.kuwo.cn
 ecomoter.com
@@ -36461,7 +36464,6 @@ g9hc4.cn
 g9xfumsy.lc-cn-n1-shared.com
 g9ykbj.tdum.alibaba.com
 ga.ioiox.com
-ga0.me
 ga001.com
 ga1.3dmgame.com
 ga2.3dmgame.com
@@ -42594,7 +42596,6 @@ hongshu.com
 hongshunet.com
 hongshunth.com
 hongsungifts.com
-hongt.com
 hongtastock.com
 hongtu.net
 hongxiaolong.com
@@ -43198,7 +43199,6 @@ huadongmedia.com
 huadoo.com
 huadream.com
 huaduocai.net
-huadx.com
 huaease.net
 huaer.cc
 huafang.com
@@ -43507,7 +43507,6 @@ huazhou.anjuke.com
 huazhu.com
 huazhuanapp.com
 huazhucorp.com
-huazi55.xyz
 huazirc.com
 hub-mirror.c.163.com
 hub5btmain.sandai.net
@@ -56982,6 +56981,7 @@ lv.dingtalk.com
 lv74.com
 lv96.com
 lvanol.com
+lvbad.com
 lvbenma.com
 lvbuo.com
 lvchanghuanbao.com
@@ -58210,6 +58210,7 @@ mantusy.com
 manulife-sinochem.com
 manwuxian123.com
 manxiu-law.com
+manyibaojie.vip
 manylaw.com
 manyoo.net
 manyou.com
@@ -61210,6 +61211,7 @@ mu.17173.com
 mu1.sinaimg.cn
 mu722.com
 mubanjianli.com
+mubanwan.com
 mubie.net
 mubu.com
 mubu.io
@@ -62444,7 +62446,6 @@ newcoder.com
 newcosemi.com
 newdao.net
 newday.me
-newdefend.com
 newdon.net
 newdriverdl.lenovo.com.cn
 newdruginfo.com
@@ -62933,6 +62934,7 @@ njgjj.com
 njhaiwai.com
 njhengyou.com
 njhgame.com
+njhgzg.com
 njhszoo.com
 njibhu.com
 njjn.com
@@ -71698,7 +71700,6 @@ rayrjx.com
 raysilicon.com
 raythonsoft.com
 raytoon.net
-rayu.me
 rayuu.com
 rayyo.com
 rayyzx.com
@@ -77697,7 +77698,6 @@ somsds.com
 sonald.me
 song.fanxing.kugou.com
 songcan.me
-songchuan12345.com
 songcn.com
 songguo7.com
 songguojiankang.com
@@ -78412,7 +78412,6 @@ ssxxp.com
 ssyar.com
 ssyer.com
 ssytnet.com
-ssyule.com
 ssyxlx.com
 ssyzx.net
 sszjnc.com
@@ -80888,7 +80887,6 @@ tangux.com
 tangwumo.com
 tangyaols.com
 tangyingkang.com
-tangzhekan2.net
 tangzhuan666.com
 tanhaibo.net
 tanho.com
@@ -90061,7 +90059,6 @@ wincome.group
 wind.moe
 wind2021.com
 windcoder.com
-windever.com
 windgreen.me
 windin.com
 windmsn.com
@@ -95927,7 +95924,6 @@ xuanwu88.com
 xuanwumobile.com
 xuanwww.com
 xuanxiaozhuanjia.com
-xuanxiu.cc
 xuanxuan.com
 xuanxuangame.com
 xuanxuantemai.com
