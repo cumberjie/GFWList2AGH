@@ -5562,6 +5562,7 @@
 51world.win
 51wp.com
 51wtp.com
+51wuditu.com
 51wxjz.com
 51wydj.com
 51wyfl.com
@@ -26967,6 +26968,7 @@ d959c33da1b7a55b8b5e10f902512b35.dlied1.cdntips.net
 d97b3956e88f47d54d10499f0ca8b01e.safeframe.googlesyndication.com
 d9b17e0b456ecd2d.jomoxc.com
 d9b2aa4ed2148697d7b1696c77b28dcb.dlied1.cdntips.net
+d9ym.com
 da-qian.com
 da-quan.net
 da.anythinktech.com
@@ -36186,6 +36188,7 @@ fxl1950.com
 fxlbb.com
 fxltsbl.com
 fxm.so
+fxngpih.com
 fxo2opt.com
 fxpan.com
 fxsjcj.kaipuyun.cn
@@ -56968,6 +56971,7 @@ luxianpo.com
 luxiao.com
 luxiwang.com
 luxiyun.com
+luxshare-ict.com
 luxst.com
 luxtarget.com
 luxuqing.com
@@ -70168,6 +70172,7 @@ qoocc.com
 qooic.com
 qookar.com
 qoqaoligei.com
+qoqkkhy.com
 qos.game.qq.com
 qos.gcloud.qq.com
 qos.qcloud.com
@@ -94119,6 +94124,7 @@ xiaobaoonline.com
 xiaobaostudio.com
 xiaobd.net
 xiaobenzi.com
+xiaobianli8.com
 xiaobingxitong.com
 xiaobu121.com
 xiaocanhulian.com
