@@ -296,6 +296,7 @@ animecrazy.net
 aniscartujo.com
 annatam.com
 anobii.com
+anonfiles.com
 anontext.com
 anonymitynetwork.com
 anonymizer.com
@@ -1119,6 +1120,7 @@ cloudcone.com
 cloudflare-dns.com
 cloudflare-ipfs.com
 cloudfront.net
+cloudfunctions.net
 club.tw
 club1069.com
 clubhouseapi.com
@@ -1547,7 +1549,6 @@ dowjones.com
 download.aircrack-ng.org
 download.cnet.com
 download.fastgit.org
-download.ithome.com.tw
 dphk.org
 dpp.org.tw
 dpr.info
@@ -3057,6 +3058,7 @@ itaiwan.gov.tw
 italiatibet.org
 itasoftware.com
 itemdb.com
+itemfix.com
 ithelp.ithome.com.tw
 its.caltech.edu
 itsaol.com
@@ -3319,6 +3321,7 @@ ld.hao123img.com
 le-vpn.com
 leafyvpn.net
 lecloud.net
+ledger.com
 lefora.com
 left21.hk
 legalporno.com
@@ -4084,6 +4087,7 @@ olabloga.pl
 old-cat.net
 old.honeynet.org
 old.nabble.com
+olehdtv.com
 olevod.com
 olumpo.com
 olympicwatch.org
