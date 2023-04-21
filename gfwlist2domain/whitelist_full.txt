@@ -6611,7 +6611,6 @@
 5seestar.com
 5sem.com
 5sha.com
-5sharing.com
 5snow.com
 5stmt.com
 5sw.com
@@ -7661,7 +7660,6 @@
 7937.com
 7940.com
 79432.com
-794579.com
 795674.com
 7958.net
 7964b.com
@@ -8566,7 +8564,6 @@
 8dcyqu.c.admaster.com.cn
 8ddao.com
 8dexpress.com
-8dlive.com
 8dn.com
 8dol.com
 8dp.net
@@ -15314,7 +15311,6 @@ bag198.com
 bagb2b.com
 bagesoft.net
 bagevent.com
-bagew.com
 bageyalu.com
 bags163.com
 bagtree.com
@@ -26174,6 +26170,7 @@ ctobsnssdk.com
 ctocio.com
 ctoclub.com
 ctoutiao.com
+ctqcw.com
 ctr.hd.sohu.com
 ctracer.net
 ctrack.bxsnews.com
@@ -32261,6 +32258,7 @@ echarpile.com
 echashi.com
 echatsoft.com
 echead.com
+echepiao.com
 echiele.com
 echinacareers.com
 echinacities.com
@@ -34653,7 +34651,6 @@ feihuo.com
 feihutaoke.com
 feiin.com
 feiji.qq.com
-feiji666nihao.com
 feijiu.net
 feijizu.com
 feikanu.net
@@ -37596,7 +37593,6 @@ gho5.com
 ghost008.com
 ghost11.com
 ghost123.com
-ghost580.net
 ghost64.com
 ghostchina.com
 ghostsf.com
@@ -48407,7 +48403,6 @@ iziyo.com
 izjj.com
 izmzg.com
 izstz.com
-izt6.com
 izt8.com
 iztwp.com
 iztyy.com
@@ -59362,7 +59357,6 @@ mg.uu.163.com
 mg09.zhaopin.com
 mg21.com
 mg3721.com
-mg67.com
 mgame-sv.netease.com
 mgame.sohu.com
 mgate.jd.com
@@ -66906,7 +66900,6 @@ pinzhi.org
 pinzhi.xin
 pinzhikeji.net
 pinzs.com
-pioneerlinux.com
 pioneersci.com
 pipa.com
 pipacdn.com
@@ -76282,7 +76275,6 @@ shu-ju.net
 shu.y.qq.com
 shu163.com
 shu6.y.qq.com
-shuabuapp.com
 shuai.love
 shuaibo.wang
 shuaigeshe.com
@@ -76509,7 +76501,6 @@ shuzhiduo.com
 shuzhou.cc
 shuzhundsj.cn
 shuzibao.com
-shuziju.com
 shuzilm.cn
 shuzilm.com
 shuzixiaoyuan.com
@@ -77541,7 +77532,6 @@ snsyx.com
 snto.com
 snupg.com
 snwxn.com
-snxfcw.com
 snxw.com
 snyu.com
 snzfj.net
@@ -80474,7 +80464,6 @@ t-io.org
 t-ji.net
 t-jiu.com
 t-l.play.aiseet.atianqi.com
-t-nan.com
 t-safe.2345.com
 t-tc-sh.hypers.com.cn
 t-v.com
@@ -82741,7 +82730,6 @@ tlivepush.com
 tlivepush3soct1.tcdn.qq.com
 tljcw.com
 tljob8001.com
-tlkzs.com
 tlqwine.com
 tlrcbk.com
 tlryjg.com
@@ -87500,7 +87488,6 @@ vnet.mobi
 vnnox.com
 vns454.com
 vnsiubvgs.com
-vnsr9488.com
 vnvshen.com
 vnzmi.com
 voa365.com
@@ -87803,7 +87790,6 @@ vulnhunt.com
 vulogcn.com
 vultr1.com
 vultrcn.com
-vultrla.com
 vultrvps.com
 vunion.net
 vurl.link
@@ -91066,7 +91052,6 @@ wsfdn.com
 wsfeed.inke.cn
 wsfff.com
 wsfnk.com
-wsfsy.com
 wsgg.sbj.cnipa.gov.cn
 wsgjp.com
 wsglb0.com
@@ -96338,7 +96323,6 @@ xxgzmlt.com
 xxhd-tech.com
 xxhh.com
 xxhkt.com
-xxhyzd.com
 xxingclub.com
 xxingqu.com
 xxjcy.com
@@ -106116,7 +106100,6 @@ zhuyunfeng.com
 zhuzhai.com
 zhuzher.com
 zhuzhichao.com
-zhuzhiji123.com
 zhuzhou.baixing.com
 zhuzhou.lianjia.com
 zhuzhouwang.com
