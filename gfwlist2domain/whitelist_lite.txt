@@ -4278,6 +4278,7 @@
 51honest.org
 51hosting.com
 51hostonline.com
+51houniao.com
 51hsw.com
 51huanhuan.com
 51huaya.com
@@ -5870,6 +5871,7 @@
 68606060.com
 6868.com
 6868shop.com
+6868yx.com
 6868zc.com
 686fw.com
 688799a.com
@@ -8667,6 +8669,7 @@ ahyouth.com
 ahyx.cc
 ahzcw.cc
 ahzs10000.com
+ahzssw.com
 ai-cai.com
 ai-creator.net
 ai-factory.com
@@ -9397,6 +9400,7 @@ alleadprint.com
 allfang.com
 allfunnies.com
 allhistory.com
+alliancebrh.com
 allianz360.com
 allibook.com
 alliedjeep.com
@@ -10752,6 +10756,7 @@ babytree.com
 babytreeimg.com
 bacaoo.com
 bacaosh.com
+bachemiao.com
 bacic5i5j.com
 backerbiotech.cn
 bacocis.com
@@ -12405,6 +12410,7 @@ biubiu.tv
 biubiu001.com
 biubiubiu.org
 biulie.com
+biusoft.com
 bivean.com
 bivgiokd0y.cn
 biwanshequ.com
@@ -14564,6 +14570,7 @@ cd-zc.com
 cd120.com
 cd23f.com
 cd37wan.com
+cd6.com
 cdabon.com
 cdadata.com
 cdadsj.com
@@ -21911,6 +21918,7 @@ duapps.com
 duba.com
 duba.net
 dubaike.com
+dubairen.com
 dubbo.io
 dubiwang.com
 dubprince.com
@@ -24999,6 +25007,7 @@ fkblog.org
 fkcaijing.com
 fkdmg.com
 fkdxg.com
+fke6.com
 fkesfg.com
 fkhdview.com
 fkjie.com
@@ -25950,6 +25959,7 @@ gainet.com
 gaingreat.com
 gaini.net
 gainscha.com
+gairuo.com
 gaitu.com
 gaituba.com
 gaitubao.com
@@ -27070,6 +27080,7 @@ gocea.net
 goceshi.com
 gochego.com
 gocn.vip
+gocye.com
 godaily.org
 godasai.com
 godbach.com
@@ -28392,6 +28403,7 @@ gzwcds.com
 gzwcjs.com
 gzweicai.com
 gzweix.com
+gzwhir.com
 gzwl.xyz
 gzwrit.com
 gzxdf.com
@@ -30189,6 +30201,8 @@ higrid.net
 hihell.com
 hihocoder.com
 hihonor.com
+hihonorcdn.com
+hihonorcloud.com
 hihope.org
 hiibcfr.cn
 hiido.com
@@ -31617,6 +31631,7 @@ huayijiahe.com
 huayimedia.com
 huayiming.com
 huayingsc.com
+huayinguolv.com
 huayinjapan.com
 huayiwork.com
 huayiyuan.hk
@@ -39274,6 +39289,7 @@ ky-express.com
 ky0001.vip
 ky0048.cc
 ky010.vip
+ky01002.com
 ky107.co
 ky151.co
 ky55005.com
@@ -47936,6 +47952,7 @@ pdsxww.com
 pdszhhs.com
 pdszhtl.com
 pdty123.com
+pduoduo.vip
 pdvisa.com
 pdwzjs.com
 pdxx.net
@@ -49671,6 +49688,7 @@ qianzhan.com
 qianzhan123.com
 qianzhengbanliliucheng.com
 qianzhengdaiban.com
+qianzhengziliao.com
 qianzhu8.com
 qiao024.com
 qiao88.com
@@ -50496,6 +50514,7 @@ qqzu.com
 qqzzz.net
 qr10.cn
 qr25.com
+qrbtf.com
 qrcdn.com
 qrcpu.com
 qrfladd.cn
@@ -53166,6 +53185,7 @@ sh-kr.net
 sh-ryjx.com
 sh-service.com
 sh-sfc.com
+sh-shenou.com
 sh-surface.com
 sh-tangfeng.com
 sh-warwick.com
@@ -53206,6 +53226,7 @@ shaduizi.com
 shafa.com
 shafaguanjia.com
 shahaizi.com
+shahupark.com
 shaiban.wang
 shaidc.com
 shailema.com
@@ -55598,6 +55619,7 @@ space1688.com
 spacechina.com
 spacesystech.com
 spacious.hk
+spanishknow.com
 sparenode.com
 spark-app.store
 spark4y.com
@@ -57690,6 +57712,7 @@ tdk.ink
 tdldz.com
 tdlegg.com
 tdnsv1.com
+tdnsv12.com
 tdnsv2.com
 tdnsv3.com
 tdnsv5.com
@@ -59195,6 +59218,7 @@ tqzsh.com
 trace4me.com
 tracefact.net
 traceint.com
+tracestour.com
 track-roller.com
 tracker.ink
 tracker114514.top
@@ -65502,6 +65526,7 @@ xgres.com
 xgsdk.com
 xgslb.net
 xgsnjl.com
+xgsxt.net
 xgt2014.com
 xgwx.net
 xgxedu.com
@@ -70213,6 +70238,7 @@ youxiake.com
 youxiake.net
 youxiamotors.com
 youxiaoad.com
+youxiaoge.com
 youxiaohou.com
 youxiaxiazai.com
 youxibao.com
@@ -72981,6 +73007,7 @@ zhongjinjiaye.com
 zhongjintongsheng.com
 zhongjitou.com
 zhongjiujiu.com
+zhongjixinyuan.com
 zhongkao.com
 zhongkaohelp.com
 zhongkaowu.com
