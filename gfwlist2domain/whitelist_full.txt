@@ -7995,7 +7995,6 @@
 8090xx.com
 8090yx.com
 8090yxs.com
-809803.com
 80982.org
 809926.net
 809ca1299fb13e832f2ee7f25657c760.dl.txcdns.com
@@ -11924,7 +11923,6 @@ aiweibang.com
 aiweibk.com
 aiweline.com
 aiwen.cc
-aiwenwo.net
 aiwenyi.com
 aiworkspace.com
 aiwulao.com
@@ -13186,6 +13184,7 @@ aos-cdn-image.amap.com.w.alikunlun.net
 aoscdn.amap.com
 aoscdn.amap.com.w.kunlunar.com
 aoscdn.com
+aoscom.net
 aosens.com
 aoseo.com
 aoserp.com
@@ -19226,6 +19225,7 @@ c14f8770-8f18-4060-a2c5-d4f72d3b3607.cname.yecdn.com
 c151fb41e1c344b429b2ce741ff0cad9.v.smtcdns.net
 c193264ac500d2b82fdd4f9ea5475a93.dlied1.cdntips.net
 c1ass.com
+c1channel.com
 c1dbbffc92e6e53e8fcf8c89037dbe15.safeframe.googlesyndication.com
 c1km4.com
 c1s.com
@@ -61933,6 +61933,7 @@ my399.com
 my3w.com
 my419.com
 my4399.com
+my478.com
 my51a.com
 my5m.com
 my5v.com
@@ -89064,6 +89065,7 @@ wanzhucdn.com
 wanzhugs.com
 wanzi.cc
 wanzi.com
+wanzia.com
 wanziwen.s3.cn-north-1.amazonaws.com.cn
 wanzjhb.com
 wanzui.com
@@ -104807,6 +104809,7 @@ yyfax.com
 yyfdcw.com
 yyfensi.com
 yyfsb.com
+yyfunning.com
 yyg.com
 yygjuu.club
 yygold.com
