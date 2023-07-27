@@ -388,7 +388,6 @@
 0527zz.com
 052cb209c20ec0c2be2ea70e15fe56a5.safeframe.googlesyndication.com
 052yx.com
-0531-jinan.com
 0531.com
 053135.com
 0531jb.com
@@ -6998,6 +6997,7 @@
 66jjzw.tdum.alibaba.com
 66law.cn
 66liu.com
+66mi.com
 66mobi.com
 66money.com
 66mz8.com
@@ -14692,6 +14692,7 @@ asussz-zp.com
 aswetalk.net
 async.qun.qq.com
 asyzonline.com
+aszvip.com
 at-siac.com
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
@@ -16158,7 +16159,6 @@ bb-edu.com
 bb-game.com
 bb-pco.com
 bb06.com
-bb179.com
 bb1818.le166.com
 bb2.ifeng.com
 bb263256578ff9085e7ffdc49055ccbc.dlied1.cdntips.net
@@ -24590,7 +24590,6 @@ cnhvacrnet.com
 cnhwjt.com
 cnhzz.com
 cniao5.com
-cniao8.com
 cnibx.com
 cnicif.com
 cnidea.net
@@ -24759,6 +24758,7 @@ cnprofit.com
 cnpubg.com
 cnpusi.com
 cnpv.com
+cnpx.net
 cnpython.com
 cnpythoner.com
 cnqc.com
@@ -29285,6 +29285,7 @@ dianzhenkeji.com
 dianzhentan.com
 dianzhi.com
 dianziaihaozhe.com
+dianzihetong.net
 dianzixuexi.com
 diaoben.com
 diaochapai.com
@@ -33463,6 +33464,7 @@ english.cmbchina.com
 english.gov.cn
 english.sina.com
 english.sogou.com
+englishgoai.com
 englishtownpromotion.com
 engloncar.com
 engpx.com
@@ -44243,7 +44245,6 @@ hui712.com
 hui800.com
 hui800.net
 huian.baixing.com
-huianchougy.com
 huians.com
 huibo.com
 huicaishui.net
@@ -48914,6 +48915,7 @@ iwjw.com
 iwncomm.com
 iwopop.com
 iwordnet.com
+iwordshow.com
 iworm.net
 iwpai.com
 iwshang.com
@@ -49978,6 +49980,7 @@ jiasn.com
 jiaston.com
 jiasu.huanleap.com
 jiasu.qq.com
+jiasu.work
 jiasuba.com
 jiasubook.com
 jiasudu666.com
@@ -55207,7 +55210,6 @@ ledianduo.com
 ledianyun.com
 lediaocha.com
 ledo.com
-ledole.com
 ledong.baixing.com
 ledongzhibo7777.com
 ledongzhibo888.com
@@ -55561,7 +55563,6 @@ lezai.com
 lezhi.com
 lezhi99.com
 lezhibo.com
-lezhieducation.com
 lezhiot.com
 lezhiyun.com
 lezhuan.com
@@ -62214,6 +62215,7 @@ mupceet.com
 mupmstx.com
 murdermysterypa.com
 murl.tv
+murphysec.com
 muryi.net
 muselab-tech.com
 muses-ugc.iqiyi.com
@@ -65790,7 +65792,6 @@ ottpauth.yst.aisee.tv
 ottshopping.net
 ottupdate.api.mgtv.com
 otype.com
-otzyx.com
 ou99.com
 ouapi.com
 oubk.com
@@ -69918,7 +69919,6 @@ qd.lianjia.com
 qd.myapp.com
 qd.pcsdownload.n.shifen.com
 qd256.com
-qd315.net
 qd8.com
 qdac.cc
 qdaeon.com
@@ -70613,6 +70613,7 @@ qilindao.com
 qiling.org
 qilingames.com
 qilinxuan.net
+qilitech.ltd
 qilong.com
 qilongtan.com
 qiluhospital.com
@@ -88839,6 +88840,7 @@ vote8.cc
 vote8.com
 voucher-drcn.himovie.hicloud.com
 vov0.com
+voycn.com
 voyooo.com
 vp-sh-real.oss-cn-hangzhou.aliyuncs.com
 vp.cache.qcloudcdn.com
@@ -95631,6 +95633,7 @@ xiaolianhb.com
 xiaoliebian.com
 xiaoliketang.com
 xiaolin.in
+xiaolincoding.com
 xiaoling.ixiunv.com
 xiaolinsi.com
 xiaolinwl.com
