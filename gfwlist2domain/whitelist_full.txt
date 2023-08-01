@@ -1579,7 +1579,6 @@
 13973.com
 139cai.com
 139cm.com
-139down.com
 139erp.com
 139life.com
 139play.com
@@ -2732,6 +2731,7 @@
 2045480.s1txipv6.cdntip.com
 2045480.sched.sma-dk.tdnsv5.com
 2048sj.com
+2049baby.com
 205.com
 2052.flash2-http.qq.com
 205omu1.cachenode.cn
@@ -4672,7 +4672,6 @@
 4377info.com
 437zhifu.com
 438888.com
-439.cc
 4393.cc
 4399-xyx.com
 4399.com
@@ -6836,7 +6835,6 @@
 639311.com
 6398bc058ee0d8e9f8b205cb54802a6c.v.smtcdns.net
 6399868.com
-6399s5.com
 63cb70313d0cd343e12534820344acf8.safeframe.googlesyndication.com
 63diy.com
 63f9lu1.cachenode.cn
@@ -24929,6 +24927,7 @@ cnzhengmu.com
 cnzhibo.com
 cnzhiyuanhui.com
 cnzhqs.com
+cnzjj.com
 cnzjol.com
 cnzlapp.com
 cnzsqh.com
@@ -31252,6 +31251,7 @@ dts007.com
 dtsbc.com.cn
 dtstack.com
 dtstatic.com
+dtston.com
 dttc-icp.com
 dttt.net
 dtuosh.com
@@ -31554,6 +31554,7 @@ duote.com
 duotegame.com
 duoti181.shop
 duotoupiao.com
+duotuscdn.com
 duouoo.com
 duowan.com
 duowanns.com
@@ -44591,6 +44592,7 @@ hurun.net
 husenji.com
 hushangcaifu.com
 hushuang.me
+husiyang.com
 husky.sogou.com
 hust-laser.com
 hust-snde.com
@@ -54296,6 +54298,7 @@ ky107.co
 ky151.co
 ky55005.com
 ky5yx.com
+ky7yx.com
 ky958.com
 kybapp.com
 kybapp.net
@@ -55010,7 +55013,6 @@ lcux.net
 lcxwfc.com
 lcyff.com
 lcyp.net
-lcyzs.com
 lczm.com
 lczq.com
 lczyy.com
@@ -66845,6 +66847,7 @@ paympay.com
 payqq.msf.tencent-cloud.com
 payrao.com
 paysapi.com
+paytbf.com
 paytend.com
 payxinyi.com
 pb.bi.gitv.tv
@@ -71119,6 +71122,7 @@ qmdllqv.cn
 qmei.me
 qmei.vip
 qmf3.cc
+qmhd87.com
 qmht.com
 qmht.mobi
 qmiaomh.com
@@ -71909,6 +71913,7 @@ queniufm.com
 queniuhy.com
 queniuiq.com
 queniukr.com
+queniukt.com
 queniukw.com
 queniupl.com
 queniuqy.com
@@ -80994,6 +80999,7 @@ sxllzy.chinacourt.org
 sxmaps.com
 sxmcwlw.com
 sxmtdz.com
+sxmxwh.com
 sxmyh.com
 sxncb.com
 sxnfss.com
@@ -88683,6 +88689,7 @@ vmallres.com
 vmanhua.com
 vmartaw.com
 vmat.gtimg.com
+vmaya.com
 vmb.tc.qq.com
 vmbachy.tc.qq.com
 vmbachy.tcdn.qq.com
@@ -105210,6 +105217,7 @@ yusi.com
 yusi.tv
 yusi123.com
 yusidunzc.com
+yutai365.com
 yutaoyouxi.com
 yuteng.site
 yutennet.com
@@ -108111,6 +108119,7 @@ zkit.club
 zkjh.info
 zkjxt.com
 zkl2333.com
+zkmob.net
 zknysp.com
 zkoffcn.com
 zkpk.org
