@@ -1158,7 +1158,6 @@
 1124.cc
 1124455.net
 11265e00ca3cfcd4a70310f30c1519b1.safeframe.googlesyndication.com
-1128.org
 112812.com
 1128job.com
 112book.com
@@ -5770,7 +5769,6 @@
 52aimo.com
 52ali88.com
 52alipay.com
-52alj.com
 52analysis.com
 52aoteman.com
 52article.com
@@ -8642,7 +8640,6 @@
 8jdns.net
 8jiaoye.com
 8jie8.com
-8jj.cc
 8jxn.com
 8jyv5qlpu0w9vu.mwcname.com
 8jzw.cc
@@ -16317,7 +16314,6 @@ bcmeng.com
 bcnzbi.tdum.alibaba.com
 bcpcn.com
 bcpgame.com
-bcrealm.com
 bcreat.com
 bcrjl.com
 bcrvit0.cdnnodedns.cn
@@ -19731,7 +19727,6 @@ callda.com
 callget.cn
 callmewhy.com
 callmyfun.com
-calmaworx.com
 caloinfo.com
 calorietech.com
 calt.com
@@ -20312,7 +20307,6 @@ ccpitjs.org
 ccpitlight.org
 ccpitln.org
 ccpitnb.org
-ccpitnmg.org
 ccpitqd.org
 ccpitsd.com
 ccpittex.com
@@ -24647,7 +24641,6 @@ cnluqiao.com
 cnm.xlcktv.com
 cnmanhua.com
 cnmattson.com
-cnmb.win
 cnmcom.com
 cnmdy.com
 cnmeishu.com
@@ -28123,7 +28116,6 @@ dbrt051z.sched.sma.tdnsv5.com
 dbs724.com
 dbscar.com
 dbshop.net
-dbsltsd.com
 dbsu.cmcm.com
 dbt-coin.com
 dbtfgnqk.v1d.szbdyd.com
@@ -30663,7 +30655,6 @@ downkr.com
 downkuai.com
 downlaod.xiaocen.com
 download-packages.unity.cn
-download-x.com
 download.1.130242707.cs.gcloud.qq.com
 download.123cw.cn
 download.17173.com
@@ -39111,7 +39102,6 @@ gslb.cdn.163fen.com
 gslb.hpplay.cn
 gslb.live.126.net
 gslb.miaopai.com
-gslb.net
 gslb.video.iqiyi.com
 gslb.xcloud.sandai.net
 gslb.xcloud.xunlei.com
@@ -40567,7 +40557,6 @@ haiwen-law.com
 haiwenky.com
 haixiahao.com
 haixianlai.net
-haixice.com
 haixindichan.com
 haixinews.com
 haixingbangfu.com
@@ -42369,6 +42358,7 @@ hiosu.com
 hioug.com
 hiparking.com
 hipcam.net
+hiphi.com
 hiphop8.com
 hiphotos.baidu.com
 hiphotos.jomodns.com
@@ -44016,7 +44006,6 @@ huaweicloudlive.com
 huaweicloudwaf.com
 huaweidevice.com
 huaweidun.com
-huaweielec.com
 huaweiief.com
 huaweimall.com
 huaweimarine.com
@@ -48636,7 +48625,6 @@ itmind.net
 itmo.com
 itmoocs.com
 itmop.com
-itmresources.com
 itmsm.com
 itmuch.com
 itmuke.com
@@ -51724,7 +51712,6 @@ juhaof.com
 juhaokan.org
 juhcloud.com
 juhe.com
-juheng88.com
 juheweb.com
 juhome.net
 juhuasuan.com
@@ -60500,7 +60487,6 @@ mikannovel.com
 mike-x.com
 mikechen.cc
 mikecrm.com
-mikenn.com
 mikesent-awareness-02.com
 mikesent.net
 mikewootc.com
@@ -63042,7 +63028,6 @@ nbsdk-baichuan.alicdn.com
 nbsdk-baichuan.taobao.com
 nbshuoxue.com
 nbslx.mobi
-nbsppm.com
 nbsqbank.com
 nbt.ren
 nbtarena.com
@@ -63154,6 +63139,7 @@ neegle.net
 neeq.cc
 neets.cc
 neeu.com
+nefficient.co.kr
 negroupedu.org
 neigou.com
 neihan.co
@@ -65761,7 +65747,6 @@ ouougo.com
 oupeng.com
 oupengcloud.net
 oupuzw.com
-our-sky.com
 our100.net
 our360vr.com
 ourail.com
@@ -71899,7 +71884,6 @@ query.aliyun.com
 query.dcdn.baidu.com
 query.hicloud.com
 query.tencent-cloud.com
-querylist.cc
 queshao.com
 queshu.com
 question.jd.com
@@ -72028,7 +72012,6 @@ quqiuhun.com
 ququabc.com
 ququyou.com
 ququzhu.com
-qusanxia.com
 qusem.com
 qushimeiti.com
 qushiw.com
@@ -78345,7 +78328,6 @@ smartfarming.cn
 smartgaga.com
 smartgate.ywtbsupappw.sh.gov.cn
 smartgeek.vip
-smartgslb.com
 smarthey.com
 smarthome-drcn.dbankcdn.com
 smarthome.dbankcloud.cn
@@ -83544,7 +83526,6 @@ tingniukeji.com
 tingroom.com
 tingsec.link
 tingshen.court.gov.cn
-tingshuzw.com
 tingsonglaw.com
 tingtao.net
 tingtingfm.com
@@ -88024,7 +88005,6 @@ veikei.com
 veilytech.com
 veim.lrswl.com
 veinbase.com
-veivo.info
 vej4hb.wx.fpoll.net
 veken.com
 velasx.com
@@ -105198,7 +105178,6 @@ yuudnn.com
 yuuwan.com
 yuwan-game.com
 yuwandian.com
-yuwanshe.com
 yuweixian.com
 yuwell.com
 yuwellgroup.com
