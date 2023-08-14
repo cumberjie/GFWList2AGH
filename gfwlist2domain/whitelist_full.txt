@@ -6352,7 +6352,6 @@
 58xuexi.com
 58yiji.com
 58youtui.com
-58yuanlin.com
 58yuesao.com
 58zcw.com
 58zhuiju.com
@@ -13214,7 +13213,6 @@ aoliday.com
 aoliongame.com
 aolylcd.com
 aomeng.net
-aomygod.com
 aomygodstatic.com
 aonaotu.com
 aone.alibaba-inc.com
@@ -15894,6 +15892,7 @@ banyunjuhe.com
 banzdw.cn
 banzhe.xyz
 banzou.name
+banzouzhizuo.com
 bao-cun.com
 bao-fang.com
 bao-hulu.com
@@ -16768,6 +16767,7 @@ benber.com
 benbun.com
 bench.uc.cn
 benchmarkemail.com
+bendan.website
 bendi5.com
 bendibao.com
 bendibao.site
@@ -37735,7 +37735,6 @@ geneskies.com
 genetalks.com
 geneworldcn.com
 gengchuangz.com
-genghuiok.com
 gengnie.com
 gengsang.me
 gengwen.net
@@ -55636,6 +55635,7 @@ li63.com
 li91.com
 liageren.com
 lialiu.com
+lian-ou.com
 lian1.pigvideo.com.cn
 lian1.pigvideo.com.cn.cname3061.yjs-cdn.com
 lianaibashi.com
@@ -55708,6 +55708,7 @@ lianmengapi-lq.snssdk.com
 lianmengapi.snssdk.com
 lianmenhu.com
 lianmishu.com
+lianouyiyuan.com
 lianpingd.com
 lianpuie.com
 lianqi.net
@@ -64328,7 +64329,6 @@ ntqcct.com
 ntqfdq.com
 ntrcb.com
 nttui.com
-ntuiw.cc
 ntuiw.com
 ntvalumium.com
 ntwikis.com
@@ -64935,6 +64935,7 @@ oldcat.me
 oldcp.com
 oldding.net
 oldking.net
+oldmantvg.net
 oldpan.me
 oldtang.com
 oldwww.bjmu.edu.cn
@@ -77818,7 +77819,6 @@ sinoassistance.com
 sinobaron.com
 sinobasalt.com
 sinobasedm.com
-sinoca.com
 sinocare.com
 sinocars.com
 sinocateringexpo.com
@@ -83841,6 +83841,7 @@ tlightsky.com
 tlinx.com
 tlivecdn.com
 tlivemcdn.com
+tliveplay.com
 tlivepush.com
 tlivepush3soct1.tcdn.qq.com
 tlivesource.com
