@@ -161,6 +161,7 @@
 021ren.com
 021sports.com
 021tk.com
+021wfz.com
 021yongzhuo.com
 021zsb.com
 021zu.com
@@ -8775,7 +8776,6 @@
 910015779.s1txipv6.cdntip.com
 910015779.sched.skalego-dk.tdnsv5.com
 910app.com
-910fd.com
 910play.com
 910weixin.com
 91160.com
@@ -14243,7 +14243,6 @@ aps.aliyun.com
 aps.amap.com
 apsgo.com
 apsgo.com.w.cdngslb.com
-apt.so
 aptchina.com
 aptchip.com
 aptenon.com
@@ -24331,6 +24330,7 @@ cnbiocell.com
 cnbis.com
 cnbis.org
 cnbizmedia.com
+cnbjx.com
 cnbksy.com
 cnbkw.com
 cnblogs.com
@@ -37591,6 +37591,7 @@ ge95.com
 geakr.com
 geality.com
 geapu.com
+gearfront.net
 gearkr.com
 geatmap.com
 geautos.com
@@ -42731,7 +42732,6 @@ hmsxw.com
 hmszkj.com
 hmting.com
 hmtoday.com
-hmtv.me
 hmxw.com
 hmyz.com
 hmz.com
@@ -62986,6 +62986,7 @@ nboxnas.com
 nbpolytheatre.com
 nbpyfog.cn
 nbrecsys.4paradigm.com
+nbren.net
 nbrj.com
 nbrlzy.com
 nbsason.com
@@ -70816,6 +70817,7 @@ qixifuren.com
 qixin.com
 qixin007.com
 qixin18.com
+qixin19.com
 qixincha.com
 qixing123.com
 qixingcr.com
@@ -76274,6 +76276,7 @@ shangzhou.baixing.com
 shangzhushan.com
 shanhaitujian.com
 shanhaizhanji.com
+shanhe.kim
 shanhs.com
 shanhu99.com
 shanhuojiaoyi.com
@@ -77048,7 +77051,6 @@ shoubaodan.com
 shouce.ren
 shouce365.com
 shouchaobao.com
-shouchaobao.vip
 shoucheng123.com
 shoucw.com
 shoudayy.net
@@ -84158,6 +84160,7 @@ topcheer.com
 topchitu.com
 topciic.com
 topcj.com
+topcpu.net
 topcrab.com
 topcsic.com
 topdodo.com
@@ -103288,6 +103291,7 @@ yizhikan.com
 yizhitou.com
 yizhiwechat.com
 yizhixiaogame.com
+yizidy.com
 yizimg.com
 yizlife.com
 yizu.org
@@ -104802,7 +104806,6 @@ yundasys.com
 yundianjia.com
 yundianseo.com
 yundiantech.com
-yundns.vip
 yundong.cdn-go.cn
 yundong.qq.com
 yundongfang.com

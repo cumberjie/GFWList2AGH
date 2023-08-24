@@ -148,6 +148,7 @@
 021ren.com
 021sports.com
 021tk.com
+021wfz.com
 021yongzhuo.com
 021zsb.com
 021zu.com
@@ -7084,7 +7085,6 @@
 91-box.com
 91.com
 910app.com
-910fd.com
 910play.com
 910weixin.com
 91160.com
@@ -10132,7 +10132,6 @@ appzhu.com
 apriltq.com
 aprovadimamma.net
 apsgo.com
-apt.so
 aptchina.com
 aptchip.com
 aptenon.com
@@ -17538,6 +17537,7 @@ cnbiocell.com
 cnbis.com
 cnbis.org
 cnbizmedia.com
+cnbjx.com
 cnbksy.com
 cnbkw.com
 cnblogs.com
@@ -26630,6 +26630,7 @@ ge95.com
 geakr.com
 geality.com
 geapu.com
+gearfront.net
 gearkr.com
 geatmap.com
 geautos.com
@@ -30729,7 +30730,6 @@ hmsxw.com
 hmszkj.com
 hmting.com
 hmtoday.com
-hmtv.me
 hmxw.com
 hmyz.com
 hmz.com
@@ -45882,6 +45882,7 @@ nbmedicalsystem.com
 nboxnas.com
 nbpolytheatre.com
 nbpyfog.cn
+nbren.net
 nbrj.com
 nbrlzy.com
 nbsason.com
@@ -50517,6 +50518,7 @@ qixifuren.com
 qixin.com
 qixin007.com
 qixin18.com
+qixin19.com
 qixincha.com
 qixing123.com
 qixingcr.com
@@ -53765,6 +53767,7 @@ shangzhibo.tv
 shangzhushan.com
 shanhaitujian.com
 shanhaizhanji.com
+shanhe.kim
 shanhs.com
 shanhu99.com
 shanhuojiaoyi.com
@@ -54418,7 +54421,6 @@ shoubaodan.com
 shouce.ren
 shouce365.com
 shouchaobao.com
-shouchaobao.vip
 shoucheng123.com
 shoucw.com
 shoudayy.net
@@ -59434,6 +59436,7 @@ topcheer.com
 topchitu.com
 topciic.com
 topcj.com
+topcpu.net
 topcrab.com
 topcsic.com
 topdodo.com
@@ -70116,6 +70119,7 @@ yizhikan.com
 yizhitou.com
 yizhiwechat.com
 yizhixiaogame.com
+yizidy.com
 yizimg.com
 yizlife.com
 yizu.org
@@ -71485,7 +71489,6 @@ yundasys.com
 yundianjia.com
 yundianseo.com
 yundiantech.com
-yundns.vip
 yundongfang.com
 yundonghao.com
 yundongit.com
