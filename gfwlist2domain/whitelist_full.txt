@@ -8878,7 +8878,6 @@
 91fifa.com
 91fyt.com
 91game.com
-91gaoding.com
 91goodschool.com
 91guzhi.com
 91haiju.com
@@ -10021,7 +10020,6 @@ a6yadysu.sched.sma.tdnsv5.com
 a7.com
 a70b8ac698914c8a747bba7c8d5515cc.dlied1.cdntips.net
 a70f6451e9b72be6fdeffdd2cff0a088.dlied1.cdntips.net
-a745.xyz
 a751.oadz.com
 a754f42bf600655371e2ca6961802e53.dlied1.cdntips.net
 a7a16fcbbe6258a15d44228284cc196e.dlied1.cdntips.net
@@ -17356,7 +17354,6 @@ biquge.la
 biquge.lu
 biquge.vip
 biquge11.com
-biquge5200.cc
 biquge5200.com
 biquge8.com
 biquge9.cc
@@ -19224,6 +19221,7 @@ c.kuwo.cn
 c.kyvhxik.cn
 c.l.qq.com
 c.l570mb.cn
+c.la
 c.leankun.com
 c.lenovo.com.cn
 c.lenovo.com.cn.wswebcdn.com
@@ -20309,7 +20307,6 @@ ccrjw.com
 ccrvit0.cdnnodedns.cn
 ccsa.ebsnew.boc.cn
 ccschy.com
-ccshao.com
 ccshenghuo.com
 ccshwy.com
 ccsp-egmas-static.sf-express.com
@@ -27755,6 +27752,7 @@ dapiniu.com
 dapmax.com
 dappdiscover.com
 dapu.com
+dapustor.com
 daqi.com
 daqianduan.com
 daqiangolf.com
@@ -30517,7 +30515,6 @@ doumpaq.com
 dounimei.net
 doupai.cc
 doupir.com
-doupobook.com
 doupocangqiong1.com
 douqi.com
 douquyyds.com
@@ -31507,6 +31504,7 @@ duozhi.com
 duozhishidai.com
 duozhuayu.com
 duozhuayu.net
+duoziwang.com
 dup.baidustatic.com
 dup2.org
 dupan.ink
@@ -33939,7 +33937,6 @@ evewan.com
 evfchina.com
 evget.com
 evhui.com
-evideocloud.net
 evideostb.com
 evilbinary.org
 evileyesaint.com
@@ -49851,7 +49848,6 @@ jiasale.com
 jiashan.baixing.com
 jiashuangkuaizi.com
 jiashule.com
-jiasn.com
 jiaston.com
 jiasu.huanleap.com
 jiasu.qq.com
@@ -51827,6 +51823,7 @@ jushtong.com
 jushuo.com
 jusrlkubhjnr.com
 jussevent.com
+jusssportsvenue.com
 jusstickets.com
 jussyun.com
 just-glendale.com
@@ -51980,7 +51977,6 @@ jxetv.com
 jxexpressway.com
 jxg1.com
 jxgdw.com
-jxggcm.com
 jxgxbd.com
 jxhyshiye.com
 jxiaolan.com
@@ -52439,7 +52435,6 @@ kaiyanapp.com
 kaiygame.com
 kaiyuan.me
 kaiyuangroup.cc
-kaiyuanhi.com
 kaiyuanhotels.com
 kaiyuanxian.baixing.com
 kaiyun.com
@@ -63647,7 +63642,6 @@ niradler.gallerycdn.azure.cn
 nishuoa.com
 nisportal.10010.com
 nitaitag.com
-nitianxieshen.com
 nitutu.com
 niu-ba.com
 niu.com
@@ -73634,6 +73628,7 @@ rp.crasheye.cn
 rp.hpplay.cn
 rp.m.hub.sandai.net
 rp.m.v6.shub.sandai.net
+rpa-cn.com
 rpe.xdplt.com
 rpfieldcdn.com
 rpg99.com
@@ -78204,6 +78199,7 @@ sma.hy.qcloudcdn.qq.com
 smabye.com
 small.static.cdnudns.com
 smallapp.club
+smallfighter.com
 smalljun.com
 smallk.net
 smallpdfer.com
@@ -78480,6 +78476,7 @@ so.sina.cn
 so.toutiao.com
 so.youku.com
 so147.com
+so666gslb.com
 so8848.com
 soa-dd.jd.com
 soa-dd.jd.com.gslb.qianxun.com
@@ -84606,6 +84603,7 @@ tripdv.com
 triphr.com
 triple7photography.com
 triplexservice.com
+tripodeck.com
 tripsanxia.net
 tripurx.com
 tripvivid.com
@@ -102881,7 +102879,6 @@ yingshevip.com
 yingshi.jiangzi.com
 yingshi.jiangzi.com.w.kunlunca.com
 yingshiborui.com
-yingshixiaoshuo.com
 yingshiyou.com
 yingsoo.com
 yingsun.net
