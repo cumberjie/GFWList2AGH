@@ -52,7 +52,6 @@
 0088dns.com
 008gj.com
 008ty.com
-009.com
 0098118.com
 0099524.com
 009bd6f0162728095bee9a6e0d79c4e9.safeframe.googlesyndication.com
@@ -330,7 +329,6 @@
 0411e.com
 0411hd.com
 0411zssy.com
-0417gou.com
 0421wcbzk.com
 0427.com
 042b0e13422e4837af888b8090c99693-cn-shenzhen.alicloudapi.com
@@ -1660,7 +1658,6 @@
 1560177.cc
 15666.com
 156pay.com
-156tt.com
 15803.com
 1586f.com
 1588.tv
@@ -5822,7 +5819,6 @@
 52hotel.net
 52hrtt.com
 52hrttpic.com
-52huoche.com
 52hxw.com
 52ig.net
 52im.net
@@ -5970,7 +5966,6 @@
 5312732.b2b.jinanfa.cn
 531314.com
 5317wan.com
-531hr.com
 531u.com
 532106.com
 5321vip.com
@@ -6051,7 +6046,6 @@
 54qs.com
 54traveler.com
 54tusi.com
-54up.net
 54xiaoshuo.com
 54yt.net
 54yuqing.com
@@ -9566,6 +9560,7 @@
 99zihua.com
 99zuowen.com
 99zzw.com
+9a9.net
 9aa13aacfb78e781878e50d9b41bf86e.dlied1.cdntips.net
 9ab926b02f6968b524415cf085b326af.v.smtcdns.net
 9ads.net
@@ -23114,7 +23109,6 @@ cili001.com
 ciliba.buzz
 ciliba.life
 ciliba5.xyz
-ciliguanjia.cyou
 cilin.org
 cilishiye.com
 cilogo.com
@@ -35638,6 +35632,7 @@ fl8jd6.tdum.alibaba.com
 fl8pus1.cachenode.cn
 flachina.com
 flacro.me
+flamecdn.com
 flamesky.org
 flamingcold.com
 flan1688.com
@@ -48363,7 +48358,6 @@ isvjcloud.com
 isvjd.com
 isvup.com
 iswifting.com
-iswitch.app
 isxtv.com
 isyour.love
 it-api.com
@@ -49082,6 +49076,7 @@ jbedu.org
 jbelf.com
 jbenden.gallerycdn.azure.cn
 jbfoundry.com
+jbjc.org
 jbo28.com
 jbo311.com
 jbo568.com
@@ -50751,7 +50746,6 @@ jltchina.com
 jltyjxzz.com
 jlusz.com
 jlw00x9vk3e5020j.aliyunddos1026.com
-jlwlyx.com
 jlwubi.com
 jlxfw.com
 jlyes.com
@@ -58572,7 +58566,6 @@ maggie.gallerycdn.azure.cn
 magi.com
 magic-future.com
 magicax.com
-magicboxgame.com
 magicdata.io
 magician.iqiyi.com
 magicleaders.com
@@ -58848,6 +58841,7 @@ mangguonews.com
 mangocity.com
 mangoebike.com
 mangogame.com
+mangomob.net
 mangren.com
 mangrovetreesanya.com
 mangtuhuyu.com
@@ -59077,7 +59071,6 @@ maroon91.com
 marry5.com
 mars.ccc.cmbchina.com
 mars.meituan.com
-marsfancy.com
 marstor.com
 marstv.com
 martech365.com
@@ -59565,7 +59558,6 @@ meeting.qq.com
 meeting.tencent.com
 meeting666.com
 meetingmeet.com
-meetingq.com
 meetlawyer.com
 meetsite.com
 meetuvip.com
@@ -64350,6 +64342,7 @@ nxw.0518g.com
 nxwly.com
 nxypz.com
 nxyqs.com
+nxyqs.net
 ny-yy.com
 ny83.com
 nya.ink
@@ -65398,7 +65391,6 @@ orgnitu.net
 orgr7s476.bkt.clouddn.com
 oriemac.com
 orient-fund.com
-orient-hf.com
 orient-safety.com
 orientalhorse.com
 orientalpearltower.com
@@ -67712,7 +67704,6 @@ pix73.com
 pixclub.net
 pixelauth.com
 pixhey.com
-pixivacg.com
 pixivic.com
 pixivic.net
 piyingke.com
@@ -72342,7 +72333,6 @@ qzzres.com
 qzzsbx.com
 r-activity.uu.163.com
 r-bride.com
-r-s-services.com
 r-tms.net
 r-wss.uu.163.com
 r.99waiyu.com
@@ -73030,6 +73020,7 @@ reportlog.dftoutiao.com
 reports.baidu.com
 reportsk.web.sdo.com
 reportwmda.58.com
+reptilesworld.com
 requestupdate.xunyou.com
 res-bak.tuhu.org
 res-c1.smzdm.com
@@ -73778,7 +73769,6 @@ ruanyuan.net
 rubaoo.com
 ruby-china.com
 ruby-china.org
-rubybrides.com
 rubyconfchina.org
 rubyer.me
 ruchee.com
@@ -77653,6 +77643,7 @@ singfun.com
 singhead.com
 singhot.com
 singlecool.com
+singmaan.com
 singpodcast.com
 singread.com
 singtaonet.com
@@ -89388,7 +89379,6 @@ wanproxy.127.net
 wanqianyun.com
 wanredian.com
 wanrenxing.net
-wansege.info
 wansf.com
 wanshahao.com
 wanshanshuju.com
@@ -102553,7 +102543,6 @@ yidexuan.net
 yidian.baike.qq.com
 yidian360.com
 yidianchina.com
-yidiandian-tea.net
 yidianer.com
 yidianfenqi.com
 yidianhulian.com
@@ -107010,7 +106999,6 @@ zhongkezhuyan.com
 zhongkongban51.com
 zhongkongbancn.com
 zhongkongdaikuan.com
-zhongleduo.net
 zhongleny.com
 zhonglian.com
 zhongliangxny.com
