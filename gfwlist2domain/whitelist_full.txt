@@ -48103,7 +48103,6 @@ ipv6chong.qq.com
 ipv6dns.com
 ipv6test.photo.store.qq.com
 ipv6trans.console.aliyun.com
-ipyker.com
 ipyo.theta.sogou.com
 ipyy.com
 iq123.com
@@ -59055,7 +59054,6 @@ markjour.com
 markmall.com
 markmiao.com
 marknum.com
-markonreview.com
 markorchem.com
 marksmile.com
 marktang.love
@@ -84535,7 +84533,6 @@ tripbe.com
 tripcdn.com
 tripdv.com
 triphr.com
-triple7photography.com
 triplexservice.com
 tripodeck.com
 tripsanxia.net
@@ -91011,7 +91008,6 @@ whzyht.com
 whzyy.net
 wi799.com
 wiaapp.com
-wiblog.net
 wicep.com
 wicp.net
 wicp.vip
