@@ -7584,6 +7584,7 @@
 7799520.com
 779wan.com
 77acg.com
+77bike.com
 77bx.com
 77ca75a8b5ea4e4733949f60.mdbook.cn
 77dd23.com
@@ -18285,6 +18286,7 @@ book.qidian.com
 book.sina.com.cn
 book118.com
 book1234.com
+book1993.com
 book365.net
 bookapka.com
 bookask.com
@@ -22860,6 +22862,7 @@ chuangen.com
 chuangfeixin.com
 chuangjiangx.com
 chuangjulm.cn
+chuangke.tv
 chuangkem.com
 chuangkeup.com
 chuangkit.com
@@ -24051,6 +24054,7 @@ cmtw.yangkeduo.com
 cmu1h.com
 cmuliang.com
 cmvideo.cn
+cmviking.com
 cmvtc.com
 cmwb.com
 cmwin.com
@@ -26343,6 +26347,7 @@ ctiforum.com
 ctiku.com
 ctils.com
 ctime.com
+ctiot.info
 ctisd.com
 ctix.cn
 ctjin.com
@@ -28541,6 +28546,7 @@ deskcar.com
 deskcity.com
 deskguanjia.com
 deskier.com
+desktop-calculator.com
 desktopcal.com
 desktopqa.com
 deskwc.com
@@ -38058,6 +38064,7 @@ gitlab-assets.oss-cn-hongkong.aliyuncs.com
 gitlee.com
 gitlib.com
 gitlore.com
+gitmirror.com
 gitnavi.com
 gitnoteapp.com
 gitsea.com
@@ -40829,6 +40836,7 @@ haolizi.net
 haolvlv.com
 haolyy.com
 haoma.baidu.com
+haoma.com
 haomagujia.com
 haomaishou.com
 haomaiyi.com
@@ -51516,6 +51524,7 @@ jthcsx.com
 jthl.net
 jti.husky.sogou.com
 jtimg.com
+jtj-kr.com
 jtjr99.com
 jtjsmp.top
 jtlw.com
@@ -51815,6 +51824,7 @@ juxingyi.com
 juxinhuizhi.com
 juxintushu.suning.com
 juyanbao.com
+juyingele.com
 juyiqiche.com.cn
 juyoufan.net
 juyouqu.com
@@ -57236,6 +57246,7 @@ lovstone.com
 loxpo.com
 loxue.com
 loyaltychina.com
+loyalvalleycapital.com
 loyar.com
 loying.cc
 loyo.cc
@@ -60348,6 +60359,7 @@ mikecrm.com
 mikesent-awareness-02.com
 mikesent.net
 mikewootc.com
+mikeyouxi.com
 mikger.com
 miko007.com
 mikoshu.me
@@ -75595,6 +75607,7 @@ sensors.ibreader.com
 sensorsapi.tianyancha.com
 sensorsdata.cmbchina.com
 sensorsdata.cn
+sensorsdata.com
 sensorsdata.ppdai.com
 sensorsdata.ruguoapp.com
 sensorsdata.talbrain.com
@@ -102815,6 +102828,7 @@ yingxiong.com
 yingyang630.com
 yingyinglicai.com
 yingyongbei.com
+yingyongge.com
 yingyonghao8.com
 yingyonghui.com
 yingyongmiao.com
@@ -108397,6 +108411,7 @@ ztfsec.com
 ztfssc.com
 ztgame.com
 ztgy.org
+zthg168.com
 zthhhbb.cn
 zthsqx.com
 zthxcf.com
