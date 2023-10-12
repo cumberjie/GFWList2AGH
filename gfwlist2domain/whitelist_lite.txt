@@ -6401,7 +6401,6 @@
 7tt3333.com
 7tui.net
 7usa.net
-7v46.icu
 7v6.net
 7vd7.com
 7vk.com
@@ -9025,7 +9024,6 @@ aiziti.net
 aizongyi.com
 aizuna.com
 aizuopin.com
-aj4j.icu
 ajapk.com
 ajaxjs.com
 ajaxstu.com
@@ -24461,6 +24459,7 @@ fdevops.com
 fdjzu.com
 fdkjgz.com
 fdkm88.com
+fdlbeckwai.com
 fdlly.com
 fdlt.net
 fdmgj.com
@@ -26359,6 +26358,7 @@ gd1580.com
 gd165.com
 gd2000.org
 gd32.com
+gd32mcu.com
 gd3n.com
 gda086.com
 gdadjs.com
@@ -50428,7 +50428,6 @@ qmconfig.com
 qmdllqv.cn
 qmei.me
 qmei.vip
-qmf3.cc
 qmhd87.com
 qmht.com
 qmht.mobi
@@ -51089,6 +51088,7 @@ qxnecn.com
 qxnic.com
 qxnzx.com
 qxrisk.com
+qxsdq.com
 qxslyfjq.com
 qxswk.com
 qxueyou.com
@@ -66639,7 +66639,6 @@ xinduoad.com
 xineurope.com
 xinfangsheng.com
 xinfee.com
-xinfeel.com
 xinfei.com
 xinfeijituan.com
 xinfengit.com
