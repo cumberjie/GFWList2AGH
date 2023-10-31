@@ -12671,6 +12671,9 @@ amoeba.fudata.cn
 amoere.com
 amos.alicdn.com
 amos.im.alisoft.com
+amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+amp-api-edge-lb.itunes-apple.com.akadns.net
+amp-api-edge.apps.apple.com
 amp-api-edge.music.apple.com
 amp-api-edge.music.apple.com.cdn20.com
 amp-api-search-edge.apps.apple.com
@@ -47366,6 +47369,8 @@ inapp.1sapp.com
 inapp.1sapp.com.w.kunlunpi.com
 inapp.1sapp.com.wswebcdn.com
 inappcheck-cn.itunes-apple.com.akadns.net
+inappcheck-lb.itunes-apple.com.akadns.net
+inappcheck.itunes.apple.com
 inappcheck.itunes.apple.com.download.ks-cdn.com
 inappcheck.itunes.apple.com.w.alikunlun.com
 inbeijing.org
@@ -47501,6 +47506,8 @@ init-p01st.push.apple.com
 init-s01st-lb.push-apple.com.akadns.net
 init-s01st.push.apple.com
 init.ess.apple.com
+init.gc-lb.apple.com.akadns.net
+init.gc.apple.com
 init.gc.apple.com.mwcname.com
 init.itunes.apple.com
 init.itunes.apple.com.mwcname.com
@@ -47937,6 +47944,7 @@ ipgoal.com
 iph123.com
 iphone-ld.apple.com
 iphone-ld.apple.com.mwcname.com
+iphone-ld.origin-apple.com.akadns.net
 iphone.poppur.com
 iphone.tgbus.com
 iphone.tgbus.com.wscdns.com
@@ -77889,6 +77897,7 @@ sl.al
 sl.fancyapi.com
 sl.hpplay.cn
 sl153.com
+sl916.com
 sl91d.com
 sla-media.immomo.com
 sladjust.com
@@ -89562,7 +89571,10 @@ weareqy.com
 weartrends.com
 weasing.com
 weather-data.apple.com
+weather-data.apple.com.akadns.net
 weather-drcn.music.hicloud.com
+weather-map.apple.com
+weather-map2.apple.com
 weather.api.moji.com
 weather.hao.360.cn
 weather.meituan.com
