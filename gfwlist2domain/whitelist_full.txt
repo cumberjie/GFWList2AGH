@@ -9530,6 +9530,7 @@
 9d7f14dca1837849296770e8bb8a2fcb.dlied1.cdntips.net
 9damao.com
 9damao.net
+9day.cc
 9db506eea01590e90580d85642ff24e4.dlied1.cdntips.net
 9ddb248adc60567f1ea9946c0210eaca.safeframe.googlesyndication.com
 9ddm.com
@@ -16267,6 +16268,7 @@ bd-p2p.pull.yximgs.com.a.bcelive.com
 bd-proxy.pull.yximgs.com
 bd-proxy.pull.yximgs.com.a.bcelive.com
 bd-s.baixing.net
+bd-union.com
 bd.a.yximgs.com
 bd.ahsrst.cn
 bd.czxuexi.com
@@ -27389,6 +27391,7 @@ dajiashequ.com
 dajiashuo.com
 dajiazhao.com
 dajiazhongyi.com
+dajibacdn.com
 dajie.com
 dajieimg.com
 dajixie.com
@@ -34188,6 +34191,7 @@ f773.com
 f7777.net
 f77a94185ad2550b8d396c0144f2eede.dlied1.cdntips.net
 f7ae9b7dd8c3c3f7ff608abbb2179d0b.dlied1.cdntips.net
+f7ed.com
 f7sh2.a.sohu.com
 f7shbgp.a.sohu.com
 f7shcu.a.sohu.com
@@ -39705,6 +39709,7 @@ gygl.com
 gyguohua.com
 gyhj.org
 gyip.net
+gylcxo.xyz
 gyljc.com
 gymama.com
 gymbo-online.com
@@ -46245,6 +46250,7 @@ ikjtao.com
 ikjzd.com
 ikmhua.com
 ikmt.net
+ikmz.cc
 iknow-base.bj.bcebos.com
 iknow-base.cdn.bcebos.com
 iknow-base.cdn.bcebos.com.a.bdydns.com
@@ -49944,6 +49950,7 @@ jimeisilk.com
 jimeng.mobi
 jimetec.com
 jimg.iigs9.com
+jimg001.com
 jimi168.com
 jimicn.com
 jimifashion.com
@@ -51661,6 +51668,7 @@ junzhuan.com
 junziboxue.com
 junzimen.com
 junziqian.com
+junziyize.com
 juooo.com
 jupin.mediav.com
 jupiter.bayescom.com
@@ -52157,6 +52165,7 @@ k5dmil2.cachenode.cn
 k5n.com
 k6271.com
 k666.com
+k67kk.app
 k6uk.com
 k73.com
 k780.com
@@ -59618,6 +59627,7 @@ meixie.com
 meixiong5.com
 meixueyuan.com
 meiyaapp.com
+meiyacup.com
 meiyan.com
 meiyayimin.com
 meiyedana.com
@@ -64871,6 +64881,7 @@ onlylady.com
 onlyling.com
 onlyliuxue.com
 onlyou.com
+onlypat.com
 onlyred.net
 onlyrubberparts.com
 onlystem.com
@@ -67915,6 +67926,7 @@ polytheatresz.com
 polyv.net
 polywuye.com
 pomears.com
+pomeloyun.com
 pomoho.com
 ponley.com
 ponycool.com
@@ -68033,6 +68045,7 @@ postpony.com
 postreport.meituan.com
 posts-txt.qlqkzz.com
 posuiji168.com
+pot-app.com
 potevio.com
 potianji.net
 potplayer.org
@@ -69346,6 +69359,7 @@ qbb6.com
 qbdgame.com
 qbdsp.html5.qq.com
 qbeenslee.com
+qbewux.xyz
 qbgxqb2j.v1d.szbdyd.com
 qbgxqbtx.v1d.szbdyd.com
 qbgxqftp.v1d.szbdyd.com
@@ -75965,6 +75979,7 @@ shangtao.net
 shangtao360.com
 shangtianhui.com
 shangtongda.com
+shangtutuba.com
 shanguansoft.com
 shangusec.net
 shangwb.com
@@ -82610,6 +82625,7 @@ tgw-lbs.mig.tencent-cloud.net
 tgw.book.qq.com
 tgw6.book.qq.com
 tgyoo.com
+tgzwmk.xyz
 th.app
 th.i1.nxez.com
 th.kaolahuzhu.com
@@ -85591,6 +85607,7 @@ ubaiyi.com
 uban.com
 ubangmang.com
 ubas.1qianbao.com
+ubehcb.com
 ubersz.com
 ubestkid.com
 ubetween.com
@@ -86498,6 +86515,7 @@ upwith.me
 upx8.com
 upyun.com
 upyunso.com
+upzcf.com
 upzxt.com
 uq.file.cloud.duba.net
 uq8a7q2.cachenode.cn
@@ -102644,6 +102662,7 @@ yinhengli.com
 yinher.com
 yinheyuedu.com
 yinhu.com
+yinhuadm.cc
 yini.link
 yini.me
 yini.org
@@ -104610,6 +104629,7 @@ yunpei.com
 yunpian.com
 yunpiao.net
 yunpigai.com
+yunpo.shop
 yunpp.com
 yunqi.org
 yunqi2050.com
@@ -105294,6 +105314,8 @@ z9.sinaimg.cn
 za-ad.cc
 za-credit-outerdata-gateway.zhongan.com
 za-doctor.com
+zabaow.com
+zabeiy.com
 zablog.me
 zabtw.tdum.alibaba.com
 zac1993.com
@@ -106682,6 +106704,7 @@ zhld.com
 zhld88.com
 zhlhh.com
 zhliqi.com
+zhltech.net
 zhlzw.com
 zhmeiwen.com
 zhmf.com
@@ -108703,6 +108726,7 @@ zz-qq.com
 zz-zigzag.com
 zz.bdstatic.com
 zz.c21.com.cn
+zz.ci
 zz.ke.com
 zz.lianjia.com
 zz.m.sohu.com
