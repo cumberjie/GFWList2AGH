@@ -25100,7 +25100,6 @@ commonapi.ztsafe.com.w.alikunlun.com
 commoncdn.yangkeduo.com
 commons.moegirl.org.cn
 commons.moegirl.org.cn.dsa.dnsv1.com
-commune-hair.net
 communicatte.com
 communities.apple.com
 community.api.ptqy.gitv.tv
@@ -34699,7 +34698,6 @@ fcrrg3o3.sched.sma.tdnsv5.com
 fcsc.cn
 fcsc.com
 fcvvip.com
-fcww19.com
 fcxjiuyuan.com
 fcxxh.org
 fcyhw.com
@@ -41343,7 +41341,6 @@ hd199.net
 hd2.3g.qq.com
 hd3p.com
 hda.maxli.cn
-hdarea.club
 hdavchina.com
 hdb-prd-bigdata.oss-cn-shenzhen.aliyuncs.com
 hdb-prd-bigdata.oss-cn-shenzhen.aliyuncs.com.gds.alibabadns.com
@@ -48640,7 +48637,6 @@ iwhalecloud.com
 iwhgao.com
 iwhr.com
 iwin10.cc
-iwin10.com
 iwin10.net
 iwingchina.com
 iwiscloud.com
@@ -54391,6 +54387,7 @@ lanshenniao.com
 lanshiwan.cn
 lanshizi.com
 lanshou.net
+lansors.com
 lantian-hotel.com
 lantian.tv
 lanting123.com
@@ -61815,6 +61812,7 @@ multi-az-pay.kuaishoupay.com
 multi-ipv-api.gifshow.com
 multi-ipv-api.ksapisrv.com
 multi-region.kuaishou.com
+multilingual-volc.com
 multimedia.map.qq.com
 multiopen.cn
 multitv-im-conn.ptqy.gitv.tv
@@ -70483,7 +70481,6 @@ qiushubang.com
 qiushuzw.com
 qiusuoge.com
 qiutianaimeili.com
-qiutianmi.com
 qiuweili.com
 qiuwen.wiki
 qiuwu.net
@@ -70788,6 +70785,7 @@ qooboo.com
 qoocc.com
 qooic.com
 qookar.com
+qookkagames.com
 qoqaoligei.com
 qoqkkhy.com
 qos.game.qq.com
@@ -82931,7 +82929,6 @@ tianzhuobj.com
 tianzikj.com
 tianziweb.net
 tianzongyouxi.com
-tiao.pro
 tiaodao.com
 tiaodou.tv
 tiaoguangbolimo.com
@@ -86452,6 +86449,7 @@ uptougu.com
 upupbug.com
 upupfile.com
 upupoo.com
+upupview.com
 upupw.net
 upush.res.meizu.com
 upushv6.qidian.com
@@ -94464,7 +94462,6 @@ xcultur.com
 xcurrency.com
 xcvgame.cc
 xcvmbyte.com
-xcvxcv.space
 xcweb.caict.ac.cn
 xcx-x.com
 xcxd-inc.com
@@ -102564,7 +102561,6 @@ yingucaifu.com
 yingujr.com
 yinguobing.com
 yingupuhui.com
-yingwangtech.net
 yingwenming.com
 yingworks.com
 yingwuyuzd.cc
@@ -107202,6 +107198,7 @@ zihaixiaochengxu.com
 zihengfx.com
 zihexin.net
 zihu.com
+zihua.li
 zihua01.com
 zihuazhijia.com
 ziiai.com
@@ -108359,7 +108356,6 @@ zuoyesou.com
 zuoyewang.cc
 zuoyouyu.cn
 zuozu.net
-zuozuobuy.com
 zupig.com
 zupuk.com
 zupulu.com
