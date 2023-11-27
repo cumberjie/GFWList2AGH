@@ -2774,7 +2774,6 @@
 21fid.com
 21food.cn
 21food.com
-21ge2.com
 21hubei.com
 21hubei.net
 21hulian.com
@@ -2835,6 +2834,7 @@
 21znw.com
 22.jiangzi.com
 22.jiangzi.com.cname3039.yjs-cdn.com
+220840.com
 221234.xyz
 2213.com
 221316.com
@@ -9001,6 +9001,7 @@
 9377a.com
 9377aa.com
 9377co.com
+9377d.com
 9377df.com
 9377g.com
 9377hi.com
@@ -11397,7 +11398,6 @@ ahdf56.com
 ahdsez.com
 ahdzfp.com
 aheading.com
-ahemi.com
 ahfbz.com
 ahfdcb.com
 ahfensitong.com
@@ -19301,6 +19301,7 @@ c77c.com
 c79e81a9419f9fa6626c9e0f3de2a8e6.dlied1.cdntips.net
 c7c8.com
 c7cc.com
+c7sky.com
 c7w.tech
 c8.wangdq.com
 c82j9a2q.sched.d0.tdnsv5.com
@@ -27935,6 +27936,7 @@ db2.fuz.cc
 db2.gamersky.com
 db2car.com
 db5.gamersky.com
+db9w.com
 db9x.com
 dbaeumer.gallerycdn.azure.cn
 dbank.com
@@ -29012,7 +29014,6 @@ dianjiliuliang.com
 dianjin123.com
 dianjinghu.com
 dianjingzhe.com
-dianjinzs.com
 dianjiqi.com
 diankeji.com
 dianlancg.com
@@ -30205,6 +30206,7 @@ dongfeng.net
 dongfengtrucks.com
 dongfund.com
 dongge.com
+donggua.com
 dongguantoday.com
 donghaifunds.com
 donghao.org
@@ -31068,7 +31070,6 @@ dtxetgja.v1d.szbdyd.com
 dtxetqhl.v1d.szbdyd.com
 dtxetwor.v1d.szbdyd.com
 dtxetxpy.v1d.szbdyd.com
-dtxfjs.com
 dtxh6bec.v1d.szbdyd.com
 dtxh6bfl.v1d.szbdyd.com
 dtxh6cbm.v1d.szbdyd.com
@@ -37641,7 +37642,6 @@ gfd178.com
 gfdj99665.com
 gfdns.net
 gfdsa.net
-gfdun.icu
 gfedu.com
 gffirm.com
 gffunds.com.cn
@@ -41345,7 +41345,6 @@ hdcms.net
 hdcolorant.com
 hdd-group.com
 hddata.net
-hddhhn.com
 hddid.com
 hddznet.com
 hdeexpo.com
@@ -45160,7 +45159,6 @@ iaoso.com
 iaoyou.com
 iapijy.com
 iapolo.com
-iapp4me.com
 iapple123.com
 iappler.net
 iapps.im
@@ -47669,6 +47667,7 @@ intlscdn.com
 intmedic.com
 intmian.com
 intohard.com
+intomod.com
 intopet.com
 intovfx.com
 intowz.com
@@ -51257,7 +51256,6 @@ jsjs.cc
 jsjs.jbzj.com
 jsjs.org
 jsjsj123.com
-jsjyhj.com
 jsjyrcb.com
 jskaiborui.com
 jskale.com
@@ -54021,7 +54019,6 @@ kza.cc
 kzeaa.com
 kzecc.com
 kzehh.com
-kzeoo.com
 kzepp.com
 kzerr.com
 kzj365.com
@@ -65424,7 +65421,6 @@ ourats.com
 ouravr.com
 ourcdns.com
 ourcm.net
-ourcoders.com
 ourdian.com
 ourdlbs.com
 ourdomains.com
@@ -70110,6 +70106,7 @@ qifub.com
 qifun.com
 qifuwang.com
 qigongworld.net
+qiguagua.com
 qiguo.com
 qiguoguo.net
 qiguoread.com
@@ -71915,7 +71912,6 @@ qwxsw.com
 qwycdg5b.v1d.szbdyd.com
 qwycndgl.v1d.szbdyd.com
 qwycndhz.v1d.szbdyd.com
-qwzhe.com
 qx.hd.sohu.com
 qx1000.com
 qx10086.net
@@ -76096,7 +76092,6 @@ shdjt.com
 shdmt.net
 shdrkj.com
 shdsd.com
-shdzby168.com
 shdzfp.com
 shebao.net
 shebao5.com
@@ -77895,7 +77890,6 @@ smallk.net
 smallpdfer.com
 smallxu.me
 smallyuan.com
-smallyuzhou.com
 smarch.com
 smarchit.com
 smart-789.image.mucang.cn
@@ -79694,7 +79688,6 @@ stfhq.com
 stfile.com
 stg-data.ads.heytapmobi.com
 stg8.com
-stgairasia.com
 stgod.com
 stgowan.com
 sthbncp.com
@@ -83103,7 +83096,6 @@ tinkerpatch.com
 tinman798.net
 tinsecret.com
 tinsecret.org
-tiny4.org
 tinya1.cn
 tinyap2.cn
 tinyapp-gateway.alipay.com
@@ -83331,7 +83323,6 @@ tjxxcl.com
 tjxz.cc
 tjyfkt.com
 tjyimei.com
-tjyingxinkeji.com
 tjyouai.com
 tjyun.com
 tjyywjc.com
@@ -84876,7 +84867,6 @@ tuya.com
 tuyacn.com
 tuyansuo.com
 tuyaya.com
-tuyeware.com
 tuyiqi.com
 tuyitu.com
 tuyiyi.com
@@ -88874,6 +88864,7 @@ wandafilm.com
 wandahotelinvestment.com
 wandahotels.com
 wandanqu.com
+wandaph.com
 wandaplazas.com
 wandarealm.com
 wandasportstravel.com
@@ -96054,6 +96045,7 @@ xixipan.com
 xixiqipai.com
 xixiqiu.com
 xixisys.com
+xixiwg.com
 xixiyishu.com
 xiyacs.com
 xiyamaoyi.com
