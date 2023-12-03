@@ -390,6 +390,7 @@ baby-kingdom.com
 babylonbee.com
 backchina.com
 backtotiananmen.com
+bad.news
 badiucao.com
 badjojo.com
 badoo.com
@@ -2470,6 +2471,7 @@ indiemerch.com
 info-graf.fr
 informer.com
 initiativesforchina.org
+inkbunny.net
 inkui.com
 inmediahk.net
 innermongolia.org
@@ -2946,6 +2948,7 @@ matome-plus.net
 matrix.org
 matsushimakaede.com
 matters.news
+matters.town
 mattwilcox.net
 maturejp.com
 maxing.jp
