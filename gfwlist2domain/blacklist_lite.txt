@@ -2090,7 +2090,6 @@ grammaly.com
 grandtrial.org
 graphql.org
 gravatar.com
-greasespot.net
 great-firewall.com
 great-roc.org
 greatfire.org
@@ -3408,6 +3407,7 @@ oann.com
 oauth.net
 observechina.net
 obutu.com
+obyte.org
 ocaspro.com
 occupytiananmen.com
 oclp.hk
@@ -3760,6 +3760,7 @@ pshvpn.com
 psiphon.ca
 psiphon3.com
 psiphontoday.com
+pstatic.net
 pt.im
 ptt.cc
 pttgame.com
@@ -4520,6 +4521,7 @@ thlib.org
 thomasbernhard.org
 thongdreams.com
 threadreaderapp.com
+threads.net
 threatchaos.com
 throughnightsfire.com
 thumbzilla.com
@@ -5222,12 +5224,12 @@ witnessleeteaching.com
 witopia.net
 wizcrafts.net
 wjbk.org
+wmflabs.org
 wn.com
 wnacg.com
 wnacg.org
 wo.tc
 woeser.com
-woesermiddle-way.net
 wokar.org
 wolfax.com
 wombo.ai
@@ -5372,6 +5374,7 @@ yakbutterblues.com
 yam.com
 yande.re
 yandex.com
+yandex.ru
 yangjianli.com
 yayabay.com
 ycombinator.com
