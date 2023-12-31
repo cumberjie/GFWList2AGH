@@ -698,6 +698,7 @@ cafepress.com
 caijinglengyan.com
 calameo.com
 calebelston.com
+calendarz.com
 calgarychinese.ca
 calgarychinese.com
 calgarychinese.net
@@ -758,6 +759,7 @@ cdcparty.com
 cdef.org
 cdig.info
 cdjp.org
+cdn-telegram.org
 cdninstagram.com
 cdp1989.org
 cdp1998.org
@@ -1027,6 +1029,7 @@ comefromchina.com
 comic-mega.me
 comico.tw
 commandarms.com
+comments.app
 commentshk.com
 communistcrimes.org
 communitychoicecu.com
@@ -1820,6 +1823,7 @@ geek-art.net
 geekheart.info
 gekikame.com
 gelbooru.com
+generated.photos
 genius.com
 geocities.com
 geocities.jp
@@ -2088,6 +2092,7 @@ gr8name.biz
 gradconnection.com
 grammaly.com
 grandtrial.org
+graph.org
 graphql.org
 gravatar.com
 great-firewall.com
@@ -2343,6 +2348,8 @@ huaxin.ph
 huayuworld.org
 hudson.org
 huffingtonpost.com
+huffpost.com
+huggingface.co
 hugoroy.eu
 huhaitai.com
 huhamhire.com
@@ -3814,6 +3821,7 @@ quantumbooter.net
 questvisual.com
 quitccp.net
 quitccp.org
+quiz.directory
 quora.com
 quoracdn.net
 quran.com
@@ -4455,9 +4463,11 @@ teensinasia.com
 tehrantimes.com
 telecomspace.com
 telegra.ph
+telegram-cdn.org
 telegram.dog
 telegram.me
 telegram.org
+telegram.space
 telegramdownload.com
 telesco.pe
 tellme.pw
@@ -5113,6 +5123,7 @@ wattpad.com
 wav.tv
 waveprotocol.org
 waymo.com
+wd.bible
 wdf5.com
 wearehairy.com
 wearn.com
