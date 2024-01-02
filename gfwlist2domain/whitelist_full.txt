@@ -30580,6 +30580,7 @@ download.game.yy.com
 download.gfe.nvidia.cn
 download.gmugmu.com
 download.gmugmu.com.w.cdngslb.com
+download.jetbrains.com
 download.jr.jd.com
 download.m.37.com
 download.mcloud.139.com
@@ -49366,6 +49367,7 @@ jesgoo.com
 jesselauristonlivermore.com
 jesselivermore.com
 jestq.com
+jetbrains.com
 jethoo.com
 jetmobo.com
 jetneed.com
