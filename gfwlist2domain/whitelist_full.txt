@@ -5961,6 +5961,7 @@
 54job.com
 54kefu.net
 54lol.com
+54maimai.com
 54manong.com
 54md.com
 54ncor2.cdnnodedns.cn
@@ -29355,6 +29356,7 @@ dingfang123.com
 dinggou.org
 dinghaiec.com
 dinghuaren.com
+dinghui.org
 dinghuihuojia.com
 dinghuo123.com
 dinghuo365.com
@@ -30833,6 +30835,7 @@ drmfslx.cn
 drmj.org
 drmkit-drcn.himovie.dbankcloud.com
 drn3l25w.v1d.szbdyd.com
+drockart.com
 droi.com
 droibaas.com
 drone.xunyou.mobi
@@ -40913,6 +40916,7 @@ haostay.com
 haotb.com
 haote.com
 haotehui.com
+haotgame.com
 haotianhuyu.com
 haotihui.com
 haotijin.com
@@ -45294,6 +45298,7 @@ iadsdk.apple.com.cdn20.com
 iadsdk.qtlcdn.com
 iaeac.org
 iaikx.com
+iaixue.com
 ialicdn.com
 ialloc.com
 iambanban.com
@@ -67157,6 +67162,7 @@ pg.aty.sohu.com
 pg.sina.cn
 pg1.kuwo.cn
 pg114.net
+pg8090.com
 pg9997.com
 pgames.club
 pgbee.com
@@ -75562,6 +75568,7 @@ seekchem.com
 seekfunbook.com
 seekhill.com
 seekonly.net
+seekswan.com
 seelvyou.com
 seemmo.com
 seemoread.com
@@ -83722,6 +83729,7 @@ tlhpvvvw.v1d.szbdyd.com
 tlightsky.com
 tlinx.com
 tlivecdn.com
+tlivecdnv2.com
 tlivemcdn.com
 tliveplay.com
 tlivepush.com
@@ -89446,6 +89454,7 @@ wangxiaobao.cc
 wangxiaobao.com
 wangxiaowei.ink
 wangxingcs.com
+wangxingrenhb.com
 wangxinhao.com
 wangxinlicai.com
 wangxuan.pw
@@ -90664,6 +90673,7 @@ wenxuemm.com
 wenxuetiandi.com
 wenyijcc.com
 wenyoutai.com
+wenytao.com
 wenyu6.com
 wenyw.com
 wenzaizhibo.com
@@ -94493,6 +94503,7 @@ wz120.cc
 wz132.com
 wz16.net
 wz5.com
+wzbks.com
 wzcheshi.com
 wzciming.com
 wzdjy.com
