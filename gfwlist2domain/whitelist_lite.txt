@@ -17886,8 +17886,11 @@ clouddream.net
 cloudeagle.cn
 cloudflare-cn.com
 cloudflare.net
+cloudflareanycast.net
 cloudflarecn.net
+cloudflareglobal.net
 cloudflareinsights-cn.com
+cloudflareperf.com
 cloudflareprod.com
 cloudflarestaging.com
 cloudflarestoragegw.com
