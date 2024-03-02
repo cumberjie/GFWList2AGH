@@ -19302,6 +19302,7 @@ bluesoleil.com
 bluestar-pc.com
 bluestep.cc
 bluraycd.wicp.net
+blurdev.com
 blw.moe
 blxfc.com
 blycctv.com
@@ -29619,12 +29620,14 @@ dancerspointewinchester.com
 dancf.com
 dancihu.com
 dancingcg.com
+dandan818.com
 dandang.org
 dandanjiang.tv
 dandanman.com
 dandanplay.com
 dandanplay.net
 dandantang.com
+dandanvoice.com
 dandanz.com
 dandinghuayi.com
 dandongbank.com
@@ -38462,6 +38465,7 @@ fm.qzone.qq.com
 fm058.com
 fm0754.com
 fm120.com
+fm365.com
 fm3838.com
 fm4399.com
 fm520.com
@@ -43137,7 +43141,6 @@ gzsd56.com
 gzsggzyjyzx.cn
 gzshangshan.net
 gzshaudio.com
-gzshciw.com
 gzshuangbao.com
 gzshuangyue.com
 gzshuimh.com
@@ -55972,6 +55975,7 @@ juhuicloud.com
 juhuiguoji.wang
 juhuisuan.com
 juhuiwan.com
+juhuiwan.net
 jui.org
 juicefs.com
 juiuns.com
@@ -59924,8 +59928,11 @@ lenosoft.net
 lenovator.com
 lenovo-ibm.com
 lenovo.com
+lenovo.com.cdn.cloudflare.net
 lenovo.irasia.com
+lenovo.net
 lenovocloud.com
+lenovocloudos.com
 lenovoeservice.com
 lenovogame.com
 lenovohci.com
@@ -60722,6 +60729,7 @@ lingjoin.com
 lingkaba.com
 lingki.net
 lingkou.com
+lingkou.xyz
 lingla.com
 linglingccc.xyz
 linglingkaimen.com
@@ -62785,6 +62793,7 @@ lxyes.com
 lxyl539.com
 lxyllawfirm.com
 lxyswl.com
+lxzjjt.com
 ly-qiche.com
 ly-sky.com
 ly.com
@@ -63948,7 +63957,6 @@ manylaw.com
 manyoo.net
 manyou.com
 manyoujing.net
-manyuanjinfu.com
 manyupay.com
 manzhan.com
 manzhan8.com
@@ -77564,6 +77572,7 @@ qu02.com
 qu247.com
 qu99.com
 qua.com
+qualcomm.cn.cdn.cloudflare.net
 qualcomm.com
 quality-cdn.shouji.sogou.com
 qualysapi.qatp1.net
@@ -99474,7 +99483,6 @@ wohewodejxp.top
 wohewodejxq.top
 wohong5.com
 wohst8.com
-wohuamanhua.com
 woi3d.com
 woiwrj.com
 woiyu.com
