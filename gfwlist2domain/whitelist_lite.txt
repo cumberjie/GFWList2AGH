@@ -1991,6 +1991,7 @@
 188lanxi.com
 188mb.com
 188naicha.com
+188pi.com
 188soft.com
 188wan.com
 188yd.com
@@ -10328,6 +10329,7 @@ amzcaptain.com
 amzndns-cn.biz
 amzndns-cn.com
 amzndns-cn.net
+an1health.com
 analog.com
 analysys.cn
 analysysdata.com
@@ -12441,6 +12443,7 @@ bazhua.me
 bazhuay.com
 bazhuayu.cc
 bazhuayu.com
+bazhuayukeji.com
 bazi.cloud
 bazi.xin
 bazi5.com
@@ -21162,6 +21165,7 @@ cuour.com
 cuour.org
 cupdapp.com
 cupdata.com
+cupddns.com
 cupddns.net
 cupdns.com
 cupfox.com
@@ -27750,6 +27754,7 @@ fjndwb.com
 fjnet.com
 fjotic.com
 fjpta.com
+fjptzyt.com
 fjreading.com
 fjsdn.com
 fjsen.com
@@ -27937,6 +27942,7 @@ fn-mart.com
 fn-tech.com
 fn.com
 fn01.vip
+fn02.vip
 fn03.vip
 fnc.cn
 fnconn.com
@@ -35008,6 +35014,7 @@ ht72mm.xyz
 ht73mm.xyz
 ht88.com
 ht9.com
+ht97hh.xyz
 htanwang.com
 htaocloud.com
 htbaba.com
@@ -36011,6 +36018,7 @@ hwcrazy.com
 hwehs.com
 hweimall.com
 hwfcw.com
+hwhidc.com
 hwht.com
 hwjnf12.com
 hwjyw.com
@@ -37999,6 +38007,7 @@ inrugao.com
 insarticle.com
 insenz.com
 inshiqi.com
+inshotapp.com
 insidelinuxdev.net
 insightblog.ca
 insnail.com
@@ -39792,6 +39801,7 @@ jiankang123.net
 jiankanghebei.com
 jiankangju.com
 jiankangsn.com
+jiankangyouyi.com
 jianke.cc
 jianke.com
 jianke.net
@@ -66365,6 +66375,7 @@ tonglian.com
 tongliangrc.com
 tongliaowang.com
 tonglu-tour.com
+tongmengge.com
 tongmengguo.com
 tongniguoji.com
 tongpankt.com
@@ -71637,6 +71648,7 @@ whzlgm.com
 whzph.com
 whzsrc.com
 whzu.net
+whzww.com
 whzwzk.com
 whzwzs.com
 whzxht.com
@@ -73231,6 +73243,7 @@ wzhxlx.com
 wzime.com
 wzits.com
 wzj9.com
+wzjbbus.com
 wzjxyq.com
 wzkex.com
 wzksw.com
@@ -75316,7 +75329,9 @@ xiyoucdn.com
 xiyouchat.com
 xiyouence.com
 xiyouji.com
+xiyoulink.net
 xiyoulinux.org
+xiyoumao.com
 xiyouquan.com
 xiyousdk.com
 xiyouwebgame.com
@@ -77174,6 +77189,7 @@ ycbiz.net
 ycbright.com
 yccar.com
 yccdn.com
+yccr.net
 ycdjy.com
 ycdlfw.com
 ycdongxu.com

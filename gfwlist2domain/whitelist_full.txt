@@ -2460,6 +2460,7 @@
 188lanxi.com
 188mb.com
 188naicha.com
+188pi.com
 188soft.com
 188wan.com
 188yd.com
@@ -13548,6 +13549,7 @@ amzndns-cn.biz
 amzndns-cn.com
 amzndns-cn.net
 an.biocoop.cn
+an1health.com
 ana.masky.biddingx.com
 ana.stg8.com
 ana.tatahn.com
@@ -17141,6 +17143,7 @@ bazhua.me
 bazhuay.com
 bazhuayu.cc
 bazhuayu.com
+bazhuayukeji.com
 bazi.cloud
 bazi.xin
 bazi5.com
@@ -28517,6 +28520,7 @@ cuour.com
 cuour.org
 cupdapp.com
 cupdata.com
+cupddns.com
 cupddns.net
 cupdns.com
 cupfox.com
@@ -38268,6 +38272,7 @@ fjndwb.com
 fjnet.com
 fjotic.com
 fjpta.com
+fjptzyt.com
 fjreading.com
 fjsdn.com
 fjsen.com
@@ -38501,6 +38506,7 @@ fn-mart.com
 fn-tech.com
 fn.com
 fn01.vip
+fn02.vip
 fn03.vip
 fn0wz54v.dayugslb.com
 fn9rg2ol.p23.tc.cdntip.com
@@ -46340,6 +46346,7 @@ hnpfw.com
 hnpic.com
 hnpolice.com
 hnpost.com
+hnpwholesale.com.au
 hnqbb.com
 hnqfseed.com
 hnqingnuo.com
@@ -47170,6 +47177,7 @@ ht72mm.xyz
 ht73mm.xyz
 ht88.com
 ht9.com
+ht97hh.xyz
 htanwang.com
 htaocloud.com
 htaotao.mail.qq.com
@@ -48325,6 +48333,7 @@ hwcrazy.com
 hwehs.com
 hweimall.com
 hwfcw.com
+hwhidc.com
 hwhpo6ya.sched.v1.tdnsv5.com
 hwht.com
 hwid-drcn.platform.hicloud.com
@@ -51637,6 +51646,7 @@ ins.xfyun.cn
 insarticle.com
 insenz.com
 inshiqi.com
+inshotapp.com
 inside-gateway.alipay.com
 inside.baidu.com
 inside.rtbasia.com
@@ -53801,6 +53811,7 @@ jiankang123.net
 jiankanghebei.com
 jiankangju.com
 jiankangsn.com
+jiankangyouyi.com
 jianke.cc
 jianke.com
 jianke.net
@@ -79273,6 +79284,7 @@ review.pddpic.com
 review.suning.com
 revive.outin.cn
 revproxynoct.ustc.edu.cn
+revy.asia
 rew65.com
 rewnat.xyz
 reworlder.com
@@ -91169,6 +91181,7 @@ tongliangrc.com
 tongliaowang.com
 tonglu-tour.com
 tonglu.baixing.com
+tongmengge.com
 tongmengguo.com
 tongniguoji.com
 tongpankt.com
@@ -98815,6 +98828,7 @@ whzlgm.com
 whzph.com
 whzsrc.com
 whzu.net
+whzww.com
 whzwzk.com
 whzwzs.com
 whzxht.com
@@ -102296,6 +102310,7 @@ wzhxlx.com
 wzime.com
 wzits.com
 wzj9.com
+wzjbbus.com
 wzjs.cdn.bcebos.com
 wzjs1.oss-accelerate.aliyuncs.com
 wzjs2.cdn.bcebos.com
@@ -104513,7 +104528,9 @@ xiyoucdn.com
 xiyouchat.com
 xiyouence.com
 xiyouji.com
+xiyoulink.net
 xiyoulinux.org
+xiyoumao.com
 xiyouquan.com
 xiyousdk.com
 xiyouwebgame.com
@@ -110404,6 +110421,7 @@ ycbright.com
 yccar.com
 yccdn.com
 yccdn3.douyucdn2.cn
+yccr.net
 ycddz.shop.258.com
 ycdjy.com
 ycdlfw.com
