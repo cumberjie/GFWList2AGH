@@ -5913,6 +5913,7 @@
 5jli.com
 5joys.com
 5jwl.com
+5k.work
 5kbox.com
 5kcrm.com
 5kcrm.net
@@ -7520,6 +7521,7 @@
 8llp.com
 8mfty.com
 8mhh.com
+8mi.tech
 8miu.com
 8miu.net
 8mkt.com
@@ -19782,7 +19784,6 @@ cnnerv.com
 cnnetsec.com
 cnnewss.com
 cnnfootballclub.com
-cnnic.pub
 cnnmol.com
 cnnorip.org
 cnnot.com
@@ -24218,7 +24219,6 @@ dowv.com
 doxue.com
 doyee.com
 doyo.cn
-doyoe.com
 doyoo.net
 doyoudo.com
 doyouhike.net
@@ -37073,6 +37073,7 @@ ict18.com
 ict361.com
 ict88.com
 ictcsr.org
+ictdns.store
 ictehi.com
 ictest8.com
 ictk-china.com
@@ -46051,7 +46052,6 @@ linktt.com
 linkunbin.com
 linkvans.com
 linkwebll.com
-linkweway.com
 linlizone.com
 linlongyun.com
 linlongyx.com
@@ -65908,6 +65908,7 @@ threatbook.net
 threegorgestours.com
 threetong.com
 thron.cn
+thrrip.space
 ths123.com
 ths8.com
 thseoer.com
@@ -74708,7 +74709,6 @@ xiaomifood.cn
 xiaominet.com
 xiaominfo.com
 xiaoming.me
-xiaomingming.org
 xiaomingtaiji.com
 xiaomiqiu.com
 xiaomiquan.com
