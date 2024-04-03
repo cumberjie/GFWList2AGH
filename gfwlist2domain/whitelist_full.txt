@@ -11066,11 +11066,8 @@ accounts.douban.com
 accounts.epicgames.com
 accounts.firefox.com.cn
 accounts.google.cn
-accounts.googlers.com
 accounts.nvgs.nvidia.cn
 accounts.qq.com
-accounts.xn--9trs65b.com
-accounts.xn--ggle-55da.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -13583,6 +13580,7 @@ amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.cdn20.com
 amp-api.apps.apple.com
 amp-api.apps.apple.com.cdn20.com
+amp-api.media.apple.com
 amp-api.music.apple.com.cdn20.com
 amp-api.podcasts.apple.com.cdn20.com
 ampage.html5.qq.com
@@ -14266,6 +14264,9 @@ api-my.le.com
 api-new.8531.cn
 api-news.zhhainiao.com
 api-opi.tuhu.cn
+api-p-ap-c.smoot.apple.com
+api-p-ap-d.smoot.apple.com
+api-p-ap-e.smoot.apple.com
 api-pan.xunlei.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
@@ -17708,7 +17709,6 @@ beacon.sparta.mig.tencent-cloud.net
 beacon.tingyun.com
 beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
-beacons-handoff.gcp.gvt2.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -26144,6 +26144,7 @@ cn-shanghai-ds-2029.oss-acc.aliyuncs.com
 cn-shanghai-ds-2034.oss-acc.aliyuncs.com
 cn-shanghai.oss-acc.aliyuncs.com
 cn-smp-device.apple.com
+cn-smp-paymentservices.apple.com
 cn-soft.com
 cn-stat.mugeda.com
 cn-truck.com
@@ -27571,9 +27572,7 @@ corlercar888.com
 corner.houyi.baofeng.net
 coro.benbaisteel.com
 corp-email.com
-corp.goog
 corp.google.com
-corp.googleapis.com
 corp.meitu.com
 corp.sina.com.cn
 corp.sogou.com
@@ -36810,6 +36809,7 @@ expba.com
 expdns.net
 expense-invoice.aliyun.com
 experiment.appadhoc.com
+experiments.apple.com
 expert.baidu.com
 expertimg.cdn.bcebos.com
 expeva.store.qq.com
@@ -40451,7 +40451,6 @@ gcodex.alicdn.com
 gcok.com
 gcoreinc.com
 gcores.com
-gcpnode.com
 gcs66.com
 gcsjl8.com
 gcstorage.com
@@ -41910,7 +41909,6 @@ googlenav.com
 googleoptimize-cn.com
 googleoptimize.com
 googleplex.com
-googlers.com
 googlesyndication-cn.com
 googlesyndication.com
 googletagmanager-cn.com
@@ -42342,6 +42340,7 @@ gsp0.baidu.com
 gsp1.baidu.com
 gsp10-ssl-cn.ls-apple.com.akadns.net
 gsp10-ssl-cn.ls.apple.com
+gsp12-cn.ls.apple.com
 gsp13-cn.ls.apple.com
 gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net
@@ -42357,6 +42356,7 @@ gspe12-cn-ssl.ls.apple.com
 gspe12-cn-ssl.ls.apple.com.cdn20.com
 gspe12-cn-ssl.ls.apple.com.download.ks-cdn.com
 gspe12-cn-ssl.ls.apple.com.w.alikunlun.com
+gspe19-2-cn-ssl.ls.apple.com
 gspe19-cn-ssl.ls-apple.com.akadns.net
 gspe19-cn-ssl.ls.apple.com
 gspe19-cn-ssl.ls.apple.com.download.ks-cdn.com
@@ -42973,6 +42973,7 @@ guzhilin.com
 guziyy.com
 guzzoni-apple-com.v.aaplimg.com
 guzzoni.apple.com
+guzzoni.smoot.apple.com
 gv1.xdrig.com
 gv1.xdrig.com.td.fusion.iaas.jdcloud.com
 gv9c9act.sched.sma.tdnsv5.com
@@ -51853,6 +51854,7 @@ inidc.net
 inimc.com
 ininin.com
 init-china.itunes-apple.com.akadns.net
+init-kt.apple.com
 init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com
 init-p01md.apple.com.mwcname.com
@@ -66496,6 +66498,7 @@ mkzhou.com
 mkzoo.com
 ml-cg.com
 ml-kq.com
+ml.cdn-apple.com
 ml3pgci9.sched.sma.tdnsv5.com
 ml44.cn
 mlairport.com
@@ -72896,6 +72899,7 @@ pb3.pstatp.com
 pb5.rsjun.cn
 pb6.sogou.com
 pb89.com
+pba0.apple.com
 pbai.paas.cmbchina.com
 pbcan.com
 pbcdn.com
@@ -74783,6 +74787,7 @@ probe-cdn.ptqy.gitv.tv
 probe.bjmantis.net
 probe.bjmantis.net.w.kunlunar.com
 probe.light.fang.com
+probe.siri.apple.com
 procar.cc
 processon.com
 procivi.net
@@ -79398,8 +79403,6 @@ redirect.pandora.xiaomi.com
 redirect.simba.taobao.com
 redirector.bdn.dev
 redirector.c.chat.google.com
-redirector.c.docs.google.com
-redirector.c.drive.google.com
 redirector.c.mail.google.com
 redirector.c.pack.google.com
 redirector.c.play.google.com
@@ -82435,6 +82438,7 @@ seebyleegee.com
 seecmedia.net
 seecsee.com
 seed-china.com
+seed-sequoia.siri.apple.com
 seed-siri-apple-com.v.aaplimg.com
 seed-swallow.siri.apple.com
 seed.siri.apple.com
@@ -83334,6 +83338,7 @@ shaxian.biz
 shayangnala.com
 shayugg.com
 shayujizhang.com
+shazam-insights.cdn-apple.com
 shb02.com
 shbaimeng.com
 shbangde.com
@@ -87102,6 +87107,7 @@ static.g.pptv.com
 static.galaxyclouds.cn
 static.gamecenter.qq.com
 static.gaomaer.cn
+static.gc.apple.com
 static.gcores.com
 static.gcores.com.w.kunlungr.com
 static.geetest.com
@@ -88472,6 +88478,7 @@ sylixos.com
 sylnst.com
 sylnyx.com
 sylphix.com
+sylvan.apple.com
 sylvia.cloud
 symama.com
 symboltech.com
@@ -91286,6 +91293,7 @@ tj-guangxin.com
 tj-kingdee.com
 tj-model.com
 tj-nhr.cn
+tj-pod1-smp-device.apple.com
 tj-pod2-smp-device-asset.apple.com
 tj-pod2-smp-device.gcsis-apple.com.akadns.net
 tj-pod3-smp-device-asset.apple.com
@@ -94577,8 +94585,6 @@ uowap.hicloud.com
 up-api.sreminder.cn
 up-hl.3g.qq.com
 up.asaplus.com.cn
-up.corp.goog
-up.gcp.googlers.com
 up.hiao.com
 up.inews.qq.com
 up.ninebox.cn
@@ -98144,6 +98150,7 @@ weatherapi.market.xiaomi.com
 weatherat.com
 weathercn.com
 weatherdt.com
+weatherkit.apple.com
 weatherol.com
 weavatar.com
 weaverdream.com
@@ -105707,7 +105714,6 @@ xn--fiqz7g67bsydx1ed00d.com
 xn--fjqz50cv5q3so.ltd
 xn--fjqz50cv5q3so.online
 xn--flw351e.com
-xn--ggle-55da.com
 xn--glr604k.com
 xn--iiq222b6igvp5c.com
 xn--it-1r3f.com
