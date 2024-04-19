@@ -1446,6 +1446,7 @@ esurance.com
 etadult.com
 etaiwannews.com
 etherdelta.com
+ethermine.org
 etherscan.io
 etizer.org
 etokki.com
@@ -1482,6 +1483,7 @@ eyny.com
 ezpc.tk
 ezpeer.com
 ezua.com
+f2pool.com
 f8.com
 facebook.br
 facebook.com
@@ -2327,6 +2329,7 @@ hrcchina.org
 hrcir.com
 hrea.org
 hrichina.org
+hrntt.org
 hrw.org
 hrweb.org
 hsjp.net
@@ -2671,6 +2674,7 @@ justtristan.com
 juyuange.org
 juziyue.com
 jwmusic.org
+jwplayer.com
 jyxf.net
 k-doujin.net
 ka-wai.com
@@ -3723,6 +3727,7 @@ postadult.com
 postimg.org
 potato.im
 potvpn.com
+pourquoi.tw
 power.com
 powerapple.com
 powerphoto.org
@@ -5471,6 +5476,7 @@ yzzk.com
 z-lib.org
 zacebook.com
 zalmos.com
+zamimg.com
 zannel.com
 zaobao.com
 zaozon.com
