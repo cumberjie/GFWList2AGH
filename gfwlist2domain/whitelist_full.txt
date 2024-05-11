@@ -9633,7 +9633,6 @@
 9217web.com
 92220668.com
 92220701.com
-922835.com
 925177359317868fca73f994645a371b.safeframe.googlesyndication.com
 925g.com
 925pk.com
@@ -20418,7 +20417,6 @@ business.video.tc.skysrt.com
 businessconnectchina.com
 businessreviewglobal-cdn.com
 busionline.com
-busiphi.com
 busituzi.com
 busnc.com
 buster.gallerycdn.azure.cn
@@ -22126,7 +22124,6 @@ cctv.com
 cctv.mmstat.com
 cctv0002.com
 cctv18.com
-cctv1zhibo.com
 cctv4g.com
 cctv5zhibo.cc
 cctv5zhibo.com
@@ -22879,7 +22876,6 @@ cediy.com
 cedock.com
 cee1.iteye.com
 cee2.iteye.com
-ceecu.com
 ceeger.com
 ceeie.com
 ceeji.net
@@ -37445,7 +37441,6 @@ facri.com
 factj.com
 factors.sofire.baidu.com
 factube.com
-fad123.com
 fadada.com
 fadaren.com
 fadesky.com
@@ -38366,7 +38361,6 @@ fengshows.cn
 fengshui22.net
 fengshui85.com
 fengsung.com
-fengsuniang.com
 fengtai.tv
 fengtalk.com
 fengting.io
@@ -51491,7 +51485,6 @@ imaitu.com
 imalljoy.com
 imandarin.net
 imangodoc.com
-imanhuaw.net
 imao2.com
 imaojiang.com
 imap.10086.cn
@@ -55685,7 +55678,6 @@ jiushiadx.com
 jiushikou.com
 jiushixing.com
 jiushoubiao.com
-jiushu.net
 jiushui.tv
 jiusi.net
 jiusihengyuan.com
@@ -55786,7 +55778,6 @@ jj516.net
 jj55.com
 jj59.com
 jj831.com
-jjb-static.com
 jjbang.com
 jjbangbang.com
 jjbank.net
@@ -61311,7 +61302,6 @@ lfkjgh.com
 lfksqzj.com
 lflucky.com
 lfppt.com
-lfqpay.com
 lfqysm.com
 lfsh168.51sole.com
 lftdzd.com
@@ -64951,7 +64941,6 @@ maixuewen.com
 maiya91.com
 maiyanju.com
 maiyaole.com
-maizhanghao.com
 maizhi.com
 maizhuanbao.com
 maiziedu.com
@@ -68221,7 +68210,6 @@ mrwish.net
 mryang.cloud
 mryunwei.com
 mrzhenggang.com
-mrzs.net
 ms-azuretools.gallerycdn.azure.cn
 ms-ceintl.gallerycdn.azure.cn
 ms-dotnettools.gallerycdn.azure.cn
@@ -70471,7 +70459,6 @@ njlzsx.net
 njmama.com
 njmbwxzx.com
 njmuseum.com
-njnutz.com
 njpwerner.gallerycdn.azure.cn
 njq.net
 njqxrc.com
@@ -71312,7 +71299,6 @@ o136.com
 o2.cdn.t5.work
 o2123.com
 o2ee.com
-o2mania.com
 o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
@@ -75542,7 +75528,6 @@ ppui-static-wap.cdn.bcebos.com
 ppurl.com
 ppvabs.pplive.com
 ppvi.net
-ppvod.net
 ppwan.com
 ppwang.com
 ppwfa.com
@@ -81000,7 +80985,6 @@ rmny.tech
 rmoeu.mercury.sogou.com
 rmpad.imtt.qq.com
 rmrbwc.com
-rmrizp.com
 rmrun.com
 rmryun.com
 rms-drcn.platform.dbankcloud.com
@@ -81643,7 +81627,6 @@ rxn30.app
 rxrwr.com
 rxshc.com
 rxys.com
-ry.rs
 ry0663.com
 ry1116.com
 ry497n.jomodns.com
@@ -86968,7 +86951,6 @@ songle.link
 songlei.net
 songliguo.com
 songma.com
-songqili.net
 songqinedu.com
 songqinnet.com
 songruhui.com
@@ -100732,7 +100714,6 @@ win7china.com
 win7en.com
 win7qijian.com
 win7qjb.com
-win7qjb.net
 win7sky.com
 win7w.com
 win7xzb.com
@@ -104111,7 +104092,6 @@ wz132.com
 wz16.net
 wz5.cc
 wz5.com
-wzauto.com
 wzbks.com
 wzcheshi.com
 wzciming.com
@@ -105422,7 +105402,6 @@ xiaoshuo.sm.cn
 xiaoshuo1-sm.com
 xiaoshuo2016.com
 xiaoshuo520.com
-xiaoshuo530.com
 xiaoshuo570.com
 xiaoshuoba.com
 xiaoshuobi.cc
@@ -114712,7 +114691,6 @@ ypzhushou.com
 yq.aliyun.com
 yq027.com
 yq18ykggbp6f63qvzwe9rruy7enedi0g.yundunwaf1.com
-yq51.com
 yqall163-dx.netease.com
 yqb.at
 yqb.com
@@ -119182,7 +119160,6 @@ zmmdn.com
 zmmoo.com
 zmn888.com
 zmndjm.com
-zmnds.com
 zmnedu.com
 zmneysz.com
 zmnoa.com
