@@ -7159,6 +7159,7 @@
 5w123.com
 5w52.com
 5w5w.com
+5waihui.com
 5wanpk.com
 5wapp.com
 5web.site
@@ -12558,6 +12559,7 @@ aihst8.com
 aihuajia.com
 aihuaju.com
 aihuau.com
+aihubs.net
 aihuhua.com
 aihuishou-internal.oss-cn-hangzhou.aliyuncs.com
 aihuishou-internal.oss-cn-hangzhou.aliyuncs.com.gds.alibabadns.com
@@ -19358,6 +19360,7 @@ bjyqsj.com
 bjythd.com
 bjyunyu.com
 bjywt.com
+bjyyun.com
 bjzaxy.com
 bjzbkj.com
 bjzcdz.com
@@ -19461,6 +19464,7 @@ blazingcats.com
 blazor.zone
 blbx.com
 blctwed.com
+bld365.com
 bldimg.com
 bldpharm.com
 bldz.com
@@ -20144,6 +20148,7 @@ browurl.com
 brpcb.com
 brpnrt.stsdk.vivo.com.cn
 brprt.stsdk.vivo.com.cn
+brrub.us
 brsiee.com
 brstuff.gallerycdn.azure.cn
 brtbeacon.com
@@ -23821,6 +23826,7 @@ chestar.net
 chesthospital.com
 chesudi.com
 chetan.com
+chetiansi.com
 chetodeng.com
 chetuanwang.net
 chetuanyuan.com
@@ -29961,6 +29967,7 @@ daimajiayuan.com
 daimami.com
 daimasucai.com
 daimg.com
+dainiter.com
 daishangqian.com
 daishu.com
 daishujiankang.com
@@ -30477,6 +30484,7 @@ datatist.com
 datatocn.com
 datax.baidu.com
 datax.e.shifen.com
+dataxcrm.com
 datayes.com
 datayi.cn
 datazt.com
@@ -35437,6 +35445,7 @@ ebdan.net
 ebdoor.com
 ebfcn.com
 ebfortune.com
+ebhbjo.com
 ebibi.com
 ebico.com
 ebidbid.com
@@ -41977,6 +41986,7 @@ gmfintl.com
 gmgc.info
 gmgdc.com
 gmgm668.com
+gmhub.com
 gmhysj.com
 gmi1001.com
 gmilesquan.com
@@ -48682,6 +48692,7 @@ hubeixuekao.com
 hubeiyanjiusheng.com
 hubeiyongtai.com
 hubiazhi.com
+hubing.online
 hubpd.com
 hubsound.com
 hubstat.hz.sandai.net
@@ -57611,6 +57622,7 @@ jyltx.com
 jylw.com
 jymcn.com
 jymdq.com
+jymredu.com
 jynews.net
 jyoptical.com
 jypc.org
@@ -61786,6 +61798,7 @@ life.ccb.com
 life.e0575.com
 life.youku.com
 life365.com
+lifediary.shop
 lifeeu.com
 lifegamer.top
 lifegatemedicine.com
@@ -62589,6 +62602,7 @@ liwuhy.com
 liwumaoapp.com
 liwushuo.com
 lixcx.com
+lixfaf.com
 lixiang.com
 lixiangmo.com
 lixiangoa.com
@@ -64248,6 +64262,7 @@ lzhs.com
 lzhygame.com
 lzihospital.com
 lzimall.com
+lzjmw.com
 lzjoy.com
 lzkj-isv.isvjcloud.com
 lzkj-isv.isvjcloud.com-2f9a65efd7e3.jdcloudwaf.com
@@ -65290,6 +65305,7 @@ manzhan8.com
 manzj.net
 manzuo.com
 mao-shen.com
+mao.fan
 mao.li
 maobotv.com
 maobugames.com
@@ -67300,6 +67316,7 @@ mixiaojin.com
 miximixi.net
 mixin.cc
 mixiong.tv
+mixpwr.com
 mixrnb.com
 mixueedu.com
 mixvvideo.com
@@ -70566,6 +70583,7 @@ njcengpianwang.cn
 njcgs.com
 njcitygas.com
 njcw.com
+njcwlk.com
 njcyt99.com
 njd1.com
 njdapaidang.com
@@ -71567,7 +71585,6 @@ ocsp.dcocsp.cn
 ocsp.dcocsp.cn.w.kunlunar.com
 ocsp.digicert.cn
 ocsp.digicert.cn.w.cdngslb.com
-ocsp.globalsign.com
 ocsp.pki.goog
 ocsp.sectigochina.com
 ocsp.us.cdnetworks.com
@@ -77667,6 +77684,7 @@ qianshanren.com
 qianshuixing.com
 qiansw.com
 qiant.net
+qiantangke.com
 qiantuai.com
 qiantucdn.com
 qianvisa.com
@@ -80624,6 +80642,7 @@ renji.com
 renjian.com
 renjiaoshe.com
 renjiyiyuan.com
+renleisheji.com
 renlijia.com
 renliwang.xyz
 renliwo.com
@@ -85106,7 +85125,6 @@ shop-gw.chengxinyouxuan.com
 shop-h5.guyijiankang.cn
 shop.3dmgame.com
 shop.ali213.com
-shop.globalsign.com
 shop.io.mi-img.com
 shop.io.mi-img.com.w.alikunlun.com
 shop.jc001.cn
@@ -85501,6 +85519,7 @@ shuhaidata.com
 shuhaisc.com
 shuhaitz.com
 shuhegroup.com
+shuhonggz.com
 shuhua66.com
 shuhuast.com
 shuhuawu.com
@@ -87411,6 +87430,7 @@ sp.yixui.com
 sp0.baidu.com
 sp0.tianyancha.com
 sp1.baidu.com
+sp168.com
 sp2.baidu.com
 sp3.baidu.com
 sp588.cc
@@ -89191,7 +89211,6 @@ support.1ucrs.com
 support.apple.com
 support.dnspod.cn
 support.finance.sina.cn
-support.globalsign.com
 support.lenovo.com
 support.lenovo.com.cn
 support.qq.com
@@ -91191,6 +91210,7 @@ tctd.net
 tctip.com
 tctong.com
 tctpwebank.com
+tctpwebankcdn.net
 tcxw.cc
 tcy365.com
 tcyad.com
@@ -91555,6 +91575,7 @@ tenqent.com
 tensafe.com
 tenshi.cc
 tensorchip.com
+tensorflownews.com
 tensornews.net
 tenstars.net
 tensynad.com
@@ -98150,6 +98171,7 @@ vpn39.com
 vpnsoft.net
 vpptv.admaster.com.cn
 vpquc9rn.com
+vps.dance
 vps.gcx3.cn
 vps.im
 vps.inte.sogou.com
@@ -103043,7 +103065,6 @@ www.ggzy.gov.cn
 www.gio.ren
 www.gj500.com
 www.glled888.com
-www.globalsign.com
 www.globalsources.com
 www.gmugmu.com
 www.gmw.cn
@@ -107410,6 +107431,7 @@ xtcaq.com
 xtcdbb.cn
 xtciming.com
 xtcrm.com
+xtdj.cc
 xtdpye.com
 xtedu.com
 xtgreat.com
