@@ -1579,7 +1579,6 @@
 127.net
 1274cabf9fc86bb0e8416c08d7acd560.v.smtcdns.net
 1278721.com
-12799.com
 127tv.com
 127xx.com
 127z.com
@@ -3577,6 +3576,7 @@
 2dianying.net
 2dior.com
 2dld7r.tdum.alibaba.com
+2dmaker.com
 2dph.com
 2du.net
 2dyou.com
@@ -5005,6 +5005,7 @@
 436675.com
 4366aa.com
 4366ga.com
+4366game.com
 4366pk.com
 4377.com
 4377info.com
@@ -6544,7 +6545,6 @@
 5599.com
 55a20a2b89510bc857653fcda3e10b20.safeframe.googlesyndication.com
 55a6ff3.cdnnodedns.cn
-55azt.com
 55bbs.com
 55bf3192575e4cdcfabcb63370211369.dlied1.cdntips.net
 55dai.com
@@ -10102,8 +10102,10 @@
 9966886699.com
 9966w.com
 996a.com
+996box.com
 996dns.com
 996pic.com
+996sdk.com
 9973.com
 997788.com
 998.com
@@ -12254,7 +12256,6 @@ ahbzyy.com
 ahc.ink
 ahcaijing.com
 ahcaw.com
-ahchuangyebang.com
 ahcjhjj.com
 ahcnb.com
 ahcyfc.com
@@ -29458,7 +29459,6 @@ d163.net
 d17.cc
 d18611148826.51sole.com
 d19119.com
-d1999.com
 d1a12f524a8e585b770a057d1ed89e12.safeframe.googlesyndication.com
 d1ad.com
 d1cm.com
@@ -32973,7 +32973,6 @@ docsou.com
 docteamapi.wps.cn
 doctor-network.com
 doctorcom.com
-doctormnq.com
 doctorscrap.com
 doctorxiong.club
 doctoryou.ai
@@ -45832,6 +45831,7 @@ hechangquan.com
 hechaocheng.cn
 hechengbb.com
 hechuangxinxi.xyz
+hechuann.com
 heclife.com
 heclouds.com
 hecoe.com
@@ -48911,6 +48911,7 @@ huiyu.vc
 huiyuandao.com
 huiyuanyy.com
 huiyucn.com
+huiyuehz.com
 huiyumedia.com
 huiyutools.com
 huize.com
@@ -49682,6 +49683,7 @@ hzjlxx.com
 hzjmjl.com
 hzjqhy.com
 hzjunglepay.com
+hzjywl.net
 hzjyxzyy.com
 hzkayo.com
 hzkshx.com
@@ -57313,7 +57315,6 @@ juxiao.mediav.com
 juxieyun.com
 juxilm.com
 juxin.tv
-juxinfu.com
 juxing-edu.com
 juxingyi.com
 juxinhuizhi.com
@@ -59969,7 +59970,6 @@ kzread.com
 kzt.cc
 kztpms.com
 kzwr.com
-kzynews.com
 kzyzz.com
 kzzs.shop
 l-kingmall.com
@@ -63671,7 +63671,6 @@ ludoworld.net
 ludu319.com
 lueasygi.com
 luedian.com
-luexiao.com
 luexpo.com
 lueyue.com
 luezhi.com
@@ -66863,6 +66862,7 @@ mij.cc
 mijia.tech
 mijian360.com
 mijiannet.com
+mijiayou.com
 mijiayoupin.com
 mijifen.com
 mijisou.com
@@ -79811,6 +79811,7 @@ qysfl.com
 qysgf.com
 qyshbf.ltd
 qysport.com
+qyssgame.com
 qysuliao.com
 qyszyyy.com
 qyt.com
@@ -89470,7 +89471,6 @@ sxljldh.top
 sxllzy.chinacourt.org
 sxls.com
 sxmaps.com
-sxmtdz.com
 sxmxwh.com
 sxmyh.com
 sxncb.com
@@ -92650,6 +92650,7 @@ tk.wo685.com
 tk163.com
 tk233.xyz
 tk315.com
+tkas2019.com
 tkchatn8.bjmantis.net
 tkcn.cc
 tkcn.rayjump.com
@@ -101429,7 +101430,6 @@ wodeshebao.com
 wodeshougong.com
 wodeshucheng.com
 wodeyt.com
-wodiancan.net
 wodidashi.com
 wodingche.com
 wodingwang.com
@@ -104474,7 +104474,6 @@ xajjk.com
 xajjn.com
 xajjwy.com
 xajob.com
-xajr.com
 xajx.com
 xajxcw.com
 xakrlab.com
@@ -104888,7 +104887,6 @@ xflimg.com
 xfliusheng.com
 xflstatic.com
 xflz.xyz
-xfmtcn.com
 xfnano.com
 xfocus.net
 xfocus.org
@@ -107190,6 +107188,7 @@ xqckg.com
 xqfunds.com
 xqggz.com
 xqgmx.com
+xqhuyu.com
 xqipu.com
 xqishuta.com
 xqiushu.com
@@ -114083,6 +114082,7 @@ ymtnet.com
 ymtrack.com
 ymuuy.com
 ymvkt.com
+ymwl.net
 ymxinke.com
 ymxinxi.com
 ymxlass.com
@@ -115630,6 +115630,7 @@ yunhaike.com
 yunhaiqiao.com
 yunhaoka.com
 yunhedata.com
+yunhehudong.com
 yunheit.com
 yunheka.com
 yunhesanwan.com
@@ -119080,7 +119081,6 @@ zjpjmy.com
 zjpost.com
 zjptcc.com
 zjpubservice.com
-zjqbj.com
 zjqichuang.com
 zjqimeng.com
 zjrc.com
