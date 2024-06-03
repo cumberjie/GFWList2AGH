@@ -3658,6 +3658,7 @@ pipii.tv
 piposay.com
 piraattilahti.org
 piring.com
+pixeldrain.com
 pixelqi.com
 pixiv.net
 pixnet.in
@@ -5424,7 +5425,6 @@ yimg.com
 yingsuoss.com
 yinlei.org
 yipub.com
-yiyechat.com
 yizhihongxing.com
 yobit.net
 yobt.com
@@ -5468,7 +5468,6 @@ yuanming.net
 yuanzhengtang.org
 yulghun.com
 yunchao.net
-yuntipub.com
 yuvutu.com
 yvesgeleyn.com
 ywpw.com
