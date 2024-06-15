@@ -999,6 +999,7 @@ com.do
 com.ec
 com.ee
 com.eg
+com.es
 com.et
 com.fj
 com.gh
@@ -1006,9 +1007,13 @@ com.gi
 com.google
 com.gt
 com.jm
+com.kh
+com.kw
 com.lb
 com.ly
+com.mm
 com.mt
+com.mx
 com.na
 com.nf
 com.ng
@@ -1017,8 +1022,10 @@ com.np
 com.om
 com.pa
 com.pg
+com.pk
 com.pr
 com.py
+com.qa
 com.ru
 com.sa
 com.sb
@@ -1029,6 +1036,7 @@ com.ua
 com.uk
 com.uy
 com.vc
+com.vn
 comedycentral.com
 comefromchina.com
 comic-mega.me
