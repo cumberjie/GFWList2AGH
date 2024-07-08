@@ -214,6 +214,7 @@ ajsands.com
 akademiye.org
 akamaihd.net
 akamaistream.net
+akamaized.net
 akiba-online.com
 akiba-web.com
 akow.org
@@ -1173,6 +1174,7 @@ co.bw
 co.ck
 co.cr
 co.il
+co.in
 co.ke
 co.ls
 co.ma
