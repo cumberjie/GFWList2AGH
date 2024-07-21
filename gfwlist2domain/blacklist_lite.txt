@@ -273,6 +273,7 @@ anpopo.com
 answering-islam.org
 antd.org
 anthonycalzadilla.com
+anthropic.com
 anti1984.com
 antichristendom.com
 antiwave.net
@@ -597,6 +598,7 @@ bloomfortune.com
 blubrry.com
 blueangellive.com
 bmfinn.com
+bnbstatic.com
 bnews.co
 bnn.co
 bnrmetal.com
@@ -912,6 +914,7 @@ civitai.com
 ck101.com
 clarionproject.org
 classicalguitarblog.net
+claude.ai
 cleansite.biz
 cleansite.info
 cleansite.us
@@ -3631,6 +3634,7 @@ percy.in
 perfect-privacy.com
 perfectgirls.net
 periscope.tv
+perplexity.ai
 persecutionblog.com
 persiankitty.com
 phapluan.org
