@@ -4356,6 +4356,7 @@ stoptibetcrisis.net
 storagenewsletter.com
 stories.google
 storify.com
+storj.io
 storm.mg
 stormmediagroup.com
 stoweboyd.com
@@ -4961,7 +4962,7 @@ urlparser.com
 us.to
 usacn.com
 usaip.eu
-usc.edu
+uscardforum.com
 uscnpm.org
 usembassy.gov
 usfk.mil
