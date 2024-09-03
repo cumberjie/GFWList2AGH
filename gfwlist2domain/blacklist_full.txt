@@ -331,7 +331,6 @@ api-verify.recaptcha.net
 api.ai
 api.dropboxapi.com
 api.linksalpha.com
-api.proxlet.com
 api.pureapk.com
 api.recaptcha.net
 apiary.io
@@ -646,7 +645,6 @@ blog.lester850.info
 blog.martinoei.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
-blog.qooza.hk
 blog.ranxiang.com
 blog.sina.com.tw
 blog.sogoo.org
@@ -833,6 +831,7 @@ buy.yahoo.com.tw
 buzzhand.com
 buzzhand.net
 buzzorange.com
+buzzsprout.com
 bvpn.com
 bwbx.io
 bwgyhw.com
@@ -3110,6 +3109,7 @@ iuhrdf.org
 iuksky.com
 ivacy.com
 iverycd.com
+ivonblog.com
 ivpn.net
 iwara.tv
 ixquick.com
@@ -3127,6 +3127,7 @@ jackjia.com
 jamaat.org
 jamestown.org
 jamyangnorbu.com
+jan.ai
 jandyx.com
 janwongphoto.com
 japan-whores.com
@@ -4311,8 +4312,6 @@ pemulihan.or.id
 pen.io
 penchinese.com
 penchinese.net
-pengyulong.com
-penisbot.com
 pentalogic.net
 penthouse.com
 pentoy.hk
@@ -4329,7 +4328,6 @@ persiankitty.com
 phapluan.org
 phayul.com
 philborges.com
-philly.com
 phmsociety.org
 phncdn.com
 phobos.apple.com
@@ -4478,7 +4476,6 @@ provideocoalition.com
 provpnaccounts.com
 proxfree.com
 proxifier.com
-proxlet.com
 proxomitron.info
 proxpn.com
 proxyanonimo.es
@@ -4549,7 +4546,6 @@ qixianglu.cn
 qkshare.com
 qmzdd.com
 qoos.com
-qooza.hk
 qpoe.com
 qq.co.za
 qstatus.com
@@ -4590,13 +4586,11 @@ raindrop.io
 raizoji.or.jp
 ramcity.com.au
 rangwang.biz
-rangzen.com
 rangzen.net
 rangzen.org
 ranxiang.com
 ranyunfei.com
 rapbull.net
-rapidgator.net
 rapidmoviez.com
 rapidvpn.com
 rarbgprx.org
