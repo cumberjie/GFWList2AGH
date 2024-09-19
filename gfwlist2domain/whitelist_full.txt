@@ -2670,6 +2670,7 @@
 189sec.com
 189smarthome.com
 189store.com
+189wh.com
 189works.com
 189young.com
 189zj.cn
@@ -25314,6 +25315,7 @@ chairyfish.com
 chaishiguan.com
 chaitin.com
 chaizz.com
+chajiage.com
 chajian110.com
 chajian5.com
 chajiandaquan.com
@@ -38281,6 +38283,7 @@ e5n.com
 e5tech.com
 e5wq.cc
 e61ea83d69ee39804181a9dd6a3d3b00.v.smtcdns.net
+e64.fun
 e64548b8279a4262c1938b60.mdbook.cn
 e6575d4311a5c4bd91069bdff6b27f95.safeframe.googlesyndication.com
 e65u.com
@@ -44989,6 +44992,7 @@ genbaike.com
 genban.org
 gench.ncss.cn
 gench.ncss.org.cn
+gendan5.com
 gendantong.com
 genekong.com
 genelinkout.com
@@ -56898,6 +56902,7 @@ hymlbj.com
 hymom.com
 hynetek.com
 hynews.net
+hyngj.com
 hynixic.com
 hynkzkyy.cn
 hynpay.com
@@ -69461,7 +69466,6 @@ ldgslb.com
 ldgslu.lol
 ldgtlz.lol
 ldgyscu.lol
-ldgzlmn.lol
 ldgzn6.lol
 ldhrd.com
 ldj-edujy.com
@@ -77037,6 +77041,7 @@ mlsbmw.com
 mlsub.net
 mlvbdc.live.qcloud.com
 mlwanwan.com
+mlwdpx.com
 mlwed.com
 mlwplus.com
 mlwu.net
@@ -78325,7 +78330,6 @@ muftc.com
 mugc6.music.tc.qq.com
 muge.info
 mugeda.com
-mugenongmu.com
 mugogfy.cn
 muguacdn.com
 muguaddy.com
@@ -78383,6 +78387,7 @@ munue.com
 muomou.com
 mupao.com
 mupceet.com
+muqianyun.com
 muqn4uxys.sbs
 muquan.com
 murdermysterypa.com
@@ -85816,7 +85821,6 @@ plll-fluid.com
 plmedia00.live.weibo.com
 plmedia00.live.weibo.com.w.cdngslb.com
 plmedia20.live.weibo.com
-plngan.net
 plob.org
 plogin.m.jd.com
 plogin.m.jd.com.gslb.qianxun.com
@@ -102497,6 +102501,7 @@ sztalent.org
 sztanzo.com
 sztara.com
 sztd123.com
+szte.com
 sztgxx.com
 szthekey.com
 szthxf.com
@@ -106115,6 +106120,7 @@ toybaba.com
 toycloud.com
 toyean.com
 toyota-nanning.com
+toyoures.com
 toyoutesting.com
 toysir.com
 toysol.com
@@ -106480,7 +106486,6 @@ tronlife.com
 tropcdn.com
 trpc.gamecenter.qq.com
 trpcdn.net
-trpcw.com
 trqjrp.xyz
 trrsv2.union2.50bang.org
 trs-logistics.com
@@ -109078,6 +109083,7 @@ uschinagreenfund.com
 uscnk.com
 uscxm.com
 usd-cny.com
+usdcny.net
 usdtop.58.com
 usdxz1.com
 usdxz1.net
@@ -110244,6 +110250,7 @@ venus.jd.com.gslb.qianxun.com
 venuscn.com
 venustrain.com
 vephp.com
+veqxiu.net
 ver.touclick.com
 verca.xpa.assistant.miui.com
 vercel.com
@@ -114784,6 +114791,7 @@ wocloud.cn
 woda.com
 wodai.com
 wodale.com
+wodasi.com
 wodavip.com
 wodcloud.com
 wode.im
@@ -115420,6 +115428,7 @@ wsssec.com
 wstatic-hb.bj.bcebos.com
 wstong.com
 wstx.com
+wsukwai.com
 wsurl.cc
 wsv.cdp.qq.com
 wsv.cdp.qq.com.cdn.dcloudstc.com
@@ -118355,6 +118364,7 @@ xdfckjz.com
 xdfgrew.cn
 xdfkt.com
 xdfpr.com
+xdfsjj.com
 xdgalaxy.com
 xdggd.com
 xdh0808.com
@@ -120694,7 +120704,6 @@ xlkty.com
 xllxdg.com
 xlm258.com
 xlmacclient.rcv.sandai.net
-xlncptsg.com
 xlndt.com
 xlobo.com
 xlog.jd.com
@@ -130226,6 +130235,7 @@ yugutou.club
 yuhaids.com
 yuhaiyiya.com
 yuhaotime.com
+yuhaozhixing.com
 yuheii.com
 yuhelaw.com
 yuheng.tech
@@ -131728,6 +131738,7 @@ zc6sigma.com
 zc9066.com
 zcaijing.com
 zcbearing.com
+zcbm580.com
 zcccc.com
 zccrzx.com
 zccssz.com
