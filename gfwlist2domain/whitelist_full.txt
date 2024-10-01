@@ -564,7 +564,6 @@
 05bq.com
 05cg.com
 05e837eab77ca01fe524924f3d877c8e.dl.txcdns.com
-05eg.com
 05idc.com
 05info.com
 05sun.com
@@ -3259,6 +3258,7 @@
 21our.com
 21qa.net
 21qphr.com
+21qupu.com
 21rv.com
 21shhr.com
 21shipin.com
@@ -18143,7 +18143,6 @@ baizead.com
 baizhan.net
 baizhanke.com
 baizhanlive.com
-baizhenzhu.com
 baizhibest.com
 baizhiedu.com
 baizhu.cc
@@ -20916,7 +20915,6 @@ bjyhwy.com
 bjyingge.com
 bjyingyun.com
 bjyirui.com
-bjyixiaojian.com
 bjyme.com
 bjyouth.net
 bjyqsj.com
@@ -23840,8 +23838,6 @@ cccbs.net
 cccc-capital.com
 ccccc12kkkkk.com
 ccccc33kkkkk.com
-ccccccccc.cc
-cccccccccc.cc
 cccccccccccccccccccccccccccccccccccccccccccccc.cc
 cccdun.com
 cccf-cloud.com
@@ -39191,7 +39187,6 @@ egbt.net
 egcmedia.com
 egeel.com
 egfb2221.com
-egg-born.org
 egg.htcsense.com
 eggc111.com
 eghnmj.xyz
@@ -40384,7 +40379,6 @@ eweiqi.com
 eweis.com
 ewen.co
 ewenyan.com
-ewerew.com
 ewide.net
 ewidecloud.com
 ewidewater.com
@@ -41667,7 +41661,6 @@ feikanu.net
 feikongbao.com
 feiku.com
 feilan5.cn
-feilasi.com
 feiliao.com
 feiliks.com
 feilixi888.com
@@ -43262,7 +43255,6 @@ fsthr.com
 fstrhb.com
 fsukj.com
 fswchina.com
-fswl66.com
 fsxchina.com
 fsxinfengyi.com
 fsxshjz.com
@@ -44737,7 +44729,6 @@ gdjingte.com
 gdjiutu.com
 gdjktk.com
 gdjn.org
-gdjqwl.com
 gdjshd.com
 gdjsxh.com
 gdjuhan.com
@@ -47782,7 +47773,6 @@ guozhen.net
 guozhenyi.com
 guozhihua.net
 guozhivip.com
-guozhongxin.com
 guozi.org
 guoziyx.com
 gupang.com
@@ -51068,6 +51058,7 @@ haitaotong.com
 haitaozu.org
 haitianhome.com
 haitl.com
+haitong.com
 haitongjiaoyu.com
 haitou.cc
 haitou360.com
@@ -51758,7 +51749,6 @@ hapjs.org
 haplat.net
 happi123.com
 happigo.com
-happilyevilafter.com
 happy-ti.com
 happycamp.cc
 happycastle.me
@@ -52410,7 +52400,6 @@ hdherpc.cn
 hdhgzx.com
 hdhjtz.com
 hdhospital.com
-hdht-sc.com
 hdhui.com
 hdj.baidu.com
 hdj.me
@@ -62408,6 +62397,7 @@ jh3737.com
 jh3j.com
 jh3pin.com
 jh8k.com
+jhaoyou.com
 jhbst.com
 jhcb.net
 jhcfz.com
@@ -63313,7 +63303,6 @@ jinglawyer.com
 jingliangad.com
 jinglingbiaozhu.com
 jinglong0769.com
-jinglongyu.link
 jinglou8.com
 jingluemall.com
 jingluole.com
@@ -67662,7 +67651,6 @@ koubei-cateogory.alicdn.com.danuoyi.tbcache.com
 koubei.app.autohome.com.cn
 koubei.com
 koubeikc.com
-koucai365.com
 kouchouwang.net
 kouclo.com
 koudai.com
@@ -79298,6 +79286,7 @@ namedq.com
 nameidi.com
 namejin.com
 namepre.com
+nameserver.fit
 namesilodns.com
 namesilopro.com
 namibox.com
@@ -80591,7 +80580,6 @@ njtbcsp2p.n.shifen.com
 njtjyq.com
 njtrabon.com
 njtst.com
-njuaplusplus.com
 njuftp.org
 njustar.com
 njw88.com
@@ -81367,7 +81355,6 @@ novel-supertv.com
 novel-trans-content.cdn.bcebos.com
 novel.pangolin-sdk-toutiao.com
 novelapi.baidu.com
-noveless.com
 novelfm.com
 novelfmpic.com
 novelfmstatic.com
@@ -82391,7 +82378,6 @@ olzz.com
 omacloud.com
 omarea.com
 omaten.com
-omayse.com
 ombuy.com
 omccsh.com
 omchain.com
@@ -96490,6 +96476,7 @@ shenma.com
 shenma4480.cc
 shenmabaike.com
 shenmadsp.com
+shenmapay.com
 shenmayouxi.com
 shenmezhidexia.com
 shenmikj.com
@@ -97753,6 +97740,7 @@ shyywz.com
 shyz07.com
 shyzjsxh.com
 shyzsd.com
+shzaiguan.com
 shzbc.com
 shzbh.com
 shzbkj.com
@@ -98615,7 +98603,6 @@ slog.trackingio.com
 slogra.com
 slooti.com
 slot4.net
-slotwildwest.com
 slovakia-visacenter.com
 slovenia-visacenter.com
 slowdark.com
@@ -106089,6 +106076,7 @@ toughcoder.net
 tougub.com
 touhou.casa
 touhou.cd
+touhou.market
 toujidao.com
 touker.com
 toumiao.com
@@ -117721,6 +117709,7 @@ wxsgf.com
 wxshake.com
 wxshare.yicai.com
 wxshiteng.com
+wxshuku.la
 wxsign.nie.netease.com
 wxsk.sandpay.com.cn
 wxsk.sandpay.com.cn.cdn30.com
@@ -129834,7 +129823,6 @@ ysf.nosdn.127.net
 ysf.nosdn.127.net.w.cdngslb.com
 ysfog.com
 ysgang.com
-ysgcdns.xyz
 ysgfood.com
 ysghh.com
 ysgtg.com
@@ -130795,7 +130783,6 @@ yunxindns.com
 yunxinfa.com
 yunxinfw.com
 yunxing168.com
-yunxingjituan.com
 yunxinshi.com
 yunxiren.com
 yunxiu.com
@@ -131650,6 +131637,7 @@ zaiyulin.com
 zaiyunli.cn
 zaiyunli.com
 zaizai8.com
+zajiebao.com
 zajilu.com
 zajourney.com
 zakdy.com
