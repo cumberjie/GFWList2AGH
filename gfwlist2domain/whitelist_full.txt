@@ -5182,6 +5182,7 @@
 3z4qr0nn.sltadapter.cdntip.com
 3zbsy.com
 3zhijk.com
+3zhm.com
 3zmuseum.com
 4-xiang.com
 4.up.qingdaonews.com
@@ -10039,6 +10040,7 @@
 9-xin.com
 9-zhuce.com
 900.la
+900.vc
 9000.vip
 9000design.com
 9000gou.com
@@ -11224,6 +11226,7 @@
 9xdb.com
 9xgame.com
 9xiazaiqi.com
+9xic.com
 9xiu.com
 9xiuzb.com
 9xkd.com
@@ -16219,6 +16222,7 @@ applog.uc.cn
 applog.ucdns.uc.cn
 applog.yiche.com
 applogapi.autohome.com.cn
+applogcdn.com
 applogios.uc.cn
 applogo.net
 applon.net
@@ -23897,6 +23901,7 @@ cc8.cc
 cca.mob.com
 ccabchina.com
 ccai.cc
+ccall.cc
 ccaon.com
 ccapbook.com
 ccapedu.com
@@ -29274,6 +29279,7 @@ cnipa-sc.com
 cnipa-tj.com
 cnipai.com
 cnipr.com
+cnirtrade.com
 cnisp.org
 cnispgroup.com
 cnit-research.com
@@ -33606,6 +33612,7 @@ dc.sigmob.cn
 dc.so.le.com
 dc0555.com
 dc0792.com
+dc16888888.com
 dc330.com
 dc3311.com
 dc4444.com
@@ -50512,6 +50519,7 @@ gz-notary.com
 gz-oe.com
 gz-rr1.internet.spanner.alipaydns.com
 gz-rr2.internet.spanner.alipaydns.com
+gz-shanguang.com
 gz-tylx.com
 gz-xinghe.com
 gz-xinyu.com
@@ -55813,6 +55821,7 @@ huaisimida.com
 huaixin88.com
 huaixuejy.com
 huaiyuan.baixing.com
+huajclub.com
 huajia.cc
 huajiakeji.com
 huajiakeji.com.w.kunlunca.com
@@ -57406,6 +57415,7 @@ hzhltec.com
 hzhongou.com
 hzhqdj.com
 hzhr.com
+hzhstb.com
 hzhuanqu.com
 hzhx.com
 hzhyqp.com
@@ -62969,6 +62979,7 @@ jiangmin.com
 jiangongdata.com
 jiangongw.com
 jiangpaipinpai.com
+jiangping.fyi
 jiangpinjiangxin.com
 jiangqiaomuye.com
 jiangqimeixue.com
@@ -63243,6 +63254,7 @@ jiayin618.com
 jiayinjd.com
 jiayongluyou.com
 jiayouhaoche.com
+jiayoujsq.com
 jiayouxueba.com
 jiayu.yoga
 jiayu0x.com
@@ -72692,6 +72704,7 @@ longxianwen.net
 longxinglong.com
 longxingweilai.com
 longxinli.com
+longxintec.com
 longxuan.ren
 longyanhuwai.1688.com
 longygo.com
@@ -84388,6 +84401,7 @@ packsky.com
 packtom.com
 packty.com
 pacmantwo.com
+pacs-plus.com
 pactera.com
 pad-appdata.pingan.com.cn
 pad-cards.iqiyi.com
@@ -96969,6 +96983,7 @@ shengtaiyuan.mobi
 shengtian.com
 shengtiangroup.com
 shengtongedu.com
+shengtuanyouxuan.com
 shenguang.com
 shengweicnc.com
 shengwu.store
@@ -107437,6 +107452,7 @@ ttpaihang.com
 ttpaper.com
 ttpcstaistics.dftoutiao.com
 ttpet.com
+ttplayer.co
 ttplayer.com
 ttplayer.qianqian.com
 ttpod.com
@@ -116241,6 +116257,7 @@ wubaiyi.com
 wubaiyi.net
 wubaiyi.vip
 wubazx.online
+wubeizi.com
 wubiba.com
 wubizi.net
 wubizigen.net
@@ -120321,6 +120338,7 @@ xietui.com
 xiewangfu.net
 xiexiaoyuan.com
 xiexiebang.com
+xiexinbao.com
 xiexingcun.com
 xiexingme.com
 xieyangzhe.com
@@ -122478,6 +122496,7 @@ xuexi199.com
 xuexi365.com
 xuexi365.net
 xuexi637.com
+xuexi863.com
 xuexiao.51sxue.com
 xuexiaodaquan.com
 xuexiaozhaopin.com
@@ -131869,6 +131888,7 @@ yxlaba.com
 yxlady.com
 yxlady.net
 yxle.net
+yxlele.com
 yxlink.com
 yxlmdl.net
 yxlqge.com
