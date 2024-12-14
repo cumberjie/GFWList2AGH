@@ -46128,7 +46128,6 @@ gangqinpu.com
 gangqinxiansheng.com
 gangshenglian.com
 gangyuan.com
-gangzi.org
 ganhuoche.com
 ganhuodaquan.com
 ganji.cn
@@ -51448,7 +51447,6 @@ gxsenzhou.com
 gxsfcm.com
 gxsfht.com
 gxsfjd.com
-gxsfzs.com
 gxsgcgpt.com
 gxsggc.com
 gxsgip.com
@@ -52661,7 +52659,6 @@ h10.hxsame.hexun.com
 h12.net
 h128.com
 h13.mobi
-h1bz.com
 h2.appsimg.com
 h2.static.yximgs.com
 h2.static.yximgs.com.w.alikunlun.com
@@ -67347,7 +67344,6 @@ jrqiwen.com
 jrqzw.net
 jrsecstatic.jdpay.com
 jrsmw.com
-jrstv.fun
 jrstv.online
 jrszw.com
 jrtaiji.net
@@ -76010,7 +76006,6 @@ lunhuaxiei.com
 lunkuokeji.com
 lunlunapp.com
 lunwen000.com
-lunwen001.net
 lunwenchachong.org
 lunwendj.com
 lunwengo.net
@@ -84082,7 +84077,6 @@ njnwa.com
 njodu.com
 njpwerner.gallerycdn.azure.cn
 njq.net
-njqhgh.org
 njqxrc.com
 njrsrc.com
 njrx.cc
@@ -85837,7 +85831,6 @@ ok206.com
 ok365.com
 ok379.com
 ok3w.net
-ok86.com
 ok8809.com
 ok888883.com
 ok9624.com
@@ -104101,7 +104094,6 @@ sqjrc.com
 sqjtcy.com
 sqkb.com
 sql110.com
-sqlixin.com
 sqlpub.com
 sqlsec.com
 sqncsx.com
@@ -108008,7 +108000,6 @@ taro.zone
 tarotchina.net
 tarsier-infra.com
 tarsocial.com
-tartdl.com
 tartscenter.com
 tarvengeful.com
 tasaiwang.com
@@ -115117,7 +115108,6 @@ versaloon.com
 version.tgpa.qq.com
 versoventure.com
 vertciot.com
-vertex.team
 vertical-china.com
 vertical-play.iqiyi.com
 vertu.com
@@ -135091,7 +135081,6 @@ youyouwin.com
 youyuan.com
 youyuanapp.com
 youyuanchina.com
-youyuanw.com
 youyuapp.com
 youyudf.com
 youyuegame.com
