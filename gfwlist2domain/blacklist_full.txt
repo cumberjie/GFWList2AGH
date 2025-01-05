@@ -1165,6 +1165,7 @@ cn2.streetvoice.com
 cn6.eu
 cna.com.tw
 cnbbnews.wordpress.com
+cnbeta.com.tw
 cnd.org
 cnet.com
 cnex.org.cn
