@@ -39,6 +39,7 @@
 1eew.com
 1mobile.com
 1mobile.tw
+1point3acres.com
 1pondo.tv
 2-hand.info
 2000fun.com
@@ -47,8 +48,6 @@
 2021hkcharter.com
 2047.name
 21andy.com
-21join.com
-21pron.com
 21sextury.com
 228.net.tw
 233abc.com
@@ -120,6 +119,7 @@
 9001700.com
 908taiwan.org
 91porn.com
+91porny.com
 91vps.club
 92ccav.com
 991.com
@@ -421,6 +421,7 @@ atlaspost.com
 atnext.com
 atv-ps.amazon.com
 auctions.yahoo.co.jp
+audacy.com
 audionow.com
 auntology.fandom.com
 authorizeddns.net
@@ -949,6 +950,7 @@ cdp1998.org
 cdp2006.org
 cdpa.url.tw
 cdpeu.org
+cdpuk.co.uk
 cdpusa.org
 cdpweb.org
 cdpwu.org
@@ -1435,7 +1437,6 @@ daxa.cn
 dayabook.com
 daylife.com
 db.tt
-dbc.hk
 dbgjd.com
 dcard.tw
 dcmilitary.com
@@ -1449,6 +1450,7 @@ ddns.name
 ddns.net
 ddns.us
 de-sci.org
+deadhouse.org
 deadline.com
 deaftone.com
 debug.com
@@ -1969,6 +1971,7 @@ firetweet.io
 firstfivefollowers.com
 firstpost.com
 firstrade.com
+fish.audio
 fizzik.com
 flagsonline.it
 flecheinthepeche.fr
@@ -2850,6 +2853,7 @@ hrichina.org
 hrntt.org
 hrw.org
 hrweb.org
+hsex.men
 hsjp.net
 hsselite.com
 hst.net.tw
@@ -3023,6 +3027,7 @@ indiatimes.com
 indiemerch.com
 info-graf.fr
 informer.com
+inherit.live
 initiativesforchina.org
 inkbunny.net
 inkui.com
@@ -3677,6 +3682,7 @@ ministrybooks.org
 minzhuhua.net
 minzhuzhanxian.com
 minzhuzhongguo.org
+miraheze.org
 miro.com
 miroguide.com
 mirrorbooks.com
@@ -3719,6 +3725,7 @@ mohu.rocks
 mojim.com
 mol.gov.tw
 molihua.org
+momoshop.com.tw
 monar.ch
 mondex.org
 money-link.com.tw
@@ -4577,6 +4584,7 @@ r18.com
 radicalparty.org
 radiko.jp
 radio-canada.ca
+radio-en-ligne.fr
 radio.garden
 radioaustralia.net.au
 radiohilight.net
@@ -4969,6 +4977,7 @@ slacker.com
 slandr.net
 slaytizle.com
 sleazydream.com
+sleazyfork.org
 slheng.com
 slickvpn.com
 slides.new
@@ -5078,6 +5087,7 @@ spotify.com
 spotifycdn.com
 spotifycdn.net
 spreadshirt.es
+spreaker.com
 spring4u.info
 springboardplatform.com
 springwood.me
@@ -5495,8 +5505,10 @@ ticket.com.tw
 tigervpn.com
 tik-tokapi.com
 tiktok.com
+tiktokcdn-us.com
 tiktokcdn.com
 tiktokv.com
+tiktokv.us
 tiltbrush.com
 timdir.com
 time.com
@@ -6504,6 +6516,7 @@ yx51.net
 yyii.org
 yyjlymb.xyz
 yzzk.com
+z-lib.io
 z-lib.org
 zacebook.com
 zalmos.com
