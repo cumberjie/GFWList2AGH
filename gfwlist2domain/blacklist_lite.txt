@@ -481,6 +481,7 @@ bianlei.com
 biantailajiao.com
 biantailajiao.in
 biblesforamerica.org
+bibliocommons.com
 bibox.com
 bic2011.org
 biedian.me
@@ -798,6 +799,7 @@ changeip.org
 changp.com
 changsa.net
 channelnewsasia.com
+chanworld.org
 chaoex.com
 chapm25.com
 chatgpt.com
@@ -1169,13 +1171,13 @@ darktech.org
 darktoy.net
 darpa.mil
 darrenliuwei.com
+dashlane.com
 dastrassi.org
 data-vocabulary.org
 daum.net
 david-kilgour.com
 dawangidc.com
 daxa.cn
-dayabook.com
 daylife.com
 db.tt
 dbgjd.com
@@ -1463,8 +1465,6 @@ eroprofile.com
 eroticsaloon.net
 eslite.com
 esmtp.biz
-esu.dog
-esu.im
 esurance.com
 etadult.com
 etaiwannews.com
@@ -3727,6 +3727,7 @@ politiscales.net
 poloniex.com
 polymer-project.org
 polymerhk.com
+popai.pro
 popo.tw
 popvote.hk
 popxi.click

@@ -141,6 +141,7 @@ abc.pp.ru
 abc.xyz
 abchinese.com
 abclite.net
+abebooks.co.uk
 abebooks.com
 abematv.akamaized.net
 abitno.linpie.com
@@ -576,6 +577,7 @@ bianlei.com
 biantailajiao.com
 biantailajiao.in
 biblesforamerica.org
+bibliocommons.com
 bibox.com
 bic2011.org
 biedian.me
@@ -889,6 +891,7 @@ carfax.com
 cari.com.my
 caribbeancom.com
 carmotorshow.com
+carousell.com.hk
 carrd.co
 carryzhou.com
 cartoonmovement.com
@@ -978,6 +981,7 @@ changeip.org
 changp.com
 changsa.net
 channelnewsasia.com
+chanworld.org
 chaoex.com
 chapm25.com
 chat.lmsys.org
@@ -1151,7 +1155,6 @@ cmule.com
 cmule.org
 cmx.im
 cn-proxy.com
-cn.dayabook.com
 cn.fmnnow.com
 cn.freeones.com
 cn.giganews.com
@@ -1299,6 +1302,7 @@ coolder.com
 coolloud.org.tw
 coolncute.com
 coolstuffinc.com
+copilot.microsoft.com
 corumcollege.com
 cos-moe.com
 cosmic.monar.ch
@@ -1426,6 +1430,7 @@ darktoy.net
 darpa.mil
 darrenliuwei.com
 dash.cloudflare.com
+dashlane.com
 dastrassi.org
 data-vocabulary.org
 data.flurry.com
@@ -1434,7 +1439,6 @@ daum.net
 david-kilgour.com
 dawangidc.com
 daxa.cn
-dayabook.com
 daylife.com
 db.tt
 dbgjd.com
@@ -1770,8 +1774,6 @@ eroticsaloon.net
 esg.t91y.com
 eslite.com
 esmtp.biz
-esu.dog
-esu.im
 esurance.com
 etaa.org.au
 etadult.com
@@ -4422,6 +4424,7 @@ politiscales.net
 poloniex.com
 polymer-project.org
 polymerhk.com
+popai.pro
 popo.tw
 popvote.hk
 popxi.click
@@ -5998,6 +6001,7 @@ vot.org
 vovo2000.com
 voxer.com
 voy.com
+vpl.bibliocommons.com
 vpn.ac
 vpn.cmu.edu
 vpn.sv.cmu.edu
@@ -6169,7 +6173,6 @@ whyx.org
 widevine.com
 wikaba.com
 wiki.cnitter.com
-wiki.esu.im
 wiki.gamerp.jp
 wiki.jqueryui.com
 wiki.keso.cn
