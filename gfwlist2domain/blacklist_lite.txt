@@ -92,6 +92,7 @@
 64wiki.com
 666kb.com
 6do.news
+6do.world
 6park.com
 6parkbbs.com
 6parker.com
@@ -175,9 +176,11 @@ agro.hk
 ai-kan.net
 ai-wen.net
 ai.google
+aiosearch.com
 aiph.net
 airconsole.com
 aircrack-ng.org
+airitilibrary.com
 airvpn.org
 aisex.com
 aiv-cdn.net
@@ -251,6 +254,7 @@ ancsconf.org
 andfaraway.net
 android-x86.org
 android.com
+androidapksfree.com
 androidify.com
 androidplus.co
 androidtv.com
@@ -346,6 +350,7 @@ asianwomensfilm.de
 asiaone.com
 asiatgp.com
 asiatoday.us
+ask.com
 askstudent.com
 askynz.net
 assembla.com
@@ -464,6 +469,7 @@ bestgore.com
 bestpornstardb.com
 bestvpn.com
 bestvpnanalysis.com
+bestvpnforchina.net
 bestvpnserver.com
 bestvpnservice.com
 bestvpnusa.com
@@ -728,6 +734,7 @@ canyu.org
 cao.im
 caobian.info
 caochangqing.com
+caoporn.us
 carabinasypistolas.com
 cardinalkungfoundation.org
 careerengine.us
@@ -747,6 +754,7 @@ catchgod.com
 catfightpayperview.xxx
 cato.org
 cattt.com
+caus.com
 cbc.ca
 cbsnews.com
 cc.com
@@ -801,7 +809,9 @@ changsa.net
 channelnewsasia.com
 chanworld.org
 chaoex.com
+chaos.social
 chapm25.com
+character.ai
 chatgpt.com
 chatnook.com
 chaturbate.com
@@ -830,6 +840,7 @@ chinachange.org
 chinachannel.hk
 chinacitynews.be
 chinacomments.org
+chinademocrats.org
 chinadialogue.net
 chinadigitaltimes.net
 chinaelections.org
@@ -985,6 +996,7 @@ codeplex.com
 codeshare.io
 codeskulptor.org
 coin2co.in
+coinbase.com
 coinbene.com
 coinegg.com
 coingecko.com
@@ -1288,6 +1300,7 @@ dongyangjing.com
 donmai.us
 dontfilter.us
 dontmovetochina.com
+doourbest.org
 dorjeshugden.com
 dotplane.com
 dotsub.com
@@ -1650,6 +1663,7 @@ firefox.com
 fireofliberty.org
 firetweet.io
 firstfivefollowers.com
+firstory.me
 firstpost.com
 firstrade.com
 fish.audio
@@ -1669,6 +1683,7 @@ flipkart.com
 flitto.com
 flnet.org
 flog.tw
+flowhongkong.net
 flurry.com
 flyvpn.com
 flyzy2005.com
@@ -1700,6 +1715,7 @@ fpmt.tw
 fpmtmexico.org
 fqok.org
 fqrouter.com
+frank2019.me
 franklc.com
 freakshare.com
 free-gate.org
@@ -1786,6 +1802,7 @@ fuckcnnic.net
 fuckgfw.org
 fulione.com
 fullerconsideration.com
+fullservicegame.com
 fulue.com
 funf.tw
 funkyimg.com
@@ -1906,9 +1923,11 @@ github.blog
 github.com
 github.io
 githubassets.com
+githubcopilot.com
 githubusercontent.com
 gizlen.net
 gjczz.com
+glarity.app
 glass8.eu
 globaljihad.net
 globalmediaoutreach.com
@@ -1952,7 +1971,6 @@ goldbetsports.com
 golden-ages.org
 goldeneyevault.com
 goldenfrog.com
-goldjizz.com
 goldstep.net
 goldwave.com
 gongm.in
@@ -1960,9 +1978,11 @@ gongmeng.info
 gongminliliang.com
 goo.gl
 goo.gle
+good.news
 gooday.xyz
 gooddns.info
 goodhope.school
+goodnewsnetwork.org
 goodreaders.com
 goodreads.com
 goodtv.tv
@@ -2190,7 +2210,6 @@ happy-vpn.com
 haproxy.org
 hardsextube.com
 harunyahya.com
-hasi.wang
 hautelook.com
 hautelookcdn.com
 have8.com
@@ -2612,9 +2631,9 @@ jan.ai
 jandyx.com
 janwongphoto.com
 japan-whores.com
+japanhdv.com
 jav.com
 jav101.com
-jav2be.com
 jav68.tv
 javakiba.org
 javbus.com
@@ -2657,10 +2676,9 @@ jingpin.org
 jingsim.org
 jinhai.de
 jinpianwang.com
-jinroukong.com
+jinrizhiyi.news
 jintian.net
 jinx.com
-jiruan.net
 jitouch.com
 jizzthis.com
 jjgirls.com
@@ -2669,7 +2687,6 @@ jkforum.net
 jkub.com
 jmscult.com
 joachims.org
-jobso.tv
 joinbbs.net
 joinclubhouse.com
 joinmastodon.org
@@ -2776,6 +2793,7 @@ kraken.com
 ksdl.org
 kspcoin.com
 ktzhk.com
+kuaichedao.co
 kucoin.com
 kui.name
 kukuku.uk
@@ -2857,6 +2875,7 @@ lifemiles.com
 lighti.me
 lightnovel.cn
 lightyearvpn.com
+lih.kg
 lihkg.com
 like.com
 line-apps.com
@@ -3019,6 +3038,7 @@ meforum.org
 mefound.com
 mega.io
 mega.nz
+megalodon.jp
 megaproxy.com
 megarotic.com
 megavideo.com
@@ -3049,20 +3069,18 @@ meteorshowersonline.com
 metro.taipei
 metrolife.ca
 mewe.com
-meyou.jp
-meyul.com
 mfxmedia.com
 mgoon.com
 mgstage.com
 mh4u.org
 mhradio.org
-michaelanti.com
 michaelmarketl.com
 microvpn.com
 middle-way.net
 mihk.hk
 mihr.com
 mihua.org
+mikanani.me
 mikesoltys.com
 mikocon.com
 milph.net
@@ -3131,6 +3149,7 @@ mojim.com
 molihua.org
 monar.ch
 mondex.org
+moneydj.com
 moneyhome.biz
 monica.im
 monitorchina.org
@@ -3388,6 +3407,7 @@ nordstrom.com
 nordstromimage.com
 nordstromrack.com
 nordvpn.com
+nos.nl
 notepad-plus-plus.org
 nottinghampost.com
 novelasia.com
@@ -3618,6 +3638,7 @@ pastebin.com
 pastie.org
 pathtosharepoint.com
 patreon.com
+patreonusercontent.com
 pawoo.net
 paxful.com
 pbs.org
@@ -3697,6 +3718,7 @@ pixnet.in
 pixnet.net
 pk.com
 placemix.com
+play-asia.com
 playboy.com
 playboyplus.com
 player.fm
@@ -3747,6 +3769,7 @@ pornoxo.com
 pornrapidshare.com
 pornsharing.com
 pornsocket.com
+pornstarbyface.com
 pornstarclub.com
 porntube.com
 porntubenews.com
@@ -3768,6 +3791,7 @@ powerapple.com
 powerphoto.org
 powerpointninja.com
 pp.ru
+ppy.sh
 prayforchina.net
 premeforwindows7.com
 premproxy.com
@@ -4176,6 +4200,7 @@ sijihuisuo.com
 silkbook.com
 simbolostwitter.com
 simpleproductivityblog.com
+simpleswap.io
 singfortibet.com
 singtao.ca
 singtao.com
@@ -4233,6 +4258,7 @@ smartsheet.com
 smchbooks.com
 smhric.org
 smith.edu
+smn.news
 smyxy.org
 snapchat.com
 snapseed.com
@@ -4278,6 +4304,7 @@ sophos.com
 sorazone.net
 sorting-algorithms.com
 sos.org
+sosad.fun
 sosreader.com
 sostibet.org
 sou-tong.org
@@ -4293,14 +4320,17 @@ soupofmedia.com
 sourceforge.net
 sourcewadio.com
 south-plus.org
+southmongolia.org
 sowiki.net
 soylent.com
 soylentnews.org
 spankbang.com
 spankingtube.com
 spankwire.com
+spatial.io
 spb.com
 speakerdeck.com
+speedcat.me
 speedify.com
 spem.at
 spencertipping.com
@@ -4553,8 +4583,7 @@ thegay.com
 thegioitinhoc.vn
 thegly.com
 theguardian.com
-thehots.info
-thehousenews.com
+thehindu.com
 thehun.net
 theinitium.com
 themoviedb.org
@@ -4574,6 +4603,7 @@ thetrotskymovie.com
 thetvdb.com
 thevivekspot.com
 thewgo.org
+thewirechina.com
 theync.com
 thinkgeek.com
 thinkingtaiwan.com
@@ -4983,6 +5013,7 @@ usaip.eu
 uscardforum.com
 uscnpm.org
 usembassy.gov
+usercontent.goog
 usfk.mil
 usma.edu
 usmc.mil
@@ -5135,6 +5166,7 @@ vporn.com
 vraiesagesse.net
 vrchat.com
 vrmtr.com
+vrporn.com
 vrsmash.com
 vtunnel.com
 vuku.cc
@@ -5278,7 +5310,6 @@ windy.com
 wingamestore.com
 wingy.site
 winning11.com
-winwhispers.info
 wionews.com
 wire.com
 wiredbytes.com
@@ -5354,9 +5385,8 @@ x-wall.org
 x.co
 x.com
 x.company
-x1949x.com
 x24hr.com
-x365x.com
+x3guide.com
 xanga.com
 xbabe.com
 xbookcn.com
