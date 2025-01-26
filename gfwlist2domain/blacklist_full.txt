@@ -823,6 +823,7 @@ btcbank.bank
 btctrade.im
 btdig.com
 btdigg.org
+btguard.com
 btku.me
 btku.org
 btspread.com
@@ -1546,6 +1547,7 @@ dlsite.com
 dlsite.jp
 dlyoutube.com
 dm530.net
+dma.mil
 dmc.nico
 dmcdn.net
 dmhy.org
@@ -2577,7 +2579,7 @@ googlemashups.com
 googlepagecreator.com
 googleplay.com
 googleplus.com
-googlescholar.comusa
+googlescholar.com
 googlesile.com
 googlesource.com
 googleusercontent.com
@@ -3166,7 +3168,6 @@ izihost.org
 izles.net
 izlesem.org
 j.mp
-ja.wikipedia.org
 jable.tv
 jackjia.com
 jamaat.org
@@ -4392,7 +4393,6 @@ phayul.com
 philborges.com
 phmsociety.org
 phncdn.com
-phobos.apple.com
 phonegap.com
 phosphation13.rssing.com
 photodharma.net
@@ -5847,6 +5847,7 @@ typepad.com
 typora.io
 u15.info
 u9un.com
+ua5v.com
 ub0.cc
 ubddns.org
 uberproxy.net
@@ -5873,6 +5874,8 @@ ukliferadio.co.uk
 uku.im
 ulike.net
 ulop.net
+ultrasurf.us
+ultravpn.com
 ultravpn.fr
 ultraxs.com
 umich.edu
@@ -5927,6 +5930,7 @@ us.to
 usacn.com
 usaip.eu
 uscardforum.com
+uscg.mil
 uscnpm.org
 usembassy.gov
 userapi.nytlog.com
@@ -6095,6 +6099,7 @@ vpnmentor.com
 vpnpick.com
 vpnpop.com
 vpnpronet.com
+vpnproxymaster.com
 vpnreactor.com
 vpnreviewz.com
 vpnsecure.me
@@ -6244,6 +6249,8 @@ wiki.keso.cn
 wiki.oauth.net
 wiki.phonegap.com
 wikia.com
+wikibooks.org
+wikidata.org
 wikileaks-forum.com
 wikileaks.ch
 wikileaks.com
@@ -6259,8 +6266,11 @@ wikinews.org
 wikipedia.org
 wikiquote.org
 wikisource.org
+wikiversity.org
+wikivoyage.org
 wikiwand.com
 wikiwiki.jp
+wiktionary.org
 wildammo.com
 williamhill.com
 willw.net
@@ -6287,6 +6297,7 @@ wjbk.org
 wlcnew.jigsy.com
 wlx.sowiki.net
 wmflabs.org
+wmfusercontent.org
 wn.com
 wnacg.com
 wnacg.org
@@ -6502,6 +6513,7 @@ yandex.ru
 yanghengjun.com
 yangjianli.com
 yasni.co.uk
+yasukuni.or.jp
 yayabay.com
 ycombinator.com
 ydy.com
@@ -6576,6 +6588,7 @@ yuanming.net
 yuanzhengtang.org
 yulghun.com
 yunchao.net
+yunomi.tokyo
 yuvutu.com
 yvesgeleyn.com
 ywpw.com

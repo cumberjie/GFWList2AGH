@@ -674,6 +674,7 @@ btcbank.bank
 btctrade.im
 btdig.com
 btdigg.org
+btguard.com
 btku.me
 btku.org
 btspread.com
@@ -1272,6 +1273,7 @@ dlsite.com
 dlsite.jp
 dlyoutube.com
 dm530.net
+dma.mil
 dmc.nico
 dmcdn.net
 dmhy.org
@@ -2129,7 +2131,7 @@ googlemashups.com
 googlepagecreator.com
 googleplay.com
 googleplus.com
-googlescholar.comusa
+googlescholar.com
 googlesile.com
 googlesource.com
 googleusercontent.com
@@ -4968,6 +4970,7 @@ typepad.com
 typora.io
 u15.info
 u9un.com
+ua5v.com
 ub0.cc
 ubddns.org
 uberproxy.net
@@ -4989,6 +4992,8 @@ uk.to
 uku.im
 ulike.net
 ulop.net
+ultrasurf.us
+ultravpn.com
 ultravpn.fr
 ultraxs.com
 umich.edu
@@ -5038,6 +5043,7 @@ us.to
 usacn.com
 usaip.eu
 uscardforum.com
+uscg.mil
 uscnpm.org
 usembassy.gov
 usercontent.goog
@@ -5179,6 +5185,7 @@ vpnmentor.com
 vpnpick.com
 vpnpop.com
 vpnpronet.com
+vpnproxymaster.com
 vpnreactor.com
 vpnreviewz.com
 vpnsecure.me
@@ -5314,6 +5321,8 @@ whylover.com
 whyx.org
 wikaba.com
 wikia.com
+wikibooks.org
+wikidata.org
 wikileaks-forum.com
 wikileaks.ch
 wikileaks.com
@@ -5329,8 +5338,11 @@ wikinews.org
 wikipedia.org
 wikiquote.org
 wikisource.org
+wikiversity.org
+wikivoyage.org
 wikiwand.com
 wikiwiki.jp
+wiktionary.org
 wildammo.com
 williamhill.com
 willw.net
@@ -5355,6 +5367,7 @@ witopia.net
 wizcrafts.net
 wjbk.org
 wmflabs.org
+wmfusercontent.org
 wn.com
 wnacg.com
 wnacg.org
@@ -5575,6 +5588,7 @@ yuanming.net
 yuanzhengtang.org
 yulghun.com
 yunchao.net
+yunomi.tokyo
 yuvutu.com
 yvesgeleyn.com
 ywpw.com
