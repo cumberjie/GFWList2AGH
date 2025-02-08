@@ -933,6 +933,7 @@ cc.com
 cccat.cc
 cccat.co
 ccdtr.org
+ccfd.org.tw
 cchere.com
 ccim.org
 cclife.ca
@@ -2325,7 +2326,6 @@ go141.com
 goagent.biz
 goagent.codeplex.com
 goagentplus.com
-gobet.cc
 godaddy.com
 godfootsteps.org
 godns.work
@@ -2607,6 +2607,7 @@ graph.org
 graphis.ne.jp
 graphql.org
 gravatar.com
+greasyfork.org
 great-firewall.com
 great-roc.org
 greatfire.org
@@ -3090,6 +3091,7 @@ inxian.com
 iownyour.biz
 iownyour.org
 ipalter.com
+ipdefenseforum.com
 ipfire.org
 ipfs.io
 iphone4hongkong.com
@@ -4070,6 +4072,7 @@ no-ip.org
 nobel.se
 nobelprize.org
 nobodycanstop.us
+nodeseek.com
 nodesnoop.com
 nofile.io
 nokogiri.org
@@ -4094,7 +4097,6 @@ npa.go.jp
 npa.gov.tw
 npm.gov.tw
 npnt.me
-nps.gov
 npsboost.com
 nradio.me
 nrk.no
@@ -4304,6 +4306,7 @@ ozyoyo.com
 pachosting.com
 pacificpoker.com
 packetix.net
+pacom.mil
 pacopacomama.com
 padmanet.com
 page.bid.yahoo.com
@@ -5187,7 +5190,6 @@ starp2p.com
 startpage.com
 startuplivingchina.com
 stat.gov.tw
-state.gov
 static-economist.com
 static.comico.tw
 static.shemalez.com
@@ -5938,7 +5940,6 @@ usercontent.goog
 users.skynet.be
 usfk.mil
 ushuarencity.echainhost.com
-usinfo.state.gov
 usma.edu
 usmc.mil
 usmgtcg.ning.com
@@ -6356,7 +6357,6 @@ wwitv.com
 www.abclite.net
 www.acgnx.se
 www.ajsands.com
-www.americorps.gov
 www.anix.moe
 www.antd.org
 www.aolnews.com

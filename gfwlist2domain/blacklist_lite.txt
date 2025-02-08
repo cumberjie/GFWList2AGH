@@ -1966,7 +1966,6 @@ go.jp
 go141.com
 goagent.biz
 goagentplus.com
-gobet.cc
 godaddy.com
 godfootsteps.org
 godns.work
@@ -2157,6 +2156,7 @@ grandtrial.org
 graph.org
 graphql.org
 gravatar.com
+greasyfork.org
 great-firewall.com
 great-roc.org
 greatfire.org
@@ -2565,6 +2565,7 @@ inxian.com
 iownyour.biz
 iownyour.org
 ipalter.com
+ipdefenseforum.com
 ipfire.org
 ipfs.io
 iphone4hongkong.com
@@ -3418,6 +3419,7 @@ no-ip.org
 nobel.se
 nobelprize.org
 nobodycanstop.us
+nodeseek.com
 nodesnoop.com
 nofile.io
 nokogiri.org
@@ -3439,7 +3441,6 @@ nowtorrents.com
 noxinfluencer.com
 noypf.com
 npnt.me
-nps.gov
 npsboost.com
 nradio.me
 nrk.no
@@ -3622,6 +3623,7 @@ ozyoyo.com
 pachosting.com
 pacificpoker.com
 packetix.net
+pacom.mil
 pacopacomama.com
 padmanet.com
 page.link
@@ -4401,7 +4403,6 @@ starfishfx.com
 starp2p.com
 startpage.com
 startuplivingchina.com
-state.gov
 static-economist.com
 staticflickr.com
 statueofdemocracy.org
