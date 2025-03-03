@@ -145,6 +145,7 @@ accim.org
 accountkit.com
 aceros-de-hispania.com
 acevpn.com
+acg.rip
 acg18.me
 acgbox.org
 acgkj.com
@@ -269,6 +270,7 @@ angularjs.org
 anidb.net
 animecrazy.net
 aniscartujo.com
+annas-archive.se
 annatam.com
 anobii.com
 anonfiles.com
@@ -422,6 +424,7 @@ bangbrosnetwork.com
 bangchen.net
 bangdream.space
 bangkokpost.com
+bangumi.moe
 bangyoulater.com
 bankmobilevibe.com
 bannedbook.org
@@ -628,6 +631,7 @@ boobstagram.com
 bookdepository.com
 bookepub.com
 boomssr.com
+bootstrapcdn.com
 borgenmagazine.com
 bot.nu
 botanwang.com
@@ -914,6 +918,7 @@ chubold.com
 chubun.com
 churchinhongkong.org
 chushigangdrug.ch
+ci-en.jp
 ciciai.com
 cienen.com
 cineastentreff.de
@@ -1311,6 +1316,7 @@ dongyangjing.com
 donmai.us
 dontfilter.us
 dontmovetochina.com
+doosho.com
 doourbest.org
 dorjeshugden.com
 dotplane.com
@@ -1531,6 +1537,7 @@ eyny.com
 ezpc.tk
 ezpeer.com
 ezua.com
+f-droid.org
 f2pool.com
 f8.com
 facebook.br
@@ -1580,6 +1587,7 @@ familyfed.org
 famunion.com
 fan-qiang.com
 fanart.tv
+fanbox.cc
 fandom.com
 fangbinxing.com
 fangeming.com
@@ -1737,6 +1745,7 @@ free-hada-now.org
 free-proxy.cz
 free-ss.site
 free-ssh.com
+free.bg
 free.fr
 freealim.com
 freebeacon.com
@@ -2379,6 +2388,7 @@ hotvpn.com
 hougaige.com
 howtoforge.com
 hoxx.com
+hoy.tv
 hpjav.com
 hqcdp.org
 hqjapanesesex.com
@@ -2808,6 +2818,7 @@ koolsolutions.com
 koornk.com
 koranmandarin.com
 korenan2.com
+kpkuang.org
 kqes.net
 kraken.com
 ksdl.org
@@ -3002,6 +3013,7 @@ malaysiakini.com
 mamingzhe.com
 manchukuo.net
 mandiant.com
+mangabz.com
 mangafox.com
 mangafox.me
 mangmang.run
@@ -3086,6 +3098,7 @@ mesotw.com
 messenger.com
 meta.com
 metacafe.com
+metacubex.one
 metafilter.com
 metart.com
 metarthunter.com
@@ -3381,6 +3394,7 @@ newstarnet.com
 newstatesman.com
 newsweek.com
 newtalk.tw
+newthuhole.com
 newyorker.com
 newyorktimes.com
 nexon.com
@@ -3635,6 +3649,7 @@ page.link
 page.tl
 page2rss.com
 pagodabox.com
+paimon.moe
 palacemoon.com
 paldengyal.com
 paljorpublications.com
@@ -3691,6 +3706,7 @@ pekingduck.org
 pen.io
 penchinese.com
 penchinese.net
+pendrivelinux.com
 pentalogic.net
 penthouse.com
 pentoy.hk
@@ -3712,6 +3728,7 @@ phncdn.com
 phonegap.com
 photodharma.net
 photofocus.com
+photonmedia.net
 phuquocservices.com
 picacomic.com
 picacomiccn.com
@@ -3745,11 +3762,13 @@ piring.com
 pixeldrain.com
 pixelqi.com
 pixiv.net
+pixiv.org
 pixivsketch.net
 pixnet.in
 pixnet.net
 pk.com
 pkqjiasu.com
+pkuanvil.com
 placemix.com
 play-asia.com
 playboy.com
@@ -3773,6 +3792,7 @@ podbean.com
 podcast.co
 podictionary.com
 poe.com
+points-media.com
 pokerstars.com
 pokerstars.net
 pokerstrategy.com
@@ -4490,6 +4510,7 @@ sydneytoday.com
 sylfoundation.org
 syncback.com
 synergyse.com
+syosetu.com
 sysresccd.org
 sytes.net
 syx86.com
@@ -4648,6 +4669,8 @@ threadreaderapp.com
 threads.net
 threatchaos.com
 throughnightsfire.com
+thu.monster
+thuhole.com
 thumbzilla.com
 thywords.com
 tiananmenduizhi.com
@@ -4972,6 +4995,7 @@ twurl.nl
 twyac.org
 txxx.com
 tycool.com
+typekit.net
 typepad.com
 typora.io
 u15.info
@@ -5352,6 +5376,7 @@ wiktionary.org
 wildammo.com
 williamhill.com
 willw.net
+wilsoncenter.org
 windowsphoneme.com
 windscribe.com
 windy.com
