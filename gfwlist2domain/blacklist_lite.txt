@@ -20,6 +20,7 @@
 17t17p.com
 18board.com
 18board.info
+18comic.org
 18onlygirls.com
 18p2p.com
 18virginsex.com
@@ -270,6 +271,7 @@ angularjs.org
 anidb.net
 animecrazy.net
 aniscartujo.com
+annas-archive.org
 annas-archive.se
 annatam.com
 anobii.com
@@ -378,6 +380,7 @@ autodraw.com
 av-e-body.com
 av.com
 av.movie
+av01.tv
 avaaz.org
 avbody.tv
 avcity.tv
@@ -809,6 +812,7 @@ centurys.net
 certificate-transparency.org
 cfos.de
 cfr.org
+cfsh99.com
 cftfc.com
 cgdepot.org
 cgst.edu
@@ -878,7 +882,6 @@ chinasmile.net
 chinasocialdemocraticparty.com
 chinasoul.org
 chinasucks.net
-chinatimes.com
 chinatopsex.com
 chinatweeps.com
 chinaway.org
@@ -953,6 +956,7 @@ clearsurance.com
 clearwisdom.net
 clementine-player.org
 clinica-tibet.ru
+clipconverter.cc
 clipfish.de
 cloakpoint.com
 cloudcone.com
@@ -1018,6 +1022,7 @@ coingi.com
 coinmarketcap.com
 cointobe.com
 coinut.com
+colacloud.net
 collateralmurder.com
 collateralmurder.org
 com.af
@@ -1077,6 +1082,7 @@ com.vc
 com.vn
 comedycentral.com
 comefromchina.com
+comfastgpt.run
 comic-mega.me
 comico.tw
 commandarms.com
@@ -1252,6 +1258,7 @@ dharmakara.net
 dhcp.biz
 diaoyuislands.org
 difangwenge.org
+dify.ai
 digiland.tw
 digisfera.com
 digitalnomadsproject.org
@@ -1438,6 +1445,7 @@ eic-av.com
 eireinikotaerukai.com
 eisbb.com
 eksisozluk.com
+elconfidencial.com
 electionsmeter.com
 elgoog.im
 ellawine.org
@@ -1509,7 +1517,6 @@ etowns.org
 etsy.com
 ettoday.net
 etvonline.hk
-eu.org
 eucasino.com
 eulam.com
 eurekavpt.com
@@ -1614,6 +1621,7 @@ fartit.com
 farwestchina.com
 fastestvpn.com
 fastgit.org
+fastgpt.run
 fastly.net
 fastpic.ru
 fastssh.com
@@ -1642,7 +1650,6 @@ fdc64.org
 fdc89.jp
 feedburner.com
 feeder.co
-feedly.com
 feedx.net
 feelssh.com
 feer.com
@@ -1705,7 +1712,6 @@ flitto.com
 flnet.org
 flog.tw
 flowhongkong.net
-flurry.com
 flyvpn.com
 flyzy2005.com
 fmnnow.com
@@ -1814,6 +1820,7 @@ fromchinatousa.net
 frommel.net
 frontlinedefenders.org
 frootvpn.com
+froth.zone
 fscked.org
 fsurf.com
 ftchinese.com
@@ -1827,6 +1834,7 @@ fulione.com
 fullerconsideration.com
 fullservicegame.com
 fulue.com
+funami.tech
 funf.tw
 funkyimg.com
 funp.com
@@ -1940,12 +1948,12 @@ giganews.com
 gigporno.ru
 girlbanker.com
 git.io
+gitbook.io
 gitbooks.io
 githack.com
 github.blog
 github.com
 github.io
-githubassets.com
 githubcopilot.com
 githubusercontent.com
 gizlen.net
@@ -1974,6 +1982,7 @@ gmodules.com
 gmx.net
 gnews.org
 go-pki.com
+go-to-zlibrary.se
 go.jp
 go141.com
 goagent.biz
@@ -2225,6 +2234,7 @@ hackmd.io
 hackthatphone.net
 hahlo.com
 haijiao.com
+haiwaikan.com
 handcraftedsoftware.org
 hanime.tv
 hanminzu.org
@@ -2356,6 +2366,7 @@ hola.com
 hola.org
 holymountaincn.com
 holyspiritspeaks.org
+home.saxo
 homedepot.com
 homeip.net
 homeperversion.com
@@ -2532,6 +2543,7 @@ images-gaytube.com
 imageshack.us
 imagevenue.com
 imagezilla.net
+imago-images.com
 imb.org
 imdb.com
 img.ly
@@ -2665,6 +2677,7 @@ jav101.com
 jav68.tv
 javakiba.org
 javbus.com
+javdb.com
 javfinder.ai
 javfor.me
 javhd.com
@@ -2694,6 +2707,7 @@ jiaoyou8.com
 jichangtj.com
 jiehua.cz
 jiepang.com
+jifangge.com
 jigglegifs.com
 jigong1024.com
 jigsy.com
@@ -2920,6 +2934,7 @@ lingvodics.com
 link-o-rama.com
 linkideo.com
 linksalpha.com
+linktr.ee
 linkuswell.com
 linpie.com
 linuxtoy.org
@@ -2996,10 +3011,12 @@ macrovpn.com
 mad-ar.ch
 madewithcode.com
 madonna-av.com
+madou.club
 madrau.com
 madthumbs.com
 magic-net.info
 mahabodhi.org
+mahjongsoul.com
 maiio.net
 mail-archive.com
 mail.ru
@@ -3066,6 +3083,7 @@ media-amazon.com
 mediachinese.com
 mediafire.com
 mediafreakcity.com
+mediawiki.org
 medium.com
 meetav.com
 meetup.com
@@ -3153,10 +3171,12 @@ miro.com
 miroguide.com
 mirrorbooks.com
 mirrormedia.mg
+missav.com
 mist.vip
 mit.edu
 mitbbs.com
 mitbbsau.com
+miuipolska.pl
 mixero.com
 mixi.jp
 mixpod.com
@@ -3211,6 +3231,7 @@ motor4ik.ru
 mousebreaker.com
 movements.org
 moviefap.com
+mozilla.org
 moztw.org
 mp3buscador.com
 mpettis.com
@@ -3297,6 +3318,7 @@ myspace.com
 myspacecdn.com
 mytalkbox.com
 mytizi.com
+mywife.cc
 mywww.biz
 myz.info
 naacoalition.org
@@ -3730,6 +3752,7 @@ photodharma.net
 photofocus.com
 photonmedia.net
 phuquocservices.com
+piaotia.com
 picacomic.com
 picacomiccn.com
 picasaweb.com
@@ -3893,6 +3916,7 @@ pt.im
 ptt.cc
 pttgame.com
 pttvan.org
+ptwxz.com
 puffinbrowser.com
 puffstore.com
 pugpig.com
@@ -4160,6 +4184,7 @@ seesmic.com
 seevpn.com
 seezone.net
 sehuatang.net
+sehuatang.org
 sejie.com
 sellclassics.com
 sendsmtp.com
@@ -4256,6 +4281,7 @@ simbolostwitter.com
 simpleproductivityblog.com
 simpleswap.io
 singfortibet.com
+singlelogin.se
 singtao.ca
 singtao.com
 singtaousa.com
@@ -4296,6 +4322,7 @@ sleazydream.com
 sleazyfork.org
 slheng.com
 slickvpn.com
+slides.com
 slides.new
 slideshare.net
 slinkset.com
@@ -4483,6 +4510,8 @@ sumrando.com
 sun1911.com
 sundayguardianlive.com
 sunmedia.ca
+suno.ai
+suno.com
 sunporno.com
 sunskyforum.com
 sunvpn.net
@@ -4647,6 +4676,7 @@ theportalwiki.com
 theprint.in
 thereallove.kr
 thestandnews.com
+thetatoken.org
 thetibetcenter.org
 thetibetconnection.org
 thetibetmuseum.org
@@ -4800,6 +4830,7 @@ tokyo-hot.com
 tokyo-porn-tube.com
 tokyocn.com
 tomonews.net
+tomp3.cc
 tono-oka.jp
 tonyyan.net
 toodoc.com
@@ -4872,6 +4903,7 @@ tuidang.net
 tuidang.org
 tuidang.se
 tuitwit.com
+tukaani.org
 tumblr.com
 tumutanzi.com
 tumview.com
@@ -4997,6 +5029,7 @@ txxx.com
 tycool.com
 typekit.net
 typepad.com
+typeset.io
 typora.io
 u15.info
 u9un.com
@@ -5043,6 +5076,7 @@ unirule.cloud
 unitedsocialpress.com
 unix100.com
 unknownspace.org
+unlock-music.dev
 unodedos.com
 unpo.org
 unseen.is
@@ -5130,6 +5164,7 @@ veoh.com
 vercel.app
 verizon.net
 vermonttibet.org
+vern.cc
 versavpn.com
 vevo.com
 viber.com
@@ -5239,7 +5274,6 @@ vuku.cc
 vultryhw.com
 vzw.com
 w3.org
-w3schools.com
 waffle1999.com
 wahas.com
 waigaobu.com
@@ -5446,6 +5480,7 @@ wuguoguang.com
 wujie.net
 wujieliulan.com
 wukangrui.net
+wunderground.com
 wuw.red
 wuyanblog.com
 wwe.com
@@ -5633,7 +5668,6 @@ zacebook.com
 zalmos.com
 zamimg.com
 zannel.com
-zaobao.com
 zaozon.com
 zapto.org
 zattoo.com
