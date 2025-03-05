@@ -89,12 +89,14 @@
 5i01.com
 5isotoi5.org
 5maodang.com
+611study.com
 611study.icu
 63i.com
 64museum.org
 64tianwang.com
 64wiki.com
 666kb.com
+666pool.cn
 6do.news
 6do.world
 6park.com
@@ -199,6 +201,7 @@ akamaistream.net
 akamaized.net
 akiba-online.com
 akiba-web.com
+akinator.com
 akow.org
 al-islam.com
 al-qimmah.net
@@ -288,6 +291,7 @@ anthropic.com
 anti1984.com
 antichristendom.com
 antiwave.net
+antpool.com
 anyporn.com
 anysex.com
 ao3.org
@@ -330,6 +334,7 @@ archive.md
 archive.org
 archive.ph
 archive.today
+archive.vn
 archiveofourown.com
 archiveofourown.org
 archives.gov
@@ -461,6 +466,8 @@ bdsmvideos.net
 beaconevents.com
 bebo.com
 beeg.com
+beepool.com
+beepool.org
 beevpn.com
 behance.net
 behindkink.com
@@ -484,6 +491,7 @@ bestvpnserver.com
 bestvpnservice.com
 bestvpnusa.com
 bet365.com
+betaclouds.net
 betfair.com
 betternet.co
 bettervpn.com
@@ -492,6 +500,7 @@ bewww.net
 beyondfirewall.com
 bfnn.org
 bfsh.hk
+bgme.me
 bgvpn.com
 bianlei.com
 biantailajiao.com
@@ -513,6 +522,7 @@ bild.de
 biliworld.com
 billypan.com
 binance.com
+binancezh.cc
 binux.me
 binwang.me
 bird.so
@@ -548,6 +558,7 @@ blockcast.it
 blockcn.com
 blockedbyhk.com
 blockless.com
+blocktempo.com
 blog.de
 blog.google
 blog.jp
@@ -678,6 +689,8 @@ bsky.app
 bsky.network
 bsky.social
 btaia.com
+btbit.net
+btc.com
 btc98.com
 btcbank.bank
 btctrade.im
@@ -721,6 +734,7 @@ c-span.org
 c-spanvideo.org
 c100tibet.org
 c2cx.com
+c3pool.com
 cableav.tv
 cablegatesearch.net
 cachinese.com
@@ -764,6 +778,7 @@ casinobellini.com
 casinoking.com
 casinoriva.com
 castbox.fm
+catbox.moe
 catch22.net
 catchgod.com
 catfightpayperview.xxx
@@ -1115,6 +1130,7 @@ coze.com
 cpj.org
 cq99.us
 crackle.com
+crazypool.org
 crazys.cc
 crazyshit.com
 crbug.com
@@ -1128,10 +1144,12 @@ cristyli.com
 crocotube.com
 crossthewall.net
 crossvpn.net
+crosswall.org
 croxyproxy.com
 crrev.com
 crucial.com
 crunchyroll.com
+cruxpool.com
 cryptographyengineering.com
 csdparty.com
 csis.org
@@ -1155,6 +1173,7 @@ cyberghostvpn.com
 cynscribe.com
 cytode.us
 d-fukyu.com
+d.cash
 d0z.net
 d100.net
 d2bay.com
@@ -1206,6 +1225,7 @@ darrenliuwei.com
 dashlane.com
 dastrassi.org
 data-vocabulary.org
+datalabour.com
 daum.net
 david-kilgour.com
 dawangidc.com
@@ -1331,14 +1351,17 @@ dotsub.com
 dotvpn.com
 doub.io
 doubibackup.com
+doubiyunbackup.com
 doublethinklab.org
 doubmirror.cf
+douchi.space
 dougscripts.com
 douhokanko.net
 doujincafe.com
 dowei.org
 dowjones.com
 dphk.org
+dpool.top
 dpr.info
 dragonex.io
 dragonsprings.org
@@ -1432,6 +1455,7 @@ edmontonchina.cn
 edmontonservice.com
 edns.biz
 edoors.com
+edu.ci
 edu.hk
 edu.tw
 edubridge.com
@@ -1509,6 +1533,7 @@ etadult.com
 etaiwannews.com
 etherdelta.com
 ethermine.org
+etherscan.com
 etherscan.io
 etizer.org
 etokki.com
@@ -1700,6 +1725,7 @@ flagsonline.it
 flecheinthepeche.fr
 fleshbot.com
 fleursdeslettres.com
+flexpool.io
 flgg.us
 flgjustice.org
 flickr.com
@@ -1712,6 +1738,7 @@ flitto.com
 flnet.org
 flog.tw
 flowhongkong.net
+flypool.org
 flyvpn.com
 flyzy2005.com
 fmnnow.com
@@ -1788,6 +1815,7 @@ freeones.com
 freeopenvpn.com
 freeoz.org
 freerk.com
+freess.org
 freessh.us
 freetcp.com
 freetibet.net
@@ -1812,6 +1840,7 @@ friendfeed.com
 friendfinder.com
 friends-of-tibet.org
 friendsoftibet.org
+fril.jp
 fring.com
 fringenetwork.com
 from-pr.com
@@ -1929,12 +1958,12 @@ getsocialscope.com
 getsync.com
 gettr.com
 gettrials.com
-gettyimages.com
 getuploader.com
 gfbv.de
 gfsale.com
 gfw.press
 gfw.report
+gfwatch.org
 ggpht.com
 ggssl.com
 ghidra-sre.org
@@ -1985,6 +2014,7 @@ go-pki.com
 go-to-zlibrary.se
 go.jp
 go141.com
+go5.dev
 goagent.biz
 goagentplus.com
 godaddy.com
@@ -2313,6 +2343,7 @@ himemix.net
 hinet.net
 hitbtc.com
 hitomi.la
+hiveon.net
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
 hizbuttahrir.org
@@ -2454,6 +2485,7 @@ huobi.com
 huobi.me
 huobi.pro
 huobi.sc
+huobipool.com
 huobipro.com
 huping.net
 hurgokbayrak.com
@@ -2552,9 +2584,11 @@ imgchili.net
 imgmega.com
 imgur.com
 imkev.com
+imlive.co
 imlive.com
 immoral.jp
 impp.mn
+improd.works
 in-disguise.com
 in.com
 in99.org
@@ -2674,6 +2708,7 @@ japan-whores.com
 japanhdv.com
 jav.com
 jav101.com
+jav321.com
 jav68.tv
 javakiba.org
 javbus.com
@@ -2759,6 +2794,7 @@ justdied.com
 justfreevpn.com
 justhost.ru
 justicefortenzin.org
+justmysocks.net
 justmysocks1.net
 justpaste.it
 justtristan.com
@@ -2946,6 +2982,7 @@ list-manage.com
 listennotes.com
 listentoyoutube.com
 listorious.com
+litenews.hk
 lithium.com
 liu-xiaobo.org
 liudejun.com
@@ -3055,6 +3092,7 @@ mash.to
 maskedip.com
 mastodon.cloud
 mastodon.host
+mastodon.online
 mastodon.social
 mastodon.xyz
 matainja.com
@@ -3104,6 +3142,8 @@ memehk.com
 memes.tw
 memri.org
 memrijttm.org
+mercari.com
+mercari.jp
 mercatox.com
 mercdn.net
 mercyprophet.org
@@ -3162,6 +3202,7 @@ mingpaovan.com
 mingshengbao.com
 minhhue.net
 miniforum.org
+miningpoolhub.com
 ministrybooks.org
 minzhuhua.net
 minzhuzhanxian.com
@@ -3169,6 +3210,7 @@ minzhuzhongguo.org
 miraheze.org
 miro.com
 miroguide.com
+mirror.xyz
 mirrorbooks.com
 mirrormedia.mg
 missav.com
@@ -3222,6 +3264,7 @@ moonbbs.com
 moonbingo.com
 moptt.tw
 morbell.com
+moresci.sale
 morningsun.org
 moroneta.com
 mos.ru
@@ -3248,6 +3291,7 @@ msa-it.org
 msguancha.com
 msha.gov
 msn.com
+mstdn.social
 mswe1.org
 mthruf.com
 mtw.tl
@@ -3296,6 +3340,7 @@ myfreepaysite.com
 myftp.info
 myftp.name
 myiphide.com
+myjs.tw
 mykomica.org
 mylftv.com
 mymaji.com
@@ -3331,6 +3376,7 @@ nalandawest.org
 namgyal.org
 namgyalmonastery.org
 namsisi.com
+nanopool.org
 nanyang.com
 nanyangpost.com
 naol.ca
@@ -3485,6 +3531,7 @@ npnt.me
 npsboost.com
 nradio.me
 nrk.no
+ns.ci
 ns01.biz
 ns01.info
 ns01.us
@@ -3535,6 +3582,7 @@ nytimg.com
 nytlog.com
 nytstyle.com
 nzchinese.com
+o3o.ca
 oanda.com
 oann.com
 oauth.net
@@ -3563,10 +3611,12 @@ ok.ru
 okayfreedom.com
 okex.com
 okk.tw
+okpool.me
 okx.com
 olabloga.pl
 old-cat.net
 olehdtv.com
+olelive.com
 olevod.com
 olumpo.com
 olympicwatch.org
@@ -3580,6 +3630,7 @@ omy.sg
 on.cc
 on2.com
 onapp.com
+onedrive.com
 onedumb.com
 onejav.com
 onion.city
@@ -3825,6 +3876,7 @@ politiscales.net
 poloniex.com
 polymer-project.org
 polymerhk.com
+poolbinance.com
 popai.pro
 popo.tw
 popvote.hk
@@ -3860,6 +3912,7 @@ post852.com
 postadult.com
 postimg.org
 potato.im
+potatso.com
 potvpn.com
 pourquoi.tw
 power.com
@@ -3976,7 +4029,9 @@ qvodzy.org
 qx.net
 qxbbs.org
 qz.com
+r-pool.net
 r0.ru
+r10s.jp
 r18.com
 radicalparty.org
 radiko.jp
@@ -4231,6 +4286,7 @@ shambalapost.com
 shambhalasun.com
 shangfang.org
 shapeservices.com
+share-videos.se
 sharebee.com
 sharecool.org
 sharpdaily.hk
@@ -4317,6 +4373,7 @@ skype.com
 skyvegas.com
 slacker.com
 slandr.net
+slashine.onl
 slaytizle.com
 sleazydream.com
 sleazyfork.org
@@ -4340,7 +4397,6 @@ smhric.org
 smith.edu
 smn.news
 smyxy.org
-snapchat.com
 snapseed.com
 snaptu.com
 sndcdn.com
@@ -4417,6 +4473,7 @@ spencertipping.com
 spendee.com
 spicevpn.com
 spideroak.com
+spiderpool.com
 spike.com
 spotflux.com
 spoti.fi
@@ -4443,6 +4500,7 @@ sspanel.net
 sspro.ml
 ssr.tools
 ssrshare.com
+ssrshare.us
 sss.camp
 sstm.moe
 sstmlt.moe
@@ -4457,11 +4515,13 @@ starp2p.com
 startpage.com
 startuplivingchina.com
 static-economist.com
+statically.io
 staticflickr.com
 statueofdemocracy.org
 stboy.net
 steamcommunity.com
 steampowered.com
+steamstatic.com
 steel-storm.com
 steemit.com
 steganos.com
@@ -4588,6 +4648,7 @@ taolun.info
 tapanwap.com
 tapatalk.com
 taragana.com
+tardigrade.io
 target.com
 taup.net
 taweet.com
@@ -4640,6 +4701,7 @@ tensorflow.org
 tenzinpalmo.com
 terabox.com
 tew.org
+textnow.com
 textnow.me
 tfhub.dev
 tfiflve.com
@@ -4810,6 +4872,7 @@ tintuc101.com
 tiny.cc
 tinychat.com
 tinypaste.com
+tinyurl.com
 tipas.net
 tistory.com
 tkcs-collins.com
@@ -4825,6 +4888,8 @@ tnp.org
 to-porno.com
 togetter.com
 toh.info
+token.im
+tokenlon.im
 tokyo-247.com
 tokyo-hot.com
 tokyo-porn-tube.com
@@ -4849,6 +4914,7 @@ torcn.com
 torguard.net
 torlock.com
 torproject.org
+torrentgalaxy.to
 torrentkitty.tv
 torrentprivacy.com
 torrentproject.se
@@ -5077,6 +5143,7 @@ unitedsocialpress.com
 unix100.com
 unknownspace.org
 unlock-music.dev
+unmineable.com
 unodedos.com
 unpo.org
 unseen.is
@@ -5123,6 +5190,7 @@ utopianpal.com
 uu-gg.com
 uujiasu.com
 uupdump.net
+uupool.cn
 uvwxyz.xyz
 uwants.com
 uwants.net
@@ -5138,6 +5206,7 @@ uyghurstudies.org
 uyghurtribunal.com
 uygur.org
 uymaarip.com
+v2.help
 v2ex.com
 v2fly.org
 v2ray.com
@@ -5214,6 +5283,7 @@ voaindonesia.com
 voanews.com
 voatibetan.com
 voatibetanenglish.com
+vocaroo.com
 vocativ.com
 vocn.tv
 vocus.cc
@@ -5273,6 +5343,7 @@ vtunnel.com
 vuku.cc
 vultryhw.com
 vzw.com
+w-pool.com
 w3.org
 waffle1999.com
 wahas.com
@@ -5445,6 +5516,7 @@ woolyss.com
 woopie.jp
 woopie.tv
 wordpress.com
+work2icu.org
 workatruna.com
 workerempowerment.org
 workers.dev
@@ -5539,12 +5611,14 @@ xlfmwz.info
 xm.com
 xml-training-guide.com
 xmovies.com
+xn--11xs86f.icu
 xn--4gq171p.com
 xn--9pr62r24a.com
 xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
 xn--noss43i.com
 xn--oiq.cc
+xnpool.com
 xnxx.com
 xpdo.net
 xpud.org
@@ -5552,6 +5626,8 @@ xrentdvd.com
 xsden.info
 xskywalker.com
 xskywalker.net
+xt.com
+xt.pub
 xtube.com
 xuchao.net
 xuchao.org
@@ -5585,6 +5661,7 @@ yakbutterblues.com
 yam.com
 yande.re
 yandex.com
+yandex.net
 yandex.ru
 yanghengjun.com
 yangjianli.com
@@ -5691,10 +5768,12 @@ zhenlibu.info
 zhenlibu1984.com
 zhenxiang.biz
 zhinengluyou.com
+zhizhu.top
 zhongguo.ca
 zhongguorenquan.org
 zhongguotese.net
 zhongmeng.org
+zhongzidi.com
 zhoushuguang.com
 zhreader.com
 zhuangbi.me
@@ -5718,6 +5797,8 @@ zonaeuropa.com
 zonghexinwen.com
 zonghexinwen.net
 zoogvpn.com
+zoominfo.com
+zooqle.com
 zootool.com
 zoozle.net
 zophar.net
