@@ -44,6 +44,7 @@
 2017.hk
 2021hkcharter.com
 2047.name
+2049bbs.xyz
 21andy.com
 21sextury.com
 233abc.com
@@ -213,6 +214,7 @@ alforattv.net
 alhayat.com
 aliengu.com
 alive.bar
+aljazeera.com
 alkasir.com
 all4mom.org
 allcoin.com
@@ -370,7 +372,6 @@ assembla.com
 assimp.org
 astrill.com
 atchinese.com
-atdmt.com
 atgfw.org
 athenaeizou.com
 atlanta168.com
@@ -568,6 +569,7 @@ blogcity.me
 blogdns.org
 blogger.com
 blogimg.jp
+blogjav.net
 bloglines.com
 bloglovin.com
 blogs.com
@@ -690,6 +692,8 @@ bsky.network
 bsky.social
 btaia.com
 btbit.net
+btbtt.co
+btbtt.me
 btc.com
 btc98.com
 btcbank.bank
@@ -754,6 +758,7 @@ cam4.com
 cam4.jp
 cam4.sg
 camfrog.com
+campaign-archive.com
 campaignforuyghurs.org
 cams.com
 canadameet.com
@@ -899,6 +904,7 @@ chinasoul.org
 chinasucks.net
 chinatopsex.com
 chinatweeps.com
+chinauncensored.tv
 chinaway.org
 chinaworker.info
 chinaxchina.com
@@ -959,6 +965,7 @@ civiliangunner.com
 civilmedia.tw
 civisec.org
 civitai.com
+cixiaoya.club
 ck101.com
 clarionproject.org
 classicalguitarblog.net
@@ -1235,6 +1242,7 @@ db.tt
 dbgjd.com
 dcard.tw
 dcmilitary.com
+ddex.io
 ddhw.info
 ddns.info
 ddns.mobi
@@ -1248,6 +1256,7 @@ deadline.com
 deaftone.com
 debug.com
 deck.ly
+deck.new
 decodet.co
 deepai.org
 deepmind.com
@@ -1326,6 +1335,7 @@ dnset.com
 dnsrd.com
 dnssec.net
 dnvod.tv
+doc.new
 docker.com
 docs.new
 doctorvoice.org
@@ -1547,6 +1557,7 @@ eulam.com
 eurekavpt.com
 euronews.com
 europa.eu
+everipedia.org
 evozi.com
 evschool.net
 exblog.jp
@@ -1754,6 +1765,8 @@ foolsmountain.com
 fooooo.com
 foreignaffairs.com
 foreignpolicy.com
+form.new
+forms.new
 forum4hk.com
 forums-free.com
 fotile.me
@@ -1857,6 +1870,7 @@ ftp1.biz
 ftpserver.biz
 ftx.com
 fucd.com
+fuchsia.dev
 fuckcnnic.net
 fuckgfw.org
 fulione.com
@@ -2621,6 +2635,7 @@ internetdefenseleague.org
 internetfreedom.org
 internetpopculture.com
 inthenameofconfuciusmovie.com
+invidio.us
 inxian.com
 iownyour.biz
 iownyour.org
@@ -2796,6 +2811,7 @@ justhost.ru
 justicefortenzin.org
 justmysocks.net
 justmysocks1.net
+justmysockscn.com
 justpaste.it
 justtristan.com
 juyuange.org
@@ -3147,6 +3163,7 @@ mercari.jp
 mercatox.com
 mercdn.net
 mercyprophet.org
+mergersandinquisitions.com
 mergersandinquisitions.org
 meridian-trust.org
 meripet.biz
@@ -3485,6 +3502,7 @@ nic.gov
 nicovideo.jp
 nighost.org
 nightlife141.com
+nightswatch.top
 nikkei.com
 ninecommentaries.com
 ning.com
@@ -3633,6 +3651,7 @@ onapp.com
 onedrive.com
 onedumb.com
 onejav.com
+onevps.com
 onion.city
 onion.ly
 onlinecha.com
@@ -3728,6 +3747,7 @@ paldengyal.com
 paljorpublications.com
 palmislife.com
 paltalk.com
+pandafan.pub
 pandapow.co
 pandapow.net
 pandavpn-jp.com
@@ -3820,15 +3840,6 @@ ping.fm
 pinimg.com
 pinkrod.com
 pinoy-n.com
-pinterest.at
-pinterest.ca
-pinterest.com
-pinterest.de
-pinterest.dk
-pinterest.fr
-pinterest.jp
-pinterest.nl
-pinterest.se
 pipii.tv
 piposay.com
 piraattilahti.org
@@ -3924,6 +3935,7 @@ ppy.sh
 prayforchina.net
 premeforwindows7.com
 premproxy.com
+presentation.new
 presentationzen.com
 presidentlee.tw
 prestige-av.com
@@ -3955,6 +3967,7 @@ proxydns.com
 proxypy.net
 proxyroad.com
 proxytunnel.net
+proxz.com
 proyectoclubes.com
 prozz.net
 psblog.name
@@ -4005,6 +4018,7 @@ qiandao.today
 qianglie.com
 qiangwaikan.com
 qiangyou.org
+qianmo.tw
 qidian.ca
 qiwen.lu
 qixianglu.cn
@@ -4085,6 +4099,7 @@ redd.it
 reddit.com
 redditlist.com
 redditmedia.com
+redditspace.com
 redditstatic.com
 redhotlabs.com
 redtube.com
@@ -4278,6 +4293,7 @@ shadowsocks-r.com
 shadowsocks.asia
 shadowsocks.be
 shadowsocks.com
+shadowsocks.nu
 shadowsocks.org
 shadowsocks9.com
 shafaqna.com
@@ -4293,6 +4309,7 @@ sharpdaily.hk
 sharpdaily.tw
 shat-tibet.com
 shattered.io
+sheet.new
 sheets.new
 sheikyermami.com
 shellfire.de
@@ -4333,7 +4350,9 @@ signal.org
 sijihuisuo.club
 sijihuisuo.com
 silkbook.com
+silvergatebank.com
 simbolostwitter.com
+simplecd.me
 simpleproductivityblog.com
 simpleswap.io
 singfortibet.com
@@ -4355,11 +4374,13 @@ sipml5.org
 sis.xxx
 sis001.com
 sis001.us
+site.new
 site2unblock.com
 site90.net
 sitebro.tw
 sitekreator.com
 sitemaps.org
+sites.new
 six-degrees.io
 sixth.biz
 sjrt.org
@@ -4455,6 +4476,7 @@ soup.io
 soupofmedia.com
 sourceforge.net
 sourcewadio.com
+south-plus.net
 south-plus.org
 southmongolia.org
 sowiki.net
@@ -4480,6 +4502,7 @@ spoti.fi
 spotify.com
 spotifycdn.com
 spotifycdn.net
+spreadsheet.new
 spreadshirt.es
 spreaker.com
 spring4u.info
@@ -4501,6 +4524,7 @@ sspro.ml
 ssr.tools
 ssrshare.com
 ssrshare.us
+ssrtool.com
 sss.camp
 sstm.moe
 sstmlt.moe
@@ -4550,6 +4574,7 @@ stranabg.com
 straplessdildo.com
 streamable.com
 streamate.com
+streamguys1.com
 streamingthe.net
 streema.com
 strongvpn.com
@@ -4597,6 +4622,7 @@ switch1.jp
 switchvpn.net
 sydneytoday.com
 sylfoundation.org
+synapse.org
 syncback.com
 synergyse.com
 syosetu.com
@@ -4923,6 +4949,7 @@ torrentz.eu
 tortoisesvn.net
 torvpn.com
 totalvpn.com
+tou.tv
 toutiaoabc.com
 towngain.com
 toypark.in
@@ -5236,6 +5263,7 @@ vermonttibet.org
 vern.cc
 versavpn.com
 vevo.com
+vewas.net
 viber.com
 vica.info
 victimsofcommunism.org
@@ -5250,6 +5278,7 @@ videopress.com
 vidinfo.org
 vietdaikynguyen.com
 vijayatemple.org
+vilanet.me
 vilavpn.com
 vimeo.com
 vimperator.org
@@ -5401,6 +5430,7 @@ webpkgcache.com
 webrtc.org
 webrush.net
 webs-tv.net
+website.new
 websitepulse.com
 websnapr.com
 webwarper.net
