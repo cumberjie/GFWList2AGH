@@ -34993,6 +34993,7 @@ defaultts.tc.qq.com
 defcoding.com
 defectink.com
 define-arch.com
+defineabc.com
 deflw.com
 defoen.com
 defofy.com
@@ -52971,6 +52972,7 @@ hangzhouleihuai.51sole.com
 hangzhouluohu.com
 hangzhoumengfa.com
 hangzhouqisheng.com
+hangzhousports.com
 hangzhoutianqi114.com
 hangzhouyiyao.com
 hangzhouyq.com
@@ -69120,6 +69122,7 @@ kb.cc
 kb.chaoxing.com
 kb.com
 kb9.com
+kbao123.com
 kbccvwz.com
 kbcdn.com
 kbcmw.com
@@ -90815,6 +90818,7 @@ q7r9lgdq.v1d.szbdyd.com
 q7renzph.v1d.szbdyd.com
 q88b.net
 q88c.net
+q8jghk.com
 q8q7.com
 q8tdr2aj.v1d.szbdyd.com
 q8tdr2n3.v1d.szbdyd.com
@@ -94321,6 +94325,8 @@ qwbk.cc
 qwe.jzpxyd.com
 qweather.com
 qweather.net
+qwen.ai
+qwenlm.ai
 qweoc88123.top
 qwerhost.com
 qwfync.com
@@ -110526,6 +110532,7 @@ transfu.com
 transfun.net
 translatal.com
 translate.google.cn
+translate.googleapis.com
 translatego.net
 translation-dictionary.net
 translation.googleapis.com
@@ -131716,6 +131723,7 @@ ychxie.com
 ychxiex.com
 ycig.com
 ycigilink.com
+yciou.com
 ycis-bj.com
 yciyun.com
 ycjmgk.com
