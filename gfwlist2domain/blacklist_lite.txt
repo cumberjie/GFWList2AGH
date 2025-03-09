@@ -3326,6 +3326,7 @@ murmur.tw
 muscdn.com
 musicade.net
 musical.ly
+musixmatch.com
 muslimvideo.com
 muzi.com
 muzi.net
@@ -5112,6 +5113,7 @@ twitturly.com
 twitvid.com
 twitzap.com
 twiyia.com
+twkan.com
 twreporter.org
 twskype.com
 twstar.net
