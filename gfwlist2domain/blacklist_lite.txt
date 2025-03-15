@@ -60,7 +60,6 @@
 315lz.com
 32red.com
 36rain.com
-3a5a.com
 3arabtv.com
 3boys2girls.com
 3d-game.com
@@ -506,7 +505,6 @@ bfnn.org
 bfsh.hk
 bgme.me
 bgvpn.com
-bianlei.com
 biantailajiao.com
 biantailajiao.in
 biblesforamerica.org
@@ -1202,7 +1200,6 @@ dafoh.org
 daftporn.com
 dagelijksestandaard.nl
 daidostup.ru
-dailidaili.com
 dailymotion.com
 dailysabah.com
 dailyview.tw
@@ -1376,7 +1373,6 @@ doujincafe.com
 dowei.org
 dowjones.com
 dphk.org
-dpool.top
 dpr.info
 dragonex.io
 dragonsprings.org
@@ -1663,7 +1659,6 @@ fartit.com
 farwestchina.com
 fastestvpn.com
 fastgit.org
-fastgpt.run
 fastly.net
 fastpic.ru
 fastssh.com
@@ -2294,7 +2289,6 @@ hanime.tv
 hanminzu.org
 hanunyi.com
 hao.news
-happy-vpn.com
 haproxy.org
 hardsextube.com
 harunyahya.com
@@ -2312,7 +2306,6 @@ heartyit.com
 heavy-r.com
 hec.su
 hecaitou.net
-hechaji.com
 hegre-art.com
 helixstudios.net
 helloandroid.com
@@ -2442,7 +2435,6 @@ horrorporn.com
 hostloc.com
 hotair.com
 hotav.tv
-hotcoin.com
 hotels.cn
 hotgoo.com
 hotpornshow.com
@@ -2612,7 +2604,6 @@ imlive.co
 imlive.com
 immoral.jp
 impp.mn
-improd.works
 in-disguise.com
 in.com
 in99.org
@@ -2805,7 +2796,6 @@ jsdelivr.net
 jshell.net
 jtvnw.net
 jubushoushen.com
-juhuaren.com
 jukujo-club.com
 juliepost.com
 juliereyc.com
@@ -2998,7 +2988,6 @@ linkideo.com
 linksalpha.com
 linktr.ee
 linkuswell.com
-linpie.com
 linuxtoy.org
 lionsroar.com
 lipuman.com
@@ -3012,7 +3001,6 @@ litenews.hk
 lithium.com
 liu-xiaobo.org
 liudejun.com
-liuhanyu.com
 liujianshu.com
 liuxiaobo.net
 livecoin.net
@@ -3380,7 +3368,6 @@ mynetav.org
 mynumber.org
 myparagliding.com
 mypicture.info
-mypikpak.com
 mypop3.net
 mypop3.org
 mypopescu.com
@@ -3741,7 +3728,6 @@ oyax.com
 oyghan.com
 ozchinese.com
 ozvoice.org
-ozxw.com
 ozyoyo.com
 pachosting.com
 pacificpoker.com
@@ -3799,7 +3785,6 @@ pcanywhere.net
 pcgamestorrents.com
 pcij.org
 pcloud.com
-pdetails.com
 pdproxy.com
 peace.ca
 peacefire.org
@@ -4452,7 +4437,6 @@ softnology.biz
 softsmirror.cf
 softwarebychuck.com
 sogclub.com
-sogoo.org
 sogrady.me
 soh.tw
 sohcradio.com
@@ -4746,7 +4730,6 @@ textnow.me
 tfhub.dev
 tfiflve.com
 tg-me.com
-thaicn.com
 theatlantic.com
 theatrum-belli.com
 thebcomplex.com
@@ -4892,7 +4875,6 @@ tibettimes.net
 tibettruth.com
 tibetwrites.org
 tigervpn.com
-tik-tokapi.com
 tiktok.com
 tiktokcdn-us.com
 tiktokcdn.com
@@ -5031,7 +5013,6 @@ tuvpn.com
 tuzaijidi.com
 tv.com
 tv.google
-tvants.com
 tvb.com
 tvboxnow.com
 tvider.com
@@ -5210,7 +5191,6 @@ uraban.me
 urbandictionary.com
 urbansurvival.com
 url.tw
-urlborg.com
 urlparser.com
 us.to
 usacn.com
@@ -5227,7 +5207,6 @@ usocctn.com
 uspto.gov
 ustibetcommittee.org
 ustream.tv
-usus.cc
 utopianpal.com
 uu-gg.com
 uujiasu.com
@@ -5635,14 +5614,12 @@ xiaolan.me
 xiaoma.org
 xiaomi.eu
 xiaxiaoqiang.net
-xiezhua.com
 xihua.es
 xinbao.de
 xing.com
 xinhuanet.org
 xinjiangpolicefiles.org
 xinsheng.net
-xinshijue.com
 xinyubbs.net
 xiongpian.com
 xiuren.org
@@ -5672,7 +5649,6 @@ xsden.info
 xskywalker.com
 xskywalker.net
 xt.com
-xt.pub
 xtube.com
 xuchao.net
 xuchao.org
@@ -5680,7 +5656,6 @@ xuehua.us
 xuite.net
 xuzhiyong.net
 xvbelink.com
-xvideo.cc
 xvideos-cdn.com
 xvideos.com
 xvideos.es
@@ -5825,7 +5800,6 @@ zhuangbi.me
 zhuatieba.com
 zhuichaguoji.org
 zi.media
-zi5.me
 ziddu.com
 zillionk.com
 zim.vn
