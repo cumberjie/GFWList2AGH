@@ -339,6 +339,7 @@ aol.ca
 aol.com
 aolchannels.aol.com
 aolnews.com
+aomedia.org
 aomiwang.com
 ap.org
 apartmentratings.com
@@ -4635,7 +4636,7 @@ powerpointninja.com
 pp.ru
 ppy.sh
 prayforchina.net
-premeforwindows7.com
+prcleader.org
 premproxy.com
 presentation.new
 presentationzen.com
