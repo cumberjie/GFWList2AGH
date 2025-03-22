@@ -1033,7 +1033,6 @@ co.zm
 co.zw
 cobinhood.com
 cochina.co
-cochina.org
 code1984.com
 codeplex.com
 codeshare.io
@@ -1374,6 +1373,7 @@ doujincafe.com
 dowei.org
 dowjones.com
 dphk.org
+dpool.top
 dpr.info
 dragonex.io
 dragonsprings.org
@@ -1409,7 +1409,6 @@ duoweitimes.com
 duping.net
 duplicati.com
 dupola.com
-dupola.net
 dushi.ca
 duyaoss.com
 dvdpac.com
@@ -1464,7 +1463,6 @@ edgecastcdn.net
 edgesuite.net
 edicypages.com
 edmontonchina.cn
-edmontonservice.com
 edns.biz
 edoors.com
 edu.ci
@@ -2758,7 +2756,6 @@ jiangweiping.com
 jiaoyou8.com
 jichangtj.com
 jiehua.cz
-jiepang.com
 jifangge.com
 jigglegifs.com
 jigong1024.com
@@ -2829,7 +2826,6 @@ kaiyuan.de
 kakao.com
 kalachakralugano.org
 kangye.org
-kankan.today
 kannewyork.com
 kanshifang.com
 kantie.org
@@ -3439,7 +3435,6 @@ net.tr
 net.tw
 netalert.me
 netbig.com
-netbirds.com
 netcolony.com
 netfirms.com
 netflav.com
@@ -3672,7 +3667,6 @@ oopsforum.com
 openai.com
 openallweb.com
 opendemocracy.net
-opendn.xyz
 openervpn.in
 openid.net
 openleaks.org
@@ -3683,7 +3677,6 @@ opentech.fund
 openvpn.net
 openvpn.org
 openwebster.com
-opus-gaming.com
 or.id
 or.jp
 or.kr
@@ -4660,7 +4653,6 @@ taiwanonline.cc
 taiwantp.net
 taiwanus.net
 taiwanyes.com
-talk853.com
 talkboxapp.com
 talkcc.com
 talkonly.net
@@ -5248,7 +5240,6 @@ vcf-online.org
 vcfbuilder.org
 vegasred.com
 velkaepocha.sk
-venbbs.com
 venchina.com
 venetianmacao.com
 ventureswell.com
@@ -5368,7 +5359,6 @@ vtunnel.com
 vuku.cc
 vultryhw.com
 vzw.com
-w-pool.com
 w3.org
 waffle1999.com
 wahas.com
@@ -5685,7 +5675,6 @@ yande.re
 yandex.com
 yandex.net
 yandex.ru
-yanghengjun.com
 yangjianli.com
 yayabay.com
 ycombinator.com

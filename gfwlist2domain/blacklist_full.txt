@@ -1265,7 +1265,6 @@ co.zw
 coat.co.jp
 cobinhood.com
 cochina.co
-cochina.org
 code1984.com
 codeplex.com
 codeshare.io
@@ -1661,6 +1660,7 @@ download.aircrack-ng.org
 download.cnet.com
 download.fastgit.org
 dphk.org
+dpool.top
 dpp.org.tw
 dpr.info
 dragonex.io
@@ -1698,7 +1698,6 @@ duoweitimes.com
 duping.net
 duplicati.com
 dupola.com
-dupola.net
 dushi.ca
 duyaoss.com
 dvdpac.com
@@ -1763,7 +1762,6 @@ edgecastcdn.net
 edgesuite.net
 edicypages.com
 edmontonchina.cn
-edmontonservice.com
 edns.biz
 edoors.com
 edu.ci
@@ -3295,7 +3293,6 @@ jiangweiping.com
 jiaoyou8.com
 jichangtj.com
 jiehua.cz
-jiepang.com
 jifangge.com
 jigglegifs.com
 jigong1024.com
@@ -3379,7 +3376,6 @@ kakao.com
 kalachakralugano.org
 kanald.com.tr
 kangye.org
-kankan.today
 kannewyork.com
 kanshifang.com
 kantie.org
@@ -4072,7 +4068,6 @@ net.tr
 net.tw
 netalert.me
 netbig.com
-netbirds.com
 netcolony.com
 netfirms.com
 netflav.com
@@ -4352,7 +4347,6 @@ open.spotify.com
 openai.com
 openallweb.com
 opendemocracy.net
-opendn.xyz
 openervpn.in
 openid.net
 openleaks.org
@@ -4365,7 +4359,6 @@ openvpn.org
 openwebster.com
 openwrt.org.cn
 opml.radiotime.com
-opus-gaming.com
 or.id
 or.jp
 or.kr
@@ -5476,7 +5469,6 @@ taiwantt.org.tw
 taiwanus.net
 taiwanyes.com
 taiwanyes.ning.com
-talk853.com
 talkboxapp.com
 talkcc.com
 talkonly.net
@@ -6141,7 +6133,6 @@ vds.rightster.com
 vegas.williamhill.com
 vegasred.com
 velkaepocha.sk
-venbbs.com
 venchina.com
 venetianmacao.com
 ventureswell.com
@@ -6277,7 +6268,6 @@ vtunnel.com
 vuku.cc
 vultryhw.com
 vzw.com
-w-pool.com
 w.idaiwan.com
 w3.org
 waffle1999.com
@@ -6673,7 +6663,6 @@ yande.re
 yandex.com
 yandex.net
 yandex.ru
-yanghengjun.com
 yangjianli.com
 yasni.co.uk
 yasukuni.or.jp
