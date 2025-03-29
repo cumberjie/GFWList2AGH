@@ -16649,6 +16649,7 @@ apd-vodp2preport.teg.tencent-cloud.net
 apdcdn.com
 apdnews.com
 ape8.com
+apearth.com
 apecome.com
 apehorse.com
 apeiwan.com
@@ -22699,6 +22700,7 @@ bjsubway.com
 bjsuewin.com
 bjsunhouse.com
 bjsvp35.space
+bjsvp38.space
 bjswds.org
 bjsxdgzc.com
 bjsxt.com
@@ -41146,6 +41148,7 @@ dxp.baidu.com
 dxp.e.shifen.com
 dxpei.com
 dxpmedia.com
+dxqck.com
 dxqjg.com
 dxqyy.com
 dxr.com
@@ -48130,6 +48133,7 @@ gameresource.itop.qq.com.sched.p2.tdnsv6.com
 gamerhome.com
 gamerhome.net
 gamermake.com
+gamerplay67.space
 gamersky.com
 gamersky.net
 gamerstorm.com
@@ -59589,6 +59593,7 @@ hotlcd.com
 hotlinegames-jp.net
 hotlive8.vip
 hotnewx.com
+hotoneaudio.com
 hotoos.com
 hotozixun.com
 hotpatch.95516.com
@@ -66770,6 +66775,7 @@ ivywing.me
 iwala.net
 iwan.sogou.com
 iwan4399.com
+iwan78.com
 iwanbei.com
 iwanboy.com
 iwangding.com
@@ -77376,6 +77382,7 @@ lingxingcai.com
 lingxingkj.com
 lingxmall.com
 lingxunyun.com
+lingy.cc
 lingyi.org
 lingyihanhua.com
 lingyiitech.com
@@ -96953,6 +96960,7 @@ qihoo.net
 qihu.com
 qihu.org
 qihuangpuji.com
+qihuangshuyuan.com
 qihuangzhishu.com
 qihuapi.com
 qihucdn.com
@@ -97546,6 +97554,7 @@ qizhihaotian.com
 qizhong166.com
 qizhu18.com
 qizhuyun.com
+qizi.cc
 qizuang.com
 qizubang.com
 qj023.com
@@ -108397,6 +108406,7 @@ so.qss-lb.com
 so.sina.cn
 so.toutiao.com
 so.youku.com
+so03290koaq.com
 so126.com
 so147.com
 so666gslb.com
@@ -121297,6 +121307,7 @@ vippapi.com
 vippluspai.com
 vipqdd.com
 vipqlz.com
+vipreading.com
 vips100.com
 vipshop.com
 vipshopyao.com
@@ -132533,6 +132544,7 @@ xn--flw351e.com
 xn--glr604k.com
 xn--gmq00s1xfuvekuas68k.com
 xn--gmq238c5fy.com
+xn--gmqr38ag3ag6puy9a.com
 xn--gmqr9gdtrhuf56g.com
 xn--gtuu0v.com
 xn--h0tn34c.cc
@@ -133331,6 +133343,7 @@ xuexi637.com
 xuexi665.com
 xuexi683.com
 xuexi684.com
+xuexi707.com
 xuexi719.com
 xuexi725.com
 xuexi727.com
