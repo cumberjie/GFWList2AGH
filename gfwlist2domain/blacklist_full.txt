@@ -445,6 +445,7 @@ auctions.yahoo.co.jp
 audacy.com
 audionow.com
 auntology.fandom.com
+auth.openai.com
 authorizeddns.net
 authorizeddns.org
 authorizeddns.us
@@ -4341,6 +4342,7 @@ open.spotify.com
 openai.com
 openallweb.com
 opendemocracy.net
+opendesktop.org
 openervpn.in
 openid.net
 openleaks.org
