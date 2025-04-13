@@ -443,6 +443,7 @@ atnext.com
 atv-ps.amazon.com
 auctions.yahoo.co.jp
 audacy.com
+audiomack.com
 audionow.com
 auntology.fandom.com
 auth.openai.com
@@ -4915,6 +4916,7 @@ s1s1s1.com
 s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
 s3.amazonaws.com
+s3.eu-central-1.amazonaws.com
 s4miniarchive.com
 s8forum.com
 sa.com
