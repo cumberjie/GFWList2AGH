@@ -5383,6 +5383,7 @@
 361ser.com
 361sport.com
 361way.com
+361zhao.com
 362.cc
 36267.vip
 362728tdg.com
@@ -8104,6 +8105,7 @@
 537a.com
 537images1.com
 537images2.com
+537images20.com
 537images4.com
 537images5.com
 537images7.com
@@ -16111,6 +16113,7 @@ ajs17.com
 ajshort.gallerycdn.azure.cn
 ajtmy.com
 ajuhao.com
+ajutwatch.com
 ajwang.com
 ajweishequ.com
 ajxhgy.com
@@ -22021,6 +22024,7 @@ bccoder.com
 bccv.com
 bcd46ab7cee39f2f5c264ccb14f4d445.safeframe.googlesyndication.com
 bcdaren.com
+bcdnx.com
 bcdy.net
 bce-cdn.com
 bce-cdn.net
@@ -30156,6 +30160,7 @@ changwang.com
 changwankeji.com
 changx.com
 changxianchem.com
+changxiao.co
 changxiaow.com
 changxie.com
 changxing.baixing.com
@@ -35307,6 +35312,7 @@ cnvtech.com
 cnwa.com
 cnwaci.com
 cnwage.com
+cnwaishi.com
 cnwaking.com
 cnwansun.com
 cnwaternews.com
@@ -39287,6 +39293,7 @@ dabangong.com
 dabangp.com
 dabangq.com
 dabangsoft.com
+dabanke.com
 dabansuan.cn
 dabao123.com
 dabaoge.host
@@ -44641,6 +44648,7 @@ dspgo.com
 dspimg.adsame.com
 dspimg.dftoutiao.com
 dspmnt.autohome.com.cn
+dspmt.com
 dspmy.ge95.com
 dspunion.com
 dspwhy.com
@@ -46929,6 +46937,8 @@ ecspartner.com
 ecsponline.com
 ecsxs.com
 ectdno.com
+ectnno.com
+ectnno.org
 ectrip.com
 ecuc123.net
 ecukwai.com
@@ -52825,6 +52835,7 @@ fx-jgworks.com
 fx-plc.com
 fx120.net
 fx168api.com
+fx168news.com
 fx168vip.com
 fx2lh9m.cn
 fx3q.com
@@ -53533,6 +53544,7 @@ gamepf.com
 gamepingce.com
 gameplus-platform.cdn.bcebos.com
 gamept.com
+gamer520.net
 gamerboom.com
 gameres.com
 gameresource.itop.qq.com
@@ -54025,6 +54037,7 @@ gd-stats.jpush.cn
 gd-tianchen.com
 gd-wanxi.com
 gd-weisi.com
+gd-xrsd.com
 gd-yishuo.com
 gd.10086.cn
 gd.gsxt.gov.cn
@@ -55284,6 +55297,7 @@ ghost11.com
 ghost123.com
 ghost64.com
 ghostchina.com
+ghostoact.com
 ghostsf.com
 ghostwin7.net
 ghostwin7win8.com
@@ -60800,6 +60814,7 @@ gzfjwzhs.com
 gzfk01.com
 gzfodak.com
 gzforge.com
+gzfpa.net
 gzfqyy.com
 gzfrldz.com
 gzfsnet.com
@@ -65744,6 +65759,7 @@ hmbzfjt.com
 hmcdn.baidu.com
 hmchairs.com
 hmchina.com
+hmcl.net
 hmdcell.com
 hmdx.net
 hmecw.com
@@ -80014,6 +80030,7 @@ jtfengtou.com
 jtfulfillment.com
 jtg2g.com
 jtggame.com
+jtggb.com
 jtgloble.com
 jtgzfw.com
 jthailang.com
@@ -94315,6 +94332,7 @@ misshachina.com
 misshcl.com
 mission.dftoutiao.com
 mission.u.wps.cn
+missioncontrol-lgc.com
 missionhillschina.com
 missjia.net
 missku.com
@@ -97313,6 +97331,7 @@ naoda.net
 naoffer.com
 naokor.com
 naokr.com
+naominet.live
 naonaola.com
 naono.cc
 naosiling.com
@@ -108466,6 +108485,7 @@ qianye88.com
 qianyierp.com
 qianyikeji.com
 qianyinedu.com
+qianyingzhi.com
 qianyuangx.com
 qianyuanshijie.com
 qianyue999.com
@@ -111507,6 +111527,7 @@ qzjzyy002.com
 qzkangfu.com
 qzkcw.com
 qzkey.com
+qzkj.tech
 qzkjyy.com
 qzks.com
 qzktzc.com
@@ -113689,6 +113710,7 @@ rtyy.com
 ru.uwenku.com
 ru5sq.com
 ru9911.com
+rua93.online
 ruaimi.com
 ruan.cloud
 ruan8.com
@@ -118566,6 +118588,7 @@ shilincn.com
 shiliok.com
 shilipai.net
 shilitie.net
+shiliuai.com
 shiliupo.com
 shiltan.com
 shiluetl.com
@@ -129013,6 +129036,7 @@ tianyitop.com
 tianyiwangxiao.com
 tianyiwenkong.com
 tianyizhihui.com
+tianyon.com
 tianyongcheng.com
 tianyuan-c.com
 tianyuanfishing.com
@@ -134451,6 +134475,7 @@ uya04170okq.com
 uya04171okq.com
 uya04180okq.com
 uya04181okq.com
+uya04201okq.com
 uya100.com
 uyan.cc
 uyang.co
@@ -148860,7 +148885,6 @@ xt-luyou.com
 xt-rent.com
 xt-shipping.com
 xt-tattoo.com
-xt.pub
 xt12333.com
 xt2d.cn
 xt3yy.com
@@ -149206,6 +149230,7 @@ xuexi806.com
 xuexi807.com
 xuexi823.com
 xuexi824.com
+xuexi825.com
 xuexi826.com
 xuexi827.com
 xuexi828.com
@@ -157919,6 +157944,7 @@ youtx.com
 youuav.com
 youuvs.com
 youwanc.com
+youwanplay.com
 youwawa.com
 youwei-china.com
 youwei.com
@@ -164181,6 +164207,7 @@ zj93zp.com
 zj96596.com
 zjabank.com
 zjabhw.com
+zjabjc.com
 zjadgroup.com
 zjaf.net
 zjafl.com
@@ -164874,6 +164901,7 @@ zkteco.com
 zkteco.xin
 zktecoiot.com
 zktecosj.com
+zktest.com
 zktimecube.com
 zktools.net
 zktw.com
