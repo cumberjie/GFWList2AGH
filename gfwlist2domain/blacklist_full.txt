@@ -212,6 +212,7 @@ ae.hao123.com
 ae.org
 aei.org
 aenhancers.com
+aex.com
 af.mil
 afantibbs.com
 afr.com
@@ -616,6 +617,7 @@ betfair.com
 betternet.co
 bettervpn.com
 bettween.com
+betvictor.com
 bewww.net
 beyondfirewall.com
 bfnn.org
@@ -689,6 +691,7 @@ blog.excite.co.jp
 blog.expofutures.com
 blog.fizzik.com
 blog.foolsmountain.com
+blog.fuckgfw233.org
 blog.goo.ne.jp
 blog.google
 blog.istef.info
@@ -704,6 +707,7 @@ blog.reimu.net
 blog.sina.com.tw
 blog.sogoo.org
 blog.soylent.com
+blog.syx86.cn
 blog.syx86.com
 blog.taragana.com
 blog.tiney.com
@@ -871,8 +875,10 @@ brutaltgp.com
 bsky.app
 bsky.network
 bsky.social
+bt95.com
 btaia.com
 btbit.net
+btbtav.com
 btbtt.co
 btbtt.me
 btc.com
@@ -1131,6 +1137,7 @@ chinasocialdemocraticparty.com
 chinasoul.org
 chinasucks.net
 chinatopsex.com
+chinatown.com.au
 chinatweeps.com
 chinauncensored.tv
 chinaview.wordpress.com
@@ -1251,6 +1258,7 @@ cn.ibtimes.com
 cn.nytstyle.com
 cn.sandscotaicentral.com
 cn.shafaqna.com
+cn.streetvoice.com
 cn.theaustralian.com.au
 cn.uncyclopedia.wikia.com
 cn.uptodown.com
@@ -1267,6 +1275,7 @@ cnineu.com
 cnitter.com
 cnn.com
 cnnews.chosun.com
+cnpolitics.org
 cnproxy.com
 cnyes.com
 co.ao
@@ -1303,10 +1312,12 @@ coinbase.com
 coinbene.com
 coincarp.com
 coinegg.com
+coinex.com
 coingecko.com
 coingi.com
 coinmarketcap.com
 coinrail.co.kr
+cointiger.com
 cointobe.com
 coinut.com
 colacloud.net
@@ -1351,6 +1362,7 @@ com.ni
 com.np
 com.om
 com.pa
+com.pe
 com.pg
 com.pk
 com.pr
@@ -1754,6 +1766,7 @@ dynssl.com
 dynu.com
 dynu.net
 dynupdate.no-ip.com
+dysfz.cc
 dzze.com
 e-classical.com.tw
 e-gold.com
@@ -1799,6 +1812,7 @@ edu.hk
 edu.tw
 edubridge.com
 edupro.org
+edx-cdn.org
 eeas.europa.eu
 eesti.ee
 eevpn.com
@@ -1921,6 +1935,7 @@ expressvpn.com
 exrates.me
 extmatrix.com
 extremetube.com
+exx.com
 ey.gov.tw
 eyevio.jp
 eyny.com
@@ -2244,6 +2259,7 @@ fucd.com
 fuchsia.dev
 fuckcnnic.net
 fuckgfw.org
+fuckgfw233.org
 fulione.com
 fullerconsideration.com
 fullservicegame.com
@@ -2322,6 +2338,7 @@ gdaily.org
 gdbt.net
 gdzf.org
 geek-art.net
+geekerhome.com
 geekheart.info
 gekikame.com
 gelbooru.com
@@ -2406,6 +2423,7 @@ gluckman.com
 glype.com
 gmail.com
 gmgard.com
+gmhz.org
 gmiddle.com
 gmiddle.net
 gmll.org
@@ -2486,6 +2504,7 @@ google.ch
 google.ci
 google.cl
 google.cm
+google.cn
 google.co.ao
 google.co.bw
 google.co.ck
@@ -2701,6 +2720,7 @@ gr8name.biz
 gradconnection.com
 grammaly.com
 grandtrial.org
+grangorz.org
 graph.org
 graphis.ne.jp
 graphql.org
@@ -2715,6 +2735,7 @@ greatfirewallofchina.net
 greatfirewallofchina.org
 greatroc.org
 greatroc.tw
+greatzhonghua.org
 greenfieldbookstore.com.hk
 greenparty.org.tw
 greenpeace.com.tw
@@ -2738,11 +2759,13 @@ gtv.org
 gtv1.org
 gu-chu-sum.org
 guaguass.com
+guaguass.org
 guancha.org
 guaneryu.com
 guangming.com.my
 guangnianvpn.com
 guardster.com
+guishan.org
 gumroad.com
 gun-world.net
 gunsamerica.com
@@ -2812,6 +2835,7 @@ hellotxt.com
 hellouk.org
 help.linksalpha.com
 helpeachpeople.com
+helplinfen.com
 helpster.de
 helpuyghursnow.org
 helpzhuling.org
@@ -2836,6 +2860,7 @@ hi-on.org.tw
 hiccears.com
 hidden-advent.org
 hide.me
+hidecloud.com
 hidein.net
 hideipvpn.com
 hideman.net
@@ -2921,7 +2946,9 @@ hkreporter.loved.hk
 hku.hk
 hkupop.hku.hk
 hkusu.net
+hkvwet.com
 hkwcc.org.hk
+hkzone.org
 hmoegirl.com
 hmonghot.com
 hmv.co.jp
@@ -3006,6 +3033,7 @@ huaren.us
 huaren4us.com
 huashangnews.com
 huasing.org
+huaxia-news.com
 huaxiabao.org
 huaxin.ph
 huayuworld.org
@@ -3096,6 +3124,7 @@ idreamx.com
 idsam.com
 idv.tw
 ieasy5.com
+ied2k.net
 ienergy1.com
 iepl.us
 ifan.cz.cc
@@ -3321,6 +3350,7 @@ jiangweiping.com
 jiaoyou8.com
 jichangtj.com
 jiehua.cz
+jieshibaobao.com
 jifangge.com
 jigglegifs.com
 jigong1024.com
@@ -3429,6 +3459,7 @@ kendincos.net
 kenengba.com
 keontech.net
 kepard.com
+keso.cn
 kex.com
 keycdn.com
 khabdha.org
@@ -3509,6 +3540,7 @@ lamrim.com
 landofhope.tv
 lanterncn.cn
 lantosfoundation.org
+laod.cn
 laogai.org
 laogairesearch.org
 laomiu.com
@@ -3547,6 +3579,7 @@ lester850.info
 letou.com
 letscorp.net
 letsencrypt.org
+levyhsu.com
 lflink.com
 lflinkup.com
 lflinkup.net
@@ -3577,6 +3610,7 @@ lih.kg
 lihkg.com
 like.com
 lilaoshibushinilaoshi.com
+limiao.net
 line-apps.com
 line-scdn.net
 line.me
@@ -3645,6 +3679,7 @@ lotuslight.org.tw
 loved.hk
 lovetvshow.com
 lpsg.com
+lrfz.com
 lrip.org
 lsd.org.hk
 lsforum.net
@@ -3830,6 +3865,7 @@ milph.net
 milsurps.com
 mimiai.net
 mimivip.com
+mimivv.com
 mindrolling.org
 mingdemedia.org
 minghui-a.org
@@ -3877,6 +3913,7 @@ mixx.com
 mizzmona.com
 mjib.gov.tw
 mjlsh.usc.cuhk.edu.hk
+mk5000.com
 mlc.ai
 mlcool.com
 mlzs.work
@@ -4135,6 +4172,7 @@ news.mt.co.kr
 news.nationalgeographic.com
 news.omy.sg
 news.seehua.com
+news.sina.com.hk
 news.sina.com.tw
 news.sinchew.com.my
 news.singtao.ca
@@ -4319,6 +4357,7 @@ october-review.org
 oculus.com
 oculuscdn.com
 odysee.com
+oex.com
 offbeatchina.com
 officeoftibet.com
 ofile.org
@@ -4396,6 +4435,8 @@ openvpn.net
 openvpn.org
 openwebster.com
 openwrt.org.cn
+opera-mini.net
+opera.com
 opml.radiotime.com
 or.id
 or.jp
@@ -4403,6 +4444,8 @@ or.kr
 orchidbbs.com
 ordns.he.net
 org.au
+org.cn
+org.hk
 org.mx
 org.nz
 org.sg
@@ -4436,6 +4479,7 @@ over-blog.com
 overcast.fm
 overdaily.org
 overplay.net
+oversea.istarshine.com
 ovi.com
 ovpn.com
 ow.ly
@@ -4621,6 +4665,7 @@ polymarket.com
 polymer-project.org
 polymerhk.com
 poolbinance.com
+poolin.com
 popai.pro
 popo.tw
 popvote.hk
@@ -4761,6 +4806,7 @@ qiangwaikan.com
 qiangyou.org
 qianmo.tw
 qidian.ca
+qienkuen.org
 qiwen.lu
 qixianglu.cn
 qkshare.com
@@ -4781,6 +4827,7 @@ quora.com
 quoracdn.net
 quran.com
 quranexplorer.com
+qusi8.net
 qvodzy.org
 qx.net
 qxbbs.org
@@ -4832,6 +4879,7 @@ rd.com
 rdio.com
 reabble.com
 read01.com
+read100.com
 readingtimes.com.tw
 readmoo.com
 readydown.com
@@ -4980,6 +5028,7 @@ sakya.org
 salvation.org.hk
 samair.ru
 sambhota.org
+sandscotaicentral.com
 sankakucomplex.com
 sankei.com
 sanmin.com.tw
@@ -5151,6 +5200,7 @@ silkbook.com
 silvergatebank.com
 simbolostwitter.com
 simplecd.me
+simplecd.org
 simpleproductivityblog.com
 simpleswap.io
 sinchew.com.my
@@ -5305,6 +5355,7 @@ spaces.hightail.com
 spankbang.com
 spankingtube.com
 spankwire.com
+sparkpool.com
 spatial.io
 spb.com
 speakerdeck.com
@@ -5413,6 +5464,8 @@ streamate.com
 streamguys1.com
 streamingthe.net
 streema.com
+streetvoice.com
+strikingly.com
 strongvpn.com
 strongwindpress.com
 studentsforafreetibet.org
@@ -5471,6 +5524,7 @@ synergyse.com
 syosetu.com
 sysresccd.org
 sytes.net
+syx86.cn
 syx86.com
 szbbs.net
 szetowah.org.hk
@@ -5566,6 +5620,7 @@ tdm.com.mo
 teachparentstech.org
 teamamericany.com
 tech2.in.com
+technews.tw
 techspot.com
 techviz.net
 teck.in
@@ -5817,6 +5872,7 @@ toonel.net
 top.tv
 top10vpn.com
 top81.ws
+topbtc.com
 topic.youthwant.com.tw
 topnews.in
 toppornsites.com
@@ -5851,6 +5907,7 @@ tparents.org
 tpi.org.tw
 tracfone.com
 tradingview.com
+trans.wenweipo.com
 translate.goog
 transparency.org
 treemall.com.tw
@@ -5931,6 +5988,7 @@ tw-npo.org
 tw.gigacircle.com
 tw.hao123.com
 tw.jiepang.com
+tw.streetvoice.com
 tw.tomonews.net
 tw.voa.mobi
 tw01.org
@@ -6143,6 +6201,7 @@ ustream.tv
 utopianpal.com
 uu-gg.com
 uujiasu.com
+uukanshu.com
 uupdump.net
 uupool.cn
 uvwxyz.xyz
@@ -6193,6 +6252,7 @@ verizon.net
 vermonttibet.org
 vern.cc
 versavpn.com
+verybs.com
 vevo.com
 vewas.net
 vft.com.tw
@@ -6242,6 +6302,7 @@ vlog.xuite.net
 vmixcore.com
 vmpsoft.com
 vn.hao123.com
+vnet.link
 voa-11.akacast.akamaistream.net
 voa.mobi
 voacambodia.com
@@ -6314,6 +6375,7 @@ vrchat.com
 vrmtr.com
 vrporn.com
 vrsmash.com
+vs.com
 vtunnel.com
 vuku.cc
 vultryhw.com
@@ -6624,11 +6686,14 @@ xfm.pp.ru
 xfxssr.me
 xgmyd.com
 xhamster.com
+xianba.net
 xianchawang.net
 xianjian.tw
 xianqiao.net
 xiaobaiwu.com
+xiaochuncnjp.com
 xiaod.in
+xiaohexie.com
 xiaolan.me
 xiaoma.org
 xiaomi.eu
@@ -6732,6 +6797,7 @@ yespornplease.com
 yeyeclub.com
 ygto.com
 yhcw.net
+yibada.com
 yibaochina.com
 yidio.com
 yigeni.com
@@ -6796,6 +6862,7 @@ ywpw.com
 yx51.net
 yyii.org
 yyjlymb.xyz
+yysub.net
 yzzk.com
 z-lib.gd
 z-lib.gs
@@ -6821,6 +6888,7 @@ zenmate.com.ru
 zerohedge.com
 zeronet.io
 zeutch.com
+zfreet.com
 zgsddh.com
 zgzcjj.net
 zh-hans.cfsh99.com
@@ -6852,6 +6920,7 @@ zhongzidi.com
 zhoushuguang.com
 zhreader.com
 zhuangbi.me
+zhuanxing.cn
 zhuatieba.com
 zhuichaguoji.org
 zi.media
