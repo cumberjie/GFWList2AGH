@@ -34,16 +34,6 @@
 1dumb.com
 1e100.net
 1eew.com
-1lib.cloud
-1lib.cz
-1lib.domains
-1lib.education
-1lib.eu
-1lib.limited
-1lib.pl
-1lib.sk
-1lib.to
-1lib.tw
 1mobile.com
 1mobile.tw
 1point3acres.com
@@ -62,7 +52,6 @@
 24hrs.ca
 24smile.org
 25u.com
-2lib.org
 2lipstube.com
 2shared.com
 2waky.com
@@ -74,7 +63,6 @@
 3arabtv.com
 3boys2girls.com
 3d-game.com
-3lib.net
 3proxy.ru
 3ren.ca
 3tui.net
@@ -125,7 +113,6 @@
 85st.com
 881903.com
 888.com
-8888.google
 888poker.com
 89-64.org
 8964museum.com
@@ -360,7 +347,6 @@ arena.taipei
 arethusa.su
 arlingtoncemetery.mil
 army.mil
-art1lib.com
 art4tibet1998.org
 arte.tv
 artofpeacefoundation.org
@@ -393,7 +379,6 @@ atlanta168.com
 atlaspost.com
 atnext.com
 audacy.com
-audiomack.com
 audionow.com
 authorizeddns.net
 authorizeddns.org
@@ -426,11 +411,7 @@ azerimix.com
 azirevpn.com
 azubu.tv
 azurewebsites.net
-b-ok.africa
-b-ok.asia
 b-ok.cc
-b-ok.global
-b-ok.org
 b0ne.com
 baby-kingdom.com
 babylonbee.com
@@ -663,17 +644,8 @@ bonbonsex.com
 bonfoundation.org
 bongacams.com
 boobstagram.com
-book4you.org
 bookdepository.com
 bookepub.com
-bookfi.net
-booksc.eu
-booksc.me
-booksc.org
-booksc.xyz
-bookshome.info
-bookshome.net
-bookshome.world
 boomssr.com
 bootstrapcdn.com
 borgenmagazine.com
@@ -1067,7 +1039,6 @@ cofacts.tw
 coin2co.in
 coinbase.com
 coinbene.com
-coincarp.com
 coinegg.com
 coingecko.com
 coingi.com
@@ -1134,7 +1105,6 @@ com.vc
 com.vn
 comedycentral.com
 comefromchina.com
-comffvpn.com
 comic-mega.me
 comico.tw
 commandarms.com
@@ -1281,7 +1251,6 @@ ddns.name
 ddns.net
 ddns.us
 de-sci.org
-de1lib.org
 deadhouse.org
 deadline.com
 deaftone.com
@@ -1670,7 +1639,6 @@ fangong.org
 fangongheike.com
 fanhaodang.com
 fanhaolou.com
-fani.com
 fanqiang.network
 fanqiang.tk
 fanqiangdang.com
@@ -1692,7 +1660,8 @@ fastpic.ru
 fastssh.com
 faststone.org
 fatbtc.com
-favcomic.com
+favotter.net
+favstar.fm
 fawanghuihui.org
 faydao.com
 faz.net
@@ -1703,10 +1672,15 @@ fbaddins.com
 fbcdn.net
 fbsbx.com
 fbworkmail.com
+fc2.com
+fc2blog.net
+fc2china.com
 fc2cn.com
 fc2web.com
+fdbox.com
 fdc64.de
 fdc64.org
+fdc89.jp
 feedburner.com
 feeder.co
 feedx.net
@@ -1721,6 +1695,8 @@ fengzhenghu.com
 fengzhenghu.net
 fevernet.com
 ff.im
+fffff.at
+fflick.com
 ffvpn.com
 fgmtv.net
 fgmtv.org
@@ -1968,7 +1944,6 @@ geek-art.net
 geekheart.info
 gekikame.com
 gelbooru.com
-gemini.com
 generated.photos
 genius.com
 geocities.com
@@ -2051,7 +2026,6 @@ gmodules.com
 gmx.net
 gnews.org
 go-pki.com
-go-to-library.sk
 go-to-zlibrary.se
 go.jp
 go141.com
@@ -2236,6 +2210,7 @@ gospelherald.com
 got-game.org
 gotdns.ch
 gotgeeks.com
+gotquestions.org
 gotrusted.com
 gotw.ca
 gov.taipei
@@ -2294,7 +2269,6 @@ gyatsostudio.com
 gzm.tv
 gzone-anime.info
 h-china.org
-h-ciyuan.com
 h-moe.com
 h1n1china.org
 h528.com
@@ -2390,7 +2364,6 @@ hizbuttahrir.org
 hjclub.info
 hk-pub.com
 hk01.com
-hk1lib.org
 hk32168.com
 hkacg.com
 hkacg.net
@@ -2542,7 +2515,6 @@ hxwq.org
 hybrid-analysis.com
 hyperrate.com
 hypothes.is
-hysteria.network
 i-cable.com
 i-scmp.com
 i1.hk
@@ -2577,6 +2549,7 @@ idemocracy.asia
 identi.ca
 idiomconnection.com
 idlcoyote.com
+idope.se
 idouga.com
 idreamx.com
 idsam.com
@@ -2712,7 +2685,6 @@ isunaffairs.com
 isuntv.com
 isupportuyghurs.org
 itaboo.info
-italian-books.sk
 italiatibet.org
 itasoftware.com
 itemdb.com
@@ -2995,9 +2967,6 @@ liaowangxizang.net
 libertysculpturepark.com
 libraryinformationtechnology.com
 libredd.it
-libsolutions.app
-libsolutions.domains
-libsolutions.net
 lifemiles.com
 lighti.me
 lightnovel.cn
@@ -3086,7 +3055,6 @@ lzjscript.com
 lzmtnews.org
 m-team.cc
 m.me
-ma1lib.org
 macgamestore.com
 macrovpn.com
 mad-ar.ch
@@ -3120,7 +3088,6 @@ manicur4ik.ru
 mansion.com
 mansionpoker.com
 manta.com
-manwa.me
 manyvoices.news
 maplew.com
 marc.info
@@ -3553,6 +3520,7 @@ no-ip.org
 nobel.se
 nobelprize.org
 nobodycanstop.us
+nodeloc.com
 nodeseek.com
 nodesnoop.com
 nofile.io
@@ -3677,7 +3645,6 @@ omy.sg
 on.cc
 on2.com
 onapp.com
-one.one
 onedrive.com
 onedumb.com
 onejav.com
@@ -3701,7 +3668,6 @@ oopsforum.com
 openai.com
 openallweb.com
 opendemocracy.net
-opendesktop.org
 openervpn.in
 openid.net
 openleaks.org
@@ -4229,7 +4195,6 @@ safechat.com
 safeguarddefenders.com
 safervpn.com
 safety.google
-sagernet.org
 saintyculture.com
 saiq.me
 sakuralive.com
@@ -4316,7 +4281,6 @@ sfileydy.com
 sfshibao.com
 sftindia.org
 sftuk.org
-sg1lib.org
 shadeyouvpn.com
 shadow.ma
 shadowsky.xyz
@@ -4387,11 +4351,7 @@ simplecd.me
 simpleproductivityblog.com
 simpleswap.io
 singfortibet.com
-singlelogin.app
-singlelogin.me
-singlelogin.re
 singlelogin.se
-singlelogin.site
 singtao.ca
 singtao.com
 singtaousa.com
@@ -4498,7 +4458,6 @@ sos.org
 sosad.fun
 sosreader.com
 sostibet.org
-sotwe.com
 sou-tong.org
 soubory.com
 soul-plus.net
@@ -4555,7 +4514,6 @@ ssglobal.co
 ssglobal.me
 ssh91.com
 ssl443.org
-ssm.fun
 sspanel.net
 sspro.ml
 ssr.tools
@@ -4619,6 +4577,7 @@ strongwindpress.com
 studentsforafreetibet.org
 stumbleupon.com
 stupidvideos.com
+subhd.tv
 substack.com
 successfn.com
 sueddeutsche.de
@@ -4818,8 +4777,8 @@ thisav.com
 thlib.org
 thomasbernhard.org
 thongdreams.com
-thotsbay.tv
 threadreaderapp.com
+threads.com
 threads.net
 threatchaos.com
 throughnightsfire.com
@@ -5555,6 +5514,7 @@ wiredpen.com
 wireguard.com
 wisdompubs.org
 wisevid.com
+wistia.com
 withgoogle.com
 withyoutube.com
 witnessleeteaching.com
@@ -5794,13 +5754,8 @@ yx51.net
 yyii.org
 yyjlymb.xyz
 yzzk.com
-z-lib.gd
-z-lib.gs
 z-lib.io
 z-lib.org
-z-lib.ps
-z-library.se
-z-library.sk
 zacebook.com
 zalmos.com
 zamimg.com
@@ -5848,9 +5803,6 @@ ziporn.com
 zippyshare.com
 zkaip.com
 zkiz.com
-zlib.life
-zlibcdn.com
-zlibcdn2.com
 zmw.cn
 zodgame.us
 zoho.com
