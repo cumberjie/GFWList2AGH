@@ -1038,7 +1038,6 @@ chaos.social
 chapm25.com
 character.ai
 chat.lmsys.org
-chat.openai.com
 chatgpt.com
 chatnook.com
 chaturbate.com
@@ -1578,6 +1577,7 @@ discuss4u.com
 dish.com
 disk.yandex.com
 disk.yandex.ru
+disneyplus.com
 disp.cc
 disqus.com
 dit-inc.us
@@ -1975,6 +1975,7 @@ faproxy.com
 faqserv.com
 fartit.com
 farwestchina.com
+fast.com
 fast.wistia.com
 fastestvpn.com
 fastgit.org
@@ -2753,6 +2754,7 @@ hakkatv.org.tw
 halktv.com.tr
 handcraftedsoftware.org
 hanime.tv
+hanime1.me
 hanminzu.org
 hanunyi.com
 hao.news
@@ -3830,6 +3832,7 @@ mirror.xyz
 mirrorbooks.com
 mirrormedia.mg
 missav.com
+missav.ws
 mist.vip
 mit.edu
 mitao.com.tw
@@ -4345,7 +4348,6 @@ ontrac.com
 oopsforum.com
 open.com.hk
 open.firstory.me
-open.spotify.com
 openai.com
 openallweb.com
 opendemocracy.net
@@ -5114,6 +5116,7 @@ simbolostwitter.com
 simplecd.me
 simpleproductivityblog.com
 simpleswap.io
+simplex.chat
 sinchew.com.my
 singaporepools.com.sg
 singfortibet.com
@@ -5531,6 +5534,7 @@ teeniefuck.net
 teensinasia.com
 tehrantimes.com
 telecomspace.com
+telega.one
 telegra.ph
 telegram-cdn.org
 telegram.dog
@@ -5540,6 +5544,7 @@ telegram.space
 telegramdownload.com
 telegraph.co.uk
 telesco.pe
+tellapart.com
 tellme.pw
 tenacy.com
 tenor.com
@@ -5553,6 +5558,7 @@ tfc-taiwan.org.tw
 tfhub.dev
 tfiflve.com
 tg-me.com
+tg.dev
 th.hao123.com
 thb.gov.tw
 theatlantic.com
@@ -5987,6 +5993,7 @@ twtrland.com
 twttr.com
 twurl.nl
 twyac.org
+tx.me
 txxx.com
 tycool.com
 typekit.net
@@ -6816,6 +6823,7 @@ zkiz.com
 zmedia.com.tw
 zmw.cn
 zodgame.us
+zodgame.xyz
 zoho.com
 zomobo.net
 zonaeuropa.com

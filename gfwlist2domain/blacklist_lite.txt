@@ -1303,6 +1303,7 @@ discordapp.com
 discordapp.net
 discuss4u.com
 dish.com
+disneyplus.com
 disp.cc
 disqus.com
 dit-inc.us
@@ -1653,6 +1654,7 @@ faproxy.com
 faqserv.com
 fartit.com
 farwestchina.com
+fast.com
 fastestvpn.com
 fastgit.org
 fastly.net
@@ -2283,6 +2285,7 @@ haijiao.com
 haiwaikan.com
 handcraftedsoftware.org
 hanime.tv
+hanime1.me
 hanminzu.org
 hanunyi.com
 hao.news
@@ -3227,6 +3230,7 @@ mirror.xyz
 mirrorbooks.com
 mirrormedia.mg
 missav.com
+missav.ws
 mist.vip
 mit.edu
 mitbbs.com
@@ -4350,6 +4354,7 @@ simbolostwitter.com
 simplecd.me
 simpleproductivityblog.com
 simpleswap.io
+simplex.chat
 singfortibet.com
 singlelogin.se
 singtao.ca
@@ -4707,6 +4712,7 @@ teeniefuck.net
 teensinasia.com
 tehrantimes.com
 telecomspace.com
+telega.one
 telegra.ph
 telegram-cdn.org
 telegram.dog
@@ -4715,6 +4721,7 @@ telegram.org
 telegram.space
 telegramdownload.com
 telesco.pe
+tellapart.com
 tellme.pw
 tenacy.com
 tenor.com
@@ -4727,6 +4734,7 @@ textnow.me
 tfhub.dev
 tfiflve.com
 tg-me.com
+tg.dev
 theatlantic.com
 theatrum-belli.com
 thebcomplex.com
@@ -5112,6 +5120,7 @@ twtrland.com
 twttr.com
 twurl.nl
 twyac.org
+tx.me
 txxx.com
 tycool.com
 typekit.net
@@ -5805,6 +5814,7 @@ zkaip.com
 zkiz.com
 zmw.cn
 zodgame.us
+zodgame.xyz
 zoho.com
 zomobo.net
 zonaeuropa.com
