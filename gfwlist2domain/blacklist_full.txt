@@ -5212,6 +5212,7 @@ softsmirror.cf
 softwarebychuck.com
 softwaredownload.gitbooks.io
 sogclub.com
+sogoo.org
 sogrady.me
 soh.tw
 sohcradio.com
@@ -6080,6 +6081,7 @@ urbandictionary.com
 urbansurvival.com
 urchin.com
 url.tw
+urlborg.com
 urlparser.com
 us.to
 usacn.com
