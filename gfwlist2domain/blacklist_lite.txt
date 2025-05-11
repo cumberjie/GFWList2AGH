@@ -6,6 +6,7 @@
 10beasts.net
 10conditionsoflove.com
 10musume.com
+111666.best
 123rf.com
 12bet.com
 12vpn.com
@@ -34,6 +35,7 @@
 1dumb.com
 1e100.net
 1eew.com
+1lib.sk
 1mobile.com
 1mobile.tw
 1point3acres.com
@@ -184,7 +186,6 @@ agoogleaday.com
 agro.hk
 ai-kan.net
 ai-wen.net
-ai.google
 aiosearch.com
 aiph.net
 airconsole.com
@@ -1338,6 +1339,7 @@ dnssec.net
 dnvod.tv
 doc.new
 docker.com
+docker.io
 docs.new
 doctorvoice.org
 documentingreality.com
@@ -2025,6 +2027,7 @@ gmiddle.com
 gmiddle.net
 gmll.org
 gmodules.com
+gmp4.com
 gmx.net
 gnews.org
 go-pki.com
@@ -3649,6 +3652,7 @@ omy.sg
 on.cc
 on2.com
 onapp.com
+one.one
 onedrive.com
 onedumb.com
 onejav.com
@@ -3853,6 +3857,7 @@ pkqjiasu.com
 pkuanvil.com
 placemix.com
 play-asia.com
+play.google
 playboy.com
 playboyplus.com
 player.fm
@@ -3989,6 +3994,7 @@ punyu.com
 pure18.com
 pureapk.com
 pureconcepts.net
+puredns.org
 pureinsight.org
 purepdf.com
 purevpn.com
@@ -4021,6 +4027,7 @@ qidian.ca
 qiwen.lu
 qixianglu.cn
 qkshare.com
+qmp4.com
 qmzdd.com
 qoos.com
 qpoe.com
@@ -4174,6 +4181,7 @@ rtycminnesota.org
 ruanyifeng.com
 rukor.org
 rule34.xxx
+rule34video.com
 rumble.com
 runbtx.com
 rushbee.com
@@ -4914,6 +4922,7 @@ tnaflix.com
 tngrnow.com
 tngrnow.net
 tnp.org
+tnt-ea.com
 to-porno.com
 togetter.com
 toh.info
@@ -5765,8 +5774,13 @@ yx51.net
 yyii.org
 yyjlymb.xyz
 yzzk.com
+z-lib.fm
+z-lib.fo
+z-lib.gd
+z-lib.gl
 z-lib.io
 z-lib.org
+z-library.sk
 zacebook.com
 zalmos.com
 zamimg.com
