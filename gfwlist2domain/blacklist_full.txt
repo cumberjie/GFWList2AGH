@@ -211,6 +211,7 @@ agro.hk
 ai-kan.net
 ai-wen.net
 ai.binwang.me
+ai.google
 aiosearch.com
 aiph.net
 airconsole.com
@@ -2936,6 +2937,7 @@ horrorporn.com
 hostloc.com
 hotair.com
 hotav.tv
+hotcool.tw
 hotels.cn
 hotfrog.com.tw
 hotgoo.com
@@ -4161,6 +4163,7 @@ nicovideo.jp
 nighost.org
 nightlife141.com
 nightswatch.top
+nikke.hotcool.tw
 nikkei.com
 ninecommentaries.com
 ning.com
@@ -4197,6 +4200,7 @@ nordstromimage.com
 nordstromrack.com
 nordvpn.com
 nos.nl
+notebooklm.google
 notepad-plus-plus.org
 nottinghampost.com
 novelasia.com
@@ -4357,6 +4361,7 @@ open.firstory.me
 openai.com
 openallweb.com
 opendemocracy.net
+opendn.xyz
 openervpn.in
 openid.net
 openleaks.org
@@ -6116,6 +6121,7 @@ usocctn.com
 uspto.gov
 ustibetcommittee.org
 ustream.tv
+usus.cc
 utopianpal.com
 uu-gg.com
 uujiasu.com
