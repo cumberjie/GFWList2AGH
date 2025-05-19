@@ -1716,9 +1716,12 @@
 115care.com
 115cdn.com
 115cdn.net
+115cloud.com
+115cloud.net
 115ecaefdd11e285d5c9107539f9cece.dlied1.cdntips.net
 115img.com
 115jk.com
+115meta.com
 115seo.com
 115vod.com
 115zb.com
@@ -36602,6 +36605,7 @@ copl.com.hk
 copotile.com
 copperalliance.asia
 copperhome.net
+copy-manga.com
 copycat.gitee.com
 copyedu.com
 copyfuture.com
@@ -38550,6 +38554,7 @@ ctripbuy.hk
 ctripc.com
 ctripcorp.com
 ctripgslb.com
+ctripgslb.net
 ctripins.com
 ctripqa.com
 ctripteam.com
@@ -49044,11 +49049,13 @@ esound.vip
 esouou.com
 esoyu.com
 esp-12f.xyz
+esp8266.com
 espeedpost.com
 espier.mobi
 esplus.club
 espnlol.com
 esports-cdn.namitiyu.com
+espressif.com
 esr.com
 ess.leju.com
 essaystar.com
@@ -68123,6 +68130,7 @@ hqchip.com
 hqcqz2.cn
 hqcr.com
 hqdlsn.com
+hqdoc.com
 hqdoor.com
 hqengroup.com
 hqepay.com
@@ -74425,6 +74433,7 @@ inferoey.com
 infertilitybridge.com
 infimotion.com
 infineon-autoeco.com
+infineon.com
 infini-ai.com
 infinisign.com
 infinitescript.com
@@ -74969,6 +74978,7 @@ iotku.com
 iotmag.com
 iotmore.com
 iotpai.com
+iotronic.tech
 iotrouter.com
 iots.vip
 iotsafe.net
@@ -78268,6 +78278,7 @@ jike.city
 jike.com
 jike.info
 jike800.com
+jikecdn.com
 jikedaohang.com
 jikedata.com
 jikefan.com
@@ -79568,6 +79579,8 @@ jlc-gw.com
 jlc-jh.com
 jlc-layout.com
 jlc-pcb.com
+jlc-smt.com
+jlc-zh.com
 jlc.com
 jlc001.com
 jlcar.net
@@ -92923,7 +92936,9 @@ manfen5.com
 manfred-auto.com
 manfrottoclub.com
 manga.bilibili.com
+mangacopy.com
 mangafuna.xyz
+mangafunb.fun
 mangake.com
 manganesenanhai.com
 mangege.com
@@ -99301,6 +99316,8 @@ neolee.com
 neolix.net
 neomodulus.com
 neoremind.com
+neoscholar.com
+neoschool.com
 neosey.com
 neoyon.com
 nep-logistics.com
@@ -118423,6 +118440,7 @@ seeds1-darwin.xycdn.com
 seeds2-darwin.xycdn.com
 seeds3-darwin.xycdn.com
 seedsufe.com
+seeed.cc
 seegif.com
 seehealth.net
 seehu.net
@@ -130564,6 +130582,7 @@ tgnet.com
 tgovcloud.com
 tgp.ied-tqos-s.qq.com
 tgphpic-70080.picnjc.qpic.cn
+tgprocs.net
 tgr365.com
 tgscp.mainconn.gamesafe.qq.com
 tgshiguan.com
@@ -130888,6 +130907,7 @@ thztv.net
 thzu.cc
 ti-node.com
 ti-solar.com
+ti.com
 ti.oppo.com
 ti.qq.com
 ti0s.com

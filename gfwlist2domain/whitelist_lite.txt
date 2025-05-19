@@ -1510,8 +1510,11 @@
 115care.com
 115cdn.com
 115cdn.net
+115cloud.com
+115cloud.net
 115img.com
 115jk.com
+115meta.com
 115seo.com
 115vod.com
 115zb.com
@@ -11417,6 +11420,7 @@ aafanke.cc
 aafns.xyz
 aafxw.com
 aakss.com
+aakvtsad.shop
 aaltosemi.com
 aamev.com
 aamgame.com
@@ -29438,6 +29442,7 @@ copcsc.org
 copotile.com
 copperalliance.asia
 copperhome.net
+copy-manga.com
 copyedu.com
 copyfuture.com
 copyswisswatches.com
@@ -31106,6 +31111,7 @@ ctripbuy.hk
 ctripc.com
 ctripcorp.com
 ctripgslb.com
+ctripgslb.net
 ctripins.com
 ctripqa.com
 ctripteam.com
@@ -34956,6 +34962,7 @@ dncable.com
 dncheng.com
 dncvj.cn
 dnd2.icu
+dndc.cloud
 dndci.com
 dnettvbox.com
 dnfziliao.com
@@ -38834,10 +38841,12 @@ esound.vip
 esouou.com
 esoyu.com
 esp-12f.xyz
+esp8266.com
 espeedpost.com
 espier.mobi
 esplus.club
 espnlol.com
+espressif.com
 esr.com
 essaystar.com
 essbjs.com
@@ -39496,6 +39505,7 @@ f3322.org
 f3knp1j.xyz
 f4082.cn
 f41g.com
+f4h90.cyou
 f52o04oylrbmfw.com
 f537.com
 f5432.com
@@ -50949,6 +50959,7 @@ haiyang-group.com
 haiyang.net
 haiyaolaw.com
 haiyi701.com
+haiyiai.tech
 haiying168.com
 haiyingmt.com
 haiyingshuju.com
@@ -55815,6 +55826,7 @@ hqchip.com
 hqcqz2.cn
 hqcr.com
 hqdlsn.com
+hqdoc.com
 hqdoor.com
 hqengroup.com
 hqepay.com
@@ -60725,6 +60737,7 @@ inferoey.com
 infertilitybridge.com
 infimotion.com
 infineon-autoeco.com
+infineon.com
 infini-ai.com
 infinisign.com
 infinitescript.com
@@ -61089,6 +61102,7 @@ iotku.com
 iotmag.com
 iotmore.com
 iotpai.com
+iotronic.tech
 iotrouter.com
 iots.vip
 iotsafe.net
@@ -64052,6 +64066,7 @@ jike.city
 jike.com
 jike.info
 jike800.com
+jikecdn.com
 jikedaohang.com
 jikedata.com
 jikefan.com
@@ -65321,6 +65336,8 @@ jlc-gw.com
 jlc-jh.com
 jlc-layout.com
 jlc-pcb.com
+jlc-smt.com
+jlc-zh.com
 jlc.com
 jlc001.com
 jlcar.net
@@ -76702,7 +76719,9 @@ manfen.net
 manfen5.com
 manfred-auto.com
 manfrottoclub.com
+mangacopy.com
 mangafuna.xyz
+mangafunb.fun
 mangake.com
 manganesenanhai.com
 mangege.com
@@ -81860,6 +81879,8 @@ neolee.com
 neolix.net
 neomodulus.com
 neoremind.com
+neoscholar.com
+neoschool.com
 neosey.com
 neoyon.com
 nep-logistics.com
@@ -95738,6 +95759,7 @@ seedit.com
 seedland.cc
 seedlandss.com
 seedsufe.com
+seeed.cc
 seegif.com
 seehealth.net
 seehu.net
@@ -105692,6 +105714,7 @@ tgljw.com
 tglxh.com
 tgnet.com
 tgovcloud.com
+tgprocs.net
 tgr365.com
 tgshiguan.com
 tgslsst.com
@@ -105971,6 +105994,7 @@ thztv.net
 thzu.cc
 ti-node.com
 ti-solar.com
+ti.com
 ti0s.com
 ti4la.icu
 ti863.cn
@@ -133758,6 +133782,7 @@ zone139.com
 zoneben.com
 zoneidc.com
 zoneker.com
+zonelo.tech
 zonemore.com
 zonen-tech.com
 zonepp.com
