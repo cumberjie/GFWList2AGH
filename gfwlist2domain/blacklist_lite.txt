@@ -142,7 +142,6 @@ abclite.net
 abebooks.com
 ablwang.com
 aboluowang.com
-about.google
 about.me
 aboutamazon.com
 aboutgfw.com
@@ -186,7 +185,6 @@ agoogleaday.com
 agro.hk
 ai-kan.net
 ai-wen.net
-ai.google
 aiosearch.com
 aiph.net
 airconsole.com
@@ -563,7 +561,6 @@ blockedbyhk.com
 blockless.com
 blocktempo.com
 blog.de
-blog.google
 blog.jp
 blogblog.com
 blogcatalog.com
@@ -937,7 +934,6 @@ christusrex.org
 chrlawyers.hk
 chrome.com
 chromecast.com
-chromeenterprise.google
 chromeexperiments.com
 chromercise.com
 chromestatus.com
@@ -1072,7 +1068,6 @@ com.et
 com.fj
 com.gh
 com.gi
-com.google
 com.gt
 com.jm
 com.kh
@@ -1148,7 +1143,6 @@ crd-net.org
 creaders.net
 creadersnet.com
 creativelab5.com
-crisisresponse.google
 cristyli.com
 crocotube.com
 crossthewall.net
@@ -1272,7 +1266,6 @@ demosisto.hk
 denpasoft.com
 depositphotos.com
 desc.se
-design.google
 desipro.de
 dessci.com
 destroy-china.jp
@@ -1327,7 +1320,6 @@ dmhy.org
 dmm.com
 dns-dns.com
 dns-stuff.com
-dns.google
 dns04.com
 dns05.com
 dns1.us
@@ -1349,7 +1341,6 @@ dojin.com
 dok-forum.net
 dolc.de
 dollf.com
-domains.google
 donga.com
 dongtaiwang.com
 dongtaiwang.net
@@ -1503,7 +1494,6 @@ engagedaily.org
 englishforeveryone.org
 englishpen.org
 entermap.com
-environment.google
 epac.to
 episcopalchurch.org
 epochhk.com
@@ -1949,7 +1939,6 @@ geek-art.net
 geekheart.info
 gekikame.com
 gelbooru.com
-gemini.google
 generated.photos
 genius.com
 geocities.com
@@ -2247,7 +2236,6 @@ grindr.com
 grok.com
 grotty-monday.com
 ground.news
-grow.google
 gs-discuss.com
 gsearch.media
 gtricks.com
@@ -2956,7 +2944,6 @@ lemonde.fr
 lenwhite.com
 leorockwell.com
 lerosua.org
-lers.google
 lesoir.be
 lester850.info
 letou.com
@@ -3504,7 +3491,6 @@ ngensis.com
 ngodupdongchung.com
 nhentai.net
 nhk-ondemand.jp
-nic.google
 nic.gov
 nicovideo.jp
 nighost.org
@@ -3544,7 +3530,6 @@ nordstromimage.com
 nordstromrack.com
 nordvpn.com
 nos.nl
-notebooklm.google
 notepad-plus-plus.org
 nottinghampost.com
 novelasia.com
@@ -3686,7 +3671,6 @@ openervpn.in
 openid.net
 openleaks.org
 opensea.io
-opensource.google
 openstreetmap.org
 opentech.fund
 openvpn.net
@@ -3777,7 +3761,6 @@ partycasino.com
 partypoker.com
 passion.com
 passiontimes.hk
-passwords.google
 paste.ee
 pastebin.com
 pastie.org
@@ -3863,7 +3846,6 @@ pkqjiasu.com
 pkuanvil.com
 placemix.com
 play-asia.com
-play.google
 playboy.com
 playboyplus.com
 player.fm
@@ -3948,7 +3930,6 @@ presentation.new
 presentationzen.com
 presidentlee.tw
 prestige-av.com
-pride.google
 primevideo.com
 printfriendly.com
 prism-break.org
@@ -4118,7 +4099,6 @@ redhotlabs.com
 redtube.com
 referer.us
 reflectivecode.com
-registry.google
 reimu.net
 relaxbbs.com
 releaseinternational.org
@@ -4127,7 +4107,6 @@ religioustolerance.org
 renminbao.com
 renyurenquan.org
 rerouted.org
-research.google
 resilio.com
 resistchina.org
 retweeteffect.com
@@ -4214,7 +4193,6 @@ sadpanda.us
 safechat.com
 safeguarddefenders.com
 safervpn.com
-safety.google
 sagernet.org
 saintyculture.com
 saiq.me
@@ -4581,7 +4559,6 @@ sto.cc
 stoporganharvesting.org
 stoptibetcrisis.net
 storagenewsletter.com
-stories.google
 storify.com
 storj.io
 storm.mg
@@ -4632,7 +4609,6 @@ surfeasy.com
 surfshark.com
 suroot.com
 surrenderat20.net
-sustainability.google
 svsfx.com
 swagbucks.com
 swissinfo.ch
@@ -5038,7 +5014,6 @@ tutanota.com
 tuvpn.com
 tuzaijidi.com
 tv.com
-tv.google
 tvb.com
 tvboxnow.com
 tvider.com
