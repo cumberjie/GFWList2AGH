@@ -347,6 +347,7 @@ arena.taipei
 arethusa.su
 arlingtoncemetery.mil
 army.mil
+arstechnica.net
 art4tibet1998.org
 arte.tv
 artofpeacefoundation.org
@@ -944,6 +945,7 @@ chubun.com
 churchinhongkong.org
 chushigangdrug.ch
 ci-en.jp
+cici.com
 ciciai.com
 cienen.com
 cineastentreff.de
