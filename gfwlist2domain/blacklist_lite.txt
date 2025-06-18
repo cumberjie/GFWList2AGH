@@ -64,6 +64,7 @@
 4bluestones.biz
 4chan.com
 4dq.com
+4everland.io
 4everproxy.com
 4irc.com
 4mydomain.com
@@ -1284,6 +1285,7 @@ dw-world.com
 dw-world.de
 dw.com
 dw.de
+dweb.link
 dwheeler.com
 dwnews.com
 dwnews.net
@@ -3161,6 +3163,7 @@ nflximg.com
 nflximg.net
 nflxso.net
 nflxvideo.net
+nftstorage.link
 ng.mil
 nga.mil
 ngensis.com
@@ -4129,6 +4132,7 @@ storagenewsletter.com
 storj.io
 storm.mg
 stormmediagroup.com
+storry.tv
 stoweboyd.com
 straitstimes.com
 stranabg.com
@@ -4869,6 +4873,7 @@ vuku.cc
 vultryhw.com
 vzw.com
 w3.org
+w3s.link
 waffle1999.com
 wahas.com
 waikeung.org
