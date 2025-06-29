@@ -2803,6 +2803,7 @@ imb.org
 imdb.com
 img.dlsite.jp
 img.ly
+img.picgo.net
 imgasd.com
 imgchili.net
 imgmega.com
@@ -4067,6 +4068,7 @@ piaotia.com
 picacomic.com
 picacomiccn.com
 picasaweb.com
+picgo.net
 picidae.net
 picturedip.com
 picturesocial.com
