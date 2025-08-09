@@ -492,6 +492,7 @@ bitchute.com
 bitcointalk.org
 bitcoinworld.com
 bitfinex.com
+bitget.com
 bithumb.com
 bitmex.com
 bitshare.com
@@ -3199,7 +3200,6 @@ no-ip.com
 no-ip.org
 nobel.se
 nobelprize.org
-nodeloc.com
 nodeseek.com
 nokogiri.org
 nokola.com
@@ -4703,6 +4703,7 @@ unseen.is
 unstable.icu
 unwire.hk
 uocn.org
+upbit.com
 updatestar.com
 upghsbc.com
 upholdjustice.org

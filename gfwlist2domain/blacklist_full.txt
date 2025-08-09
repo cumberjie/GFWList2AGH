@@ -573,6 +573,7 @@ bitchute.com
 bitcointalk.org
 bitcoinworld.com
 bitfinex.com
+bitget.com
 bithumb.com
 bitmex.com
 bitshare.com
@@ -3767,7 +3768,6 @@ no-ip.com
 no-ip.org
 nobel.se
 nobelprize.org
-nodeloc.com
 nodeseek.com
 nokogiri.org
 nokola.com
@@ -5471,6 +5471,7 @@ unseen.is
 unstable.icu
 unwire.hk
 uocn.org
+upbit.com
 updates.tdesktop.com
 updatestar.com
 upghsbc.com
@@ -5902,7 +5903,6 @@ www.monlamit.org
 www.moztw.org
 www.msn.com
 www.nbc.com
-www.nodeloc.com
 www.owind.com
 www.oxid.it
 www.powerpointninja.com
