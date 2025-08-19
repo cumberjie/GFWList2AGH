@@ -1161,6 +1161,8 @@ delcamp.net
 delicious.com
 democrats.org
 demosisto.hk
+deno.com
+deno.dev
 denpasoft.com
 depositphotos.com
 desc.se
@@ -3102,6 +3104,7 @@ nationalreview.com
 nationsonline.org
 nationwide.com
 naughtyamerica.com
+naver.com
 naver.jp
 navy.mil
 naweeklytimes.com

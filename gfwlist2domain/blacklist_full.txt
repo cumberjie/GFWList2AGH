@@ -1386,6 +1386,8 @@ delicious.com
 demo.unlock-music.dev
 democrats.org
 demosisto.hk
+deno.com
+deno.dev
 denpasoft.com
 depositphotos.com
 desc.se
@@ -1463,6 +1465,7 @@ dnvod.tv
 doc.new
 docker.com
 docker.io
+docs.deno.com
 docs.new
 doctorvoice.org
 documentingreality.com
@@ -3644,6 +3647,7 @@ nationalreview.com
 nationsonline.org
 nationwide.com
 naughtyamerica.com
+naver.com
 naver.jp
 navy.mil
 navyfamily.navy.mil
