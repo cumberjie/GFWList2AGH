@@ -24497,6 +24497,7 @@ bjzzdb.com
 bjzzrx.com
 bjzzschool.com
 bk-cdn.com
+bk-cdn01.com
 bk.17173.com
 bk.n.shifen.com
 bk3r.com
@@ -33453,6 +33454,7 @@ cloudlive-xp2p.kpl.qq.com.livecdn.liveplay.myqcloud.com
 cloudluohe.com
 cloudluoyang.com
 cloudlvs.com
+cloudmaster.hk
 cloudmeishan.com
 cloudmes.io
 cloudminds.com
@@ -35303,7 +35305,6 @@ cocfan.com
 cochat.lenovo.com
 cochemist.com
 cochicon.com
-cochina.org
 cocia.org
 cocimg.com
 coco413.com
@@ -38176,6 +38177,7 @@ cw.yyb.sched.dcloudstc.com
 cw100.com
 cwag.com
 cwbaike.com
+cwbgp.space
 cwbpsi.com
 cwc.sspu.edu.cn
 cwcec.com
@@ -60441,6 +60443,7 @@ gz-rr2.internet.spanner.alipaydns.com
 gz-shanguang.com
 gz-spi.com
 gz-tencentclb.cloud
+gz-tencentclb.com
 gz-tencentclb.work
 gz-tylx.com
 gz-wx.com
@@ -63117,6 +63120,7 @@ hbwsrc.net
 hbwuxue.com
 hbwuye.com
 hbww.org
+hbxcw.com
 hbxdf.com
 hbxfywj.com
 hbxgzls.com
@@ -73573,6 +73577,7 @@ invoee.com
 invzible.com
 inwaishe.com
 inwatch.cc
+inwuoo.com
 inxedu.com
 inxni.com
 inyota.com
@@ -80933,6 +80938,7 @@ jyyun.com
 jyz.fjtzjy.com
 jyzb01.com
 jyzc.com
+jyzhongg.com
 jyzq.cn
 jyzysp.com
 jyzz666.com
@@ -92717,6 +92723,7 @@ meitupic.com
 meitupingzi.com
 meituriji.com
 meiturom.com
+meitushijie.com
 meitushop.com
 meitushouji.com
 meitusnap.com
@@ -93601,6 +93608,7 @@ mihoyocloud.com
 mihoyogift.com
 mihoyomall.com
 mihua.net
+mihuachat.com
 mihuangame.com
 mihuashi.com
 mihuatown.com
@@ -105659,6 +105667,7 @@ ppdd.com
 ppdesk.com
 ppdqk.com
 ppduck.com
+ppdys.vip
 ppfeng.com
 ppforging.com
 ppfu3m.com
@@ -123798,6 +123807,7 @@ streams.fe.apple-dns.cn
 streetsidesoftware.gallerycdn.azure.cn
 streetvoice.com
 streffy.com
+strinova.com
 strip.alicdn.com
 strip.taobaocdn.com
 strong-light.com
@@ -127074,6 +127084,7 @@ tanglei.name
 tangmi.net
 tangmingint.com
 tangobrowser.net
+tangoic.com
 tangongye.com
 tangpai.cc
 tangping.com
@@ -131628,6 +131639,7 @@ ttyqm.com
 ttys5.com
 ttysq.com
 ttyuyin.com
+ttyy800.vip
 ttyyuuoo.com
 ttz.com
 ttzcw.com
@@ -134541,6 +134553,7 @@ uyess.com
 uyhjnm.com
 uyi2.com
 uyiban.com
+uymfybcf.shop
 uyou.com
 uyouii.cool
 uyouqu.com
@@ -136603,6 +136616,7 @@ vqu.show
 vqudo.com
 vqudochina.com
 vqudoshop.com
+vqyzdzcg.shop
 vr-cat.com
 vr-game.club
 vr.autohome.com.cn
@@ -141939,6 +141953,7 @@ wujieyouth.com
 wujiit.com
 wujijiasu.com
 wujinimg.com
+wujinpp.com
 wujintool.com
 wujinwater.com
 wujiok.com
@@ -145391,6 +145406,7 @@ xhslw.com
 xhsmlt.com
 xhspx.com
 xhsrmyy.com
+xhsxmt.com
 xhsyqx.com
 xhsyww.com
 xht.com.hk
@@ -148332,6 +148348,7 @@ xn--hutn94av9amzg.net
 xn--i6q33br88fkud.com
 xn--igt225itqf.com
 xn--it-1r3f.com
+xn--it-if7c19g5s4bps5c.com
 xn--jh1a128b.com
 xn--jhqx3hjuanvm9zbb084ayucqwxhuqzew60ae3xve1fnwybs8a.com
 xn--jor0b302fdhgwnccw8g.com
@@ -148889,6 +148906,7 @@ xthc999.com
 xthinking.net
 xthtc.com
 xthyjt.com
+xtiai.com
 xtianqi.com.cn
 xtibet.com
 xtingcloud.com
@@ -148995,6 +149013,7 @@ xuanshu.org
 xuansiwei.com
 xuantaikeji.com
 xuanteng.org
+xuanwifi.com
 xuanwonainiu.com
 xuanwu88.com
 xuanwumobile.com
@@ -156105,6 +156124,7 @@ yingsoft.com
 yingsoo.com
 yingsun.net
 yingsx.com
+yingt.fun
 yingtai.com
 yingtaigroup.com
 yingtaoai.com
