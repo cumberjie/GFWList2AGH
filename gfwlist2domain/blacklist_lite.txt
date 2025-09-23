@@ -4691,7 +4691,6 @@ uc-japan.org
 ucam.org
 ucanews.com
 uchicago.edu
-uderzo.it
 udn.com
 udnbkk.com
 udomain.hk
