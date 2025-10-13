@@ -4695,6 +4695,7 @@
 31jgj.com
 31knit.com
 31m49.com
+31maque.com
 31martech.com
 31meijia.com
 31ml.com
@@ -35837,7 +35838,9 @@ cosofteck.com
 cosplay8.com
 cosplayla.com
 costku.com
+costuan.com
 cosunter.com
+cosxu.com
 cosyjoy.com
 cosz.com
 cotek-robotics.com
@@ -47963,6 +47966,7 @@ esztyg.com
 eszwdx.com
 eszyb.com
 et-api.com
+et-cdn.com
 et-fine.com
 et.softidc.gaofangm.com
 et.tanx.com
@@ -61850,6 +61854,7 @@ haonames.com
 haonic.com
 haoniu1.com
 haonongzi.com
+haooyuan.com
 haopeixun.com
 haopianyi.com
 haopinku.com
@@ -64525,6 +64530,7 @@ hitalk.com
 hitalkers.com
 hitao.com
 hitbot.cc
+hitctf.com
 hite.me
 hitechfrp.com
 hiteksoft.com
@@ -72696,6 +72702,7 @@ initpp.com
 initroot.com
 initrr.com
 initvv.com
+initxb.com
 initxx.com
 inja.com
 injectionmachine.com
@@ -73178,6 +73185,7 @@ ip4244759674.mobgslb.tbcache.com
 ip4266940086.mobgslb.tbcache.com
 ip454723255.out.azhimalayanvh.com
 ip518.com
+ip6.plus
 ip6.ssl.msdk.qq.com
 ip66.com
 ip66.net
@@ -73321,6 +73329,7 @@ ipr007.com
 ipr114.net
 ipr123.com
 ipr66.com
+iprabc.com
 iprchn.com
 iprdaily.com
 iprdp.net
@@ -73373,6 +73382,7 @@ ipv4dns.com
 ipv6-aserver-heyi.m.taobao.com.gds.alibabadns.com
 ipv6-img.dns.iqiyi.com
 ipv6-mobilelivephoto.bs2dl.yy.com
+ipv6-only.com
 ipv6-static.dns.iqiyi.com
 ipv6.ustc.edu.cn
 ipv6chong.qq.com
@@ -78900,6 +78910,7 @@ jsmolfa.com
 jsmov2.a.yximgs.com
 jsmrmf.com
 jsmsg.com
+jsmuseum.com
 jsmxgs.com
 jsmxkj.com
 jsmxw.com
@@ -80295,6 +80306,7 @@ jyz.fjtzjy.com
 jyzb01.com
 jyzc.com
 jyzhongg.com
+jyzmd.com
 jyzq.cn
 jyzysp.com
 jyzz666.com
@@ -83941,6 +83953,7 @@ langger76.site
 langgine.com
 langhao-medical-platform.com
 langhuansoft.net
+langjian.work
 langkaiwenhua.com
 langkawipower.com
 langke.com
@@ -87747,6 +87760,7 @@ loliapi.com
 lolicon.team
 loliloli.moe
 loliloli.net
+lolimoe.cc
 lolip.net
 lolitaf.com
 lolitawardrobe.com
@@ -90262,6 +90276,7 @@ magicwatchface.com
 magicwindow.cn
 magicwinmail.com
 magicyourlife101.com
+magireco.moe
 magma.ink
 magnet.rayjump.com
 magnotel.com
@@ -90579,6 +90594,7 @@ mamicode.com
 mamilist.com
 mamioo.com
 mammut.vlion.cn
+mamoe.net
 mamsh.org
 mamumall.com
 man484.com
@@ -91721,6 +91737,8 @@ megobike.com
 megomap.com
 megou8.com
 meguo.com
+meguri.app
+meguri.moe
 megvii-inc.com
 megvii.com
 meheco.com
@@ -93322,6 +93340,7 @@ miquan.link
 miquapp.com
 mir4399.com
 mir6.com
+miracdn.com
 miraclelaser.com
 miracleplus.com
 miraclevision.com
@@ -99425,6 +99444,7 @@ numans.cc
 numemory.com
 nunaios.com
 nunc-china.com
+nuo5.com
 nuoan.com
 nuobeiliao.com
 nuobeirack.com
@@ -101302,6 +101322,7 @@ ou99.com
 ouapi.com
 oubauneereid.com
 oubk.com
+ouchang.net
 ouchengzl.com
 ouchgzee.com
 oucuibo.com
@@ -103805,6 +103826,7 @@ pin2eat.com
 pin5i.com
 pinan1688.com
 pinbaitai.com
+pinbaiyan.com
 pinbang.com
 pinbayun.com
 pinble.com
@@ -120186,6 +120208,7 @@ sltopnews.com
 sltv.net
 sltxantonline.com
 slupdate.dlservice.microsoft.com
+sluyu.com
 slwh-dfh.com
 slwwedding.com
 slybjp.com
@@ -124337,6 +124360,7 @@ sylc.xyz
 sylincom.com
 sylixos.com
 sylm2022.com
+sylmyl.com
 sylnyx.com
 sylphix.com
 syltgl.com
@@ -129817,6 +129841,7 @@ tpck.mxingkong.com.cn
 tpdz.net
 tpfangchan.com
 tphdled.com
+tpimg.xyz
 tpjhr.com
 tpjwww.com
 tpkey.com
@@ -135256,6 +135281,7 @@ vmanhua.com
 vmartaw.com
 vmat.gtimg.com
 vmax-lighting.com
+vmaxhome.com
 vmaya.com
 vmb.tc.qq.com
 vmbachy.tc.qq.com
@@ -135832,6 +135858,7 @@ vvvdj.com
 vvvtt.com
 vvw.wxbgf.top
 vvw.xiangwangdesh.com
+vvxue.com
 vvzero.com
 vw888.com
 vwaycn.com
@@ -145643,6 +145670,7 @@ xiner-membrane.com
 xineurope.com
 xinexpress.com
 xinfaholding.com
+xinfangcidian.com
 xinfangsheng.com
 xinfee.com
 xinfei.com
@@ -158641,6 +158669,7 @@ yuzone.net
 yuzua.com
 yuzundaojia.com
 yvfnb.cn
+yvrdream.com
 yvv.in
 yvv.logger.baofeng.com
 yvzfgigpiwmofux.com
@@ -160640,6 +160669,7 @@ zhainanhuayuan.com
 zhaipan.vip
 zhaiqianfeng.com
 zhairport.com
+zhaitushe.com
 zhaiwuu.com
 zhaixiaoniu.com
 zhaixing.link
