@@ -29116,6 +29116,7 @@ ceyice.net
 ceyige.com
 cezhu.net
 cezxda.com
+cf-china.info
 cf-ns.com
 cf-ns.net
 cf-ns.site
@@ -40492,7 +40493,6 @@ deepermobile.com
 deepfast.com
 deepin-ai.com
 deepin.com
-deepin.io
 deepin.org
 deepinghost.com
 deepinmind.com
@@ -86161,6 +86161,7 @@ linglingccc.xyz
 linglingkaimen.com
 linglingmo.site
 linglong.dev
+linglong.space
 linglongart.com
 linglonglife.com
 linglongtech.com
