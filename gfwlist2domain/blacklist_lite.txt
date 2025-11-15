@@ -280,6 +280,7 @@ aol.com
 aolnews.com
 aomedia.org
 aomiwang.com
+aoxvpn.com
 apartmentratings.com
 apartments.com
 apat1989.org
@@ -456,6 +457,7 @@ bestvpnusa.com
 bet365.com
 betaclouds.net
 betfair.com
+bettergpt.chat
 betterhash.net
 betternet.co
 bettervpn.com
@@ -713,6 +715,7 @@ cams.com
 canadameet.com
 canalporno.com
 cantonese.asia
+canva.com
 canyu.org
 caobian.info
 caochangqing.com
@@ -742,6 +745,7 @@ cc.com
 cccat.cc
 cccat.co
 cchere.com
+cchostvps.xyz
 ccim.org
 cclife.ca
 cclife.org
@@ -789,8 +793,10 @@ chanworld.org
 chaoex.com
 chaos.social
 character.ai
+chat.com
 chatgpt.com
 chatnook.com
+chatpdf.com
 chaturbate.com
 checkgfw.com
 chengmingmag.com
@@ -1129,6 +1135,7 @@ daliulian.org
 danke4china.net
 daolan.net
 darktech.org
+darmau.co
 darpa.mil
 darrenliuwei.com
 dashlane.com
@@ -1611,6 +1618,7 @@ flipkart.com
 flitto.com
 flnet.org
 flog.tw
+flowgpt.com
 flowhongkong.net
 flypool.org
 flyvpn.com
@@ -1625,6 +1633,7 @@ fofg.org
 foolsmountain.com
 fooooo.com
 forbes.com
+forefront.ai
 foreignaffairs.com
 foreignpolicy.com
 form.new
@@ -2150,6 +2159,7 @@ heyzo.com
 hgseav.com
 hhdcb3office.org
 hhthesakyatrizin.org
+hicairo.com
 hiccears.com
 hidden-advent.org
 hide.me
@@ -2315,6 +2325,7 @@ hwadzan.tw
 hxwk.org
 hxwq.org
 hybrid-analysis.com
+hyperbeam.com
 hyperrate.com
 hypothes.is
 i-cable.com
@@ -2531,7 +2542,6 @@ jex.com
 jgoodies.com
 jiangweiping.com
 jiaoyou8.com
-jichangtj.com
 jiehua.cz
 jifangge.com
 jigglegifs.com
@@ -2707,6 +2717,7 @@ lesoir.be
 lester850.info
 letou.com
 letscorp.net
+lexica.art
 lflink.com
 lflinkup.com
 lflinkup.net
@@ -2740,6 +2751,7 @@ linkideo.com
 linktr.ee
 linkuswell.com
 linpie.com
+linux.do
 linuxtoy.org
 lionsroar.com
 lipuman.com
@@ -2762,6 +2774,7 @@ livevideo.com
 livingstream.com
 lizhizhuangbi.com
 lkcn.net
+lmarena.ai
 lmsys.org
 load.to
 lobsangwangyal.com
@@ -3296,6 +3309,7 @@ nytimg.com
 nytstyle.com
 nzchinese.com
 o3o.ca
+oaiusercontent.com
 oanda.com
 oann.com
 oauth.net
@@ -3771,6 +3785,7 @@ relaxbbs.com
 releaseinternational.org
 religionnews.com
 renminbao.com
+rentry.co
 renyurenquan.org
 resilio.com
 resistchina.org
@@ -4050,6 +4065,7 @@ snapseed.com
 sndcdn.com
 sneakme.net
 snowlionpub.com
+sntp.uk
 sobees.com
 soc.mil
 socialblade.com
@@ -4082,6 +4098,7 @@ sonidodelaesperanza.org
 sopcast.com
 sopcast.org
 sophos.com
+sora.com
 sorting-algorithms.com
 sos.org
 sosad.fun
@@ -4326,6 +4343,7 @@ tenor.com
 tensorflow.org
 tenzinpalmo.com
 terabox.com
+terobox.com
 tew.org
 textnow.com
 textnow.me
