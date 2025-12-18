@@ -496,6 +496,7 @@ bird.so
 bit-z.com
 bit.do
 bit.ly
+bitbaby.com
 bitbay.net
 bitchute.com
 bitcointalk.org
@@ -2356,6 +2357,7 @@ iconpaper.org
 icu-project.org
 id.au
 idaiwan.com
+idcflare.com
 idemocracy.asia
 identi.ca
 idiomconnection.com
@@ -3160,6 +3162,7 @@ ncol.com
 nde.de
 ndi.org
 ndr.de
+ne.jp
 ned.org
 nekoslovakia.net
 neo-miracle.com
