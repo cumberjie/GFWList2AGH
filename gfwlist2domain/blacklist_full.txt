@@ -4192,6 +4192,7 @@ pmates.com
 po18.tw
 po2b.com
 pobieramy.top
+pocketcasts.com
 podbean.com
 podcast.co
 podictionary.com
@@ -4890,6 +4891,7 @@ startpage.com
 startuplivingchina.com
 stat.gov.tw
 static-economist.com
+static.pocketcasts.com
 static.shemalez.com
 static01.nyt.com
 statically.io
