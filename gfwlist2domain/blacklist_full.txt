@@ -3724,6 +3724,7 @@ nemesis2.qx.net
 neo-miracle.com
 neoforged.net
 neowin.net
+nephobox.com
 net.au
 net.co
 net.nz
@@ -5769,6 +5770,7 @@ vtunnel.com
 vuku.cc
 vultryhw.com
 vzw.com
+w-pool.com
 w.idaiwan.com
 w3.org
 w3s.link
