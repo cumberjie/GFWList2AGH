@@ -1047,7 +1047,6 @@ chrome.com
 chromecast.com
 chromeexperiments.com
 chromestatus.com
-chromium.org
 chuang-yen.org
 chubold.com
 chubun.com
@@ -3309,6 +3308,7 @@ lookpic.com
 looktoronto.com
 lotsawahouse.org
 lotuslight.org.tw
+lovart.ai
 loved.hk
 lovetvshow.com
 lpsg.com
