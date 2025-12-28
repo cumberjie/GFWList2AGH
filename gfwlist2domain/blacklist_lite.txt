@@ -199,6 +199,7 @@ alhayat.com
 aliengu.com
 alive.bar
 aljazeera.com
+aljazeera.net
 alkasir.com
 all4mom.org
 allcoin.com
@@ -1177,8 +1178,6 @@ definebabe.com
 deja.com
 delcamp.net
 demosisto.hk
-deno.com
-deno.dev
 denpasoft.com
 depositphotos.com
 desc.se
@@ -1836,6 +1835,7 @@ gfsale.com
 gfw.press
 gfw.report
 gfwatch.org
+gfwbao.com
 ggpht.com
 ggssl.com
 ghidra-sre.org
@@ -4198,6 +4198,7 @@ statically.io
 staticflickr.com
 stboy.net
 steamcommunity.com
+steamladder.com
 steampowered.com
 steamstatic.com
 steel-storm.com
