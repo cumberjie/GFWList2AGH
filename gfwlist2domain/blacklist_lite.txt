@@ -2587,6 +2587,7 @@ jqueryui.com
 jsdelivr.net
 jshell.net
 jtvnw.net
+juhuaren.com
 jukujo-club.com
 juliepost.com
 juliereyc.com
@@ -3499,6 +3500,7 @@ pcij.org
 pcloud.com
 pdetails.com
 pdproxy.com
+pdst.fm
 peace.ca
 peacefire.org
 peeasian.com
@@ -4788,6 +4790,7 @@ unseen.is
 unstable.icu
 unwire.hk
 uocn.org
+up.audio
 upbit.com
 updatestar.com
 upghsbc.com
