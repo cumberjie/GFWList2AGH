@@ -258,7 +258,10 @@ angularjs.org
 anidb.net
 animecrazy.net
 aniscartujo.com
+annas-archive.in
+annas-archive.li
 annas-archive.org
+annas-archive.pm
 annas-archive.se
 annatam.com
 anobii.com
@@ -3123,6 +3126,7 @@ myspace.com
 myspacecdn.com
 mytalkbox.com
 mytizi.com
+mytvsuper.com
 mywife.cc
 mywww.biz
 myz.info
@@ -4666,6 +4670,7 @@ tuvpn.com
 tuzaijidi.com
 tv.com
 tvb.com
+tvbanywhere.com
 tvboxnow.com
 tvider.com
 tvplayvideos.com
