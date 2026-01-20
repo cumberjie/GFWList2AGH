@@ -2899,6 +2899,7 @@
 17win.com
 17wo.cn
 17ww.cc
+17xianwan.com
 17xie.com
 17xing.com
 17xsj.com
@@ -13880,6 +13881,7 @@ ads.weilitoutiao.net
 ads.yxdown.com
 ads3-normal-hl.zijieapi.com
 ads5-normal-hl.zijieapi.com
+ads66.com
 ads8.com
 ads80.com
 adsage.cn
@@ -15568,6 +15570,7 @@ alfachemar.com
 alfafull.com
 alfingfuda.com
 algkfd.com
+algogear.com
 algorithmart.com
 alhug.com
 alhywj.com
@@ -18928,6 +18931,8 @@ auchexpo.com
 aucnln.com
 audan2011.com
 audatex.ch
+audatex.com
+audatex.net
 audid-api.taobao.com
 audio-gd.com
 audio-technica-hz.com
@@ -28244,6 +28249,7 @@ cdnmaster.com
 cdnmg.com
 cdnmirrors.s.tuna.tsinghua.edu.cn
 cdnnodedns.cn
+cdnnx.com
 cdnnzycn.zhiyeapp.com
 cdnok.com
 cdnpay.360buyimg.com
@@ -29519,6 +29525,7 @@ chemi-tech.com
 chemicalbook.com
 chemicalreagent.com
 chemingpian.com
+chemishequ.com
 chemishu.com
 chemm.com
 chemmade.com
@@ -31605,6 +31612,7 @@ chuantiegroup.com
 chuantu88.com
 chuanxincao.net
 chuanye.com
+chuanyejinxuan.xyz
 chuanyifu.com
 chuanyinet.com
 chuanying365.com
@@ -42525,6 +42533,7 @@ dohai.com
 dohia.com
 dohnxnn.cn
 dohuo.com
+doibns.com
 doido.com
 doii.cc
 doingv.com
@@ -44209,6 +44218,7 @@ duominuo.com
 duomiyou.com
 duomni.com
 duomo3205.xyz
+duomob.com
 duomu.hk
 duomu.tv
 duonvlangceo.com
@@ -44949,6 +44959,7 @@ dzsjtjt.com
 dzsm.com
 dzspzx.com
 dzsrcw.com
+dzst999.com
 dzszlsyxgs.com
 dztcbj.com
 dztcfj.com
@@ -46454,6 +46465,7 @@ elec100.com
 elecfans.com
 elecfans.net
 elecinfo.com
+elecloud8.com
 elecrystal.com
 elecshop.com
 elecspn.com
@@ -64360,6 +64372,7 @@ hndt.com
 hndxzte.com
 hndybus.com
 hndysx.com
+hndz413.com
 hndzxh.com
 hne45p1.cachenode.cn
 hnechz.com
@@ -64558,6 +64571,7 @@ hnrmb.com
 hnrmtjg.com
 hnrmzy.com
 hnrpc.com
+hnrrco.com
 hnrsks.com
 hnrszhjc.com
 hnryly.com
@@ -68070,6 +68084,7 @@ hyzcservice.com
 hyzenhospital.com
 hyzeta.gallerycdn.azure.cn
 hyzhcdn.com
+hyzhihe.com
 hyznjs.com
 hyzqxsb.com
 hyzui.com
@@ -75478,6 +75493,7 @@ jindongsoft.com
 jindoushiqi.com
 jinducw.com
 jindun007.net
+jindun9.com
 jindunfan.com
 jindunkeji.com
 jinduoduo.net
@@ -81930,6 +81946,7 @@ kuaisubeian.com
 kuaisushu-cnd.com
 kuaisuyun.com
 kuaitijian.com
+kuaitouad.com
 kuaitu.cc
 kuaitu666.com
 kuaitui365.com
@@ -87626,6 +87643,7 @@ lure123.com
 lurefans.com
 lurelogs.com
 lurenshuwx.com
+luruba.com
 lurun68.com
 lusen.com
 luseng.cc
@@ -90260,6 +90278,7 @@ mcooks.com
 mcool.com
 mcore.vcgame.cn
 mcpemaster.com
+mcpfks.com
 mcpmaid.com
 mcq93.app
 mcqy.net
@@ -94394,6 +94413,7 @@ myfun.com
 myfun7.com
 myfund.com
 myfushun.com
+mygaks.com
 mygame66.com
 mygame82.com
 mygame88.com
@@ -94469,6 +94489,7 @@ myjob500.com
 myjoy777.com
 myjujing.com
 myk3.com
+mykans.com
 mykarry.com
 mykd.cc
 mykeeta.com
@@ -108529,6 +108550,7 @@ quyangyizhong.com
 quyaoya.com
 quyibao.com
 quyinginc.com
+quyixian.com
 quyiyuan.com
 quyou.net
 quyouhui.net
@@ -109231,6 +109253,7 @@ r5k.com
 r5tao.com
 r6.mo.baidu.com
 r77777777.com
+r89gr9gr.ink
 r8hr7.net
 r8qtou0.cachenode.cn
 r9---sn-2x3een7d.gvt1.com
@@ -115043,6 +115066,7 @@ shandianhuifu.com
 shandianpan.com
 shandiansiwei.com
 shandianyidai.com
+shandingdang.com
 shandingmenye.com
 shandjj.com
 shandong-energy.com
@@ -115078,6 +115102,7 @@ shangair.com
 shangame.com
 shanganzixun.com
 shangate.com
+shangbangzhuan.com
 shangbanla.net
 shangbanzugroup.com
 shangbaolai.com
@@ -143094,6 +143119,7 @@ xiaohuabuluo.com
 xiaohuai.com
 xiaohuancha.club
 xiaohuangji.com
+xiaohuanxiong.com
 xiaohuau.xyz
 xiaohuazhuo.com
 xiaohucloud.com
@@ -144721,6 +144747,7 @@ xiyoucdn.com
 xiyouchat.com
 xiyouence.com
 xiyouji.com
+xiyouji.work
 xiyoulinux.com
 xiyoulinux.org
 xiyoupark.com
@@ -152327,6 +152354,7 @@ yfisher.com
 yfjiakao.com
 yfjnjc.com
 yfklxz.com
+yflcloud.online
 yfldocker.com
 yfm99.com
 yfmac.com
@@ -152480,6 +152508,7 @@ yhjcollege.com
 yhjj.com
 yhjx2018.com
 yhjzg.cn
+yhkaq.com
 yhkbchao.com
 yhkingdee.com
 yhkt.online
@@ -152528,6 +152557,7 @@ yhwjlp.plus
 yhwomen.com
 yhx3318.com
 yhxincai.com
+yhxmset.com
 yhxs3344.net
 yhxuexiao.com
 yhy50.com
