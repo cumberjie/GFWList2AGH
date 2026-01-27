@@ -5844,7 +5844,9 @@
 390seo.com
 391065.com
 3911.com
+3913.com
 3917.co
+3917.com
 391k.com
 392766.net
 393.com
@@ -19383,6 +19385,7 @@ atoken.m.taobao.com
 atollbath.com
 atom-hitech.com
 atom-log.3.cn
+atomgameteam.com
 atomgit.com
 atomgit.net
 atomhike-en.com
@@ -19858,6 +19861,7 @@ awsdns-cn-21.net
 awsdns-cn-22.com
 awsdns-cn-22.net
 awsdns-cn-23.com
+awsdns-cn-23.net
 awsdns-cn-24.biz
 awsdns-cn-24.com
 awsdns-cn-24.net
@@ -19937,6 +19941,7 @@ awsdns-cn-62.biz
 awsdns-cn-62.com
 awsdns-cn-62.net
 awsdns-cn-63.biz
+awsdns-cn-63.com
 awsdns-cn-63.net
 awsdns-vip.com
 awsok.com
@@ -39737,6 +39742,7 @@ datag.vip
 datagear.tech
 datagrand.com
 datahc.com
+datahome2026.com
 datahub.zhihu.com
 datahubtrack.com
 datahuif.com
@@ -48331,6 +48337,7 @@ exexm.com
 exezhanqun.com
 exfree.com
 exhera.com
+exhobby.com
 exia.xyz
 exiaoba.com
 exinee.com
@@ -57502,6 +57509,7 @@ guqu.net
 gurd.snssdk.com
 gurd.snssdk.com.w.cdngslb.com
 gurhyqw6.slt.sched.tdnsv8.com
+guronge.com
 guruguru.cn
 gurukeji.com
 gurun.cc
@@ -69607,7 +69615,6 @@ iaskbus.com
 iaskhot.com
 iasmr.cc
 iat-auto.com
-iauto.wang
 iautodaily.com
 iautodraw.com
 iautopress.com
@@ -89608,6 +89615,7 @@ ma68.game.163.com
 ma68.gdl.netease.com
 ma68.update.netease.com
 maa.plus
+maaend.com
 maam-res.pingan.com.cn
 maam.pingan.com.cn
 maanhui.com
@@ -102526,6 +102534,7 @@ peiyouwang.com
 peiyue.com
 peizi.com
 peizizhishu.com
+pejdw.com
 pejxjy.com
 pekhongyuan.com
 peksung.com
@@ -137220,6 +137229,7 @@ wenxiaoyou.com
 wenxiaozhan.com
 wenxiaozhan.net
 wenxin-ge.com
+wenxinapp.com
 wenxingfilter.com
 wenxingonline.com
 wenxinshuge.com
