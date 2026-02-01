@@ -489,6 +489,7 @@ bb-chat.tv
 bbc.co.uk
 bbc.com
 bbc.in
+bbc.pdn.tritondigital.com
 bbcchinese.com
 bbchat.tv
 bbci.co.uk
@@ -824,6 +825,7 @@ bybit.com
 bynet.co.il
 bypasscensorship.org
 byrut.org
+byspotify.com
 byteoversea.com
 c-est-simple.com
 c-span.org
@@ -1391,6 +1393,7 @@ db.tt
 dbgjd.com
 dcard.tw
 dcmilitary.com
+dcs-spotify.megaphone.fm
 ddc.com.tw
 ddex.io
 ddns.info
@@ -2568,6 +2571,7 @@ helixstudios.net
 helloandroid.com
 helloqueer.com
 hellouk.org
+help.byspotify.com
 helpeachpeople.com
 helpster.de
 helpzhuling.org
@@ -3318,7 +3322,6 @@ lookpic.com
 looktoronto.com
 lotsawahouse.org
 lotuslight.org.tw
-lovart.ai
 loved.hk
 lovetvshow.com
 lpsg.com
@@ -3441,6 +3444,7 @@ mega.co.nz
 mega.io
 mega.nz
 megalodon.jp
+megaphone.fm
 megaproxy.com
 megurineluka.com
 meizhong.blog
@@ -5385,6 +5389,7 @@ treemall.com.tw
 trendsmap.com
 trickip.net
 trimondi.de
+tritondigital.com
 tronscan.org
 trouw.nl
 trt.net.tr

@@ -694,6 +694,7 @@ bwh1.net
 bybit.com
 bypasscensorship.org
 byrut.org
+byspotify.com
 byteoversea.com
 c-est-simple.com
 c-span.org
@@ -2811,7 +2812,6 @@ longtoes.com
 lookpic.com
 looktoronto.com
 lotsawahouse.org
-lovart.ai
 loved.hk
 lovetvshow.com
 lpsg.com
@@ -2919,6 +2919,7 @@ mefound.com
 mega.io
 mega.nz
 megalodon.jp
+megaphone.fm
 megaproxy.com
 megurineluka.com
 meizhong.blog
@@ -4625,6 +4626,7 @@ transparency.org
 trendsmap.com
 trickip.net
 trimondi.de
+tritondigital.com
 tronscan.org
 trouw.nl
 truebuddha-md.org
