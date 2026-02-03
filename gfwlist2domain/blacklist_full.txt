@@ -1190,7 +1190,6 @@ com.bn
 com.bo
 com.by
 com.bz
-com.co
 com.cu
 com.cy
 com.do
