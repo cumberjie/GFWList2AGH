@@ -2712,6 +2712,7 @@ hotvpn.com
 howtoforge.com
 hoxx.com
 hoy.tv
+hoyolab.com
 hpa.gov.tw
 hpjav.com
 hqcdp.org
@@ -4068,6 +4069,7 @@ padmanet.com
 page.link
 page.tl
 page2rss.com
+pages.dev
 paimon.moe
 palacemoon.com
 paljorpublications.com
@@ -4638,6 +4640,7 @@ seehua.com
 seesmic.com
 seevpn.com
 seezone.net
+sef.org.tw
 sehuatang.net
 sehuatang.org
 sejie.com
@@ -6032,6 +6035,7 @@ www.dwheeler.com
 www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
+www.hoyolab.com
 www.hustlercash.com
 www.idlcoyote.com
 www.imdb.com
